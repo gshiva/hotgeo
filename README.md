@@ -54,44 +54,256 @@
 
 ## 💻 Development Setup
 
-### Prerequisites
-- Flutter 3.24+ ([Install Flutter](https://docs.flutter.dev/get-started/install))
-- Dart 3.5+
-- Chrome (for web development)
-- Android Studio / Xcode (for mobile)
+### System Requirements
 
-### Quick Start
+- **macOS:** 10.15 (Catalina) or later
+- **Windows:** Windows 10 or later (64-bit)
+- **Linux:** Ubuntu 20.04+ or equivalent
+- **Disk Space:** 2.8 GB (not including IDE/tools)
+- **RAM:** 4 GB minimum, 8 GB recommended
+
+### Step 1: Install Flutter
+
+#### macOS
+
+**Option A: Homebrew (Recommended)**
+```bash
+# Install Flutter via Homebrew
+brew install --cask flutter
+
+# Add Flutter to PATH (if not auto-added)
+echo 'export PATH="$PATH:/opt/homebrew/Caskroom/flutter/latest/flutter/bin"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+**Option B: Manual Installation**
+```bash
+# Download Flutter SDK
+cd ~/development
+curl -O https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.24.0-stable.zip
+unzip flutter_macos_3.24.0-stable.zip
+
+# Add to PATH
+echo 'export PATH="$PATH:$HOME/development/flutter/bin"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+#### Windows
+
+```powershell
+# Using Chocolatey
+choco install flutter
+
+# Or download manually from:
+# https://docs.flutter.dev/get-started/install/windows
+```
+
+#### Linux
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/hotgeo.git
-cd hotgeo
+# Download and extract Flutter
+cd ~
+wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.0-stable.tar.xz
+tar xf flutter_linux_3.24.0-stable.tar.xz
 
-# Install dependencies
+# Add to PATH
+echo 'export PATH="$PATH:$HOME/flutter/bin"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+### Step 2: Verify Installation
+
+```bash
+# Check Flutter installation
+flutter doctor
+
+# You should see output like:
+# ✓ Flutter (Channel stable, 3.24.0)
+# ✓ Chrome - for web development
+# ...
+```
+
+**Resolve any issues shown by `flutter doctor`:**
+
+- **Chrome not found?** [Install Chrome](https://www.google.com/chrome/)
+- **Android toolchain missing?** [Install Android Studio](https://developer.android.com/studio)
+- **Xcode missing? (macOS only)** Install from Mac App Store
+
+### Step 3: Clone Repository
+
+```bash
+# Clone HotGeo repository
+git clone https://github.com/gshiva/hotgeo.git
+cd hotgeo
+```
+
+### Step 4: Install Dependencies
+
+```bash
+# Install all Flutter packages
 flutter pub get
 
-# Run on Web (fastest for development)
+# Verify no issues
+flutter pub outdated
+```
+
+### Step 5: Run the App
+
+#### Web (Fastest for Development)
+
+```bash
+# Run in Chrome
 flutter run -d chrome
 
-# Run on Android
+# Or specify port
+flutter run -d chrome --web-port=3000
+
+# Open browser to: http://localhost:3000
+```
+
+#### Android
+
+```bash
+# Connect Android device via USB or start emulator
+flutter devices
+
+# Run on connected device
 flutter run
 
-# Run on iOS (macOS only)
-flutter run
+# Or specify device
+flutter run -d <device-id>
 ```
+
+#### iOS (macOS only)
+
+```bash
+# Open iOS simulator
+open -a Simulator
+
+# Run on simulator
+flutter run
+
+# Or run on physical device
+flutter run -d <device-id>
+```
+
+### Hot Reload
+
+Flutter supports **hot reload** for instant code updates:
+
+- **Press `r`** in terminal to hot reload
+- **Press `R`** in terminal to hot restart
+- **Press `q`** to quit
+
+### Recommended IDEs
+
+**VS Code (Recommended)**
+```bash
+# Install VS Code
+brew install --cask visual-studio-code
+
+# Install Flutter extension
+code --install-extension Dart-Code.flutter
+```
+
+**Android Studio**
+- Download from [developer.android.com](https://developer.android.com/studio)
+- Install Flutter/Dart plugins
 
 ### Build for Production
 
 ```bash
-# Web
-flutter build web --release
+# Web (optimized build)
+flutter build web --release --web-renderer canvaskit
+
+# Output: build/web/
 
 # Android APK
 flutter build apk --release
 
-# iOS
+# Output: build/app/outputs/flutter-apk/app-release.apk
+
+# iOS (macOS only)
 flutter build ios --release
+
+# Output: build/ios/iphoneos/Runner.app
 ```
+
+### Troubleshooting
+
+#### "flutter: command not found"
+```bash
+# Verify Flutter is in PATH
+echo $PATH | grep flutter
+
+# If not found, add to ~/.zshrc or ~/.bashrc:
+export PATH="$PATH:[PATH_TO_FLUTTER_DIRECTORY]/flutter/bin"
+
+# Then reload:
+source ~/.zshrc
+```
+
+#### "Chrome not found"
+```bash
+# macOS
+brew install --cask google-chrome
+
+# Or download from google.com/chrome
+```
+
+#### "No connected devices"
+```bash
+# List available devices
+flutter devices
+
+# For web, ensure Chrome is installed
+# For Android, enable USB debugging on device
+# For iOS, trust computer on device
+```
+
+#### Dependency conflicts
+```bash
+# Clean and reinstall
+flutter clean
+flutter pub get
+
+# Clear pub cache if needed
+flutter pub cache repair
+```
+
+### Development Workflow
+
+1. **Make changes** to code in `lib/`
+2. **Save file** - hot reload triggers automatically
+3. **Test** in browser/device
+4. **Commit changes** with clear messages
+5. **Push** to your fork
+6. **Create PR** to main repository
+
+### Running Tests
+
+```bash
+# Run all tests
+flutter test
+
+# Run specific test file
+flutter test test/distance_calculator_test.dart
+
+# Run with coverage
+flutter test --coverage
+
+# View coverage report
+genhtml coverage/lcov.info -o coverage/html
+open coverage/html/index.html
+```
+
+### Additional Resources
+
+- **Flutter Docs:** [docs.flutter.dev](https://docs.flutter.dev)
+- **flutter_map Docs:** [docs.fleaflet.dev](https://docs.fleaflet.dev)
+- **Firebase Setup:** [firebase.google.com/docs/flutter](https://firebase.google.com/docs/flutter)
+- **HotGeo Full Dev Plan:** [HOTGEO_DEVELOPMENT_PLAN.md](HOTGEO_DEVELOPMENT_PLAN.md)
+- **2-Hour Sprint Plan:** [2_HOUR_WEB_PROTOTYPE_PLAN.md](2_HOUR_WEB_PROTOTYPE_PLAN.md)
 
 ---
 
