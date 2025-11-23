@@ -87,3 +87,6 @@ coverage/
 *.apk
 *.ipa
 *.aab
+
+# Location verification cache
+tiles_cache/
