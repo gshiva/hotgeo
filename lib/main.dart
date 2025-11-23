@@ -5,6 +5,7 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'dart:math';
 import 'dart:convert';
+import 'dart:html' as html show window;
 
 void main() => runApp(const HotGeoApp());
 
@@ -103,6 +104,7 @@ class _GameScreenState extends State<GameScreen> {
       // Get today's challenge
       setState(() {
         _challenge = _getDailyChallenge();
+        _loadState(); // Load saved progress
         _isLoading = false;
       });
     } catch (e) {
@@ -112,6 +114,57 @@ class _GameScreenState extends State<GameScreen> {
       setState(() {
         _isLoading = false;
       });
+    }
+  }
+
+  void _saveState() {
+    if (kIsWeb && _challenge != null) {
+      final state = {
+        'locationName': _challenge!.name,
+        'attemptsLeft': _attemptsLeft,
+        'hintUsed': _hintUsed,
+        'showRadiusHint': _showRadiusHint,
+        'lastDistance': _lastDistance,
+        'feedback': _feedback,
+        'guesses': _guesses.map((g) => {'lat': g.latitude, 'lng': g.longitude}).toList(),
+      };
+      html.window.localStorage['hotgeo_state'] = json.encode(state);
+    }
+  }
+
+  void _loadState() {
+    if (kIsWeb && _challenge != null) {
+      final savedState = html.window.localStorage['hotgeo_state'];
+      if (savedState != null) {
+        try {
+          final state = json.decode(savedState) as Map<String, dynamic>;
+
+          // Only load if it's the same location
+          if (state['locationName'] == _challenge!.name) {
+            setState(() {
+              _attemptsLeft = state['attemptsLeft'] as int;
+              _hintUsed = state['hintUsed'] as bool;
+              _showRadiusHint = state['showRadiusHint'] as bool;
+              _lastDistance = state['lastDistance'] as double?;
+              _feedback = state['feedback'] as String;
+              _guesses.clear();
+              for (final g in state['guesses'] as List) {
+                _guesses.add(LatLng(g['lat'] as double, g['lng'] as double));
+              }
+            });
+          }
+        } catch (e) {
+          if (kDebugMode) {
+            print('Error loading state: $e');
+          }
+        }
+      }
+    }
+  }
+
+  void _clearState() {
+    if (kIsWeb) {
+      html.window.localStorage.remove('hotgeo_state');
     }
   }
 
@@ -299,6 +352,7 @@ class _GameScreenState extends State<GameScreen> {
                   setState(() {
                     _showRadiusHint = !_showRadiusHint;
                   });
+                  _saveState(); // Save radius toggle state
                 },
                 icon: Icon(
                   _showRadiusHint ? Icons.radio_button_checked : Icons.radio_button_unchecked,
@@ -484,6 +538,7 @@ class _GameScreenState extends State<GameScreen> {
         _feedback = "💀 Game Over!\nThe location is now revealed on the map.";
       }
     });
+    _saveState(); // Save progress after each guess
   }
 
   double _calculateDistance(LatLng p1, LatLng p2) {
@@ -855,5 +910,6 @@ class _GameScreenState extends State<GameScreen> {
       _showRadiusHint = false; // Reset radius hint
       _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
     });
+    _clearState(); // Clear saved state on reset
   }
 }
