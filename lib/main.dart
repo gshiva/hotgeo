@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'dart:math';
@@ -32,46 +33,65 @@ class GameScreen extends StatefulWidget {
   State<GameScreen> createState() => _GameScreenState();
 }
 
+class LocationChallenge {
+  final String name;
+  final LatLng coordinates;
+  final double initialZoom;
+
+  const LocationChallenge({
+    required this.name,
+    required this.coordinates,
+    required this.initialZoom,
+  });
+}
+
 class _GameScreenState extends State<GameScreen> {
-  // Get daily location based on date
-  late final LatLng _targetLocation = _getDailyLocation();
+  // Get daily location based on date (in debug mode, regenerates after each game)
+  late LocationChallenge _challenge = _getDailyChallenge();
   final List<LatLng> _guesses = [];
   final MapController _mapController = MapController();
   int _attemptsLeft = 6;
   double? _lastDistance;
   String _feedback = "Tap the map to guess the location!";
 
-  LatLng _getDailyLocation() {
-    // Use date as seed for consistent daily challenge
-    final today = DateTime.now();
-    final seed = today.year * 10000 + today.month * 100 + today.day;
+  LocationChallenge _getDailyChallenge({int? customSeed}) {
+    // Use date as seed for consistent daily challenge (or custom seed for testing)
+    final int seed;
+    if (customSeed != null) {
+      seed = customSeed;
+    } else {
+      final today = DateTime.now();
+      seed = today.year * 10000 + today.month * 100 + today.day;
+    }
     final random = Random(seed);
 
-    // 20 interesting world cities
-    final cities = [
-      const LatLng(48.8566, 2.3522),   // Paris
-      const LatLng(40.7128, -74.0060), // New York
-      const LatLng(35.6762, 139.6503), // Tokyo
-      const LatLng(-33.8688, 151.2093), // Sydney
-      const LatLng(51.5074, -0.1278),  // London
-      const LatLng(55.7558, 37.6173),  // Moscow
-      const LatLng(28.6139, 77.2090),  // Delhi
-      const LatLng(-23.5505, -46.6333), // São Paulo
-      const LatLng(19.4326, -99.1332), // Mexico City
-      const LatLng(31.2304, 121.4737), // Shanghai
-      const LatLng(34.0522, -118.2437), // Los Angeles
-      const LatLng(41.9028, 12.4964),  // Rome
-      const LatLng(52.5200, 13.4050),  // Berlin
-      const LatLng(37.5665, 126.9780), // Seoul
-      const LatLng(-34.6037, -58.3816), // Buenos Aires
-      const LatLng(39.9042, 116.4074), // Beijing
-      const LatLng(25.2048, 55.2708),  // Dubai
-      const LatLng(1.3521, 103.8198),  // Singapore
-      const LatLng(45.4215, -75.6972), // Ottawa
-      const LatLng(-37.8136, 144.9631), // Melbourne
+    // Locations with zoom levels based on specificity (lower zoom = world view, higher zoom = regional view)
+    // Note: Cities selected have English/Latin script labels on OpenStreetMap
+    final challenges = [
+      // Major cities - world view (you need to know which continent)
+      const LocationChallenge(name: "Paris, France", coordinates: LatLng(48.8566, 2.3522), initialZoom: 2.5),
+      const LocationChallenge(name: "New York, USA", coordinates: LatLng(40.7128, -74.0060), initialZoom: 2.5),
+      const LocationChallenge(name: "Sydney, Australia", coordinates: LatLng(-33.8688, 151.2093), initialZoom: 2.5),
+      const LocationChallenge(name: "London, UK", coordinates: LatLng(51.5074, -0.1278), initialZoom: 2.5),
+      const LocationChallenge(name: "São Paulo, Brazil", coordinates: LatLng(-23.5505, -46.6333), initialZoom: 2.5),
+      const LocationChallenge(name: "Mexico City, Mexico", coordinates: LatLng(19.4326, -99.1332), initialZoom: 2.5),
+      const LocationChallenge(name: "Los Angeles, USA", coordinates: LatLng(34.0522, -118.2437), initialZoom: 2.5),
+      const LocationChallenge(name: "Rome, Italy", coordinates: LatLng(41.9028, 12.4964), initialZoom: 2.5),
+      const LocationChallenge(name: "Berlin, Germany", coordinates: LatLng(52.5200, 13.4050), initialZoom: 2.5),
+      const LocationChallenge(name: "Buenos Aires, Argentina", coordinates: LatLng(-34.6037, -58.3816), initialZoom: 2.5),
+      const LocationChallenge(name: "Dubai, UAE", coordinates: LatLng(25.2048, 55.2708), initialZoom: 2.5),
+      const LocationChallenge(name: "Singapore", coordinates: LatLng(1.3521, 103.8198), initialZoom: 3),
+      const LocationChallenge(name: "Ottawa, Canada", coordinates: LatLng(45.4215, -75.6972), initialZoom: 2.5),
+      const LocationChallenge(name: "Melbourne, Australia", coordinates: LatLng(-37.8136, 144.9631), initialZoom: 2.5),
+      const LocationChallenge(name: "Amsterdam, Netherlands", coordinates: LatLng(52.3676, 4.9041), initialZoom: 2.5),
+      const LocationChallenge(name: "Barcelona, Spain", coordinates: LatLng(41.3851, 2.1734), initialZoom: 2.5),
+      const LocationChallenge(name: "Istanbul, Turkey", coordinates: LatLng(41.0082, 28.9784), initialZoom: 2.5),
+      const LocationChallenge(name: "Cape Town, South Africa", coordinates: LatLng(-33.9249, 18.4241), initialZoom: 2.5),
+      const LocationChallenge(name: "Rio de Janeiro, Brazil", coordinates: LatLng(-22.9068, -43.1729), initialZoom: 2.5),
+      const LocationChallenge(name: "Vienna, Austria", coordinates: LatLng(48.2082, 16.3738), initialZoom: 2.5),
     ];
 
-    return cities[random.nextInt(cities.length)];
+    return challenges[random.nextInt(challenges.length)];
   }
 
   @override
@@ -123,20 +143,48 @@ class _GameScreenState extends State<GameScreen> {
     return Container(
       padding: const EdgeInsets.all(16),
       color: const Color(0xFF8B4513).withOpacity(0.1),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      child: Column(
         children: [
-          const Text(
-            '🗺️ HotGeo',
-            style: TextStyle(
-              fontSize: 32,
-              fontWeight: FontWeight.bold,
-              color: Color(0xFF5D4037),
-            ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Text(
+                '🗺️ HotGeo',
+                style: TextStyle(
+                  fontSize: 32,
+                  fontWeight: FontWeight.bold,
+                  color: Color(0xFF5D4037),
+                ),
+              ),
+              Text(
+                'Attempts: $_attemptsLeft/6',
+                style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+              ),
+            ],
           ),
-          Text(
-            'Attempts: $_attemptsLeft/6',
-            style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+          const SizedBox(height: 8),
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+            decoration: BoxDecoration(
+              color: const Color(0xFF8B4513).withOpacity(0.2),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: const Color(0xFF8B4513), width: 2),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Icon(Icons.place, color: Color(0xFF5D4037), size: 20),
+                const SizedBox(width: 8),
+                Text(
+                  'Find: ${_challenge.name}',
+                  style: const TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: Color(0xFF5D4037),
+                  ),
+                ),
+              ],
+            ),
           ),
         ],
       ),
@@ -159,13 +207,13 @@ class _GameScreenState extends State<GameScreen> {
         child: FlutterMap(
           mapController: _mapController,
           options: MapOptions(
-            initialCenter: const LatLng(40, 0), // World view
-            initialZoom: 2,
+            initialCenter: _challenge.coordinates,
+            initialZoom: _challenge.initialZoom,
             onTap: _handleMapTap,
           ),
           children: [
             TileLayer(
-              urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+              urlTemplate: 'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png',
               userAgentPackageName: 'com.hotgeo.app',
             ),
             MarkerLayer(
@@ -187,7 +235,7 @@ class _GameScreenState extends State<GameScreen> {
               MarkerLayer(
                 markers: [
                   Marker(
-                    point: _targetLocation,
+                    point: _challenge.coordinates,
                     width: 50,
                     height: 50,
                     child: const Icon(
@@ -211,7 +259,7 @@ class _GameScreenState extends State<GameScreen> {
     setState(() {
       _guesses.add(point);
       _attemptsLeft--;
-      _lastDistance = _calculateDistance(point, _targetLocation);
+      _lastDistance = _calculateDistance(point, _challenge.coordinates);
       _feedback = _generateFeedback(_lastDistance!);
 
       if (_lastDistance! < 50) { // Within 50km = WIN!
@@ -237,7 +285,7 @@ class _GameScreenState extends State<GameScreen> {
 
   Color _getMarkerColor(int index) {
     if (index >= _guesses.length) return Colors.grey;
-    final distance = _calculateDistance(_guesses[index], _targetLocation);
+    final distance = _calculateDistance(_guesses[index], _challenge.coordinates);
     if (distance < 100) return Colors.red;
     if (distance < 500) return Colors.orange;
     if (distance < 1000) return Colors.yellow;
@@ -248,7 +296,7 @@ class _GameScreenState extends State<GameScreen> {
     final attempts = 6 - _attemptsLeft;
     final won = _lastDistance != null && _lastDistance! < 50;
     final squares = _guesses.map((g) {
-      final d = _calculateDistance(g, _targetLocation);
+      final d = _calculateDistance(g, _challenge.coordinates);
       if (d < 100) return '🟥';
       if (d < 500) return '🟧';
       if (d < 1000) return '🟨';
@@ -322,7 +370,7 @@ class _GameScreenState extends State<GameScreen> {
             ),
             const SizedBox(height: 8),
             ...List.generate(_guesses.length, (index) {
-              final dist = _calculateDistance(_guesses[index], _targetLocation);
+              final dist = _calculateDistance(_guesses[index], _challenge.coordinates);
               return Padding(
                 padding: const EdgeInsets.symmetric(vertical: 4),
                 child: Row(
@@ -384,11 +432,16 @@ class _GameScreenState extends State<GameScreen> {
 
   void _resetGame() {
     setState(() {
+      // In debug mode, get a new random challenge each time
+      if (kDebugMode) {
+        _challenge = _getDailyChallenge(customSeed: DateTime.now().millisecondsSinceEpoch);
+      }
+
       _guesses.clear();
       _attemptsLeft = 6;
       _lastDistance = null;
       _feedback = "Tap the map to guess the location!";
-      _mapController.move(const LatLng(40, 0), 2);
+      _mapController.move(_challenge.coordinates, _challenge.initialZoom);
     });
   }
 }
