@@ -213,7 +213,7 @@ class _GameScreenState extends State<GameScreen> {
           ),
           children: [
             TileLayer(
-              urlTemplate: 'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png',
+              urlTemplate: 'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
               userAgentPackageName: 'com.hotgeo.app',
             ),
             MarkerLayer(
@@ -395,16 +395,35 @@ class _GameScreenState extends State<GameScreen> {
 
           // Action buttons
           if (gameEnded) ...[
-            ElevatedButton.icon(
-              onPressed: _resetGame,
-              icon: const Icon(Icons.refresh),
-              label: const Text('Play Again'),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFF8B4513),
-                foregroundColor: Colors.white,
-                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            if (kDebugMode)
+              ElevatedButton.icon(
+                onPressed: _resetGame,
+                icon: const Icon(Icons.refresh),
+                label: const Text('Play Again'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFF8B4513),
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                ),
+              )
+            else
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF8B4513).withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: const Color(0xFF8B4513), width: 2),
+                ),
+                child: const Text(
+                  '📅 Come back tomorrow for a new location!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    color: Color(0xFF5D4037),
+                  ),
+                  textAlign: TextAlign.center,
+                ),
               ),
-            ),
             const SizedBox(height: 12),
             OutlinedButton.icon(
               onPressed: () {
