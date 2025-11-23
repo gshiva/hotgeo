@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "algorithm": "size-based-with-hints",
+    "generated": "2025-01-23",
+    "total": 25,
+    "distribution": {
+      "easy": 7,
+      "medium": 8,
+      "hard": 10
+    }
+  },
+  "locations": [
+    {
+      "name": "Mumbai",
+      "coordinates": {
+        "lat": 19.076,
+        "lng": 72.8777
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India \ud83c\uddee\ud83c\uddf3",
+        "region": "Maharashtra",
+        "population": 12500000
+      }
+    },
+    {
+      "name": "S\u00e3o Paulo",
+      "coordinates": {
+        "lat": -23.5505,
+        "lng": -46.6333
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Brazil \ud83c\udde7\ud83c\uddf7",
+        "region": "Southeast",
+        "population": 12300000
+      }
+    },
+    {
+      "name": "Cairo",
+      "coordinates": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Egypt \ud83c\uddea\ud83c\uddec",
+        "region": "Nile Delta",
+        "population": 9500000
+      }
+    },
+    {
+      "name": "Lagos",
+      "coordinates": {
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Nigeria \ud83c\uddf3\ud83c\uddec",
+        "region": "Southwest",
+        "population": 8800000
+      }
+    },
+    {
+      "name": "Bangkok",
+      "coordinates": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Thailand \ud83c\uddf9\ud83c\udded",
+        "region": "Central",
+        "population": 8300000
+      }
+    },
+    {
+      "name": "Chennai",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India \ud83c\uddee\ud83c\uddf3",
+        "region": "Tamil Nadu",
+        "population": 7100000
+      }
+    },
+    {
+      "name": "Bogot\u00e1",
+      "coordinates": {
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Colombia \ud83c\udde8\ud83c\uddf4",
+        "region": "Andes",
+        "population": 7400000
+      }
+    },
+    {
+      "name": "Lyon",
+      "coordinates": {
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France \ud83c\uddeb\ud83c\uddf7",
+        "region": "Auvergne-Rh\u00f4ne-Alpes",
+        "population": 513000
+      }
+    },
+    {
+      "name": "Krakow",
+      "coordinates": {
+        "lat": 50.0647,
+        "lng": 19.945
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Poland \ud83c\uddf5\ud83c\uddf1",
+        "region": "Lesser Poland",
+        "population": 780000
+      }
+    },
+    {
+      "name": "Porto",
+      "coordinates": {
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "zoom": 5.5,
+      "answerZoom": 11,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Portugal \ud83c\uddf5\ud83c\uddf9",
+        "region": "Norte",
+        "population": 237000
+      }
+    },
+    {
+      "name": "Valencia",
+      "coordinates": {
+        "lat": 39.4699,
+        "lng": -0.3763
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain \ud83c\uddea\ud83c\uddf8",
+        "region": "Valencia",
+        "population": 791000
+      }
+    },
+    {
+      "name": "Seville",
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain \ud83c\uddea\ud83c\uddf8",
+        "region": "Andalusia",
+        "population": 688000
+      }
+    },
+    {
+      "name": "Thessaloniki",
+      "coordinates": {
+        "lat": 40.6401,
+        "lng": 22.9444
+      },
+      "zoom": 5.5,
+      "answerZoom": 11,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Greece \ud83c\uddec\ud83c\uddf7",
+        "region": "Macedonia",
+        "population": 325000
+      }
+    },
+    {
+      "name": "Cork",
+      "coordinates": {
+        "lat": 51.8985,
+        "lng": -8.4756
+      },
+      "zoom": 5.5,
+      "answerZoom": 11,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Ireland \ud83c\uddee\ud83c\uddea",
+        "region": "Munster",
+        "population": 210000
+      }
+    },
+    {
+      "name": "Tiruppur",
+      "coordinates": {
+        "lat": 11.1075,
+        "lng": 77.3398
+      },
+      "zoom": 5.5,
+      "answerZoom": 11,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "India \ud83c\uddee\ud83c\uddf3",
+        "region": "Tamil Nadu",
+        "population": 450000
+      }
+    },
+    {
+      "name": "Innsbruck",
+      "coordinates": {
+        "lat": 47.2692,
+        "lng": 11.4041
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria \ud83c\udde6\ud83c\uddf9",
+        "region": "Tyrol",
+        "population": 132000
+      }
+    },
+    {
+      "name": "Hampi",
+      "coordinates": {
+        "lat": 15.335,
+        "lng": 76.46
+      },
+      "zoom": 6.5,
+      "answerZoom": 14,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India \ud83c\uddee\ud83c\uddf3",
+        "region": "Karnataka - Ancient ruins",
+        "population": 30000
+      }
+    },
+    {
+      "name": "Bruges",
+      "coordinates": {
+        "lat": 51.2093,
+        "lng": 3.2247
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Belgium \ud83c\udde7\ud83c\uddea",
+        "region": "West Flanders",
+        "population": 118000
+      }
+    },
+    {
+      "name": "Chiang Mai Old City",
+      "coordinates": {
+        "lat": 18.7883,
+        "lng": 98.9853
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Thailand \ud83c\uddf9\ud83c\udded",
+        "region": "Northern Thailand",
+        "population": 131000
+      }
+    },
+    {
+      "name": "Dubrovnik",
+      "coordinates": {
+        "lat": 42.6507,
+        "lng": 18.0944
+      },
+      "zoom": 6.5,
+      "answerZoom": 14,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Croatia \ud83c\udded\ud83c\uddf7",
+        "region": "Dalmatia",
+        "population": 42000
+      }
+    },
+    {
+      "name": "Salzburg",
+      "coordinates": {
+        "lat": 47.8095,
+        "lng": 13.055
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria \ud83c\udde6\ud83c\uddf9",
+        "region": "Salzburg State",
+        "population": 156000
+      }
+    },
+    {
+      "name": "Lucerne",
+      "coordinates": {
+        "lat": 47.0502,
+        "lng": 8.3093
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland \ud83c\udde8\ud83c\udded",
+        "region": "Central Switzerland",
+        "population": 82000
+      }
+    },
+    {
+      "name": "Annecy",
+      "coordinates": {
+        "lat": 45.8992,
+        "lng": 6.1294
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France \ud83c\uddeb\ud83c\uddf7",
+        "region": "Auvergne-Rh\u00f4ne-Alpes",
+        "population": 128000
+      }
+    },
+    {
+      "name": "College Park",
+      "coordinates": {
+        "lat": 38.9807,
+        "lng": -76.9369
+      },
+      "zoom": 6.5,
+      "answerZoom": 14,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA \ud83c\uddfa\ud83c\uddf8",
+        "region": "Maryland - DC Metro",
+        "population": 30000
+      }
+    },
+    {
+      "name": "Union City",
+      "coordinates": {
+        "lat": 37.5933,
+        "lng": -122.0438
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA \ud83c\uddfa\ud83c\uddf8",
+        "region": "California - SF Bay Area",
+        "population": 75000
+      }
+    }
+  ]
+}
