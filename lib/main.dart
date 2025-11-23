@@ -6,6 +6,8 @@ import 'package:latlong2/latlong.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:math';
 import 'dart:convert';
+import 'dart:html' as html show window, Navigator;
+import 'dart:js_util' as js_util;
 
 void main() => runApp(const HotGeoApp());
 
@@ -727,18 +729,62 @@ class _GameScreenState extends State<GameScreen> {
     final threshold = _challenge!.winThresholdKm;
     final squares = _guesses.map((g) {
       final d = _calculateDistance(g, _challenge!.coordinates);
-      if (d < threshold * 0.2) return '🟥';
-      if (d < threshold * 0.5) return '🟧';
-      if (d < threshold * 1.0) return '🟨';
+      if (d <= threshold) return '🟥';
+      if (d <= threshold * 2) return '🟧';
+      if (d <= threshold * 5) return '🟨';
       return '🟦';
     }).join();
 
     final today = DateTime.now();
     return 'HotGeo ${today.month}/${today.day}\n'
-           'Attempts: $attempts/6\n'
-           '$squares\n'
-           '${won ? "🏆 Found it!" : "💀 Failed"}\n\n'
-           'Play at: https://github.com/gshiva/hotgeo';
+           '$attempts/6 ${won ? "🏆" : "💀"}\n\n'
+           '$squares\n\n'
+           'https://gshiva.github.io/hotgeo/';
+  }
+
+  Future<void> _shareResults() async {
+    final text = _generateShareText();
+
+    try {
+      // Check if Web Share API is available (mobile browsers)
+      if (kIsWeb && js_util.hasProperty(html.window.navigator, 'share')) {
+        // Use native share sheet
+        await js_util.promiseToFuture(
+          js_util.callMethod(
+            html.window.navigator,
+            'share',
+            [
+              js_util.jsify({
+                'text': text,
+              })
+            ],
+          ),
+        );
+        return;
+      }
+    } catch (e) {
+      if (kDebugMode) {
+        print('Web Share API failed, falling back to clipboard: $e');
+      }
+    }
+
+    // Fallback: Copy to clipboard (desktop browsers)
+    try {
+      await Clipboard.setData(ClipboardData(text: text));
+
+      if (!mounted) return;
+
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Results copied to clipboard!'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error copying to clipboard: $e');
+      }
+    }
   }
 
   Widget _buildFeedbackPanel() {
@@ -871,15 +917,7 @@ class _GameScreenState extends State<GameScreen> {
               ),
             const SizedBox(height: 12),
             OutlinedButton.icon(
-              onPressed: () {
-                final text = _generateShareText();
-                ScaffoldMessenger.of(context).showSnackBar(
-                  SnackBar(
-                    content: Text('Score copied!\n\n$text'),
-                    duration: const Duration(seconds: 4),
-                  ),
-                );
-              },
+              onPressed: _shareResults,
               icon: const Icon(Icons.share),
               label: const Text('Share Score'),
               style: OutlinedButton.styleFrom(
