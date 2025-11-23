@@ -1,7 +1,7 @@
-# 🗺️ HotGeo - Daily Geography Challenge Game
+# 🗺️ HotGeo - Quick Geography Challenge Game
 
-> A beautiful daily geography guessing game with Indiana Jones vibes.
-> Open source, cross-platform (Web, Android, iOS), and built with Flutter.
+> A fast-paced geography guessing game perfect for quick breaks and "stimming" while coding.
+> Unlimited play, instant restarts, with Indiana Jones vibes. Open source and built with Flutter.
 
 [![Play Now](https://img.shields.io/badge/Play-Web-blue?style=for-the-badge)](https://hotgeo-2025.web.app)
 [![Flutter](https://img.shields.io/badge/Flutter-3.24+-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
@@ -14,21 +14,21 @@
 
 ## 🎮 How to Play
 
-1. **Each day, discover a new mystery location**
+1. **Get a random mystery location** - New challenge every round
 2. **Tap anywhere on the map** to make a guess
 3. **Get hot/cold feedback** based on distance (🔥 = close, ❄️ = far)
-4. **After 3 attempts**, receive directional hints (⬆️ North, ↗️ Northeast, etc.)
-5. **Find the location in 6 attempts or less!**
+4. **Find the location in 6 attempts or less!**
+5. **Hit "Play Again"** for instant next challenge - unlimited rounds!
 
 ---
 
 ## ✨ Features
 
-- 🌍 **Daily geography challenges** - New location every day
+- ⚡ **Unlimited instant play** - Perfect for quick breaks, waiting for builds, or "stimming"
+- 🔄 **Instant restarts** - Hit "Play Again" for immediate next challenge
 - 🔥 **Hot/cold feedback system** - Temperature-based distance hints
-- 🧭 **Progressive directional hints** - Get compass directions after 3 tries
-- 📤 **Share results** - Emoji grid like Wordle
-- 📊 **Track your streak** - Sign in to sync across devices
+- 🎯 **Varied difficulty levels** - Easy, medium, and hard locations mixed randomly
+- 📤 **Share results** - Emoji grid like Wordle with native mobile share sheet
 - 🎨 **Beautiful Indiana Jones aesthetic** - Vintage maps and parchment design
 - 🌐 **Cross-platform** - Play on web, Android, or iOS
 - 🔓 **100% Open Source** - MIT License, contribute freely
@@ -363,15 +363,15 @@ See [LICENSE](LICENSE) for details.
 
 - [x] Web prototype with core gameplay
 - [x] Hot/cold feedback system
-- [x] Daily challenges
-- [ ] Firebase authentication
-- [ ] Cloud sync across devices
+- [x] Unlimited play mode
+- [x] Web Share API integration
+- [ ] Leaderboards (global & friends)
+- [ ] Personal best tracking
+- [ ] Achievement badges
+- [ ] Session stats (rounds played, success rate)
 - [ ] Android app (Google Play)
 - [ ] iOS app (App Store)
-- [ ] Achievement badges
-- [ ] Leaderboards
 - [ ] Custom challenge creator
-- [ ] Multiple difficulty modes
 - [ ] Internationalization (i18n)
 
 ---

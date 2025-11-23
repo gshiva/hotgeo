@@ -835,21 +835,6 @@ class _GameScreenState extends State<GameScreen> {
 
           const SizedBox(height: 24),
 
-          // Debug reset button - always available
-          if (kDebugMode && !gameEnded) ...[
-            OutlinedButton.icon(
-              onPressed: _resetGame,
-              icon: const Icon(Icons.refresh),
-              label: const Text('Reset Game'),
-              style: OutlinedButton.styleFrom(
-                foregroundColor: const Color(0xFF8B4513),
-                side: const BorderSide(color: Color(0xFF8B4513), width: 2),
-                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-              ),
-            ),
-            const SizedBox(height: 20),
-          ],
-
           // Guess history
           if (_guesses.isNotEmpty) ...[
             const Text(
@@ -886,35 +871,16 @@ class _GameScreenState extends State<GameScreen> {
 
           // Action buttons
           if (gameEnded) ...[
-            if (kDebugMode)
-              ElevatedButton.icon(
-                onPressed: _resetGame,
-                icon: const Icon(Icons.refresh),
-                label: const Text('Play Again'),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFF8B4513),
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-                ),
-              )
-            else
-              Container(
-                padding: const EdgeInsets.all(16),
-                decoration: BoxDecoration(
-                  color: const Color(0xFF8B4513).withOpacity(0.1),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: const Color(0xFF8B4513), width: 2),
-                ),
-                child: const Text(
-                  '📅 Come back tomorrow for a new location!',
-                  style: TextStyle(
-                    fontSize: 16,
-                    fontWeight: FontWeight.bold,
-                    color: Color(0xFF5D4037),
-                  ),
-                  textAlign: TextAlign.center,
-                ),
+            ElevatedButton.icon(
+              onPressed: _resetGame,
+              icon: const Icon(Icons.refresh),
+              label: const Text('Play Again'),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF8B4513),
+                foregroundColor: Colors.white,
+                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
               ),
+            ),
             const SizedBox(height: 12),
             OutlinedButton.icon(
               onPressed: _shareResults,
@@ -948,19 +914,17 @@ class _GameScreenState extends State<GameScreen> {
 
   void _resetGame() {
     setState(() {
-      // In debug mode, get a new random challenge each time
-      if (kDebugMode) {
-        _challenge = _getDailyChallenge(customSeed: DateTime.now().millisecondsSinceEpoch);
-      }
+      // Get a new random challenge each time
+      _challenge = _getDailyChallenge(customSeed: DateTime.now().millisecondsSinceEpoch);
 
       _guesses.clear();
       _attemptsLeft = 6;
       _lastDistance = null;
       _feedback = "Tap the map to guess the location!";
       _hintUsed = false;
-      _showRadiusHint = false; // Reset radius hint
+      _showRadiusHint = false;
       _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
     });
-    _clearState(); // Clear saved state on reset
+    _clearState();
   }
 }
