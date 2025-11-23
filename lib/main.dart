@@ -3,9 +3,9 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:math';
 import 'dart:convert';
-import 'dart:html' as html show window;
 
 void main() => runApp(const HotGeoApp());
 
@@ -117,26 +117,34 @@ class _GameScreenState extends State<GameScreen> {
     }
   }
 
-  void _saveState() {
-    if (kIsWeb && _challenge != null) {
-      final state = {
-        'locationName': _challenge!.name,
-        'attemptsLeft': _attemptsLeft,
-        'hintUsed': _hintUsed,
-        'showRadiusHint': _showRadiusHint,
-        'lastDistance': _lastDistance,
-        'feedback': _feedback,
-        'guesses': _guesses.map((g) => {'lat': g.latitude, 'lng': g.longitude}).toList(),
-      };
-      html.window.localStorage['hotgeo_state'] = json.encode(state);
+  Future<void> _saveState() async {
+    if (_challenge != null) {
+      try {
+        final prefs = await SharedPreferences.getInstance();
+        final state = {
+          'locationName': _challenge!.name,
+          'attemptsLeft': _attemptsLeft,
+          'hintUsed': _hintUsed,
+          'showRadiusHint': _showRadiusHint,
+          'lastDistance': _lastDistance,
+          'feedback': _feedback,
+          'guesses': _guesses.map((g) => {'lat': g.latitude, 'lng': g.longitude}).toList(),
+        };
+        await prefs.setString('hotgeo_state', json.encode(state));
+      } catch (e) {
+        if (kDebugMode) {
+          print('Error saving state: $e');
+        }
+      }
     }
   }
 
-  void _loadState() {
-    if (kIsWeb && _challenge != null) {
-      final savedState = html.window.localStorage['hotgeo_state'];
-      if (savedState != null) {
-        try {
+  Future<void> _loadState() async {
+    if (_challenge != null) {
+      try {
+        final prefs = await SharedPreferences.getInstance();
+        final savedState = prefs.getString('hotgeo_state');
+        if (savedState != null) {
           final state = json.decode(savedState) as Map<String, dynamic>;
 
           // Only load if it's the same location
@@ -153,18 +161,23 @@ class _GameScreenState extends State<GameScreen> {
               }
             });
           }
-        } catch (e) {
-          if (kDebugMode) {
-            print('Error loading state: $e');
-          }
+        }
+      } catch (e) {
+        if (kDebugMode) {
+          print('Error loading state: $e');
         }
       }
     }
   }
 
-  void _clearState() {
-    if (kIsWeb) {
-      html.window.localStorage.remove('hotgeo_state');
+  Future<void> _clearState() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.remove('hotgeo_state');
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error clearing state: $e');
+      }
     }
   }
 
