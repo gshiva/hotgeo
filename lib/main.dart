@@ -137,6 +137,7 @@ class _GameScreenState extends State<GameScreen> {
   List<GameResult> _recentGames = [];
   int _todayWins = 0;
   int _todayGames = 0;
+  bool _guessHistoryExpanded = false;
 
   // Location progression tracking
   int _currentLocationId = 1; // Current location in progression (1-365)
@@ -494,6 +495,9 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   Widget _buildHeader() {
+    final screenWidth = MediaQuery.sizeOf(context).width;
+    final isMobile = screenWidth < 600;
+
     return Container(
       padding: const EdgeInsets.all(16),
       color: const Color(0xFF1D428A).withOpacity(0.05),
@@ -561,83 +565,175 @@ class _GameScreenState extends State<GameScreen> {
             ],
           ),
           const SizedBox(height: 8),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              // Difficulty badge
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                decoration: BoxDecoration(
-                  color: _getDifficultyColor().withOpacity(0.2),
-                  borderRadius: BorderRadius.circular(6),
-                  border: Border.all(color: _getDifficultyColor(), width: 2),
-                ),
-                child: Text(
-                  _getDifficultyLabel(),
-                  style: TextStyle(
-                    fontSize: 14,
-                    fontWeight: FontWeight.bold,
-                    color: _getDifficultyColor(),
+          // Mobile layout: Difficulty badge on top, controls below
+          if (isMobile) ...[
+            // Difficulty badge row
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: _getDifficultyColor().withOpacity(0.2),
+                    borderRadius: BorderRadius.circular(6),
+                    border: Border.all(color: _getDifficultyColor(), width: 2),
+                  ),
+                  child: Text(
+                    _getDifficultyLabel(),
+                    style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                      color: _getDifficultyColor(),
+                    ),
                   ),
                 ),
-              ),
-              const SizedBox(width: 12),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                decoration: BoxDecoration(
-                  color: const Color(0xFF1D428A).withOpacity(0.1),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: const Color(0xFF1D428A), width: 2),
-                ),
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    const Icon(Icons.place, color: Color(0xFF1D428A), size: 20),
-                    const SizedBox(width: 8),
-                    Text(
-                      'Find: ${_challenge!.name}',
-                      style: const TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                        color: Color(0xFF1D428A),
-                      ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            // Main controls row with Flexible widgets for better spacing
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Flexible(
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF1D428A).withOpacity(0.1),
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(color: const Color(0xFF1D428A), width: 2),
                     ),
-                  ],
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        const Icon(Icons.place, color: Color(0xFF1D428A), size: 18),
+                        const SizedBox(width: 6),
+                        Flexible(
+                          child: Text(
+                            'Find: ${_challenge!.name}',
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                              color: Color(0xFF1D428A),
+                            ),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
                 ),
-              ),
-              const SizedBox(width: 12),
-              ElevatedButton.icon(
-                onPressed: _showHint,
-                icon: const Icon(Icons.lightbulb_outline, size: 18),
-                label: Text(_hintUsed ? 'Hint Used' : 'Hint'),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: _hintUsed ? const Color(0xFF1D428A).withOpacity(0.5) : const Color(0xFF1D428A),
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                const SizedBox(width: 8),
+                ElevatedButton.icon(
+                  onPressed: _showHint,
+                  icon: const Icon(Icons.lightbulb_outline, size: 16),
+                  label: Text(_hintUsed ? 'Hint' : 'Hint'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: _hintUsed ? const Color(0xFF1D428A).withOpacity(0.5) : const Color(0xFF1D428A),
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                  ),
                 ),
-              ),
-              const SizedBox(width: 12),
-              // Radius hint toggle button
-              ElevatedButton.icon(
-                onPressed: _guesses.isEmpty ? null : () {
-                  setState(() {
-                    _showRadiusHint = !_showRadiusHint;
-                  });
-                  _saveState(); // Save radius toggle state
-                },
-                icon: Icon(
-                  _showRadiusHint ? Icons.radio_button_checked : Icons.radio_button_unchecked,
-                  size: 18,
+                const SizedBox(width: 8),
+                ElevatedButton.icon(
+                  onPressed: _guesses.isEmpty ? null : () {
+                    setState(() {
+                      _showRadiusHint = !_showRadiusHint;
+                    });
+                    _saveState();
+                  },
+                  icon: Icon(
+                    _showRadiusHint ? Icons.radio_button_checked : Icons.radio_button_unchecked,
+                    size: 16,
+                  ),
+                  label: const Text('Radius'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: _showRadiusHint ? const Color(0xFF1D428A) : const Color(0xFF1D428A).withOpacity(0.7),
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                  ),
                 ),
-                label: const Text('Radius'),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: _showRadiusHint ? const Color(0xFF1D428A) : const Color(0xFF1D428A).withOpacity(0.7),
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              ],
+            ),
+          ] else ...[
+            // Desktop layout: All in one row (original layout)
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                // Difficulty badge
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: _getDifficultyColor().withOpacity(0.2),
+                    borderRadius: BorderRadius.circular(6),
+                    border: Border.all(color: _getDifficultyColor(), width: 2),
+                  ),
+                  child: Text(
+                    _getDifficultyLabel(),
+                    style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                      color: _getDifficultyColor(),
+                    ),
+                  ),
                 ),
-              ),
-            ],
-          ),
+                const SizedBox(width: 12),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF1D428A).withOpacity(0.1),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: const Color(0xFF1D428A), width: 2),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Icon(Icons.place, color: Color(0xFF1D428A), size: 20),
+                      const SizedBox(width: 8),
+                      Text(
+                        'Find: ${_challenge!.name}',
+                        style: const TextStyle(
+                          fontSize: 18,
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFF1D428A),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 12),
+                ElevatedButton.icon(
+                  onPressed: _showHint,
+                  icon: const Icon(Icons.lightbulb_outline, size: 18),
+                  label: Text(_hintUsed ? 'Hint Used' : 'Hint'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: _hintUsed ? const Color(0xFF1D428A).withOpacity(0.5) : const Color(0xFF1D428A),
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                // Radius hint toggle button
+                ElevatedButton.icon(
+                  onPressed: _guesses.isEmpty ? null : () {
+                    setState(() {
+                      _showRadiusHint = !_showRadiusHint;
+                    });
+                    _saveState(); // Save radius toggle state
+                  },
+                  icon: Icon(
+                    _showRadiusHint ? Icons.radio_button_checked : Icons.radio_button_unchecked,
+                    size: 18,
+                  ),
+                  label: const Text('Radius'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: _showRadiusHint ? const Color(0xFF1D428A) : const Color(0xFF1D428A).withOpacity(0.7),
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                ),
+              ],
+            ),
+          ],
         ],
       ),
     );
@@ -1032,6 +1128,22 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   Future<void> _shareResults() async {
+    // Record current game result if not already recorded
+    if (_challenge != null && _guesses.isNotEmpty) {
+      final gameEnded = _attemptsLeft == 0 || (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm);
+      if (gameEnded) {
+        // Check if this game is already in recent games (to avoid duplicates)
+        final currentGameAlreadyRecorded = _recentGames.isNotEmpty &&
+          _recentGames.last.locationName == _challenge!.name &&
+          _recentGames.last.attempts == (6 - _attemptsLeft);
+
+        if (!currentGameAlreadyRecorded) {
+          final won = _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm;
+          _recordGameResult(won);
+        }
+      }
+    }
+
     final text = _generateShareText();
 
     try {
@@ -1078,20 +1190,30 @@ class _GameScreenState extends State<GameScreen> {
 
   Widget _buildFeedbackPanel() {
     final gameEnded = _attemptsLeft == 0 || (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm);
+    final isMobile = MediaQuery.of(context).size.width < 768;
+
+    // Adaptive sizing based on screen size
+    final containerPadding = isMobile ? 12.0 : 20.0;
+    final feedbackPadding = isMobile ? 8.0 : 16.0;
+    final feedbackFontSize = isMobile ? 16.0 : 20.0;
+    final distanceFontSize = isMobile ? 14.0 : 18.0;
+    final historyFontSize = isMobile ? 12.0 : 14.0;
+    final buttonPaddingH = isMobile ? 16.0 : 24.0;
+    final buttonPaddingV = isMobile ? 8.0 : 12.0;
 
     return Container(
-      padding: const EdgeInsets.all(20),
+      padding: EdgeInsets.all(containerPadding),
       child: Column(
         mainAxisSize: MainAxisSize.min,
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          // Feedback message
+          // Compact feedback message with inline distance
           Container(
-            padding: const EdgeInsets.all(16),
+            padding: EdgeInsets.all(feedbackPadding),
             decoration: BoxDecoration(
               color: const Color(0xFFF8F9FA),
-              border: Border.all(color: const Color(0xFF1D428A), width: 2),
-              borderRadius: BorderRadius.circular(12),
+              border: Border.all(color: const Color(0xFF1D428A), width: isMobile ? 1.5 : 2),
+              borderRadius: BorderRadius.circular(isMobile ? 8 : 12),
               boxShadow: [
                 BoxShadow(
                   color: const Color(0xFF1D428A).withOpacity(0.1),
@@ -1100,90 +1222,174 @@ class _GameScreenState extends State<GameScreen> {
                 ),
               ],
             ),
-            child: Text(
-              _feedback,
-              style: const TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.bold,
-                height: 1.4,
-              ),
-              textAlign: TextAlign.center,
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  _feedback,
+                  style: TextStyle(
+                    fontSize: feedbackFontSize,
+                    fontWeight: FontWeight.bold,
+                    height: isMobile ? 1.2 : 1.4,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                if (_lastDistance != null) ...[
+                  SizedBox(height: isMobile ? 4 : 8),
+                  Text(
+                    '${_lastDistance!.toStringAsFixed(0)} km away',
+                    style: TextStyle(
+                      fontSize: distanceFontSize,
+                      fontWeight: FontWeight.w600,
+                      color: const Color(0xFF1D428A),
+                    ),
+                  ),
+                ],
+              ],
             ),
           ),
 
-          if (_lastDistance != null) ...[
-            const SizedBox(height: 16),
-            Text(
-              'Distance: ${_lastDistance!.toStringAsFixed(0)} km',
-              style: const TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.w600,
-              ),
-            ),
-          ],
-
-          const SizedBox(height: 24),
-
-          // Guess history
+          // Collapsible guess history (only show last 3 on mobile by default)
           if (_guesses.isNotEmpty) ...[
-            const Text(
-              'Your Guesses:',
-              style: TextStyle(
-                fontSize: 16,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            const SizedBox(height: 8),
-            ...List.generate(_guesses.length, (index) {
-              final dist = _calculateDistance(_guesses[index], _challenge!.coordinates);
-              return Padding(
-                padding: const EdgeInsets.symmetric(vertical: 4),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Icon(
-                      Icons.circle,
-                      color: _getMarkerColor(index),
-                      size: 16,
-                    ),
-                    const SizedBox(width: 8),
-                    Text(
-                      'Guess ${index + 1}: ${dist.toStringAsFixed(0)} km',
-                      style: const TextStyle(fontSize: 14),
-                    ),
-                  ],
-                ),
-              );
-            }),
-            const SizedBox(height: 20),
+            SizedBox(height: isMobile ? 12 : 24),
+            _buildCompactGuessHistory(isMobile, historyFontSize),
           ],
 
-          // Action buttons
+          // Action buttons (horizontal on mobile when space permits)
           if (gameEnded) ...[
-            ElevatedButton.icon(
-              onPressed: _resetGame,
-              icon: const Icon(Icons.refresh),
-              label: const Text('Play Again'),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFF1D428A),
-                foregroundColor: Colors.white,
-                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            SizedBox(height: isMobile ? 12 : 20),
+            if (isMobile && MediaQuery.of(context).size.width > 400)
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Expanded(
+                    child: ElevatedButton.icon(
+                      onPressed: _resetGame,
+                      icon: const Icon(Icons.refresh, size: 18),
+                      label: const Text('Play Again'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFF1D428A),
+                        foregroundColor: Colors.white,
+                        padding: EdgeInsets.symmetric(horizontal: buttonPaddingH, vertical: buttonPaddingV),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: OutlinedButton.icon(
+                      onPressed: _shareResults,
+                      icon: const Icon(Icons.share, size: 18),
+                      label: const Text('Share'),
+                      style: OutlinedButton.styleFrom(
+                        foregroundColor: const Color(0xFF1D428A),
+                        side: BorderSide(color: const Color(0xFF1D428A), width: isMobile ? 1.5 : 2),
+                        padding: EdgeInsets.symmetric(horizontal: buttonPaddingH, vertical: buttonPaddingV),
+                      ),
+                    ),
+                  ),
+                ],
+              )
+            else ...[
+              ElevatedButton.icon(
+                onPressed: _resetGame,
+                icon: Icon(Icons.refresh, size: isMobile ? 18 : 20),
+                label: const Text('Play Again'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFF1D428A),
+                  foregroundColor: Colors.white,
+                  padding: EdgeInsets.symmetric(horizontal: buttonPaddingH, vertical: buttonPaddingV),
+                ),
               ),
-            ),
-            const SizedBox(height: 12),
-            OutlinedButton.icon(
-              onPressed: _shareResults,
-              icon: const Icon(Icons.share),
-              label: const Text('Share Score'),
-              style: OutlinedButton.styleFrom(
-                foregroundColor: const Color(0xFF1D428A),
-                side: const BorderSide(color: Color(0xFF1D428A), width: 2),
-                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+              const SizedBox(height: 8),
+              OutlinedButton.icon(
+                onPressed: _shareResults,
+                icon: Icon(Icons.share, size: isMobile ? 18 : 20),
+                label: const Text('Share Score'),
+                style: OutlinedButton.styleFrom(
+                  foregroundColor: const Color(0xFF1D428A),
+                  side: BorderSide(color: const Color(0xFF1D428A), width: isMobile ? 1.5 : 2),
+                  padding: EdgeInsets.symmetric(horizontal: buttonPaddingH, vertical: buttonPaddingV),
+                ),
               ),
-            ),
+            ],
           ],
         ],
       ),
+    );
+  }
+
+  Widget _buildCompactGuessHistory(bool isMobile, double fontSize) {
+    final maxVisible = isMobile ? 3 : 6;
+    final showAll = _guessHistoryExpanded || !isMobile || _guesses.length <= maxVisible;
+    final guessesToShow = showAll ? _guesses.length : maxVisible.clamp(0, _guesses.length);
+
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        // Compact header with expand button on mobile
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              'Guesses (${_guesses.length}/6)',
+              style: TextStyle(
+                fontSize: fontSize + 2,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            if (isMobile && _guesses.length > maxVisible) ...[
+              const SizedBox(width: 4),
+              IconButton(
+                icon: Icon(
+                  _guessHistoryExpanded ? Icons.expand_less : Icons.expand_more,
+                  size: 20,
+                  color: const Color(0xFF1D428A),
+                ),
+                onPressed: () {
+                  setState(() {
+                    _guessHistoryExpanded = !_guessHistoryExpanded;
+                  });
+                },
+                padding: EdgeInsets.zero,
+                constraints: const BoxConstraints(),
+              ),
+            ],
+          ],
+        ),
+        const SizedBox(height: 4),
+        // Compact guess list
+        ...List.generate(guessesToShow, (index) {
+          final dist = _calculateDistance(_guesses[index], _challenge!.coordinates);
+          return Padding(
+            padding: EdgeInsets.symmetric(vertical: isMobile ? 2 : 4),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Icon(
+                  Icons.circle,
+                  color: _getMarkerColor(index),
+                  size: isMobile ? 12 : 16,
+                ),
+                const SizedBox(width: 6),
+                Text(
+                  '#${index + 1}: ${dist.toStringAsFixed(0)} km',
+                  style: TextStyle(fontSize: fontSize),
+                ),
+              ],
+            ),
+          );
+        }),
+        if (isMobile && !showAll && _guesses.length > maxVisible) ...[
+          Text(
+            '... +${_guesses.length - maxVisible} more',
+            style: TextStyle(
+              fontSize: fontSize - 1,
+              fontStyle: FontStyle.italic,
+              color: Colors.grey[600],
+            ),
+          ),
+        ],
+      ],
     );
   }
 
@@ -1202,10 +1408,17 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   void _resetGame() {
-    // Record the result of the just-finished game
+    // Record the result of the just-finished game if not already recorded
     if (_challenge != null && _guesses.isNotEmpty) {
-      final won = _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm;
-      _recordGameResult(won);
+      // Check if this game is already in recent games (to avoid duplicates)
+      final currentGameAlreadyRecorded = _recentGames.isNotEmpty &&
+        _recentGames.last.locationName == _challenge!.name &&
+        _recentGames.last.attempts == (6 - _attemptsLeft);
+
+      if (!currentGameAlreadyRecorded) {
+        final won = _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm;
+        _recordGameResult(won);
+      }
     }
 
     // Get next challenge and update state
@@ -1219,6 +1432,7 @@ class _GameScreenState extends State<GameScreen> {
         _feedback = "Tap the map to guess the location!";
         _hintUsed = false;
         _showRadiusHint = false;
+        _guessHistoryExpanded = false;
         _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
       });
     });

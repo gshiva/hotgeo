@@ -1,5 +1,5 @@
 name: hotgeo
-description: "Daily geography challenge game with Indiana Jones vibes. Find mystery locations with hot/cold hints."
+description: "A daily geography game. Guess the mystery location using hot and cold clues."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

@@ -1,12 +1,12 @@
 <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- HotGeo! text with Coca-Cola style script -->
+  <!-- HotGeo! text with script style -->
   <text x="10" y="58"
-        font-family="'Brush Script MT', 'Lucida Handwriting', 'Pacifico', cursive"
+        font-family="cursive"
         font-size="56"
-        font-weight="bold"
+        font-weight="700"
         fill="#006BB6"
         stroke="#FFC72C"
-        stroke-width="3"
+        stroke-width="0.5"
         paint-order="stroke"
         style="font-style: italic;">
     HotGeo!
