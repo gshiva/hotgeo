@@ -353,33 +353,6 @@ class _GameScreenState extends State<GameScreen> {
     _saveSessionStats();
   }
 
-  LocationChallenge _getDailyChallenge({int? customSeed}) {
-    // Return first location as fallback if not loaded yet
-    if (_allChallenges == null || _allChallenges!.isEmpty) {
-      return LocationChallenge(
-        name: "Loading...",
-        coordinates: LatLng(0, 0),
-        initialZoom: 2,
-        answerZoom: 2,
-        winThresholdKm: 1000,
-        difficulty: "easy",
-        hints: {"country": "Loading", "region": "", "population": 0},
-      );
-    }
-
-    // Use date as seed for consistent daily challenge (or custom seed for testing)
-    final int seed;
-    if (customSeed != null) {
-      seed = customSeed;
-    } else {
-      final today = DateTime.now();
-      seed = today.year * 10000 + today.month * 100 + today.day;
-    }
-    final random = Random(seed);
-
-    return _allChallenges![random.nextInt(_allChallenges!.length)];
-  }
-
   @override
   Widget build(BuildContext context) {
     // Show loading screen while challenges are being loaded
