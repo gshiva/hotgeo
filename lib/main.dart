@@ -472,6 +472,9 @@ class _GameScreenState extends State<GameScreen> {
         // Top overlay bar
         _buildTopOverlay(),
 
+        // Map control buttons (bottom-left)
+        _buildMapControls(),
+
         // Floating action buttons (bottom-right)
         _buildFloatingButtons(),
 
@@ -490,6 +493,9 @@ class _GameScreenState extends State<GameScreen> {
 
         // Top overlay bar
         _buildTopOverlay(),
+
+        // Map control buttons (bottom-left)
+        _buildMapControls(),
 
         // Floating action buttons (bottom-right)
         _buildFloatingButtons(),
@@ -933,6 +939,58 @@ class _GameScreenState extends State<GameScreen> {
     );
   }
 
+  Widget _buildMapControls() {
+    final isMobile = MediaQuery.of(context).size.width < 600;
+    final buttonSize = isMobile ? 28.0 : 32.0;
+    final iconSize = isMobile ? 14.0 : 16.0;
+
+    Widget buildControlButton(IconData icon, VoidCallback onPressed, String semanticLabel) {
+      return SizedBox(
+        width: buttonSize,
+        height: buttonSize,
+        child: FloatingActionButton(
+          heroTag: semanticLabel,
+          mini: true,
+          onPressed: onPressed,
+          backgroundColor: const Color(0xFF1D428A).withOpacity(0.25),
+          child: Icon(icon, color: Colors.white.withOpacity(0.9), size: iconSize),
+        ),
+      );
+    }
+
+    return Positioned(
+      left: isMobile ? 12 : 20,
+      bottom: isMobile ? 200.0 : 250.0,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          // Zoom controls
+          buildControlButton(Icons.add, _zoomIn, 'zoom_in'),
+          const SizedBox(height: 4),
+          buildControlButton(Icons.remove, _zoomOut, 'zoom_out'),
+          const SizedBox(height: 16),
+          // Directional controls - Cross pattern
+          Column(
+            children: [
+              buildControlButton(Icons.arrow_upward, _panNorth, 'pan_north'),
+              const SizedBox(height: 4),
+              Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  buildControlButton(Icons.arrow_back, _panWest, 'pan_west'),
+                  SizedBox(width: buttonSize),
+                  buildControlButton(Icons.arrow_forward, _panEast, 'pan_east'),
+                ],
+              ),
+              const SizedBox(height: 4),
+              buildControlButton(Icons.arrow_downward, _panSouth, 'pan_south'),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
   Widget _buildBottomSheet() {
     final isMobile = MediaQuery.of(context).size.width < 600;
     final gameEnded = _attemptsLeft == 0 ||
@@ -1286,6 +1344,41 @@ class _GameScreenState extends State<GameScreen> {
             ),
           ],
     );
+  }
+
+  // Map control methods
+  void _zoomIn() {
+    final currentZoom = _mapController.camera.zoom;
+    _mapController.move(_mapController.camera.center, currentZoom + 1);
+  }
+
+  void _zoomOut() {
+    final currentZoom = _mapController.camera.zoom;
+    _mapController.move(_mapController.camera.center, currentZoom - 1);
+  }
+
+  void _panNorth() {
+    final center = _mapController.camera.center;
+    final newCenter = LatLng(center.latitude + 5, center.longitude);
+    _mapController.move(newCenter, _mapController.camera.zoom);
+  }
+
+  void _panSouth() {
+    final center = _mapController.camera.center;
+    final newCenter = LatLng(center.latitude - 5, center.longitude);
+    _mapController.move(newCenter, _mapController.camera.zoom);
+  }
+
+  void _panEast() {
+    final center = _mapController.camera.center;
+    final newCenter = LatLng(center.latitude, center.longitude + 5);
+    _mapController.move(newCenter, _mapController.camera.zoom);
+  }
+
+  void _panWest() {
+    final center = _mapController.camera.center;
+    final newCenter = LatLng(center.latitude, center.longitude - 5);
+    _mapController.move(newCenter, _mapController.camera.zoom);
   }
 
   void _handleMapTap(TapPosition tapPos, LatLng point) {
