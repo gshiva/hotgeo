@@ -138,6 +138,9 @@ class _GameScreenState extends State<GameScreen> {
   int _todayWins = 0;
   int _todayGames = 0;
 
+  // Location progression tracking
+  int _currentLocationId = 1; // Current location in progression (1-365)
+
   @override
   void initState() {
     super.initState();
@@ -157,9 +160,11 @@ class _GameScreenState extends State<GameScreen> {
           .map((json) => LocationChallenge.fromJson(json))
           .toList();
 
-      // Get today's challenge
+      // Initialize location progression
+      await _initializeLocationProgression();
+
       setState(() {
-        _challenge = _getDailyChallenge();
+        _challenge = _getCurrentChallenge();
         _loadState(); // Load saved progress
         _isLoading = false;
       });
@@ -265,6 +270,70 @@ class _GameScreenState extends State<GameScreen> {
       // Fallback to first location if something goes wrong
       return _allChallenges!.first;
     }
+  }
+
+  Future<void> _initializeLocationProgression() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final storedLocationId = prefs.getInt('currentLocationId');
+
+      // Get daily challenge ID
+      final dailyChallengeId = _getDailyChallengeId();
+
+      // Use stored progression if it's ahead of today's challenge, otherwise start from today
+      _currentLocationId = (storedLocationId != null && storedLocationId > dailyChallengeId)
+          ? storedLocationId
+          : dailyChallengeId;
+    } catch (e) {
+      // Default to daily challenge if anything fails
+      _currentLocationId = _getDailyChallengeId();
+    }
+  }
+
+  int _getDailyChallengeId() {
+    // Epoch date: January 1, 2025 (when we start the daily challenges)
+    final epoch = DateTime(2025, 1, 1);
+    final now = DateTime.now();
+    final daysSinceEpoch = now.difference(epoch).inDays;
+    return (daysSinceEpoch % 365) + 1;
+  }
+
+  LocationChallenge? _getCurrentChallenge() {
+    if (_allChallenges == null || _allChallenges!.isEmpty) {
+      return null;
+    }
+
+    try {
+      return _allChallenges!.firstWhere(
+        (challenge) => challenge.id == _currentLocationId,
+      );
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error finding challenge for ID $_currentLocationId: $e');
+      }
+      return _allChallenges!.first;
+    }
+  }
+
+  Future<LocationChallenge?> _getNextChallenge() async {
+    if (_allChallenges == null || _allChallenges!.isEmpty) {
+      return null;
+    }
+
+    // Increment and wrap around
+    _currentLocationId = (_currentLocationId % 365) + 1;
+
+    // Save progression
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt('currentLocationId', _currentLocationId);
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error saving location progression: $e');
+      }
+    }
+
+    return _getCurrentChallenge();
   }
 
   Future<void> _loadSessionStats() async {
@@ -1139,17 +1208,19 @@ class _GameScreenState extends State<GameScreen> {
       _recordGameResult(won);
     }
 
-    setState(() {
-      // Get today's daily challenge
-      _challenge = _getDailyChallenge();
+    // Get next challenge and update state
+    _getNextChallenge().then((nextChallenge) {
+      setState(() {
+        _challenge = nextChallenge;
 
-      _guesses.clear();
-      _attemptsLeft = 6;
-      _lastDistance = null;
-      _feedback = "Tap the map to guess the location!";
-      _hintUsed = false;
-      _showRadiusHint = false;
-      _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
+        _guesses.clear();
+        _attemptsLeft = 6;
+        _lastDistance = null;
+        _feedback = "Tap the map to guess the location!";
+        _hintUsed = false;
+        _showRadiusHint = false;
+        _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
+      });
     });
     _clearState();
   }
