@@ -1140,8 +1140,8 @@ class _GameScreenState extends State<GameScreen> {
     }
 
     setState(() {
-      // Get a new random challenge each time
-      _challenge = _getDailyChallenge(customSeed: DateTime.now().millisecondsSinceEpoch);
+      // Get today's daily challenge
+      _challenge = _getDailyChallenge();
 
       _guesses.clear();
       _attemptsLeft = 6;
