@@ -827,81 +827,60 @@ class _GameScreenState extends State<GameScreen> {
                   ],
                 ),
               ),
-              // Right side: Play Again button (when game ended) OR Difficulty badge and streak
+              // Right side: Difficulty badge and streak
               Row(
                 children: [
-                  if (gameEnded)
-                    ElevatedButton.icon(
-                      onPressed: _resetGame,
-                      icon: Icon(Icons.refresh, size: isMobile ? 16 : 18),
-                      label: Text(
-                        'Play Again',
-                        style: TextStyle(fontSize: isMobile ? 13 : 15),
-                      ),
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: const Color(0xFF1D428A),
-                        foregroundColor: Colors.white,
-                        padding: EdgeInsets.symmetric(
-                          horizontal: isMobile ? 12 : 16,
-                          vertical: isMobile ? 6 : 8,
-                        ),
-                        minimumSize: Size.zero,
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                  Container(
+                    padding: EdgeInsets.symmetric(
+                      horizontal: isMobile ? 6 : 8,
+                      vertical: isMobile ? 3 : 4,
+                    ),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withOpacity(0.9),
+                      borderRadius: BorderRadius.circular(4),
+                      border: Border.all(color: _getDifficultyColor(), width: 1.5),
+                    ),
+                    child: Text(
+                      _getDifficultyLabel(),
+                      style: TextStyle(
+                        fontSize: isMobile ? 11 : 13,
+                        fontWeight: FontWeight.bold,
+                        color: _getDifficultyColor(),
                       ),
                     ),
-                  if (!gameEnded) ...[
+                  ),
+                  if (_winStreak > 0) ...[
+                    const SizedBox(width: 8),
                     Container(
                       padding: EdgeInsets.symmetric(
                         horizontal: isMobile ? 6 : 8,
                         vertical: isMobile ? 3 : 4,
                       ),
                       decoration: BoxDecoration(
-                        color: Colors.white.withOpacity(0.9),
-                        borderRadius: BorderRadius.circular(4),
-                        border: Border.all(color: _getDifficultyColor(), width: 1.5),
-                      ),
-                      child: Text(
-                        _getDifficultyLabel(),
-                        style: TextStyle(
-                          fontSize: isMobile ? 11 : 13,
-                          fontWeight: FontWeight.bold,
-                          color: _getDifficultyColor(),
+                        gradient: const LinearGradient(
+                          colors: [Color(0xFFFF9800), Color(0xFFF44336)],
                         ),
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            '🔥',
+                            style: TextStyle(fontSize: isMobile ? 12 : 14),
+                          ),
+                          const SizedBox(width: 3),
+                          Text(
+                            '$_winStreak',
+                            style: TextStyle(
+                              fontSize: isMobile ? 12 : 14,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ],
                       ),
                     ),
-                    if (_winStreak > 0) ...[
-                      const SizedBox(width: 8),
-                      Container(
-                        padding: EdgeInsets.symmetric(
-                          horizontal: isMobile ? 6 : 8,
-                          vertical: isMobile ? 3 : 4,
-                        ),
-                        decoration: BoxDecoration(
-                          gradient: const LinearGradient(
-                            colors: [Color(0xFFFF9800), Color(0xFFF44336)],
-                          ),
-                          borderRadius: BorderRadius.circular(4),
-                        ),
-                        child: Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Text(
-                              '🔥',
-                              style: TextStyle(fontSize: isMobile ? 12 : 14),
-                            ),
-                            const SizedBox(width: 3),
-                            Text(
-                              '$_winStreak',
-                              style: TextStyle(
-                                fontSize: isMobile ? 12 : 14,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.white,
-                              ),
-                            ),
-                          ],
-                        ),
-                      ),
-                    ],
                   ],
                 ],
               ),
@@ -1052,6 +1031,31 @@ class _GameScreenState extends State<GameScreen> {
         ),
 
         const SizedBox(height: 16),
+
+        // Play Again button (prominent, shown when game ended)
+        if (gameEnded)
+          ElevatedButton.icon(
+            onPressed: _resetGame,
+            icon: Icon(Icons.refresh, size: isMobile ? 20 : 24),
+            label: Text(
+              'Play Again',
+              style: TextStyle(
+                fontSize: isMobile ? 18 : 20,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFF1D428A),
+              foregroundColor: Colors.white,
+              padding: EdgeInsets.symmetric(
+                horizontal: isMobile ? 24 : 32,
+                vertical: isMobile ? 16 : 20,
+              ),
+              minimumSize: Size(isMobile ? 200 : 250, isMobile ? 50 : 60),
+            ),
+          ),
+
+        if (gameEnded) const SizedBox(height: 12),
 
         // Share button (only show when game ended)
         if (gameEnded)
