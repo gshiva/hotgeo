@@ -464,32 +464,38 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   Widget _buildMobileLayout() {
-    return Column(
+    return Stack(
       children: [
-        _buildHeader(),
-        Expanded(child: _buildMap()),
-        _buildFeedbackPanel(),
+        // Full-screen map as base layer
+        _buildMap(),
+
+        // Top overlay bar
+        _buildTopOverlay(),
+
+        // Floating action buttons (bottom-right)
+        _buildFloatingButtons(),
+
+        // Draggable bottom sheet for feedback
+        _buildBottomSheet(),
       ],
     );
   }
 
   Widget _buildDesktopLayout() {
-    return Row(
+    // Desktop also uses overlay design for consistency
+    return Stack(
       children: [
-        Expanded(
-          flex: 2,
-          child: Column(
-            children: [
-              _buildHeader(),
-              Expanded(child: _buildMap()),
-            ],
-          ),
-        ),
-        Container(
-          width: 350,
-          color: const Color(0xFFF8F9FA),
-          child: _buildFeedbackPanel(),
-        ),
+        // Full-screen map as base layer
+        _buildMap(),
+
+        // Top overlay bar
+        _buildTopOverlay(),
+
+        // Floating action buttons (bottom-right)
+        _buildFloatingButtons(),
+
+        // Draggable bottom sheet for feedback (wider on desktop)
+        _buildBottomSheet(),
       ],
     );
   }
@@ -739,6 +745,409 @@ class _GameScreenState extends State<GameScreen> {
     );
   }
 
+  Widget _buildTopOverlay() {
+    final isMobile = MediaQuery.of(context).size.width < 600;
+    final gameEnded = _attemptsLeft == 0 || (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm);
+
+    return Positioned(
+      top: 0,
+      left: 0,
+      right: 0,
+      child: Container(
+        padding: EdgeInsets.symmetric(
+          horizontal: isMobile ? 12 : 20,
+          vertical: isMobile ? 8 : 12,
+        ),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+            colors: [
+              Colors.black.withOpacity(0.3),
+              Colors.transparent,
+            ],
+          ),
+        ),
+        child: SafeArea(
+          bottom: false,
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              // Left side: Attempts and Location
+              Expanded(
+                child: Row(
+                  children: [
+                    Text(
+                      '$_attemptsLeft/6',
+                      style: TextStyle(
+                        fontSize: isMobile ? 16 : 18,
+                        fontWeight: FontWeight.bold,
+                        color: const Color(0xFF1D428A),
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Flexible(
+                      child: Container(
+                        padding: EdgeInsets.symmetric(
+                          horizontal: isMobile ? 8 : 12,
+                          vertical: isMobile ? 4 : 6,
+                        ),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.9),
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(
+                            color: const Color(0xFF1D428A),
+                            width: 1.5,
+                          ),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.place,
+                              color: const Color(0xFF1D428A),
+                              size: isMobile ? 14 : 16,
+                            ),
+                            const SizedBox(width: 4),
+                            Flexible(
+                              child: Text(
+                                _challenge!.name,
+                                style: TextStyle(
+                                  fontSize: isMobile ? 13 : 15,
+                                  fontWeight: FontWeight.bold,
+                                  color: const Color(0xFF1D428A),
+                                ),
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              // Right side: Play Again button (when game ended) OR Difficulty badge and streak
+              Row(
+                children: [
+                  if (gameEnded)
+                    ElevatedButton.icon(
+                      onPressed: _resetGame,
+                      icon: Icon(Icons.refresh, size: isMobile ? 16 : 18),
+                      label: Text(
+                        'Play Again',
+                        style: TextStyle(fontSize: isMobile ? 13 : 15),
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFF1D428A),
+                        foregroundColor: Colors.white,
+                        padding: EdgeInsets.symmetric(
+                          horizontal: isMobile ? 12 : 16,
+                          vertical: isMobile ? 6 : 8,
+                        ),
+                        minimumSize: Size.zero,
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      ),
+                    ),
+                  if (!gameEnded) ...[
+                    Container(
+                      padding: EdgeInsets.symmetric(
+                        horizontal: isMobile ? 6 : 8,
+                        vertical: isMobile ? 3 : 4,
+                      ),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withOpacity(0.9),
+                        borderRadius: BorderRadius.circular(4),
+                        border: Border.all(color: _getDifficultyColor(), width: 1.5),
+                      ),
+                      child: Text(
+                        _getDifficultyLabel(),
+                        style: TextStyle(
+                          fontSize: isMobile ? 11 : 13,
+                          fontWeight: FontWeight.bold,
+                          color: _getDifficultyColor(),
+                        ),
+                      ),
+                    ),
+                    if (_winStreak > 0) ...[
+                      const SizedBox(width: 8),
+                      Container(
+                        padding: EdgeInsets.symmetric(
+                          horizontal: isMobile ? 6 : 8,
+                          vertical: isMobile ? 3 : 4,
+                        ),
+                        decoration: BoxDecoration(
+                          gradient: const LinearGradient(
+                            colors: [Color(0xFFFF9800), Color(0xFFF44336)],
+                          ),
+                          borderRadius: BorderRadius.circular(4),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Text(
+                              '🔥',
+                              style: TextStyle(fontSize: isMobile ? 12 : 14),
+                            ),
+                            const SizedBox(width: 3),
+                            Text(
+                              '$_winStreak',
+                              style: TextStyle(
+                                fontSize: isMobile ? 12 : 14,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.white,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ],
+                ],
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildFloatingButtons() {
+    final isMobile = MediaQuery.of(context).size.width < 600;
+    final bottomSheetOffset = isMobile ? 200.0 : 250.0; // Leave space for bottom sheet
+
+    return Positioned(
+      right: isMobile ? 12 : 20,
+      bottom: bottomSheetOffset,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          // Hint button
+          FloatingActionButton(
+            heroTag: 'hint',
+            onPressed: _showHint,
+            backgroundColor: _hintUsed
+              ? const Color(0xFF1D428A).withOpacity(0.5)
+              : const Color(0xFF1D428A),
+            child: const Icon(Icons.lightbulb_outline, color: Colors.white),
+          ),
+          const SizedBox(height: 12),
+          // Radius toggle button
+          FloatingActionButton(
+            heroTag: 'radius',
+            onPressed: _guesses.isEmpty ? null : () {
+              setState(() {
+                _showRadiusHint = !_showRadiusHint;
+              });
+              _saveState();
+            },
+            backgroundColor: _showRadiusHint
+              ? const Color(0xFF1D428A)
+              : const Color(0xFF1D428A).withOpacity(0.7),
+            child: Icon(
+              _showRadiusHint ? Icons.radio_button_checked : Icons.radio_button_unchecked,
+              color: Colors.white,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildBottomSheet() {
+    final isMobile = MediaQuery.of(context).size.width < 600;
+    final gameEnded = _attemptsLeft == 0 ||
+      (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm);
+
+    return DraggableScrollableSheet(
+      initialChildSize: gameEnded ? 0.35 : 0.12, // Auto-expand when game ends
+      minChildSize: 0.08,
+      maxChildSize: 0.6,
+      snap: true,
+      snapSizes: const [0.12, 0.35, 0.6],
+      builder: (context, scrollController) {
+        return Container(
+          decoration: BoxDecoration(
+            color: Colors.white.withOpacity(0.3),
+            borderRadius: const BorderRadius.vertical(top: Radius.circular(20)),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.black.withOpacity(0.3),
+                blurRadius: 10,
+                offset: const Offset(0, -2),
+              ),
+            ],
+          ),
+          child: ListView(
+            controller: scrollController,
+            padding: EdgeInsets.all(isMobile ? 16 : 20),
+            children: [
+              // Drag handle
+              Center(
+                child: Container(
+                  width: 40,
+                  height: 4,
+                  margin: const EdgeInsets.only(bottom: 16),
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade300,
+                    borderRadius: BorderRadius.circular(2),
+                  ),
+                ),
+              ),
+              // Feedback panel content (reusing existing)
+              _buildFeedbackPanelContent(),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Widget _buildFeedbackPanelContent() {
+    final gameEnded = _attemptsLeft == 0 ||
+      (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm);
+    final isMobile = MediaQuery.of(context).size.width < 768;
+
+    // Adaptive sizing based on screen size
+    final containerPadding = isMobile ? 12.0 : 20.0;
+    final feedbackPadding = isMobile ? 8.0 : 16.0;
+    final feedbackFontSize = isMobile ? 16.0 : 20.0;
+    final distanceFontSize = isMobile ? 14.0 : 18.0;
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        // Feedback message with distance
+        Container(
+          padding: EdgeInsets.all(feedbackPadding),
+          decoration: BoxDecoration(
+            color: Colors.transparent,
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Column(
+            children: [
+              Text(
+                _feedback,
+                style: TextStyle(
+                  fontSize: feedbackFontSize,
+                  fontWeight: FontWeight.bold,
+                  color: const Color(0xFF1D428A),
+                ),
+                textAlign: TextAlign.center,
+              ),
+              if (_lastDistance != null) ...[
+                const SizedBox(height: 8),
+                Text(
+                  '${_lastDistance!.toStringAsFixed(0)} km away',
+                  style: TextStyle(
+                    fontSize: distanceFontSize,
+                    fontWeight: FontWeight.w600,
+                    color: const Color(0xFF1D428A).withOpacity(0.7),
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+              ],
+            ],
+          ),
+        ),
+
+        const SizedBox(height: 16),
+
+        // Share button (only show when game ended)
+        if (gameEnded)
+          ElevatedButton.icon(
+            onPressed: _shareResults,
+            icon: const Icon(Icons.share),
+            label: const Text('Share Results'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFF1D428A),
+              foregroundColor: Colors.white,
+              padding: EdgeInsets.symmetric(
+                horizontal: isMobile ? 20 : 24,
+                vertical: isMobile ? 12 : 16,
+              ),
+              textStyle: TextStyle(
+                fontSize: isMobile ? 16 : 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+
+        if (gameEnded) const SizedBox(height: 16),
+
+        // Guess history
+        if (_guesses.isNotEmpty) ...[
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text(
+                'Guesses (${_guesses.length}/6)',
+                style: TextStyle(
+                  fontSize: isMobile ? 14 : 16,
+                  fontWeight: FontWeight.bold,
+                  color: const Color(0xFF1D428A),
+                ),
+              ),
+              if (isMobile && _guesses.length > 3)
+                IconButton(
+                  icon: Icon(
+                    _guessHistoryExpanded ? Icons.expand_less : Icons.expand_more,
+                    size: 20,
+                    color: const Color(0xFF1D428A),
+                  ),
+                  onPressed: () {
+                    setState(() {
+                      _guessHistoryExpanded = !_guessHistoryExpanded;
+                    });
+                  },
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(),
+                ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          ...List.generate(
+            (isMobile && !_guessHistoryExpanded) ? min(3, _guesses.length) : _guesses.length,
+            (index) {
+              final dist = _calculateDistance(_guesses[index], _challenge!.coordinates);
+              return Padding(
+                padding: EdgeInsets.symmetric(vertical: isMobile ? 2 : 4),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(
+                      Icons.circle,
+                      color: _getMarkerColor(index),
+                      size: isMobile ? 12 : 16,
+                    ),
+                    const SizedBox(width: 6),
+                    Text(
+                      '#${index + 1}: ${dist.toStringAsFixed(0)} km',
+                      style: TextStyle(fontSize: isMobile ? 12 : 14),
+                    ),
+                  ],
+                ),
+              );
+            },
+          ),
+          if (isMobile && !_guessHistoryExpanded && _guesses.length > 3)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: Text(
+                '... +${_guesses.length - 3} more',
+                style: const TextStyle(
+                  fontSize: 12,
+                  fontStyle: FontStyle.italic,
+                  color: Colors.grey,
+                ),
+                textAlign: TextAlign.center,
+              ),
+            ),
+        ],
+      ],
+    );
+  }
+
   LatLng _getRandomOffsetStart() {
     // Generate random offset based on difficulty
     // This prevents the map from starting centered on the answer!
@@ -769,19 +1178,7 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   Widget _buildMap() {
-    return Container(
-      decoration: BoxDecoration(
-        border: Border.all(color: const Color(0xFF1D428A).withOpacity(0.3), width: 2),
-        boxShadow: [
-          BoxShadow(
-            color: const Color(0xFF1D428A).withOpacity(0.1),
-            blurRadius: 8,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: ClipRRect(
-        child: FlutterMap(
+    return FlutterMap(
           mapController: _mapController,
           options: MapOptions(
             initialCenter: _getRandomOffsetStart(), // NOT centered on answer!
@@ -884,8 +1281,6 @@ class _GameScreenState extends State<GameScreen> {
               ),
             ),
           ],
-        ),
-      ),
     );
   }
 
@@ -1076,9 +1471,9 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   String _generateShareText() {
-    // Get last 5 games (or fewer if not enough games played)
-    final recentToShow = _recentGames.length > 5
-        ? _recentGames.sublist(_recentGames.length - 5)
+    // Get last 10 games (or fewer if not enough games played)
+    final recentToShow = _recentGames.length > 10
+        ? _recentGames.sublist(_recentGames.length - 10)
         : _recentGames;
 
     // Build streak line
@@ -1087,42 +1482,39 @@ class _GameScreenState extends State<GameScreen> {
       streakLine = '🔥 $_winStreak streak';
     }
 
-    // Build session stats line
-    String sessionLine = '';
-    if (_todayGames > 0) {
-      sessionLine = '$_todayWins-${_todayGames - _todayWins} today';
+    // Group games by difficulty
+    Map<String, List<String>> difficultyGroups = {
+      'easy': [],
+      'medium': [],
+      'hard': [],
+    };
+
+    for (final game in recentToShow) {
+      final result = game.won ? '${game.attempts}/6' : '💀';
+      difficultyGroups[game.difficulty]?.add(result);
     }
 
-    // Combine streak and session
-    String headerLine = '';
-    if (streakLine.isNotEmpty && sessionLine.isNotEmpty) {
-      headerLine = '$streakLine | $sessionLine';
-    } else if (streakLine.isNotEmpty) {
-      headerLine = streakLine;
-    } else if (sessionLine.isNotEmpty) {
-      headerLine = sessionLine;
+    // Build difficulty lines
+    String difficultyText = '';
+    if (difficultyGroups['easy']!.isNotEmpty) {
+      difficultyText += '🟢 Easy: ${difficultyGroups['easy']!.join(' ')}\n';
     }
-
-    // Build recent wins section
-    String recentWinsText = '';
-    if (recentToShow.isNotEmpty) {
-      recentWinsText = 'Recent:\n';
-      for (final game in recentToShow) {
-        final emoji = game.getDifficultyEmoji();
-        final result = game.won ? '${game.attempts}/6' : '💀';
-        recentWinsText += '${game.locationName} $emoji $result\n';
-      }
+    if (difficultyGroups['medium']!.isNotEmpty) {
+      difficultyText += '🟡 Medium: ${difficultyGroups['medium']!.join(' ')}\n';
+    }
+    if (difficultyGroups['hard']!.isNotEmpty) {
+      difficultyText += '🔴 Hard: ${difficultyGroups['hard']!.join(' ')}\n';
     }
 
     // Build final share text
     String shareText = 'HotGeo 🗺️\n';
-    if (headerLine.isNotEmpty) {
-      shareText += '$headerLine\n\n';
+    if (streakLine.isNotEmpty) {
+      shareText += '$streakLine\n\n';
     }
-    if (recentWinsText.isNotEmpty) {
-      shareText += '$recentWinsText\n';
+    if (difficultyText.isNotEmpty) {
+      shareText += difficultyText;
     }
-    shareText += 'https://hotgeo.us';
+    shareText += '\nhttps://hotgeo.us';
 
     return shareText;
   }
