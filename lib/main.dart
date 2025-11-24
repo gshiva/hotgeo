@@ -75,6 +75,48 @@ class LocationChallenge {
   }
 }
 
+class GameResult {
+  final String locationName;
+  final String difficulty;
+  final bool won;
+  final int attempts;
+  final DateTime timestamp;
+
+  GameResult({
+    required this.locationName,
+    required this.difficulty,
+    required this.won,
+    required this.attempts,
+    required this.timestamp,
+  });
+
+  Map<String, dynamic> toJson() {
+    return {
+      'locationName': locationName,
+      'difficulty': difficulty,
+      'won': won,
+      'attempts': attempts,
+      'timestamp': timestamp.toIso8601String(),
+    };
+  }
+
+  factory GameResult.fromJson(Map<String, dynamic> json) {
+    return GameResult(
+      locationName: json['locationName'] as String,
+      difficulty: json['difficulty'] as String,
+      won: json['won'] as bool,
+      attempts: json['attempts'] as int,
+      timestamp: DateTime.parse(json['timestamp'] as String),
+    );
+  }
+
+  String getDifficultyEmoji() {
+    if (difficulty == 'easy') return '🟢';
+    if (difficulty == 'medium') return '🟡';
+    return '🔴';
+  }
+}
+
 class _GameScreenState extends State<GameScreen> {
   List<LocationChallenge>? _allChallenges; // Loaded from JSON
   LocationChallenge? _challenge; // Current challenge
@@ -87,10 +129,17 @@ class _GameScreenState extends State<GameScreen> {
   bool _hintUsed = false;
   bool _showRadiusHint = false; // Toggle for circular radius hint
 
+  // Session tracking
+  int _winStreak = 0;
+  List<GameResult> _recentGames = [];
+  int _todayWins = 0;
+  int _todayGames = 0;
+
   @override
   void initState() {
     super.initState();
     _loadChallenges();
+    _loadSessionStats();
   }
 
   Future<void> _loadChallenges() async {
@@ -183,6 +232,92 @@ class _GameScreenState extends State<GameScreen> {
         print('Error clearing state: $e');
       }
     }
+  }
+
+  Future<void> _loadSessionStats() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+
+      // Load win streak
+      _winStreak = prefs.getInt('hotgeo_winStreak') ?? 0;
+
+      // Load recent games
+      final recentGamesJson = prefs.getString('hotgeo_recentGames');
+      if (recentGamesJson != null) {
+        final List<dynamic> gamesList = json.decode(recentGamesJson);
+        _recentGames = gamesList.map((g) => GameResult.fromJson(g)).toList();
+
+        // Only keep last 10 games
+        if (_recentGames.length > 10) {
+          _recentGames = _recentGames.sublist(_recentGames.length - 10);
+        }
+      }
+
+      // Calculate today's stats
+      final today = DateTime.now();
+      final todayGames = _recentGames.where((g) {
+        return g.timestamp.year == today.year &&
+               g.timestamp.month == today.month &&
+               g.timestamp.day == today.day;
+      }).toList();
+
+      _todayGames = todayGames.length;
+      _todayWins = todayGames.where((g) => g.won).length;
+
+      setState(() {});
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error loading session stats: $e');
+      }
+    }
+  }
+
+  Future<void> _saveSessionStats() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+
+      // Save win streak
+      await prefs.setInt('hotgeo_winStreak', _winStreak);
+
+      // Save recent games (keep last 10)
+      final gamesToSave = _recentGames.length > 10
+          ? _recentGames.sublist(_recentGames.length - 10)
+          : _recentGames;
+      await prefs.setString(
+        'hotgeo_recentGames',
+        json.encode(gamesToSave.map((g) => g.toJson()).toList()),
+      );
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error saving session stats: $e');
+      }
+    }
+  }
+
+  void _recordGameResult(bool won) {
+    final attempts = 6 - _attemptsLeft;
+
+    // Update streak
+    if (won) {
+      _winStreak++;
+      _todayWins++;
+    } else {
+      _winStreak = 0; // Reset streak on loss
+    }
+    _todayGames++;
+
+    // Add to recent games
+    final result = GameResult(
+      locationName: _challenge!.name,
+      difficulty: _challenge!.difficulty,
+      won: won,
+      attempts: attempts,
+      timestamp: DateTime.now(),
+    );
+    _recentGames.add(result);
+
+    // Save stats
+    _saveSessionStats();
   }
 
   LocationChallenge _getDailyChallenge({int? customSeed}) {
@@ -293,8 +428,8 @@ class _GameScreenState extends State<GameScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Row(
-                children: const [
-                  Text(
+                children: [
+                  const Text(
                     'HotGeo',
                     style: TextStyle(
                       fontSize: 32,
@@ -303,11 +438,40 @@ class _GameScreenState extends State<GameScreen> {
                       letterSpacing: -0.5,
                     ),
                   ),
-                  SizedBox(width: 4),
-                  Text(
+                  const SizedBox(width: 4),
+                  const Text(
                     '🗺️',
                     style: TextStyle(fontSize: 28),
                   ),
+                  if (_winStreak > 0) ...[
+                    const SizedBox(width: 12),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          colors: [Color(0xFFFF9800), Color(0xFFF44336)],
+                        ),
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                      child: Row(
+                        children: [
+                          const Text(
+                            '🔥',
+                            style: TextStyle(fontSize: 18),
+                          ),
+                          const SizedBox(width: 4),
+                          Text(
+                            '$_winStreak',
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                 ],
               ),
               Text(
@@ -736,22 +900,55 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   String _generateShareText() {
-    final attempts = 6 - _attemptsLeft;
-    final won = _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm;
-    final threshold = _challenge!.winThresholdKm;
-    final squares = _guesses.map((g) {
-      final d = _calculateDistance(g, _challenge!.coordinates);
-      if (d <= threshold) return '🟥';
-      if (d <= threshold * 2) return '🟧';
-      if (d <= threshold * 5) return '🟨';
-      return '🟦';
-    }).join();
+    // Get last 5 games (or fewer if not enough games played)
+    final recentToShow = _recentGames.length > 5
+        ? _recentGames.sublist(_recentGames.length - 5)
+        : _recentGames;
 
-    final today = DateTime.now();
-    return 'HotGeo ${today.month}/${today.day}\n'
-           '$attempts/6 ${won ? "🏆" : "💀"}\n\n'
-           '$squares\n\n'
-           'https://gshiva.github.io/hotgeo/';
+    // Build streak line
+    String streakLine = '';
+    if (_winStreak > 0) {
+      streakLine = '🔥 $_winStreak streak';
+    }
+
+    // Build session stats line
+    String sessionLine = '';
+    if (_todayGames > 0) {
+      sessionLine = '$_todayWins-${_todayGames - _todayWins} today';
+    }
+
+    // Combine streak and session
+    String headerLine = '';
+    if (streakLine.isNotEmpty && sessionLine.isNotEmpty) {
+      headerLine = '$streakLine | $sessionLine';
+    } else if (streakLine.isNotEmpty) {
+      headerLine = streakLine;
+    } else if (sessionLine.isNotEmpty) {
+      headerLine = sessionLine;
+    }
+
+    // Build recent wins section
+    String recentWinsText = '';
+    if (recentToShow.isNotEmpty) {
+      recentWinsText = 'Recent:\n';
+      for (final game in recentToShow) {
+        final emoji = game.getDifficultyEmoji();
+        final result = game.won ? '${game.attempts}/6' : '💀';
+        recentWinsText += '${game.locationName} $emoji $result\n';
+      }
+    }
+
+    // Build final share text
+    String shareText = 'HotGeo 🗺️\n';
+    if (headerLine.isNotEmpty) {
+      shareText += '$headerLine\n\n';
+    }
+    if (recentWinsText.isNotEmpty) {
+      shareText += '$recentWinsText\n';
+    }
+    shareText += 'https://gshiva.github.io/hotgeo/';
+
+    return shareText;
   }
 
   Future<void> _shareResults() async {
@@ -925,6 +1122,12 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   void _resetGame() {
+    // Record the result of the just-finished game
+    if (_challenge != null && _guesses.isNotEmpty) {
+      final won = _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm;
+      _recordGameResult(won);
+    }
+
     setState(() {
       // Get a new random challenge each time
       _challenge = _getDailyChallenge(customSeed: DateTime.now().millisecondsSinceEpoch);
