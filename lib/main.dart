@@ -21,10 +21,12 @@ class HotGeoApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF8B4513), // Leather brown
+          seedColor: const Color(0xFF1D428A), // Warriors blue
           brightness: Brightness.light,
         ),
+        scaffoldBackgroundColor: Colors.white,
         useMaterial3: true,
+        fontFamily: 'SF Pro Display', // Clean modern font
       ),
       home: const GameScreen(),
     );
@@ -215,20 +217,20 @@ class _GameScreenState extends State<GameScreen> {
     // Show loading screen while challenges are being loaded
     if (_isLoading || _challenge == null) {
       return Scaffold(
-        backgroundColor: const Color(0xFFF4E4C1),
+        backgroundColor: Colors.white,
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const CircularProgressIndicator(
-                valueColor: AlwaysStoppedAnimation<Color>(Color(0xFF8B4513)),
+                valueColor: AlwaysStoppedAnimation<Color>(Color(0xFF1D428A)),
               ),
               const SizedBox(height: 20),
               Text(
                 'Loading locations...',
                 style: TextStyle(
                   fontSize: 18,
-                  color: const Color(0xFF8B4513),
+                  color: const Color(0xFF1D428A),
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -241,7 +243,7 @@ class _GameScreenState extends State<GameScreen> {
     final screenWidth = MediaQuery.sizeOf(context).width;
 
     return Scaffold(
-      backgroundColor: const Color(0xFFF4E4C1), // Parchment
+      backgroundColor: Colors.white,
       body: SafeArea(
         child: screenWidth < 600
           ? _buildMobileLayout()
@@ -274,7 +276,7 @@ class _GameScreenState extends State<GameScreen> {
         ),
         Container(
           width: 350,
-          color: const Color(0xFFE8D4B0),
+          color: const Color(0xFFF8F9FA),
           child: _buildFeedbackPanel(),
         ),
       ],
@@ -284,19 +286,29 @@ class _GameScreenState extends State<GameScreen> {
   Widget _buildHeader() {
     return Container(
       padding: const EdgeInsets.all(16),
-      color: const Color(0xFF8B4513).withOpacity(0.1),
+      color: const Color(0xFF1D428A).withOpacity(0.05),
       child: Column(
         children: [
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              const Text(
-                '🗺️ HotGeo',
-                style: TextStyle(
-                  fontSize: 32,
-                  fontWeight: FontWeight.bold,
-                  color: Color(0xFF5D4037),
-                ),
+              Row(
+                children: const [
+                  Text(
+                    'HotGeo',
+                    style: TextStyle(
+                      fontSize: 32,
+                      fontWeight: FontWeight.w800,
+                      color: Color(0xFF1D428A),
+                      letterSpacing: -0.5,
+                    ),
+                  ),
+                  SizedBox(width: 4),
+                  Text(
+                    '🗺️',
+                    style: TextStyle(fontSize: 28),
+                  ),
+                ],
               ),
               Text(
                 'Attempts: $_attemptsLeft/6',
@@ -329,21 +341,21 @@ class _GameScreenState extends State<GameScreen> {
               Container(
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                 decoration: BoxDecoration(
-                  color: const Color(0xFF8B4513).withOpacity(0.2),
+                  color: const Color(0xFF1D428A).withOpacity(0.1),
                   borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: const Color(0xFF8B4513), width: 2),
+                  border: Border.all(color: const Color(0xFF1D428A), width: 2),
                 ),
                 child: Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    const Icon(Icons.place, color: Color(0xFF5D4037), size: 20),
+                    const Icon(Icons.place, color: Color(0xFF1D428A), size: 20),
                     const SizedBox(width: 8),
                     Text(
                       'Find: ${_challenge!.name}',
                       style: const TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
-                        color: Color(0xFF5D4037),
+                        color: Color(0xFF1D428A),
                       ),
                     ),
                   ],
@@ -355,7 +367,7 @@ class _GameScreenState extends State<GameScreen> {
                 icon: const Icon(Icons.lightbulb_outline, size: 18),
                 label: Text(_hintUsed ? 'Hint Used' : 'Hint'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: _hintUsed ? const Color(0xFF8B4513).withOpacity(0.5) : const Color(0xFF8B4513),
+                  backgroundColor: _hintUsed ? const Color(0xFF1D428A).withOpacity(0.5) : const Color(0xFF1D428A),
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                 ),
@@ -375,7 +387,7 @@ class _GameScreenState extends State<GameScreen> {
                 ),
                 label: const Text('Radius'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: _showRadiusHint ? const Color(0xFF2196F3) : const Color(0xFF8B4513),
+                  backgroundColor: _showRadiusHint ? const Color(0xFF1D428A) : const Color(0xFF1D428A).withOpacity(0.7),
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                 ),
@@ -419,12 +431,12 @@ class _GameScreenState extends State<GameScreen> {
   Widget _buildMap() {
     return Container(
       decoration: BoxDecoration(
-        border: Border.all(color: const Color(0xFF8B4513), width: 3),
+        border: Border.all(color: const Color(0xFF1D428A).withOpacity(0.3), width: 2),
         boxShadow: [
           BoxShadow(
-            color: Colors.brown.withOpacity(0.3),
-            blurRadius: 10,
-            offset: const Offset(0, 5),
+            color: const Color(0xFF1D428A).withOpacity(0.1),
+            blurRadius: 8,
+            offset: const Offset(0, 2),
           ),
         ],
       ),
@@ -493,12 +505,12 @@ class _GameScreenState extends State<GameScreen> {
                 margin: const EdgeInsets.all(16),
                 padding: const EdgeInsets.all(8),
                 decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(0.9),
-                  border: Border.all(color: const Color(0xFF5D4037), width: 2),
-                  borderRadius: BorderRadius.circular(4),
+                  color: Colors.white.withOpacity(0.95),
+                  border: Border.all(color: const Color(0xFF1D428A), width: 2),
+                  borderRadius: BorderRadius.circular(6),
                   boxShadow: [
                     BoxShadow(
-                      color: Colors.black.withOpacity(0.2),
+                      color: Colors.black.withOpacity(0.1),
                       blurRadius: 4,
                       offset: const Offset(0, 2),
                     ),
@@ -512,9 +524,9 @@ class _GameScreenState extends State<GameScreen> {
                       height: 4,
                       decoration: BoxDecoration(
                         border: Border(
-                          bottom: BorderSide(color: const Color(0xFF5D4037), width: 2),
-                          left: BorderSide(color: const Color(0xFF5D4037), width: 2),
-                          right: BorderSide(color: const Color(0xFF5D4037), width: 2),
+                          bottom: BorderSide(color: const Color(0xFF1D428A), width: 2),
+                          left: BorderSide(color: const Color(0xFF1D428A), width: 2),
+                          right: BorderSide(color: const Color(0xFF1D428A), width: 2),
                         ),
                       ),
                     ),
@@ -524,7 +536,7 @@ class _GameScreenState extends State<GameScreen> {
                       style: const TextStyle(
                         fontSize: 12,
                         fontWeight: FontWeight.bold,
-                        color: Color(0xFF5D4037),
+                        color: Color(0xFF1D428A),
                       ),
                     ),
                   ],
@@ -680,19 +692,19 @@ class _GameScreenState extends State<GameScreen> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        backgroundColor: const Color(0xFFF4E4C1),
+        backgroundColor: Colors.white,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
-          side: const BorderSide(color: Color(0xFF8B4513), width: 3),
+          borderRadius: BorderRadius.circular(16),
+          side: const BorderSide(color: Color(0xFF1D428A), width: 2),
         ),
         title: Row(
           children: const [
-            Icon(Icons.lightbulb, color: Color(0xFF8B4513)),
+            Icon(Icons.lightbulb, color: Color(0xFF1D428A)),
             SizedBox(width: 8),
             Text(
               'Hint',
               style: TextStyle(
-                color: Color(0xFF5D4037),
+                color: Color(0xFF1D428A),
                 fontWeight: FontWeight.bold,
               ),
             ),
@@ -703,7 +715,7 @@ class _GameScreenState extends State<GameScreen> {
           style: const TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.bold,
-            color: Color(0xFF5D4037),
+            color: Color(0xFF1D428A),
           ),
           textAlign: TextAlign.center,
         ),
@@ -713,7 +725,7 @@ class _GameScreenState extends State<GameScreen> {
             child: const Text(
               'Got it!',
               style: TextStyle(
-                color: Color(0xFF8B4513),
+                color: Color(0xFF1D428A),
                 fontWeight: FontWeight.bold,
               ),
             ),
@@ -800,12 +812,12 @@ class _GameScreenState extends State<GameScreen> {
           Container(
             padding: const EdgeInsets.all(16),
             decoration: BoxDecoration(
-              color: const Color(0xFFE8D4B0),
-              border: Border.all(color: const Color(0xFF8B4513), width: 2),
-              borderRadius: BorderRadius.circular(8),
+              color: const Color(0xFFF8F9FA),
+              border: Border.all(color: const Color(0xFF1D428A), width: 2),
+              borderRadius: BorderRadius.circular(12),
               boxShadow: [
                 BoxShadow(
-                  color: Colors.black26,
+                  color: const Color(0xFF1D428A).withOpacity(0.1),
                   blurRadius: 4,
                   offset: const Offset(0, 2),
                 ),
@@ -876,7 +888,7 @@ class _GameScreenState extends State<GameScreen> {
               icon: const Icon(Icons.refresh),
               label: const Text('Play Again'),
               style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFF8B4513),
+                backgroundColor: const Color(0xFF1D428A),
                 foregroundColor: Colors.white,
                 padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
               ),
@@ -887,8 +899,8 @@ class _GameScreenState extends State<GameScreen> {
               icon: const Icon(Icons.share),
               label: const Text('Share Score'),
               style: OutlinedButton.styleFrom(
-                foregroundColor: const Color(0xFF8B4513),
-                side: const BorderSide(color: Color(0xFF8B4513), width: 2),
+                foregroundColor: const Color(0xFF1D428A),
+                side: const BorderSide(color: Color(0xFF1D428A), width: 2),
                 padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
               ),
             ),
