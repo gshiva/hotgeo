@@ -1,17 +1,1004 @@
 {
   "metadata": {
-    "version": "2.0",
-    "algorithm": "size-based-with-hints",
-    "generated": "2025-01-23",
-    "total": 25,
+    "version": "3.0",
+    "algorithm": "365-day-challenge",
+    "generated": "2025-11-23",
+    "total": 365,
     "distribution": {
-      "easy": 7,
-      "medium": 8,
-      "hard": 10
+      "easy": 64,
+      "medium": 64,
+      "hard": 237
     }
   },
   "locations": [
     {
+      "id": 1,
+      "name": "Dar es Salaam",
+      "coordinates": {
+        "lat": -6.7924,
+        "lng": 39.2083
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Tanzania 🇹🇿",
+        "region": "Coastal Zone",
+        "population": 4400000
+      }
+    },
+    {
+      "id": 2,
+      "name": "Phnom Penh",
+      "coordinates": {
+        "lat": 11.5564,
+        "lng": 104.9282
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Cambodia 🇰🇭",
+        "region": "Central Cambodia",
+        "population": 1600000
+      }
+    },
+    {
+      "id": 3,
+      "name": "Malacca",
+      "coordinates": {
+        "lat": 2.1896,
+        "lng": 102.2501
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Malaysia 🇲🇾",
+        "region": "Malacca",
+        "population": 455000
+      }
+    },
+    {
+      "id": 4,
+      "name": "Toledo",
+      "coordinates": {
+        "lat": 39.8628,
+        "lng": -4.0273
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Castilla-La Mancha",
+        "population": 85000
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rotterdam",
+      "coordinates": {
+        "lat": 51.9225,
+        "lng": 4.4792
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "South Holland",
+        "population": 651000
+      }
+    },
+    {
+      "id": 6,
+      "name": "Washington DC",
+      "coordinates": {
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "District of Columbia",
+        "population": 705000
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nicosia",
+      "coordinates": {
+        "lat": 35.1856,
+        "lng": 33.3823
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Cyprus 🇨🇾",
+        "region": "Central Cyprus",
+        "population": 55000
+      }
+    },
+    {
+      "id": 8,
+      "name": "Los Angeles",
+      "coordinates": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "California",
+        "population": 4000000
+      }
+    },
+    {
+      "id": 9,
+      "name": "Wellington",
+      "coordinates": {
+        "lat": -41.2865,
+        "lng": 174.7762
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "North Island",
+        "population": 215000
+      }
+    },
+    {
+      "id": 10,
+      "name": "College Park",
+      "coordinates": {
+        "lat": 38.9807,
+        "lng": -76.9369
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Maryland - DC Metro",
+        "population": 30000
+      }
+    },
+    {
+      "id": 11,
+      "name": "New York",
+      "coordinates": {
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "New York",
+        "population": 8300000
+      }
+    },
+    {
+      "id": 12,
+      "name": "Rishikesh",
+      "coordinates": {
+        "lat": 30.0869,
+        "lng": 78.2676
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Uttarakhand",
+        "population": 102000
+      }
+    },
+    {
+      "id": 13,
+      "name": "Burgas",
+      "coordinates": {
+        "lat": 42.5048,
+        "lng": 27.4626
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bulgaria 🇧🇬",
+        "region": "Black Sea Coast",
+        "population": 203000
+      }
+    },
+    {
+      "id": 14,
+      "name": "Naples",
+      "coordinates": {
+        "lat": 40.8518,
+        "lng": 14.2681
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Campania",
+        "population": 967000
+      }
+    },
+    {
+      "id": 15,
+      "name": "Toronto",
+      "coordinates": {
+        "lat": 43.6532,
+        "lng": -79.3832
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Canada 🇨🇦",
+        "region": "Ontario",
+        "population": 2900000
+      }
+    },
+    {
+      "id": 16,
+      "name": "Addis Ababa",
+      "coordinates": {
+        "lat": 9.032,
+        "lng": 38.7469
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Ethiopia 🇪🇹",
+        "region": "Addis Ababa Region",
+        "population": 3400000
+      }
+    },
+    {
+      "id": 17,
+      "name": "Baghdad",
+      "coordinates": {
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Iraq 🇮🇶",
+        "region": "Baghdad Governorate",
+        "population": 7200000
+      }
+    },
+    {
+      "id": 18,
+      "name": "Brasov",
+      "coordinates": {
+        "lat": 45.6427,
+        "lng": 25.5887
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Romania 🇷🇴",
+        "region": "Transylvania",
+        "population": 253000
+      }
+    },
+    {
+      "id": 19,
+      "name": "Oslo",
+      "coordinates": {
+        "lat": 59.9139,
+        "lng": 10.7522
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Norway 🇳🇴",
+        "region": "Eastern Norway",
+        "population": 697000
+      }
+    },
+    {
+      "id": 20,
+      "name": "Perth",
+      "coordinates": {
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Western Australia",
+        "population": 2000000
+      }
+    },
+    {
+      "id": 21,
+      "name": "Kosice",
+      "coordinates": {
+        "lat": 48.7164,
+        "lng": 21.2611
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Slovakia 🇸🇰",
+        "region": "Eastern Slovakia",
+        "population": 239000
+      }
+    },
+    {
+      "id": 22,
+      "name": "São Paulo",
+      "coordinates": {
+        "lat": -23.5505,
+        "lng": -46.6333
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Brazil 🇧🇷",
+        "region": "Southeast",
+        "population": 12300000
+      }
+    },
+    {
+      "id": 23,
+      "name": "Pamplona",
+      "coordinates": {
+        "lat": 42.8125,
+        "lng": -1.6458
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Navarre",
+        "population": 201000
+      }
+    },
+    {
+      "id": 24,
+      "name": "Buenos Aires",
+      "coordinates": {
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Argentina 🇦🇷",
+        "region": "Pampas",
+        "population": 3100000
+      }
+    },
+    {
+      "id": 25,
+      "name": "Hampi",
+      "coordinates": {
+        "lat": 15.335,
+        "lng": 76.46
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Karnataka - Ancient ruins",
+        "population": 30000
+      }
+    },
+    {
+      "id": 26,
+      "name": "Kandy",
+      "coordinates": {
+        "lat": 7.2906,
+        "lng": 80.6337
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sri Lanka 🇱🇰",
+        "region": "Central Province",
+        "population": 125000
+      }
+    },
+    {
+      "id": 27,
+      "name": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Bernese Oberland",
+        "population": 5600
+      }
+    },
+    {
+      "id": 28,
+      "name": "Trier",
+      "coordinates": {
+        "lat": 49.7596,
+        "lng": 6.6441
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Rhineland-Palatinate",
+        "population": 111000
+      }
+    },
+    {
+      "id": 29,
+      "name": "Eindhoven",
+      "coordinates": {
+        "lat": 51.4416,
+        "lng": 5.4697
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "North Brabant",
+        "population": 234000
+      }
+    },
+    {
+      "id": 30,
+      "name": "Augsburg",
+      "coordinates": {
+        "lat": 48.3705,
+        "lng": 10.8978
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 296000
+      }
+    },
+    {
+      "id": 31,
+      "name": "Uluru",
+      "coordinates": {
+        "lat": -25.3444,
+        "lng": 131.0369
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Northern Territory",
+        "population": 0
+      }
+    },
+    {
+      "id": 32,
+      "name": "Tallinn",
+      "coordinates": {
+        "lat": 59.437,
+        "lng": 24.7536
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Estonia 🇪🇪",
+        "region": "Harju County",
+        "population": 439000
+      }
+    },
+    {
+      "id": 33,
+      "name": "Hong Kong",
+      "coordinates": {
+        "lat": 22.3193,
+        "lng": 114.1694
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "China 🇨🇳",
+        "region": "Pearl River Delta",
+        "population": 7500000
+      }
+    },
+    {
+      "id": 34,
+      "name": "Denver",
+      "coordinates": {
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Colorado",
+        "population": 716000
+      }
+    },
+    {
+      "id": 35,
+      "name": "Prague",
+      "coordinates": {
+        "lat": 50.0755,
+        "lng": 14.4378
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Czechia 🇨🇿",
+        "region": "Prague",
+        "population": 1300000
+      }
+    },
+    {
+      "id": 36,
+      "name": "Rothenburg",
+      "coordinates": {
+        "lat": 49.3779,
+        "lng": 10.1786
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 11000
+      }
+    },
+    {
+      "id": 37,
+      "name": "Würzburg",
+      "coordinates": {
+        "lat": 49.7913,
+        "lng": 9.9534
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 127000
+      }
+    },
+    {
+      "id": 38,
+      "name": "Kotor",
+      "coordinates": {
+        "lat": 42.4246,
+        "lng": 18.7712
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Montenegro 🇲🇪",
+        "region": "Bay of Kotor",
+        "population": 13000
+      }
+    },
+    {
+      "id": 39,
+      "name": "Ghent",
+      "coordinates": {
+        "lat": 51.0543,
+        "lng": 3.7174
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "East Flanders",
+        "population": 262000
+      }
+    },
+    {
+      "id": 40,
+      "name": "Tartu",
+      "coordinates": {
+        "lat": 58.378,
+        "lng": 26.729
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Estonia 🇪🇪",
+        "region": "Tartu County",
+        "population": 95000
+      }
+    },
+    {
+      "id": 41,
+      "name": "Tehran",
+      "coordinates": {
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Iran 🇮🇷",
+        "region": "Tehran Province",
+        "population": 9000000
+      }
+    },
+    {
+      "id": 42,
+      "name": "Zadar",
+      "coordinates": {
+        "lat": 44.1194,
+        "lng": 15.2314
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Croatia 🇭🇷",
+        "region": "Dalmatia",
+        "population": 75000
+      }
+    },
+    {
+      "id": 43,
+      "name": "Lusaka",
+      "coordinates": {
+        "lat": -15.3875,
+        "lng": 28.3228
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Zambia 🇿🇲",
+        "region": "Lusaka Province",
+        "population": 2500000
+      }
+    },
+    {
+      "id": 44,
+      "name": "Bremen",
+      "coordinates": {
+        "lat": 53.0793,
+        "lng": 8.8017
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bremen",
+        "population": 569000
+      }
+    },
+    {
+      "id": 45,
+      "name": "Hannover",
+      "coordinates": {
+        "lat": 52.3759,
+        "lng": 9.732
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Lower Saxony",
+        "population": 535000
+      }
+    },
+    {
+      "id": 46,
+      "name": "Porto",
+      "coordinates": {
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Norte",
+        "population": 237000
+      }
+    },
+    {
+      "id": 47,
+      "name": "Limassol",
+      "coordinates": {
+        "lat": 34.7071,
+        "lng": 33.0226
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Cyprus 🇨🇾",
+        "region": "Southern Cyprus",
+        "population": 101000
+      }
+    },
+    {
+      "id": 48,
+      "name": "Coimbatore",
+      "coordinates": {
+        "lat": 11.0168,
+        "lng": 76.9558
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Tamil Nadu",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 49,
+      "name": "Calgary",
+      "coordinates": {
+        "lat": 51.0447,
+        "lng": -114.0719
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Canada 🇨🇦",
+        "region": "Alberta",
+        "population": 1300000
+      }
+    },
+    {
+      "id": 50,
+      "name": "Rio de Janeiro",
+      "coordinates": {
+        "lat": -22.9068,
+        "lng": -43.1729
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Brazil 🇧🇷",
+        "region": "Southeast",
+        "population": 6700000
+      }
+    },
+    {
+      "id": 51,
+      "name": "Las Palmas",
+      "coordinates": {
+        "lat": 28.1236,
+        "lng": -15.4366
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Canary Islands",
+        "population": 378000
+      }
+    },
+    {
+      "id": 52,
+      "name": "Tiruppur",
+      "coordinates": {
+        "lat": 11.1075,
+        "lng": 77.3398
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Tamil Nadu",
+        "population": 450000
+      }
+    },
+    {
+      "id": 53,
+      "name": "Borobudur",
+      "coordinates": {
+        "lat": -7.6079,
+        "lng": 110.2038
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "Java - Buddhist temple",
+        "population": 40000
+      }
+    },
+    {
+      "id": 54,
+      "name": "Portland",
+      "coordinates": {
+        "lat": 45.5152,
+        "lng": -122.6784
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Oregon",
+        "population": 654000
+      }
+    },
+    {
+      "id": 55,
+      "name": "Rennes",
+      "coordinates": {
+        "lat": 48.1173,
+        "lng": -1.6778
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Brittany",
+        "population": 217000
+      }
+    },
+    {
+      "id": 56,
+      "name": "San Sebastian",
+      "coordinates": {
+        "lat": 43.3183,
+        "lng": -1.9812
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Basque Country",
+        "population": 187000
+      }
+    },
+    {
+      "id": 57,
+      "name": "Turin",
+      "coordinates": {
+        "lat": 45.0703,
+        "lng": 7.6869
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Piedmont",
+        "population": 872000
+      }
+    },
+    {
+      "id": 58,
+      "name": "St. Moritz",
+      "coordinates": {
+        "lat": 46.4979,
+        "lng": 9.8355
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Grisons",
+        "population": 5100
+      }
+    },
+    {
+      "id": 59,
       "name": "Mumbai",
       "coordinates": {
         "lat": 19.076,
@@ -22,268 +1009,285 @@
       "winThresholdKm": 50.0,
       "difficulty": "easy",
       "hints": {
-        "country": "India \ud83c\uddee\ud83c\uddf3",
+        "country": "India 🇮🇳",
         "region": "Maharashtra",
         "population": 12500000
       }
     },
     {
-      "name": "S\u00e3o Paulo",
+      "id": 60,
+      "name": "Erfurt",
       "coordinates": {
-        "lat": -23.5505,
-        "lng": -46.6333
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "Brazil \ud83c\udde7\ud83c\uddf7",
-        "region": "Southeast",
-        "population": 12300000
-      }
-    },
-    {
-      "name": "Cairo",
-      "coordinates": {
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "Egypt \ud83c\uddea\ud83c\uddec",
-        "region": "Nile Delta",
-        "population": 9500000
-      }
-    },
-    {
-      "name": "Lagos",
-      "coordinates": {
-        "lat": 6.5244,
-        "lng": 3.3792
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "Nigeria \ud83c\uddf3\ud83c\uddec",
-        "region": "Southwest",
-        "population": 8800000
-      }
-    },
-    {
-      "name": "Bangkok",
-      "coordinates": {
-        "lat": 13.7563,
-        "lng": 100.5018
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "Thailand \ud83c\uddf9\ud83c\udded",
-        "region": "Central",
-        "population": 8300000
-      }
-    },
-    {
-      "name": "Chennai",
-      "coordinates": {
-        "lat": 13.0827,
-        "lng": 80.2707
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "India \ud83c\uddee\ud83c\uddf3",
-        "region": "Tamil Nadu",
-        "population": 7100000
-      }
-    },
-    {
-      "name": "Bogot\u00e1",
-      "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
-      },
-      "zoom": 4.5,
-      "answerZoom": 7,
-      "winThresholdKm": 50.0,
-      "difficulty": "easy",
-      "hints": {
-        "country": "Colombia \ud83c\udde8\ud83c\uddf4",
-        "region": "Andes",
-        "population": 7400000
-      }
-    },
-    {
-      "name": "Lyon",
-      "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
-      },
-      "zoom": 5.5,
-      "answerZoom": 10,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "France \ud83c\uddeb\ud83c\uddf7",
-        "region": "Auvergne-Rh\u00f4ne-Alpes",
-        "population": 513000
-      }
-    },
-    {
-      "name": "Krakow",
-      "coordinates": {
-        "lat": 50.0647,
-        "lng": 19.945
-      },
-      "zoom": 5.5,
-      "answerZoom": 10,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Poland \ud83c\uddf5\ud83c\uddf1",
-        "region": "Lesser Poland",
-        "population": 780000
-      }
-    },
-    {
-      "name": "Porto",
-      "coordinates": {
-        "lat": 41.1579,
-        "lng": -8.6291
-      },
-      "zoom": 5.5,
-      "answerZoom": 11,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Portugal \ud83c\uddf5\ud83c\uddf9",
-        "region": "Norte",
-        "population": 237000
-      }
-    },
-    {
-      "name": "Valencia",
-      "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
-      },
-      "zoom": 5.5,
-      "answerZoom": 10,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Spain \ud83c\uddea\ud83c\uddf8",
-        "region": "Valencia",
-        "population": 791000
-      }
-    },
-    {
-      "name": "Seville",
-      "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
-      },
-      "zoom": 5.5,
-      "answerZoom": 10,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Spain \ud83c\uddea\ud83c\uddf8",
-        "region": "Andalusia",
-        "population": 688000
-      }
-    },
-    {
-      "name": "Thessaloniki",
-      "coordinates": {
-        "lat": 40.6401,
-        "lng": 22.9444
-      },
-      "zoom": 5.5,
-      "answerZoom": 11,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Greece \ud83c\uddec\ud83c\uddf7",
-        "region": "Macedonia",
-        "population": 325000
-      }
-    },
-    {
-      "name": "Cork",
-      "coordinates": {
-        "lat": 51.8985,
-        "lng": -8.4756
-      },
-      "zoom": 5.5,
-      "answerZoom": 11,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "Ireland \ud83c\uddee\ud83c\uddea",
-        "region": "Munster",
-        "population": 210000
-      }
-    },
-    {
-      "name": "Tiruppur",
-      "coordinates": {
-        "lat": 11.1075,
-        "lng": 77.3398
-      },
-      "zoom": 5.5,
-      "answerZoom": 11,
-      "winThresholdKm": 25.0,
-      "difficulty": "medium",
-      "hints": {
-        "country": "India \ud83c\uddee\ud83c\uddf3",
-        "region": "Tamil Nadu",
-        "population": 450000
-      }
-    },
-    {
-      "name": "Innsbruck",
-      "coordinates": {
-        "lat": 47.2692,
-        "lng": 11.4041
+        "lat": 50.9787,
+        "lng": 11.0328
       },
       "zoom": 6.5,
       "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "Austria \ud83c\udde6\ud83c\uddf9",
-        "region": "Tyrol",
-        "population": 132000
+        "country": "Germany 🇩🇪",
+        "region": "Thuringia",
+        "population": 214000
       }
     },
     {
-      "name": "Hampi",
+      "id": 61,
+      "name": "Agra",
       "coordinates": {
-        "lat": 15.335,
-        "lng": 76.46
+        "lat": 27.1767,
+        "lng": 78.0081
       },
       "zoom": 6.5,
-      "answerZoom": 14,
+      "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "India \ud83c\uddee\ud83c\uddf3",
-        "region": "Karnataka - Ancient ruins",
-        "population": 30000
+        "country": "India 🇮🇳",
+        "region": "Uttar Pradesh",
+        "population": 1600000
       }
     },
     {
+      "id": 62,
+      "name": "Tampa",
+      "coordinates": {
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Florida",
+        "population": 399000
+      }
+    },
+    {
+      "id": 63,
+      "name": "Bristol",
+      "coordinates": {
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "England",
+        "population": 463000
+      }
+    },
+    {
+      "id": 64,
+      "name": "Pompeii",
+      "coordinates": {
+        "lat": 40.7461,
+        "lng": 14.4989
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Campania - Ancient ruins",
+        "population": 25000
+      }
+    },
+    {
+      "id": 65,
+      "name": "Johannesburg",
+      "coordinates": {
+        "lat": -26.2041,
+        "lng": 28.0473
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "South Africa 🇿🇦",
+        "region": "Gauteng",
+        "population": 5600000
+      }
+    },
+    {
+      "id": 66,
+      "name": "Cluj-Napoca",
+      "coordinates": {
+        "lat": 46.7712,
+        "lng": 23.6236
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Romania 🇷🇴",
+        "region": "Transylvania",
+        "population": 324000
+      }
+    },
+    {
+      "id": 67,
+      "name": "Dhaka",
+      "coordinates": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Bangladesh 🇧🇩",
+        "region": "Dhaka Division",
+        "population": 8900000
+      }
+    },
+    {
+      "id": 68,
+      "name": "Plovdiv",
+      "coordinates": {
+        "lat": 42.1354,
+        "lng": 24.7453
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bulgaria 🇧🇬",
+        "region": "Thrace",
+        "population": 346000
+      }
+    },
+    {
+      "id": 69,
+      "name": "Kathmandu",
+      "coordinates": {
+        "lat": 27.7172,
+        "lng": 85.324
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Nepal 🇳🇵",
+        "region": "Kathmandu Valley",
+        "population": 1400000
+      }
+    },
+    {
+      "id": 70,
+      "name": "Thimphu",
+      "coordinates": {
+        "lat": 27.4728,
+        "lng": 89.6393
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bhutan 🇧🇹",
+        "region": "Western Bhutan",
+        "population": 115000
+      }
+    },
+    {
+      "id": 71,
+      "name": "Matera",
+      "coordinates": {
+        "lat": 40.6663,
+        "lng": 16.6043
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Basilicata",
+        "population": 60000
+      }
+    },
+    {
+      "id": 72,
+      "name": "Helsinki",
+      "coordinates": {
+        "lat": 60.1699,
+        "lng": 24.9384
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Finland 🇫🇮",
+        "region": "Uusimaa",
+        "population": 656000
+      }
+    },
+    {
+      "id": 73,
+      "name": "Bucharest",
+      "coordinates": {
+        "lat": 44.4268,
+        "lng": 26.1025
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Romania 🇷🇴",
+        "region": "Wallachia",
+        "population": 1900000
+      }
+    },
+    {
+      "id": 74,
+      "name": "Gdansk",
+      "coordinates": {
+        "lat": 54.352,
+        "lng": 18.6466
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Pomerania",
+        "population": 470000
+      }
+    },
+    {
+      "id": 75,
+      "name": "Ottawa",
+      "coordinates": {
+        "lat": 45.4215,
+        "lng": -75.6972
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Canada 🇨🇦",
+        "region": "Ontario",
+        "population": 1000000
+      }
+    },
+    {
+      "id": 76,
       "name": "Bruges",
       "coordinates": {
         "lat": 51.2093,
@@ -294,12 +1298,2189 @@
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "Belgium \ud83c\udde7\ud83c\uddea",
+        "country": "Belgium 🇧🇪",
         "region": "West Flanders",
         "population": 118000
       }
     },
     {
+      "id": 77,
+      "name": "Genoa",
+      "coordinates": {
+        "lat": 44.4056,
+        "lng": 8.9463
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Liguria",
+        "population": 583000
+      }
+    },
+    {
+      "id": 78,
+      "name": "Nairobi",
+      "coordinates": {
+        "lat": -1.2921,
+        "lng": 36.8219
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Kenya 🇰🇪",
+        "region": "Nairobi County",
+        "population": 4400000
+      }
+    },
+    {
+      "id": 79,
+      "name": "Lund",
+      "coordinates": {
+        "lat": 55.7047,
+        "lng": 13.191
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sweden 🇸🇪",
+        "region": "Skåne",
+        "population": 94000
+      }
+    },
+    {
+      "id": 80,
+      "name": "Vientiane",
+      "coordinates": {
+        "lat": 17.9757,
+        "lng": 102.6331
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Laos 🇱🇦",
+        "region": "Central Laos",
+        "population": 820000
+      }
+    },
+    {
+      "id": 81,
+      "name": "Palermo",
+      "coordinates": {
+        "lat": 38.1157,
+        "lng": 13.3615
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Sicily",
+        "population": 676000
+      }
+    },
+    {
+      "id": 82,
+      "name": "Cairns",
+      "coordinates": {
+        "lat": -16.9186,
+        "lng": 145.7781
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Queensland",
+        "population": 153000
+      }
+    },
+    {
+      "id": 83,
+      "name": "Zakopane",
+      "coordinates": {
+        "lat": 49.2992,
+        "lng": 19.9496
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Tatra Mountains",
+        "population": 27000
+      }
+    },
+    {
+      "id": 84,
+      "name": "Shimla",
+      "coordinates": {
+        "lat": 31.1048,
+        "lng": 77.1734
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Himachal Pradesh",
+        "population": 170000
+      }
+    },
+    {
+      "id": 85,
+      "name": "Milan",
+      "coordinates": {
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Lombardy",
+        "population": 1400000
+      }
+    },
+    {
+      "id": 86,
+      "name": "Antwerp",
+      "coordinates": {
+        "lat": 51.2194,
+        "lng": 4.4025
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "Flanders",
+        "population": 523000
+      }
+    },
+    {
+      "id": 87,
+      "name": "Montpellier",
+      "coordinates": {
+        "lat": 43.6108,
+        "lng": 3.8767
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Occitanie",
+        "population": 290000
+      }
+    },
+    {
+      "id": 88,
+      "name": "Barcelona",
+      "coordinates": {
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Catalonia",
+        "population": 1600000
+      }
+    },
+    {
+      "id": 89,
+      "name": "Dakar",
+      "coordinates": {
+        "lat": 14.7167,
+        "lng": -17.4677
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Senegal 🇸🇳",
+        "region": "Cap-Vert Peninsula",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 90,
+      "name": "Belgrade",
+      "coordinates": {
+        "lat": 44.7866,
+        "lng": 20.4489
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Serbia 🇷🇸",
+        "region": "Central Serbia",
+        "population": 1400000
+      }
+    },
+    {
+      "id": 91,
+      "name": "Warsaw",
+      "coordinates": {
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Masovia",
+        "population": 1800000
+      }
+    },
+    {
+      "id": 92,
+      "name": "Odesa",
+      "coordinates": {
+        "lat": 46.4825,
+        "lng": 30.7233
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Ukraine 🇺🇦",
+        "region": "Black Sea Coast",
+        "population": 1000000
+      }
+    },
+    {
+      "id": 93,
+      "name": "Amritsar",
+      "coordinates": {
+        "lat": 31.634,
+        "lng": 74.8723
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Punjab",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 94,
+      "name": "Hamburg",
+      "coordinates": {
+        "lat": 53.5511,
+        "lng": 9.9937
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Hamburg",
+        "population": 1900000
+      }
+    },
+    {
+      "id": 95,
+      "name": "Kinshasa",
+      "coordinates": {
+        "lat": -4.4419,
+        "lng": 15.2663
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "DR Congo 🇨🇩",
+        "region": "Congo River",
+        "population": 11600000
+      }
+    },
+    {
+      "id": 96,
+      "name": "Rijeka",
+      "coordinates": {
+        "lat": 45.3271,
+        "lng": 14.4422
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Croatia 🇭🇷",
+        "region": "Primorje",
+        "population": 128000
+      }
+    },
+    {
+      "id": 97,
+      "name": "Innsbruck",
+      "coordinates": {
+        "lat": 47.2692,
+        "lng": 11.4041
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria 🇦🇹",
+        "region": "Tyrol",
+        "population": 132000
+      }
+    },
+    {
+      "id": 98,
+      "name": "Tromsø",
+      "coordinates": {
+        "lat": 69.6492,
+        "lng": 18.9553
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Norway 🇳🇴",
+        "region": "Northern Norway",
+        "population": 76000
+      }
+    },
+    {
+      "id": 99,
+      "name": "Mandalay",
+      "coordinates": {
+        "lat": 21.9588,
+        "lng": 96.0891
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Myanmar 🇲🇲",
+        "region": "Mandalay Region",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 100,
+      "name": "Udaipur",
+      "coordinates": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Rajasthan",
+        "population": 451000
+      }
+    },
+    {
+      "id": 101,
+      "name": "Dallas",
+      "coordinates": {
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Texas",
+        "population": 1304000
+      }
+    },
+    {
+      "id": 102,
+      "name": "Murcia",
+      "coordinates": {
+        "lat": 37.9922,
+        "lng": -1.1307
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Murcia",
+        "population": 453000
+      }
+    },
+    {
+      "id": 103,
+      "name": "Hoi An",
+      "coordinates": {
+        "lat": 15.8801,
+        "lng": 108.338
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Vietnam 🇻🇳",
+        "region": "Central Vietnam",
+        "population": 152000
+      }
+    },
+    {
+      "id": 104,
+      "name": "Tokyo",
+      "coordinates": {
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Japan 🇯🇵",
+        "region": "Kanto",
+        "population": 14000000
+      }
+    },
+    {
+      "id": 105,
+      "name": "Groningen",
+      "coordinates": {
+        "lat": 53.2194,
+        "lng": 6.5665
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "Groningen",
+        "population": 233000
+      }
+    },
+    {
+      "id": 106,
+      "name": "Yogyakarta",
+      "coordinates": {
+        "lat": -7.7956,
+        "lng": 110.3695
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "Java",
+        "population": 388000
+      }
+    },
+    {
+      "id": 107,
+      "name": "Utrecht",
+      "coordinates": {
+        "lat": 52.0907,
+        "lng": 5.1214
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "Utrecht",
+        "population": 357000
+      }
+    },
+    {
+      "id": 108,
+      "name": "Pilsen",
+      "coordinates": {
+        "lat": 49.7384,
+        "lng": 13.3736
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Czechia 🇨🇿",
+        "region": "Pilsen Region",
+        "population": 169000
+      }
+    },
+    {
+      "id": 109,
+      "name": "Queenstown",
+      "coordinates": {
+        "lat": -45.0312,
+        "lng": 168.6626
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "South Island",
+        "population": 16000
+      }
+    },
+    {
+      "id": 110,
+      "name": "Cologne",
+      "coordinates": {
+        "lat": 50.9375,
+        "lng": 6.9603
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "North Rhine-Westphalia",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 111,
+      "name": "Savannah",
+      "coordinates": {
+        "lat": 32.0809,
+        "lng": -81.0912
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Georgia",
+        "population": 147000
+      }
+    },
+    {
+      "id": 112,
+      "name": "Philadelphia",
+      "coordinates": {
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Pennsylvania",
+        "population": 1584000
+      }
+    },
+    {
+      "id": 113,
+      "name": "Seville",
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Andalusia",
+        "population": 688000
+      }
+    },
+    {
+      "id": 114,
+      "name": "Sofia",
+      "coordinates": {
+        "lat": 42.6977,
+        "lng": 23.3219
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Bulgaria 🇧🇬",
+        "region": "Sofia City",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 115,
+      "name": "Leuven",
+      "coordinates": {
+        "lat": 50.8798,
+        "lng": 4.7005
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "Flemish Brabant",
+        "population": 102000
+      }
+    },
+    {
+      "id": 116,
+      "name": "Frankfurt",
+      "coordinates": {
+        "lat": 50.1109,
+        "lng": 8.6821
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Hesse",
+        "population": 753000
+      }
+    },
+    {
+      "id": 117,
+      "name": "San Francisco",
+      "coordinates": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "California",
+        "population": 873000
+      }
+    },
+    {
+      "id": 118,
+      "name": "Dubrovnik",
+      "coordinates": {
+        "lat": 42.6507,
+        "lng": 18.0944
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Croatia 🇭🇷",
+        "region": "Dalmatia",
+        "population": 42000
+      }
+    },
+    {
+      "id": 119,
+      "name": "Nice",
+      "coordinates": {
+        "lat": 43.7102,
+        "lng": 7.262
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Côte d'Azur",
+        "population": 340000
+      }
+    },
+    {
+      "id": 120,
+      "name": "Melbourne",
+      "coordinates": {
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Victoria",
+        "population": 5000000
+      }
+    },
+    {
+      "id": 121,
+      "name": "Aarhus",
+      "coordinates": {
+        "lat": 56.1629,
+        "lng": 10.2039
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Denmark 🇩🇰",
+        "region": "Central Jutland",
+        "population": 285000
+      }
+    },
+    {
+      "id": 122,
+      "name": "Zagreb",
+      "coordinates": {
+        "lat": 45.815,
+        "lng": 15.9819
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Croatia 🇭🇷",
+        "region": "Zagreb County",
+        "population": 769000
+      }
+    },
+    {
+      "id": 123,
+      "name": "Batumi",
+      "coordinates": {
+        "lat": 41.6168,
+        "lng": 41.6367
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Georgia 🇬🇪",
+        "region": "Adjara",
+        "population": 152000
+      }
+    },
+    {
+      "id": 124,
+      "name": "Leiden",
+      "coordinates": {
+        "lat": 52.1601,
+        "lng": 4.497
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "South Holland",
+        "population": 125000
+      }
+    },
+    {
+      "id": 125,
+      "name": "Vigo",
+      "coordinates": {
+        "lat": 42.2406,
+        "lng": -8.7207
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Galicia",
+        "population": 297000
+      }
+    },
+    {
+      "id": 126,
+      "name": "Dharamshala",
+      "coordinates": {
+        "lat": 32.219,
+        "lng": 76.3234
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Himachal Pradesh",
+        "population": 22000
+      }
+    },
+    {
+      "id": 127,
+      "name": "Lecce",
+      "coordinates": {
+        "lat": 40.3515,
+        "lng": 18.175
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Apulia",
+        "population": 95000
+      }
+    },
+    {
+      "id": 128,
+      "name": "Valletta",
+      "coordinates": {
+        "lat": 35.8989,
+        "lng": 14.5146
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Malta 🇲🇹",
+        "region": "Eastern Region",
+        "population": 6400
+      }
+    },
+    {
+      "id": 129,
+      "name": "Siena",
+      "coordinates": {
+        "lat": 43.3188,
+        "lng": 11.3308
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Tuscany",
+        "population": 54000
+      }
+    },
+    {
+      "id": 130,
+      "name": "Karachi",
+      "coordinates": {
+        "lat": 24.8607,
+        "lng": 67.0011
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Pakistan 🇵🇰",
+        "region": "Sindh",
+        "population": 14900000
+      }
+    },
+    {
+      "id": 131,
+      "name": "Florence",
+      "coordinates": {
+        "lat": 43.7696,
+        "lng": 11.2558
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Tuscany",
+        "population": 382000
+      }
+    },
+    {
+      "id": 132,
+      "name": "Zaragoza",
+      "coordinates": {
+        "lat": 41.6488,
+        "lng": -0.8891
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Aragon",
+        "population": 674000
+      }
+    },
+    {
+      "id": 133,
+      "name": "Bologna",
+      "coordinates": {
+        "lat": 44.4949,
+        "lng": 11.3426
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Emilia-Romagna",
+        "population": 391000
+      }
+    },
+    {
+      "id": 134,
+      "name": "Reims",
+      "coordinates": {
+        "lat": 49.2583,
+        "lng": 4.0317
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Grand Est",
+        "population": 183000
+      }
+    },
+    {
+      "id": 135,
+      "name": "Tunis",
+      "coordinates": {
+        "lat": 36.8065,
+        "lng": 10.1815
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Tunisia 🇹🇳",
+        "region": "Northern Tunisia",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 136,
+      "name": "Stuttgart",
+      "coordinates": {
+        "lat": 48.7758,
+        "lng": 9.1829
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Baden-Württemberg",
+        "population": 635000
+      }
+    },
+    {
+      "id": 137,
+      "name": "Malmö",
+      "coordinates": {
+        "lat": 55.605,
+        "lng": 13.0038
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sweden 🇸🇪",
+        "region": "Skåne",
+        "population": 347000
+      }
+    },
+    {
+      "id": 138,
+      "name": "Ravenna",
+      "coordinates": {
+        "lat": 44.4184,
+        "lng": 12.2035
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Emilia-Romagna",
+        "population": 159000
+      }
+    },
+    {
+      "id": 139,
+      "name": "Delft",
+      "coordinates": {
+        "lat": 52.0116,
+        "lng": 4.3571
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "South Holland",
+        "population": 103000
+      }
+    },
+    {
+      "id": 140,
+      "name": "Linz",
+      "coordinates": {
+        "lat": 48.3069,
+        "lng": 14.2858
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria 🇦🇹",
+        "region": "Upper Austria",
+        "population": 206000
+      }
+    },
+    {
+      "id": 141,
+      "name": "Boston",
+      "coordinates": {
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Massachusetts",
+        "population": 692000
+      }
+    },
+    {
+      "id": 142,
+      "name": "Geneva",
+      "coordinates": {
+        "lat": 46.2044,
+        "lng": 6.1432
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Lake Geneva",
+        "population": 203000
+      }
+    },
+    {
+      "id": 143,
+      "name": "Hue",
+      "coordinates": {
+        "lat": 16.4637,
+        "lng": 107.5909
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Vietnam 🇻🇳",
+        "region": "Central Vietnam",
+        "population": 344000
+      }
+    },
+    {
+      "id": 144,
+      "name": "Sibiu",
+      "coordinates": {
+        "lat": 45.7983,
+        "lng": 24.1256
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Romania 🇷🇴",
+        "region": "Transylvania",
+        "population": 147000
+      }
+    },
+    {
+      "id": 145,
+      "name": "Zurich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Zurich",
+        "population": 421000
+      }
+    },
+    {
+      "id": 146,
+      "name": "Jaipur",
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Rajasthan",
+        "population": 3100000
+      }
+    },
+    {
+      "id": 147,
+      "name": "Goa",
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.124
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Goa State",
+        "population": 40000
+      }
+    },
+    {
+      "id": 148,
+      "name": "Colombo",
+      "coordinates": {
+        "lat": 6.9271,
+        "lng": 79.8612
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sri Lanka 🇱🇰",
+        "region": "Western Province",
+        "population": 752000
+      }
+    },
+    {
+      "id": 149,
+      "name": "Delhi",
+      "coordinates": {
+        "lat": 28.7041,
+        "lng": 77.1025
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "NCR",
+        "population": 11000000
+      }
+    },
+    {
+      "id": 150,
+      "name": "Lausanne",
+      "coordinates": {
+        "lat": 46.5197,
+        "lng": 6.6323
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Lake Geneva",
+        "population": 140000
+      }
+    },
+    {
+      "id": 151,
+      "name": "London",
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "England",
+        "population": 9000000
+      }
+    },
+    {
+      "id": 152,
+      "name": "Hobart",
+      "coordinates": {
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Tasmania",
+        "population": 253000
+      }
+    },
+    {
+      "id": 153,
+      "name": "Heidelberg",
+      "coordinates": {
+        "lat": 49.3988,
+        "lng": 8.6724
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Baden-Württemberg",
+        "population": 161000
+      }
+    },
+    {
+      "id": 154,
+      "name": "Pisa",
+      "coordinates": {
+        "lat": 43.7228,
+        "lng": 10.4017
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Tuscany",
+        "population": 91000
+      }
+    },
+    {
+      "id": 155,
+      "name": "Auckland",
+      "coordinates": {
+        "lat": -36.8485,
+        "lng": 174.7633
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "North Island",
+        "population": 1700000
+      }
+    },
+    {
+      "id": 156,
+      "name": "Osaka",
+      "coordinates": {
+        "lat": 34.6937,
+        "lng": 135.5023
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Japan 🇯🇵",
+        "region": "Kansai",
+        "population": 2700000
+      }
+    },
+    {
+      "id": 157,
+      "name": "Cape Town",
+      "coordinates": {
+        "lat": -33.9249,
+        "lng": 18.4241
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "South Africa 🇿🇦",
+        "region": "Western Cape",
+        "population": 4600000
+      }
+    },
+    {
+      "id": 158,
+      "name": "Cork",
+      "coordinates": {
+        "lat": 51.8985,
+        "lng": -8.4756
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Ireland 🇮🇪",
+        "region": "Munster",
+        "population": 210000
+      }
+    },
+    {
+      "id": 159,
+      "name": "Faro",
+      "coordinates": {
+        "lat": 37.0194,
+        "lng": -7.9322
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Algarve",
+        "population": 64000
+      }
+    },
+    {
+      "id": 160,
+      "name": "Reykjavik",
+      "coordinates": {
+        "lat": 64.1466,
+        "lng": -21.9426
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Iceland 🇮🇸",
+        "region": "Capital Region",
+        "population": 131000
+      }
+    },
+    {
+      "id": 161,
+      "name": "Birmingham",
+      "coordinates": {
+        "lat": 52.4862,
+        "lng": -1.8904
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "England",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 162,
+      "name": "Freiburg",
+      "coordinates": {
+        "lat": 47.999,
+        "lng": 7.8421
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Black Forest",
+        "population": 231000
+      }
+    },
+    {
+      "id": 163,
+      "name": "Singapore",
+      "coordinates": {
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Singapore 🇸🇬",
+        "region": "City-State",
+        "population": 5700000
+      }
+    },
+    {
+      "id": 164,
+      "name": "Las Vegas",
+      "coordinates": {
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Nevada",
+        "population": 641000
+      }
+    },
+    {
+      "id": 165,
+      "name": "Manali",
+      "coordinates": {
+        "lat": 32.2396,
+        "lng": 77.1887
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Himachal Pradesh",
+        "population": 8100
+      }
+    },
+    {
+      "id": 166,
+      "name": "Nashville",
+      "coordinates": {
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Tennessee",
+        "population": 689000
+      }
+    },
+    {
+      "id": 167,
+      "name": "Tampere",
+      "coordinates": {
+        "lat": 61.4978,
+        "lng": 23.761
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Finland 🇫🇮",
+        "region": "Pirkanmaa",
+        "population": 244000
+      }
+    },
+    {
+      "id": 168,
+      "name": "Uppsala",
+      "coordinates": {
+        "lat": 59.8586,
+        "lng": 17.6389
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sweden 🇸🇪",
+        "region": "Uppsala County",
+        "population": 168000
+      }
+    },
+    {
+      "id": 169,
+      "name": "Athens",
+      "coordinates": {
+        "lat": 37.9838,
+        "lng": 23.7275
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Greece 🇬🇷",
+        "region": "Attica",
+        "population": 664000
+      }
+    },
+    {
+      "id": 170,
+      "name": "Adelaide",
+      "coordinates": {
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "South Australia",
+        "population": 1300000
+      }
+    },
+    {
+      "id": 171,
+      "name": "Bali Ubud",
+      "coordinates": {
+        "lat": -8.5069,
+        "lng": 115.2625
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "Bali",
+        "population": 75000
+      }
+    },
+    {
+      "id": 172,
+      "name": "Ponta Delgada",
+      "coordinates": {
+        "lat": 37.7412,
+        "lng": -25.6756
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Azores",
+        "population": 68000
+      }
+    },
+    {
+      "id": 173,
+      "name": "Nuremberg",
+      "coordinates": {
+        "lat": 49.4521,
+        "lng": 11.0767
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 518000
+      }
+    },
+    {
+      "id": 174,
+      "name": "Gothenburg",
+      "coordinates": {
+        "lat": 57.7089,
+        "lng": 11.9746
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sweden 🇸🇪",
+        "region": "Västra Götaland",
+        "population": 583000
+      }
+    },
+    {
+      "id": 175,
+      "name": "Paro",
+      "coordinates": {
+        "lat": 27.4287,
+        "lng": 89.4164
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bhutan 🇧🇹",
+        "region": "Paro Valley",
+        "population": 11000
+      }
+    },
+    {
+      "id": 176,
+      "name": "Poznan",
+      "coordinates": {
+        "lat": 52.4064,
+        "lng": 16.9252
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Greater Poland",
+        "population": 535000
+      }
+    },
+    {
+      "id": 177,
+      "name": "Venice",
+      "coordinates": {
+        "lat": 45.4408,
+        "lng": 12.3155
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Veneto",
+        "population": 261000
+      }
+    },
+    {
+      "id": 178,
+      "name": "Christchurch",
+      "coordinates": {
+        "lat": -43.5321,
+        "lng": 172.6362
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "South Island",
+        "population": 381000
+      }
+    },
+    {
+      "id": 179,
+      "name": "Biarritz",
+      "coordinates": {
+        "lat": 43.4832,
+        "lng": -1.5586
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Basque Coast",
+        "population": 26000
+      }
+    },
+    {
+      "id": 180,
+      "name": "Haarlem",
+      "coordinates": {
+        "lat": 52.3874,
+        "lng": 4.6462
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "North Holland",
+        "population": 162000
+      }
+    },
+    {
+      "id": 181,
+      "name": "Liverpool",
+      "coordinates": {
+        "lat": 53.4084,
+        "lng": -2.9916
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "England",
+        "population": 494000
+      }
+    },
+    {
+      "id": 182,
+      "name": "Aalborg",
+      "coordinates": {
+        "lat": 57.0488,
+        "lng": 9.9217
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Denmark 🇩🇰",
+        "region": "North Jutland",
+        "population": 143000
+      }
+    },
+    {
+      "id": 183,
+      "name": "Galle",
+      "coordinates": {
+        "lat": 6.0535,
+        "lng": 80.221
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Sri Lanka 🇱🇰",
+        "region": "Southern Province",
+        "population": 99000
+      }
+    },
+    {
+      "id": 184,
+      "name": "Luanda",
+      "coordinates": {
+        "lat": -8.8383,
+        "lng": 13.2344
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Angola 🇦🇴",
+        "region": "Luanda Province",
+        "population": 8300000
+      }
+    },
+    {
+      "id": 185,
+      "name": "Salt Lake City",
+      "coordinates": {
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Utah",
+        "population": 200000
+      }
+    },
+    {
+      "id": 186,
+      "name": "Ljubljana",
+      "coordinates": {
+        "lat": 46.0569,
+        "lng": 14.5058
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Slovenia 🇸🇮",
+        "region": "Central Slovenia",
+        "population": 292000
+      }
+    },
+    {
+      "id": 187,
+      "name": "Phoenix",
+      "coordinates": {
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Arizona",
+        "population": 1608000
+      }
+    },
+    {
+      "id": 188,
+      "name": "Rotorua",
+      "coordinates": {
+        "lat": -38.1368,
+        "lng": 176.2497
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "North Island",
+        "population": 58000
+      }
+    },
+    {
+      "id": 189,
+      "name": "Bangalore",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Karnataka",
+        "population": 8400000
+      }
+    },
+    {
+      "id": 190,
+      "name": "Bangkok",
+      "coordinates": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Thailand 🇹🇭",
+        "region": "Central",
+        "population": 8300000
+      }
+    },
+    {
+      "id": 191,
+      "name": "Trondheim",
+      "coordinates": {
+        "lat": 63.4305,
+        "lng": 10.3951
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Norway 🇳🇴",
+        "region": "Central Norway",
+        "population": 207000
+      }
+    },
+    {
+      "id": 192,
+      "name": "Baku",
+      "coordinates": {
+        "lat": 40.4093,
+        "lng": 49.8671
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Azerbaijan 🇦🇿",
+        "region": "Absheron Peninsula",
+        "population": 2300000
+      }
+    },
+    {
+      "id": 193,
+      "name": "Catania",
+      "coordinates": {
+        "lat": 37.5079,
+        "lng": 15.083
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Sicily",
+        "population": 311000
+      }
+    },
+    {
+      "id": 194,
+      "name": "Copenhagen",
+      "coordinates": {
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Denmark 🇩🇰",
+        "region": "Capital Region",
+        "population": 794000
+      }
+    },
+    {
+      "id": 195,
+      "name": "Aix-en-Provence",
+      "coordinates": {
+        "lat": 43.5297,
+        "lng": 5.4474
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Provence",
+        "population": 143000
+      }
+    },
+    {
+      "id": 196,
+      "name": "Langkawi",
+      "coordinates": {
+        "lat": 6.35,
+        "lng": 99.8
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Malaysia 🇲🇾",
+        "region": "Kedah",
+        "population": 99000
+      }
+    },
+    {
+      "id": 197,
+      "name": "Pai",
+      "coordinates": {
+        "lat": 19.3582,
+        "lng": 98.4405
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Thailand 🇹🇭",
+        "region": "Northern Thailand",
+        "population": 2400
+      }
+    },
+    {
+      "id": 198,
+      "name": "Pushkar",
+      "coordinates": {
+        "lat": 26.4899,
+        "lng": 74.5511
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Rajasthan",
+        "population": 22000
+      }
+    },
+    {
+      "id": 199,
+      "name": "Key West",
+      "coordinates": {
+        "lat": 24.5551,
+        "lng": -81.78
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Florida Keys",
+        "population": 25000
+      }
+    },
+    {
+      "id": 200,
+      "name": "Rovaniemi",
+      "coordinates": {
+        "lat": 66.5039,
+        "lng": 25.7294
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Finland 🇫🇮",
+        "region": "Lapland",
+        "population": 63000
+      }
+    },
+    {
+      "id": 201,
+      "name": "Chamonix",
+      "coordinates": {
+        "lat": 45.9237,
+        "lng": 6.8694
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "French Alps",
+        "population": 8900
+      }
+    },
+    {
+      "id": 202,
+      "name": "Casablanca",
+      "coordinates": {
+        "lat": 33.5731,
+        "lng": -7.5898
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Morocco 🇲🇦",
+        "region": "Casablanca-Settat",
+        "population": 3700000
+      }
+    },
+    {
+      "id": 203,
+      "name": "Novi Sad",
+      "coordinates": {
+        "lat": 45.2671,
+        "lng": 19.8335
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Serbia 🇷🇸",
+        "region": "Vojvodina",
+        "population": 277000
+      }
+    },
+    {
+      "id": 204,
+      "name": "Namur",
+      "coordinates": {
+        "lat": 50.4674,
+        "lng": 4.872
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "Wallonia",
+        "population": 111000
+      }
+    },
+    {
+      "id": 205,
       "name": "Chiang Mai Old City",
       "coordinates": {
         "lat": 18.7883,
@@ -310,92 +3491,200 @@
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "Thailand \ud83c\uddf9\ud83c\udded",
+        "country": "Thailand 🇹🇭",
         "region": "Northern Thailand",
         "population": 131000
       }
     },
     {
-      "name": "Dubrovnik",
+      "id": 206,
+      "name": "Minsk",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
-      },
-      "zoom": 6.5,
-      "answerZoom": 14,
-      "winThresholdKm": 10.0,
-      "difficulty": "hard",
-      "hints": {
-        "country": "Croatia \ud83c\udded\ud83c\uddf7",
-        "region": "Dalmatia",
-        "population": 42000
-      }
-    },
-    {
-      "name": "Salzburg",
-      "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
+        "lat": 53.9006,
+        "lng": 27.559
       },
       "zoom": 6.5,
       "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "Austria \ud83c\udde6\ud83c\uddf9",
-        "region": "Salzburg State",
-        "population": 156000
+        "country": "Belarus 🇧🇾",
+        "region": "Minsk Region",
+        "population": 2000000
       }
     },
     {
-      "name": "Lucerne",
+      "id": 207,
+      "name": "Mostar",
       "coordinates": {
-        "lat": 47.0502,
-        "lng": 8.3093
+        "lat": 43.3438,
+        "lng": 17.8078
       },
       "zoom": 6.5,
       "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "Switzerland \ud83c\udde8\ud83c\udded",
-        "region": "Central Switzerland",
-        "population": 82000
+        "country": "Bosnia 🇧🇦",
+        "region": "Herzegovina",
+        "population": 105000
       }
     },
     {
-      "name": "Annecy",
+      "id": 208,
+      "name": "Berlin",
       "coordinates": {
-        "lat": 45.8992,
-        "lng": 6.1294
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Berlin",
+        "population": 3700000
+      }
+    },
+    {
+      "id": 209,
+      "name": "Dortmund",
+      "coordinates": {
+        "lat": 51.5136,
+        "lng": 7.4653
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "North Rhine-Westphalia",
+        "population": 587000
+      }
+    },
+    {
+      "id": 210,
+      "name": "Marseille",
+      "coordinates": {
+        "lat": 43.2965,
+        "lng": 5.3698
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Provence",
+        "population": 870000
+      }
+    },
+    {
+      "id": 211,
+      "name": "Madrid",
+      "coordinates": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Madrid",
+        "population": 3300000
+      }
+    },
+    {
+      "id": 212,
+      "name": "Potsdam",
+      "coordinates": {
+        "lat": 52.3906,
+        "lng": 13.0645
       },
       "zoom": 6.5,
       "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "France \ud83c\uddeb\ud83c\uddf7",
-        "region": "Auvergne-Rh\u00f4ne-Alpes",
-        "population": 128000
+        "country": "Germany 🇩🇪",
+        "region": "Brandenburg",
+        "population": 183000
       }
     },
     {
-      "name": "College Park",
+      "id": 213,
+      "name": "Komodo",
       "coordinates": {
-        "lat": 38.9807,
-        "lng": -76.9369
+        "lat": -8.5833,
+        "lng": 119.4833
       },
       "zoom": 6.5,
-      "answerZoom": 14,
+      "answerZoom": 13,
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "USA \ud83c\uddfa\ud83c\uddf8",
-        "region": "Maryland - DC Metro",
-        "population": 30000
+        "country": "Indonesia 🇮🇩",
+        "region": "East Nusa Tenggara",
+        "population": 2000
       }
     },
     {
+      "id": 214,
+      "name": "Ayutthaya",
+      "coordinates": {
+        "lat": 14.3532,
+        "lng": 100.5776
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Thailand 🇹🇭",
+        "region": "Central Thailand - Ancient ruins",
+        "population": 54000
+      }
+    },
+    {
+      "id": 215,
+      "name": "Palma de Mallorca",
+      "coordinates": {
+        "lat": 39.5696,
+        "lng": 2.6502
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Balearic Islands",
+        "population": 416000
+      }
+    },
+    {
+      "id": 216,
+      "name": "Vilnius",
+      "coordinates": {
+        "lat": 54.6872,
+        "lng": 25.2797
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Lithuania 🇱🇹",
+        "region": "Vilnius County",
+        "population": 574000
+      }
+    },
+    {
+      "id": 217,
       "name": "Union City",
       "coordinates": {
         "lat": 37.5933,
@@ -406,9 +3695,2525 @@
       "winThresholdKm": 10.0,
       "difficulty": "hard",
       "hints": {
-        "country": "USA \ud83c\uddfa\ud83c\uddf8",
+        "country": "USA 🇺🇸",
         "region": "California - SF Bay Area",
         "population": 75000
+      }
+    },
+    {
+      "id": 218,
+      "name": "Siem Reap",
+      "coordinates": {
+        "lat": 13.3671,
+        "lng": 103.8448
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Cambodia 🇰🇭",
+        "region": "Northwest Cambodia",
+        "population": 245000
+      }
+    },
+    {
+      "id": 219,
+      "name": "Darwin",
+      "coordinates": {
+        "lat": -12.4634,
+        "lng": 130.8456
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Northern Territory",
+        "population": 148000
+      }
+    },
+    {
+      "id": 220,
+      "name": "Chicago",
+      "coordinates": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Illinois",
+        "population": 2700000
+      }
+    },
+    {
+      "id": 221,
+      "name": "Phuket Town",
+      "coordinates": {
+        "lat": 7.8804,
+        "lng": 98.3923
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Thailand 🇹🇭",
+        "region": "Southern Thailand",
+        "population": 79000
+      }
+    },
+    {
+      "id": 222,
+      "name": "Atlanta",
+      "coordinates": {
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Georgia",
+        "population": 498000
+      }
+    },
+    {
+      "id": 223,
+      "name": "Moscow",
+      "coordinates": {
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Russia 🇷🇺",
+        "region": "Central Russia",
+        "population": 12600000
+      }
+    },
+    {
+      "id": 224,
+      "name": "Lublin",
+      "coordinates": {
+        "lat": 51.2465,
+        "lng": 22.5684
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Lublin Voivodeship",
+        "population": 339000
+      }
+    },
+    {
+      "id": 225,
+      "name": "Shanghai",
+      "coordinates": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "China 🇨🇳",
+        "region": "East China",
+        "population": 27000000
+      }
+    },
+    {
+      "id": 226,
+      "name": "Dijon",
+      "coordinates": {
+        "lat": 47.322,
+        "lng": 5.0415
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Bourgogne",
+        "population": 156000
+      }
+    },
+    {
+      "id": 227,
+      "name": "Yangon",
+      "coordinates": {
+        "lat": 16.8661,
+        "lng": 96.1951
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Myanmar 🇲🇲",
+        "region": "Yangon Region",
+        "population": 5200000
+      }
+    },
+    {
+      "id": 228,
+      "name": "Yerevan",
+      "coordinates": {
+        "lat": 40.1792,
+        "lng": 44.4991
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Armenia 🇦🇲",
+        "region": "Yerevan Province",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 229,
+      "name": "Mysore",
+      "coordinates": {
+        "lat": 12.2958,
+        "lng": 76.6394
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Karnataka",
+        "population": 920000
+      }
+    },
+    {
+      "id": 230,
+      "name": "Avignon",
+      "coordinates": {
+        "lat": 43.9493,
+        "lng": 4.8055
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Provence",
+        "population": 92000
+      }
+    },
+    {
+      "id": 231,
+      "name": "Annecy",
+      "coordinates": {
+        "lat": 45.8992,
+        "lng": 6.1294
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": 128000
+      }
+    },
+    {
+      "id": 232,
+      "name": "Olomouc",
+      "coordinates": {
+        "lat": 49.5938,
+        "lng": 17.2509
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Czechia 🇨🇿",
+        "region": "Olomouc Region",
+        "population": 100000
+      }
+    },
+    {
+      "id": 233,
+      "name": "Jodhpur",
+      "coordinates": {
+        "lat": 26.2389,
+        "lng": 73.0243
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Rajasthan",
+        "population": 1000000
+      }
+    },
+    {
+      "id": 234,
+      "name": "Tbilisi",
+      "coordinates": {
+        "lat": 41.7151,
+        "lng": 44.8271
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Georgia 🇬🇪",
+        "region": "Tbilisi Region",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 235,
+      "name": "Toulouse",
+      "coordinates": {
+        "lat": 43.6047,
+        "lng": 1.4442
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Occitanie",
+        "population": 479000
+      }
+    },
+    {
+      "id": 236,
+      "name": "Amsterdam",
+      "coordinates": {
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "North Holland",
+        "population": 872000
+      }
+    },
+    {
+      "id": 237,
+      "name": "Lumbini",
+      "coordinates": {
+        "lat": 27.4833,
+        "lng": 83.2767
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Nepal 🇳🇵",
+        "region": "Southern Nepal - Buddhist site",
+        "population": 5000
+      }
+    },
+    {
+      "id": 238,
+      "name": "Abidjan",
+      "coordinates": {
+        "lat": 5.36,
+        "lng": -4.0083
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Ivory Coast 🇨🇮",
+        "region": "Lagunes",
+        "population": 4700000
+      }
+    },
+    {
+      "id": 239,
+      "name": "Lagos",
+      "coordinates": {
+        "lat": 6.5244,
+        "lng": 3.3792
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Nigeria 🇳🇬",
+        "region": "Southwest",
+        "population": 8800000
+      }
+    },
+    {
+      "id": 240,
+      "name": "Bari",
+      "coordinates": {
+        "lat": 41.1171,
+        "lng": 16.8719
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Apulia",
+        "population": 320000
+      }
+    },
+    {
+      "id": 241,
+      "name": "Verona",
+      "coordinates": {
+        "lat": 45.4384,
+        "lng": 10.9916
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Veneto",
+        "population": 259000
+      }
+    },
+    {
+      "id": 242,
+      "name": "Istanbul",
+      "coordinates": {
+        "lat": 41.0082,
+        "lng": 28.9784
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Turkey 🇹🇷",
+        "region": "Marmara",
+        "population": 15400000
+      }
+    },
+    {
+      "id": 243,
+      "name": "Tours",
+      "coordinates": {
+        "lat": 47.3941,
+        "lng": 0.6848
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Centre-Val de Loire",
+        "population": 136000
+      }
+    },
+    {
+      "id": 244,
+      "name": "Graz",
+      "coordinates": {
+        "lat": 47.0707,
+        "lng": 15.4395
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria 🇦🇹",
+        "region": "Styria",
+        "population": 291000
+      }
+    },
+    {
+      "id": 245,
+      "name": "Kampala",
+      "coordinates": {
+        "lat": 0.3476,
+        "lng": 32.5825
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Uganda 🇺🇬",
+        "region": "Central Region",
+        "population": 1700000
+      }
+    },
+    {
+      "id": 246,
+      "name": "Harare",
+      "coordinates": {
+        "lat": -17.8252,
+        "lng": 31.0335
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Zimbabwe 🇿🇼",
+        "region": "Harare Province",
+        "population": 1500000
+      }
+    },
+    {
+      "id": 247,
+      "name": "Turku",
+      "coordinates": {
+        "lat": 60.4518,
+        "lng": 22.2666
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Finland 🇫🇮",
+        "region": "Southwest Finland",
+        "population": 195000
+      }
+    },
+    {
+      "id": 248,
+      "name": "Basel",
+      "coordinates": {
+        "lat": 47.5596,
+        "lng": 7.5886
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Northwest Switzerland",
+        "population": 177000
+      }
+    },
+    {
+      "id": 249,
+      "name": "Leh",
+      "coordinates": {
+        "lat": 34.1526,
+        "lng": 77.5771
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Ladakh",
+        "population": 31000
+      }
+    },
+    {
+      "id": 250,
+      "name": "Varna",
+      "coordinates": {
+        "lat": 43.2141,
+        "lng": 27.9147
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bulgaria 🇧🇬",
+        "region": "Black Sea Coast",
+        "population": 335000
+      }
+    },
+    {
+      "id": 251,
+      "name": "Perugia",
+      "coordinates": {
+        "lat": 43.1107,
+        "lng": 12.3908
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Umbria",
+        "population": 166000
+      }
+    },
+    {
+      "id": 252,
+      "name": "Salzburg",
+      "coordinates": {
+        "lat": 47.8095,
+        "lng": 13.055
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Austria 🇦🇹",
+        "region": "Salzburg State",
+        "population": 156000
+      }
+    },
+    {
+      "id": 253,
+      "name": "Brisbane",
+      "coordinates": {
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "Queensland",
+        "population": 2500000
+      }
+    },
+    {
+      "id": 254,
+      "name": "Santander",
+      "coordinates": {
+        "lat": 43.4623,
+        "lng": -3.81
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Cantabria",
+        "population": 172000
+      }
+    },
+    {
+      "id": 255,
+      "name": "Valencia",
+      "coordinates": {
+        "lat": 39.4699,
+        "lng": -0.3763
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Valencia",
+        "population": 791000
+      }
+    },
+    {
+      "id": 256,
+      "name": "Santiago de Compostela",
+      "coordinates": {
+        "lat": 42.8805,
+        "lng": -8.5456
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Galicia",
+        "population": 97000
+      }
+    },
+    {
+      "id": 257,
+      "name": "Houston",
+      "coordinates": {
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Texas",
+        "population": 2304000
+      }
+    },
+    {
+      "id": 258,
+      "name": "New Orleans",
+      "coordinates": {
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Louisiana",
+        "population": 383000
+      }
+    },
+    {
+      "id": 259,
+      "name": "Varanasi",
+      "coordinates": {
+        "lat": 25.3176,
+        "lng": 82.9739
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Uttar Pradesh",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 260,
+      "name": "Brno",
+      "coordinates": {
+        "lat": 49.1951,
+        "lng": 16.6068
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Czechia 🇨🇿",
+        "region": "South Moravia",
+        "population": 381000
+      }
+    },
+    {
+      "id": 261,
+      "name": "Krakow",
+      "coordinates": {
+        "lat": 50.0647,
+        "lng": 19.945
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Lesser Poland",
+        "population": 780000
+      }
+    },
+    {
+      "id": 262,
+      "name": "Lugano",
+      "coordinates": {
+        "lat": 46.0037,
+        "lng": 8.9511
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Ticino",
+        "population": 63000
+      }
+    },
+    {
+      "id": 263,
+      "name": "Essen",
+      "coordinates": {
+        "lat": 51.4556,
+        "lng": 7.0116
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "North Rhine-Westphalia",
+        "population": 583000
+      }
+    },
+    {
+      "id": 264,
+      "name": "Thessaloniki",
+      "coordinates": {
+        "lat": 40.6401,
+        "lng": 22.9444
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Greece 🇬🇷",
+        "region": "Macedonia",
+        "population": 325000
+      }
+    },
+    {
+      "id": 265,
+      "name": "Memphis",
+      "coordinates": {
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Tennessee",
+        "population": 651000
+      }
+    },
+    {
+      "id": 266,
+      "name": "Bhaktapur",
+      "coordinates": {
+        "lat": 27.671,
+        "lng": 85.4298
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Nepal 🇳🇵",
+        "region": "Kathmandu Valley",
+        "population": 83000
+      }
+    },
+    {
+      "id": 267,
+      "name": "Riga",
+      "coordinates": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Latvia 🇱🇻",
+        "region": "Riga Region",
+        "population": 633000
+      }
+    },
+    {
+      "id": 268,
+      "name": "Vancouver",
+      "coordinates": {
+        "lat": 49.2827,
+        "lng": -123.1207
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Canada 🇨🇦",
+        "region": "British Columbia",
+        "population": 675000
+      }
+    },
+    {
+      "id": 269,
+      "name": "Montreal",
+      "coordinates": {
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Canada 🇨🇦",
+        "region": "Quebec",
+        "population": 1800000
+      }
+    },
+    {
+      "id": 270,
+      "name": "Lucerne",
+      "coordinates": {
+        "lat": 47.0502,
+        "lng": 8.3093
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Central Switzerland",
+        "population": 82000
+      }
+    },
+    {
+      "id": 271,
+      "name": "Paris",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Île-de-France",
+        "population": 2200000
+      }
+    },
+    {
+      "id": 272,
+      "name": "San Diego",
+      "coordinates": {
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "California",
+        "population": 1386000
+      }
+    },
+    {
+      "id": 273,
+      "name": "Cairo",
+      "coordinates": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Egypt 🇪🇬",
+        "region": "Nile Delta",
+        "population": 9500000
+      }
+    },
+    {
+      "id": 274,
+      "name": "Manchester",
+      "coordinates": {
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "England",
+        "population": 547000
+      }
+    },
+    {
+      "id": 275,
+      "name": "Surabaya",
+      "coordinates": {
+        "lat": -7.2575,
+        "lng": 112.7521
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "East Java",
+        "population": 2900000
+      }
+    },
+    {
+      "id": 276,
+      "name": "Pokhara",
+      "coordinates": {
+        "lat": 28.2096,
+        "lng": 83.9856
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Nepal 🇳🇵",
+        "region": "Western Nepal",
+        "population": 414000
+      }
+    },
+    {
+      "id": 277,
+      "name": "Split",
+      "coordinates": {
+        "lat": 43.5081,
+        "lng": 16.4402
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Croatia 🇭🇷",
+        "region": "Dalmatia",
+        "population": 178000
+      }
+    },
+    {
+      "id": 278,
+      "name": "Münster",
+      "coordinates": {
+        "lat": 51.9607,
+        "lng": 7.6261
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "North Rhine-Westphalia",
+        "population": 316000
+      }
+    },
+    {
+      "id": 279,
+      "name": "Dresden",
+      "coordinates": {
+        "lat": 51.0504,
+        "lng": 13.7373
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Saxony",
+        "population": 556000
+      }
+    },
+    {
+      "id": 280,
+      "name": "Munich",
+      "coordinates": {
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 1500000
+      }
+    },
+    {
+      "id": 281,
+      "name": "Trieste",
+      "coordinates": {
+        "lat": 45.6495,
+        "lng": 13.7768
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Friuli Venezia Giulia",
+        "population": 204000
+      }
+    },
+    {
+      "id": 282,
+      "name": "Bilbao",
+      "coordinates": {
+        "lat": 43.263,
+        "lng": -2.935
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Basque Country",
+        "population": 346000
+      }
+    },
+    {
+      "id": 283,
+      "name": "Brussels",
+      "coordinates": {
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "Brussels Capital",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 284,
+      "name": "Leipzig",
+      "coordinates": {
+        "lat": 51.3397,
+        "lng": 12.3731
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Saxony",
+        "population": 597000
+      }
+    },
+    {
+      "id": 285,
+      "name": "Podgorica",
+      "coordinates": {
+        "lat": 42.4304,
+        "lng": 19.2594
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Montenegro 🇲🇪",
+        "region": "Central Montenegro",
+        "population": 156000
+      }
+    },
+    {
+      "id": 286,
+      "name": "Salamanca",
+      "coordinates": {
+        "lat": 40.9701,
+        "lng": -5.6635
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Castile and León",
+        "population": 144000
+      }
+    },
+    {
+      "id": 287,
+      "name": "Braga",
+      "coordinates": {
+        "lat": 41.5518,
+        "lng": -8.4229
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Norte",
+        "population": 193000
+      }
+    },
+    {
+      "id": 288,
+      "name": "Sydney",
+      "coordinates": {
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Australia 🇦🇺",
+        "region": "New South Wales",
+        "population": 5300000
+      }
+    },
+    {
+      "id": 289,
+      "name": "Edinburgh",
+      "coordinates": {
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "Scotland",
+        "population": 524000
+      }
+    },
+    {
+      "id": 290,
+      "name": "Granada",
+      "coordinates": {
+        "lat": 37.1773,
+        "lng": -3.5986
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Andalusia",
+        "population": 232000
+      }
+    },
+    {
+      "id": 291,
+      "name": "Maastricht",
+      "coordinates": {
+        "lat": 50.8514,
+        "lng": 5.6909
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "Limburg",
+        "population": 122000
+      }
+    },
+    {
+      "id": 292,
+      "name": "Kolkata",
+      "coordinates": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "West Bengal",
+        "population": 4500000
+      }
+    },
+    {
+      "id": 293,
+      "name": "Charleston",
+      "coordinates": {
+        "lat": 32.7765,
+        "lng": -79.9311
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "South Carolina",
+        "population": 151000
+      }
+    },
+    {
+      "id": 294,
+      "name": "Luang Prabang",
+      "coordinates": {
+        "lat": 19.8845,
+        "lng": 102.1349
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Laos 🇱🇦",
+        "region": "Northern Laos",
+        "population": 56000
+      }
+    },
+    {
+      "id": 295,
+      "name": "Algiers",
+      "coordinates": {
+        "lat": 36.7538,
+        "lng": 3.0588
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Algeria 🇩🇿",
+        "region": "North Coast",
+        "population": 2800000
+      }
+    },
+    {
+      "id": 296,
+      "name": "Lille",
+      "coordinates": {
+        "lat": 50.6292,
+        "lng": 3.0573
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Hauts-de-France",
+        "population": 233000
+      }
+    },
+    {
+      "id": 297,
+      "name": "Tirana",
+      "coordinates": {
+        "lat": 41.3275,
+        "lng": 19.8187
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Albania 🇦🇱",
+        "region": "Central Albania",
+        "population": 418000
+      }
+    },
+    {
+      "id": 298,
+      "name": "Bratislava",
+      "coordinates": {
+        "lat": 48.1486,
+        "lng": 17.1077
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Slovakia 🇸🇰",
+        "region": "Bratislava",
+        "population": 432000
+      }
+    },
+    {
+      "id": 299,
+      "name": "Minneapolis",
+      "coordinates": {
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Minnesota",
+        "population": 429000
+      }
+    },
+    {
+      "id": 300,
+      "name": "Cannes",
+      "coordinates": {
+        "lat": 43.5528,
+        "lng": 7.0174
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Côte d'Azur",
+        "population": 74000
+      }
+    },
+    {
+      "id": 301,
+      "name": "Torun",
+      "coordinates": {
+        "lat": 53.0138,
+        "lng": 18.5984
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Kuyavia-Pomerania",
+        "population": 202000
+      }
+    },
+    {
+      "id": 302,
+      "name": "Seoul",
+      "coordinates": {
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "South Korea 🇰🇷",
+        "region": "Seoul Capital",
+        "population": 9700000
+      }
+    },
+    {
+      "id": 303,
+      "name": "Ohrid",
+      "coordinates": {
+        "lat": 41.1171,
+        "lng": 20.8016
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "North Macedonia 🇲🇰",
+        "region": "Southwestern",
+        "population": 42000
+      }
+    },
+    {
+      "id": 304,
+      "name": "Malaga",
+      "coordinates": {
+        "lat": 36.7213,
+        "lng": -4.4214
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Costa del Sol",
+        "population": 578000
+      }
+    },
+    {
+      "id": 305,
+      "name": "Accra",
+      "coordinates": {
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Ghana 🇬🇭",
+        "region": "Greater Accra",
+        "population": 2300000
+      }
+    },
+    {
+      "id": 306,
+      "name": "Mexico City",
+      "coordinates": {
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Mexico 🇲🇽",
+        "region": "Central Mexico",
+        "population": 9200000
+      }
+    },
+    {
+      "id": 307,
+      "name": "Penang George Town",
+      "coordinates": {
+        "lat": 5.4141,
+        "lng": 100.3288
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Malaysia 🇲🇾",
+        "region": "Penang",
+        "population": 708000
+      }
+    },
+    {
+      "id": 308,
+      "name": "Bandung",
+      "coordinates": {
+        "lat": -6.9175,
+        "lng": 107.6191
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "West Java",
+        "population": 2400000
+      }
+    },
+    {
+      "id": 309,
+      "name": "Seattle",
+      "coordinates": {
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Washington",
+        "population": 753000
+      }
+    },
+    {
+      "id": 310,
+      "name": "Coimbra",
+      "coordinates": {
+        "lat": 40.2033,
+        "lng": -8.4103
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Centro",
+        "population": 143000
+      }
+    },
+    {
+      "id": 311,
+      "name": "Mons",
+      "coordinates": {
+        "lat": 50.4542,
+        "lng": 3.9564
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Belgium 🇧🇪",
+        "region": "Hainaut",
+        "population": 95000
+      }
+    },
+    {
+      "id": 312,
+      "name": "Glasgow",
+      "coordinates": {
+        "lat": 55.8642,
+        "lng": -4.2518
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "UK 🇬🇧",
+        "region": "Scotland",
+        "population": 635000
+      }
+    },
+    {
+      "id": 313,
+      "name": "Regensburg",
+      "coordinates": {
+        "lat": 49.0134,
+        "lng": 12.1016
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 152000
+      }
+    },
+    {
+      "id": 314,
+      "name": "Lyon",
+      "coordinates": {
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": 513000
+      }
+    },
+    {
+      "id": 315,
+      "name": "Bamberg",
+      "coordinates": {
+        "lat": 49.8988,
+        "lng": 10.9027
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Germany 🇩🇪",
+        "region": "Bavaria",
+        "population": 77000
+      }
+    },
+    {
+      "id": 316,
+      "name": "Bogotá",
+      "coordinates": {
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Colombia 🇨🇴",
+        "region": "Andes",
+        "population": 7400000
+      }
+    },
+    {
+      "id": 317,
+      "name": "Rome",
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Italy 🇮🇹",
+        "region": "Lazio",
+        "population": 2900000
+      }
+    },
+    {
+      "id": 318,
+      "name": "Darjeeling",
+      "coordinates": {
+        "lat": 27.036,
+        "lng": 88.2627
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "West Bengal",
+        "population": 119000
+      }
+    },
+    {
+      "id": 319,
+      "name": "Kuala Lumpur",
+      "coordinates": {
+        "lat": 3.139,
+        "lng": 101.6869
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Malaysia 🇲🇾",
+        "region": "Federal Territory",
+        "population": 1800000
+      }
+    },
+    {
+      "id": 320,
+      "name": "Maputo",
+      "coordinates": {
+        "lat": -25.9655,
+        "lng": 32.5832
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Mozambique 🇲🇿",
+        "region": "Maputo Province",
+        "population": 1100000
+      }
+    },
+    {
+      "id": 321,
+      "name": "Lima",
+      "coordinates": {
+        "lat": -12.0464,
+        "lng": -77.0428
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Peru 🇵🇪",
+        "region": "Coast",
+        "population": 9700000
+      }
+    },
+    {
+      "id": 322,
+      "name": "Krakow Old Town",
+      "coordinates": {
+        "lat": 50.0614,
+        "lng": 19.9365
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Lesser Poland",
+        "population": 780000
+      }
+    },
+    {
+      "id": 323,
+      "name": "Hanoi Old Quarter",
+      "coordinates": {
+        "lat": 21.0285,
+        "lng": 105.8542
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Vietnam 🇻🇳",
+        "region": "Northern Vietnam",
+        "population": 8000000
+      }
+    },
+    {
+      "id": 324,
+      "name": "Oulu",
+      "coordinates": {
+        "lat": 65.0121,
+        "lng": 25.4651
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Finland 🇫🇮",
+        "region": "Northern Ostrobothnia",
+        "population": 208000
+      }
+    },
+    {
+      "id": 325,
+      "name": "San Antonio",
+      "coordinates": {
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Texas",
+        "population": 1547000
+      }
+    },
+    {
+      "id": 326,
+      "name": "Kaunas",
+      "coordinates": {
+        "lat": 54.8985,
+        "lng": 23.9036
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Lithuania 🇱🇹",
+        "region": "Kaunas County",
+        "population": 289000
+      }
+    },
+    {
+      "id": 327,
+      "name": "Wroclaw",
+      "coordinates": {
+        "lat": 51.1079,
+        "lng": 17.0385
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Poland 🇵🇱",
+        "region": "Lower Silesia",
+        "population": 641000
+      }
+    },
+    {
+      "id": 328,
+      "name": "Da Nang",
+      "coordinates": {
+        "lat": 16.0544,
+        "lng": 108.2022
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Vietnam 🇻🇳",
+        "region": "Central Coast",
+        "population": 1200000
+      }
+    },
+    {
+      "id": 329,
+      "name": "Bern",
+      "coordinates": {
+        "lat": 46.948,
+        "lng": 7.4474
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Swiss Plateau",
+        "population": 134000
+      }
+    },
+    {
+      "id": 330,
+      "name": "Funchal",
+      "coordinates": {
+        "lat": 32.6669,
+        "lng": -16.9241
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Portugal 🇵🇹",
+        "region": "Madeira",
+        "population": 111000
+      }
+    },
+    {
+      "id": 331,
+      "name": "Stavanger",
+      "coordinates": {
+        "lat": 58.97,
+        "lng": 5.7331
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Norway 🇳🇴",
+        "region": "Southwestern Norway",
+        "population": 144000
+      }
+    },
+    {
+      "id": 332,
+      "name": "Austin",
+      "coordinates": {
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Texas",
+        "population": 978000
+      }
+    },
+    {
+      "id": 333,
+      "name": "Galway",
+      "coordinates": {
+        "lat": 53.2707,
+        "lng": -9.0568
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Ireland 🇮🇪",
+        "region": "Connacht",
+        "population": 80000
+      }
+    },
+    {
+      "id": 334,
+      "name": "Cordoba",
+      "coordinates": {
+        "lat": 37.8882,
+        "lng": -4.7794
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Spain 🇪🇸",
+        "region": "Andalusia",
+        "population": 326000
+      }
+    },
+    {
+      "id": 335,
+      "name": "Vienna",
+      "coordinates": {
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Austria 🇦🇹",
+        "region": "Vienna",
+        "population": 1900000
+      }
+    },
+    {
+      "id": 336,
+      "name": "Manila",
+      "coordinates": {
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Philippines 🇵🇭",
+        "region": "NCR",
+        "population": 1800000
+      }
+    },
+    {
+      "id": 337,
+      "name": "Zermatt",
+      "coordinates": {
+        "lat": 46.0207,
+        "lng": 7.7491
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Switzerland 🇨🇭",
+        "region": "Valais",
+        "population": 5800
+      }
+    },
+    {
+      "id": 338,
+      "name": "Strasbourg",
+      "coordinates": {
+        "lat": 48.5734,
+        "lng": 7.7521
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Grand Est",
+        "population": 280000
+      }
+    },
+    {
+      "id": 339,
+      "name": "Khartoum",
+      "coordinates": {
+        "lat": 15.5007,
+        "lng": 32.5599
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Sudan 🇸🇩",
+        "region": "Nile Confluence",
+        "population": 5200000
+      }
+    },
+    {
+      "id": 340,
+      "name": "Akureyri",
+      "coordinates": {
+        "lat": 65.6835,
+        "lng": -18.0878
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Iceland 🇮🇸",
+        "region": "Northern Iceland",
+        "population": 19000
+      }
+    },
+    {
+      "id": 341,
+      "name": "Bergen",
+      "coordinates": {
+        "lat": 60.3913,
+        "lng": 5.3221
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Norway 🇳🇴",
+        "region": "Western Norway",
+        "population": 285000
+      }
+    },
+    {
+      "id": 342,
+      "name": "Miami",
+      "coordinates": {
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Florida",
+        "population": 442000
+      }
+    },
+    {
+      "id": 343,
+      "name": "Indianapolis",
+      "coordinates": {
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "USA 🇺🇸",
+        "region": "Indiana",
+        "population": 887000
+      }
+    },
+    {
+      "id": 344,
+      "name": "Skopje",
+      "coordinates": {
+        "lat": 41.9973,
+        "lng": 21.428
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "North Macedonia 🇲🇰",
+        "region": "Skopje Region",
+        "population": 506000
+      }
+    },
+    {
+      "id": 345,
+      "name": "Cesky Krumlov",
+      "coordinates": {
+        "lat": 48.8127,
+        "lng": 14.3175
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Czechia 🇨🇿",
+        "region": "South Bohemia",
+        "population": 13000
+      }
+    },
+    {
+      "id": 346,
+      "name": "Pondicherry",
+      "coordinates": {
+        "lat": 11.9416,
+        "lng": 79.8083
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Tamil Nadu",
+        "population": 244000
+      }
+    },
+    {
+      "id": 347,
+      "name": "Lviv",
+      "coordinates": {
+        "lat": 49.8397,
+        "lng": 24.0297
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Ukraine 🇺🇦",
+        "region": "Western Ukraine",
+        "population": 721000
+      }
+    },
+    {
+      "id": 348,
+      "name": "Timisoara",
+      "coordinates": {
+        "lat": 45.7489,
+        "lng": 21.2087
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Romania 🇷🇴",
+        "region": "Banat",
+        "population": 319000
+      }
+    },
+    {
+      "id": 349,
+      "name": "The Hague",
+      "coordinates": {
+        "lat": 52.0705,
+        "lng": 4.3007
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Netherlands 🇳🇱",
+        "region": "South Holland",
+        "population": 545000
+      }
+    },
+    {
+      "id": 350,
+      "name": "Grenoble",
+      "coordinates": {
+        "lat": 45.1885,
+        "lng": 5.7245
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": 158000
+      }
+    },
+    {
+      "id": 351,
+      "name": "Nis",
+      "coordinates": {
+        "lat": 43.3209,
+        "lng": 21.8954
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Serbia 🇷🇸",
+        "region": "Southern Serbia",
+        "population": 183000
+      }
+    },
+    {
+      "id": 352,
+      "name": "Bordeaux",
+      "coordinates": {
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Nouvelle-Aquitaine",
+        "population": 254000
+      }
+    },
+    {
+      "id": 353,
+      "name": "Jakarta",
+      "coordinates": {
+        "lat": -6.2088,
+        "lng": 106.8456
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Indonesia 🇮🇩",
+        "region": "Java",
+        "population": 10600000
+      }
+    },
+    {
+      "id": 354,
+      "name": "Bagan",
+      "coordinates": {
+        "lat": 21.1717,
+        "lng": 94.8586
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Myanmar 🇲🇲",
+        "region": "Mandalay - Ancient temples",
+        "population": 22000
+      }
+    },
+    {
+      "id": 355,
+      "name": "Stockholm",
+      "coordinates": {
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "Sweden 🇸🇪",
+        "region": "Stockholm County",
+        "population": 975000
+      }
+    },
+    {
+      "id": 356,
+      "name": "Kochi",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Kerala",
+        "population": 677000
+      }
+    },
+    {
+      "id": 357,
+      "name": "Kyiv",
+      "coordinates": {
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Ukraine 🇺🇦",
+        "region": "Kyiv Oblast",
+        "population": 2900000
+      }
+    },
+    {
+      "id": 358,
+      "name": "Nantes",
+      "coordinates": {
+        "lat": 47.2184,
+        "lng": -1.5536
+      },
+      "zoom": 5.5,
+      "answerZoom": 10,
+      "winThresholdKm": 25.0,
+      "difficulty": "medium",
+      "hints": {
+        "country": "France 🇫🇷",
+        "region": "Pays de la Loire",
+        "population": 309000
+      }
+    },
+    {
+      "id": 359,
+      "name": "Odense",
+      "coordinates": {
+        "lat": 55.4038,
+        "lng": 10.4024
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Denmark 🇩🇰",
+        "region": "Funen",
+        "population": 180000
+      }
+    },
+    {
+      "id": 360,
+      "name": "Chennai",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "India 🇮🇳",
+        "region": "Tamil Nadu",
+        "population": 7100000
+      }
+    },
+    {
+      "id": 361,
+      "name": "Beijing",
+      "coordinates": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "China 🇨🇳",
+        "region": "North China",
+        "population": 21500000
+      }
+    },
+    {
+      "id": 362,
+      "name": "Milford Sound",
+      "coordinates": {
+        "lat": -44.6717,
+        "lng": 167.9261
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "New Zealand 🇳🇿",
+        "region": "Fiordland",
+        "population": 120
+      }
+    },
+    {
+      "id": 363,
+      "name": "Ho Chi Minh City",
+      "coordinates": {
+        "lat": 10.8231,
+        "lng": 106.6297
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Vietnam 🇻🇳",
+        "region": "Southern Vietnam",
+        "population": 9000000
+      }
+    },
+    {
+      "id": 364,
+      "name": "Sarajevo",
+      "coordinates": {
+        "lat": 43.8564,
+        "lng": 18.4131
+      },
+      "zoom": 6.5,
+      "answerZoom": 13,
+      "winThresholdKm": 10.0,
+      "difficulty": "hard",
+      "hints": {
+        "country": "Bosnia 🇧🇦",
+        "region": "Central Bosnia",
+        "population": 275000
+      }
+    },
+    {
+      "id": 365,
+      "name": "Budapest",
+      "coordinates": {
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "zoom": 4.5,
+      "answerZoom": 7,
+      "winThresholdKm": 50.0,
+      "difficulty": "easy",
+      "hints": {
+        "country": "Hungary 🇭🇺",
+        "region": "Central Hungary",
+        "population": 1800000
       }
     }
   ]

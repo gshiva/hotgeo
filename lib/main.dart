@@ -4,7 +4,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'dart:math';
 import 'dart:convert';
 import 'dart:html' as html show window, Navigator;
@@ -42,6 +41,7 @@ class GameScreen extends StatefulWidget {
 }
 
 class LocationChallenge {
+  final int id; // Unique ID from 1-365 for daily challenge
   final String name;
   final LatLng coordinates;
   final double initialZoom;
@@ -51,6 +51,7 @@ class LocationChallenge {
   final Map<String, dynamic> hints; // country, region, population
 
   const LocationChallenge({
+    required this.id,
     required this.name,
     required this.coordinates,
     required this.initialZoom,
@@ -62,6 +63,7 @@ class LocationChallenge {
 
   factory LocationChallenge.fromJson(Map<String, dynamic> json) {
     return LocationChallenge(
+      id: json['id'] as int,
       name: json['name'] as String,
       coordinates: LatLng(
         (json['coordinates']['lat'] as num).toDouble(),
@@ -232,6 +234,36 @@ class _GameScreenState extends State<GameScreen> {
       if (kDebugMode) {
         print('Error clearing state: $e');
       }
+    }
+  }
+
+  LocationChallenge? _getDailyChallenge() {
+    if (_allChallenges == null || _allChallenges!.isEmpty) {
+      return null;
+    }
+
+    // Epoch date: January 1, 2025 (when we start the daily challenges)
+    final epoch = DateTime(2025, 1, 1);
+    final now = DateTime.now();
+
+    // Calculate days since epoch
+    final daysSinceEpoch = now.difference(epoch).inDays;
+
+    // Use modulo to cycle through all 365 locations
+    // Each location has an "id" field from 1-365
+    final dailyLocationId = (daysSinceEpoch % 365) + 1;
+
+    // Find the location with this ID
+    try {
+      return _allChallenges!.firstWhere(
+        (challenge) => challenge.id == dailyLocationId,
+      );
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error finding daily challenge for ID $dailyLocationId: $e');
+      }
+      // Fallback to first location if something goes wrong
+      return _allChallenges!.first;
     }
   }
 
@@ -477,10 +509,10 @@ class _GameScreenState extends State<GameScreen> {
                     style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
                   ),
                   const SizedBox(width: 16),
-                  SvgPicture.asset(
-                    'assets/logo.svg',
-                    width: 120,
-                    height: 50,
+                  Image.asset(
+                    'assets/logo.png',
+                    height: 75,
+                    fit: BoxFit.contain,
                   ),
                 ],
               ),
