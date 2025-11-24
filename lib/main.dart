@@ -1026,7 +1026,7 @@ class _GameScreenState extends State<GameScreen> {
     if (recentWinsText.isNotEmpty) {
       shareText += '$recentWinsText\n';
     }
-    shareText += 'https://gshiva.github.io/hotgeo/';
+    shareText += 'https://hotgeo.us';
 
     return shareText;
   }
