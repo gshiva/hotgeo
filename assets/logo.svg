@@ -1,0 +1,22 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hotGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1D428A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFC72C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- HotGeo text with script-like styling -->
+  <text x="10" y="55"
+        font-family="'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="48"
+        font-weight="bold"
+        fill="url(#hotGradient)"
+        style="font-style: italic;">
+    HotGeo
+  </text>
+
+  <!-- Small flame emoji/icon on the 'o' -->
+  <circle cx="155" cy="35" r="12" fill="#FF9800" opacity="0.3"/>
+  <text x="148" y="44" font-size="16">🔥</text>
+</svg>

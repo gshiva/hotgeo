@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'dart:math';
 import 'dart:convert';
 import 'dart:html' as html show window, Navigator;
@@ -438,11 +439,6 @@ class _GameScreenState extends State<GameScreen> {
                       letterSpacing: -0.5,
                     ),
                   ),
-                  const SizedBox(width: 4),
-                  const Text(
-                    '🗺️',
-                    style: TextStyle(fontSize: 28),
-                  ),
                   if (_winStreak > 0) ...[
                     const SizedBox(width: 12),
                     Container(
@@ -474,9 +470,19 @@ class _GameScreenState extends State<GameScreen> {
                   ],
                 ],
               ),
-              Text(
-                'Attempts: $_attemptsLeft/6',
-                style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+              Row(
+                children: [
+                  Text(
+                    'Attempts: $_attemptsLeft/6',
+                    style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+                  ),
+                  const SizedBox(width: 16),
+                  SvgPicture.asset(
+                    'assets/logo.svg',
+                    width: 120,
+                    height: 50,
+                  ),
+                ],
               ),
             ],
           ),
