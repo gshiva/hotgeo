@@ -1,0 +1,94 @@
+{
+  "name": "Pushkar",
+  "country": "India",
+  "fun_fact": "Fun fact: Pushkar is one of the few places in the world where eating meat and eggs is COMPLETELY FORBIDDEN - the entire town is holy because it's the only place on Earth with a temple dedicated to Lord Brahma (the creator god), and even alcohol is banned!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dal Baati Churma",
+        "description": "Hard wheat balls (baati) with lentils (dal) and sweet crumbled wheat (churma)",
+        "origin_story": "The quintessential Rajasthani meal - baati are baked in desert sand traditionally. Served with lashings of ghee",
+        "where_to_find": "Om Shiva Garden Restaurant, Sixth Sense, traditional Rajasthani restaurants"
+      },
+      {
+        "name": "Malpua",
+        "description": "Sweet fried pancakes soaked in sugar syrup, often topped with rabri (reduced milk)",
+        "origin_story": "A specialty of Pushkar - these sweet treats are especially popular during religious festivals",
+        "where_to_find": "Pushkar Bazaar sweet shops, Halwairam, temple area vendors"
+      },
+      {
+        "name": "Kachori",
+        "description": "Deep-fried puffed pastry filled with spiced lentils or peas",
+        "origin_story": "The perfect vegetarian snack - Rajasthan's answer to the samosa",
+        "where_to_find": "Street vendors around Pushkar Lake, Halwairam sweet shop"
+      },
+      {
+        "name": "Poha",
+        "description": "Flattened rice cooked with onions, peas, and spices - common breakfast",
+        "origin_story": "A light, healthy breakfast found throughout India but perfected in Rajasthan",
+        "where_to_find": "Morning street stalls, guesthouses, cafés"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lassi",
+        "description": "Thick yogurt drink, sweet or salted, sometimes with rose or saffron",
+        "how_locals_drink_it": "Essential for cooling down - makhaniya lassi (with cream) is Rajasthani specialty"
+      },
+      {
+        "name": "Masala Chai",
+        "description": "Spiced tea with milk, cardamom, ginger, and other spices",
+        "how_locals_drink_it": "Constantly throughout the day from chai wallahs around the lake"
+      }
+    ],
+    "food_culture_notes": [
+      "STRICTLY VEGETARIAN - no meat, fish, or eggs allowed anywhere in town",
+      "No alcohol - Pushkar is a holy city",
+      "Pushkar Camel Fair (November) brings food stalls from across Rajasthan",
+      "Many rooftop restaurants overlook the sacred lake"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Pushkar Lake with 52 ghats",
+      "Brahma Temple",
+      "Savitri Temple on hill",
+      "Camel Fair grounds"
+    ],
+    "atmosphere": [
+      "holy pilgrimage site",
+      "white-washed ghats",
+      "camels everywhere during fair",
+      "backpacker cafés"
+    ],
+    "colors": [
+      "lake blue",
+      "temple white",
+      "marigold orange",
+      "desert sand"
+    ],
+    "unique_modern": [
+      "only Brahma temple in world",
+      "camel fair draws 200,000 visitors",
+      "hippie trail heritage"
+    ]
+  },
+  "wikipedia_search_term": "Pushkar",
+  "keywords_for_image": [
+    "dal baati churma",
+    "Pushkar Lake ghats",
+    "Brahma Temple",
+    "camels",
+    "holy pilgrims",
+    "marigolds"
+  ],
+  "coordinates": {
+    "lat": 26.4899,
+    "lng": 74.5511
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pushkar+🇮🇳/@26.4899,74.5511,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pushkar"
+  },
+  "location_id": 198
+}

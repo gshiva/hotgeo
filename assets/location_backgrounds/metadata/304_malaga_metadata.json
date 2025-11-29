@@ -1,0 +1,94 @@
+{
+  "name": "Malaga",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Malaga is the birthplace of Pablo Picasso AND Antonio Banderas, both of whom remained deeply connected to the city's food culture - Banderas still frequents El Pimpi restaurant when visiting, while Picasso once said the smell of espetos on the beach was the scent of home.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Espetos de Sardinas",
+        "description": "Sardine skewers slowly roasted over open fires on the beach - smoky, salty, and quintessentially Malaga",
+        "origin_story": "This 19th-century tradition began with local fishermen cooking their catch on the shore. The sardines are threaded on cane skewers and cooked in boats filled with sand over olive wood fires, creating an unforgettable smoky flavor",
+        "where_to_find": "Hermanos Alba (in El Palo seaside district - one of Malaga's most celebrated seafood spots), beach chiringuitos along the coast"
+      },
+      {
+        "name": "Gazpachuelo",
+        "description": "A creamy fisherman's soup made with mayonnaise, fish broth, potatoes, and white fish or prawns - rich and comforting",
+        "origin_story": "This typical Malaga fisherman's dish was once humble family food, but it's now a celebrated part of local cuisine. The mayonnaise emulsified into the broth creates an unexpectedly luxurious texture",
+        "where_to_find": "El Pimpi (Antonio Banderas's favorite, stays true to traditional recipe), traditional malagueño restaurants"
+      },
+      {
+        "name": "Porra Antequerana",
+        "description": "A thick cold soup similar to gazpacho and salmorejo, made with tomatoes and dried bread, topped with hard-boiled eggs, tuna, and serrano ham",
+        "origin_story": "While gazpacho is famous throughout Spain, porra antequerana is Malaga's own version - thicker and served with more substantial toppings, perfect for hot Andalusian summers",
+        "where_to_find": "El Tapeo de Cervantes (popular tapas bar in central Malaga), Casa Lola"
+      },
+      {
+        "name": "Berenjenas con Miel de Caña",
+        "description": "Fried aubergine (eggplant) served with sugar cane honey - a sweet and savory combination",
+        "origin_story": "This tapa dates back to the Moorish period in Andalusia when sweet and savory combinations were common. The contrast between crispy fried eggplant and sweet molasses is addictive",
+        "where_to_find": "Mesón Mariano (best berenjenas fritas in the city), traditional Andalusian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Malaga Sweet Wine",
+        "description": "Sweet fortified wine made from Moscatel grapes - amber-colored, aromatic, and intensely sweet",
+        "how_locals_drink_it": "Served as a dessert wine or aperitif, often paired with local pastries or cheese. Malaga wine has been produced here since Phoenician times"
+      },
+      {
+        "name": "Tinto de Verano",
+        "description": "Red wine mixed with lemon soda and ice - refreshing and lower alcohol than sangria",
+        "how_locals_drink_it": "The drink of choice for locals in summer (tourists get sangria). It's lighter, more refreshing, and what Malagueños actually drink on hot days"
+      }
+    ],
+    "food_culture_notes": [
+      "Spanish eating times: lunch 1:30-4:00 PM, dinner after 8:00 PM - many restaurants close between services",
+      "Atarazanas market has bars serving excellent fritura (mixed fried seafood) - the place for authentic local experiences",
+      "Er Pichi de Cái has four locations throughout Malaga and is a veritable institution for tortillitas de camarones (crispy shrimp cakes)",
+      "The Soho district has emerged as a trendy dining area with traditional spots like Mesón Ibérico mixing with new restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Alcazaba Moorish fortress",
+      "Malaga Cathedral",
+      "Picasso Museum",
+      "beachfront Paseo Maritimo"
+    ],
+    "atmosphere": [
+      "palm trees along beaches",
+      "chiringuitos with smoke rising",
+      "colorful street art in Soho",
+      "Roman theatre ruins"
+    ],
+    "colors": [
+      "deep blue Mediterranean",
+      "golden fried seafood",
+      "vibrant orange gazpacho",
+      "white-washed buildings"
+    ],
+    "unique_modern": [
+      "Picasso's birthplace transformed into museum",
+      "street art covering entire buildings in Soho",
+      "traditional chiringuitos next to luxury beach clubs",
+      "Antonio Banderas investing in city's cultural revival"
+    ]
+  },
+  "wikipedia_search_term": "Málaga",
+  "keywords_for_image": [
+    "Malaga Spain",
+    "espetos sardinas",
+    "Malaga beach",
+    "Alcazaba fortress",
+    "Andalusian cuisine"
+  ],
+  "coordinates": {
+    "lat": 36.7213,
+    "lng": -4.4214
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Malaga+🇪🇸/@36.7213,-4.4214,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Málaga"
+  },
+  "location_id": 304
+}

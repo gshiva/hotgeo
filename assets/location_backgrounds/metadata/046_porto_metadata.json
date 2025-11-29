@@ -1,0 +1,102 @@
+{
+  "name": "Porto",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: The famous Francesinha sandwich was invented in the 1950s when Portuguese emigrant Daniel Silva returned from France and thought 'hey, let's go bigger' after seeing the croque-monsieur. The result? A monstrous sandwich with two types of sausages, ham, beef steak, melted cheese, and beer sauce that has become one of the top ten sandwiches in the world.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Francesinha",
+        "description": "A caloric bomb sandwich featuring layers of beef steak, cured meat, fresh sausages, topped with cheese, covered in spicy beer-tomato sauce, and surrounded by French fries",
+        "origin_story": "Invented in the 1950s by Daniel Silva, who adapted the French croque-monsieur into something distinctly Portuguese and much larger. The name means 'Little French Girl' - ironic given there's nothing little about it. It's Porto's most iconic culinary symbol.",
+        "where_to_find": "Café Santiago (Ribeira) - family business with long lines of locals waiting; Brasão Aliados (near City Hall) - created a special beer just for francesinhas; Bufete Fase - locals stand in line with beer in hand; O Golfinho (downtown) - authentic atmosphere, Travelers' Choice 2024"
+      },
+      {
+        "name": "Bifana",
+        "description": "Juicy pork steak sandwich stewed in tomato, wine, piri piri, garlic and olive oil sauce, served in a carcaça bun",
+        "origin_story": "Humble working-class origins from Portuguese kitchens. Porto's bifanas are saucier and more flavorful than southern Portugal versions - the north uses shredded pork with sauce, while the south uses lighter cutlets.",
+        "where_to_find": "Sandeira (near Rua das Flores) - cozy spot, hard to find a table but worth it for delicious sandwiches"
+      },
+      {
+        "name": "Rissóis (de Camarão)",
+        "description": "Golden-brown half-moon shaped deep-fried pastries filled with shrimp or mincemeat in a crispy shell",
+        "origin_story": "Classic Portuguese petisco with uncertain history, but Porto's affinity for seafood and global spices led to their development. Often paired with an 'imperial' (small beer) as the perfect snack.",
+        "where_to_find": "Xau Laura (near Crystal Palace Gardens) - affordable prices, crispy and tasty rissóis; traditional cafés throughout Baixa district"
+      },
+      {
+        "name": "Petiscos",
+        "description": "Portuguese 'tapas' - small shareable dishes to accompany wine; the word 'petiscar' means to savor something special",
+        "origin_story": "Portuguese pride themselves on petiscos being distinctly NOT Spanish tapas. It's about licking your fingers, refreshing your soul with beer, tasting wines and socializing - food is about people and community.",
+        "where_to_find": "Traditional tascas (taverns) in Baixa; Adega São Nicolau and Taberna dos Mercadores for authentic experience away from tourist traps"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Port Wine",
+        "description": "Sweet fortified wine in varieties like Ruby (young, fruity), Tawny (aged, complex), and Vintage",
+        "how_locals_drink_it": "Perfect for accompanying typical Porto dishes. Ironically, many famous Port wines are stored and aged across the Douro River in Vila Nova de Gaia, not Porto proper."
+      },
+      {
+        "name": "Vinho Verde",
+        "description": "Light and refreshing white wine signature to the region",
+        "how_locals_drink_it": "Served at traditional tascas while mingling with locals over petiscos in neighborhood taverns"
+      }
+    ],
+    "food_culture_notes": [
+      "Baixa is THE locality for traditional restaurants, away from tourist crowds",
+      "Tascas (neighborhood taverns) are where locals gather for petiscos and wine",
+      "Long lines at restaurants like Café Santiago are a badge of honor - locals wait patiently for the best francesinhas",
+      "Food is deeply tied to working-class heritage and community gathering",
+      "The Ribeira district balances tourism with authentic local eateries"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ribeira waterfront with colorful buildings",
+      "Dom Luís I Bridge spanning the Douro River",
+      "Vila Nova de Gaia wine cellars across the river",
+      "Crystal Palace Gardens",
+      "Rua das Flores historic street",
+      "Traditional azulejo tiles on buildings"
+    ],
+    "atmosphere": [
+      "Colorful stacked buildings cascading down to the Douro",
+      "Traditional tascas with checked tablecloths and locals gathering",
+      "Port wine barrels aging in dim cellars",
+      "Busy cafés with people waiting in line for francesinhas",
+      "Historic downtown (Baixa) with cobblestone streets"
+    ],
+    "colors": [
+      "Warm terracotta rooftops",
+      "Deep blue Douro River",
+      "Golden Port wine",
+      "White and blue azulejo tiles",
+      "Pastel building facades (yellow, pink, cream)"
+    ],
+    "unique_modern": [
+      "Brasão's specialty beer made for francesinhas",
+      "Modern fusion of traditional taverns with contemporary dining",
+      "Food tours showcasing authentic local spots",
+      "Instagram-worthy Ribeira views balanced with working taverns"
+    ]
+  },
+  "wikipedia_search_term": "Porto",
+  "keywords_for_image": [
+    "Porto Ribeira waterfront",
+    "Francesinha sandwich Porto",
+    "Port wine cellars Vila Nova de Gaia",
+    "Dom Luis bridge Douro River",
+    "Porto traditional tasca tavern",
+    "Portuguese petiscos",
+    "Porto azulejo tiles",
+    "Rua das Flores Porto"
+  ],
+  "coordinates": {
+    "lat": 41.1579,
+    "lng": -8.6291
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Porto+🇵🇹/@41.1579,-8.6291,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Porto"
+  },
+  "location_id": 46
+}

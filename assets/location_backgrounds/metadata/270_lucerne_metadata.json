@@ -1,0 +1,94 @@
+{
+  "name": "Lucerne",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Lucerne's signature dish, Luzerner Chügelipastete, was traditionally eaten on January 2nd to celebrate Bärteli-Essens - a festival honoring the city's patron saint with an ornate, dome-shaped puff pastry that took master bakers years to perfect.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Luzerner Chügelipastete",
+        "description": "Ornate dome-shaped puff pastry filled with creamy veal, sausage meat, and mushroom sauce. The pastry is intricate and delicate, requiring exceptional baking skill.",
+        "origin_story": "Dating back to the 18th century, this meat pie is Lucerne's most historic specialty. Originally consumed exclusively on January 2nd for Bärteli-Essens festival, it's now available year-round but remains a symbol of Lucerne culinary pride.",
+        "where_to_find": "Wirtshaus Galliker, Old Swiss House, traditional Swiss restaurants in Old Town"
+      },
+      {
+        "name": "Wiener Schnitzel at Old Swiss House",
+        "description": "Breaded veal cutlet fried tableside in an inordinate amount of butter, served with lemon and lingonberry jam.",
+        "origin_story": "Old Swiss House has been serving travelers since 1931 in a building dating to 1858. Their theatrical preparation - frying the schnitzel in butter right next to your table - has become legendary.",
+        "where_to_find": "Old Swiss House (housed in a 17th-century antique-filled farmhouse)"
+      },
+      {
+        "name": "Älplermagronen (Alpine Macaroni)",
+        "description": "Swiss mountain comfort food combining macaroni, cheese sauce, diced potatoes, bacon, caramelized onions, and stewed apples.",
+        "origin_story": "Also known as herdsman's macaroni, this dish sustained Alpine shepherds during long mountain summers. The combination of pasta, potatoes, and apples reflects the resourcefulness of Swiss mountain culture.",
+        "where_to_find": "Wirtshaus Taube, Wirtshaus Galliker, Stadtkeller"
+      },
+      {
+        "name": "Heusuppe (Hay Soup)",
+        "description": "Unique soup made with mountain flowers, herbs, cream, and butter. Actual hay is used for flavor but removed before serving.",
+        "origin_story": "An ancient Alpine recipe that uses the dried wild grasses and flowers from Swiss mountain meadows. It captures the essence of the Alps in a bowl - fragrant, herbal, and utterly unique to Switzerland.",
+        "where_to_find": "Traditional Swiss restaurants during special Alpine cuisine events"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swiss Beer from Rathaus Brauerei",
+        "description": "House-brewed craft beers including pilsners, lagers, and seasonal specialties made on-site.",
+        "how_locals_drink_it": "Enjoyed in the brewery's beer hall along the Reuss River, paired with schnitzels and sausages. Locals gather here for post-work drinks and traditional Swiss comfort food."
+      },
+      {
+        "name": "Rivella",
+        "description": "Switzerland's national soft drink made from milk whey, available in red (original), blue (low calorie), and green (green tea) varieties.",
+        "how_locals_drink_it": "Consumed ice-cold as a refreshing alternative to cola. The original red variety has a unique, slightly herbal taste that grows on you. Ubiquitous at Swiss cafes and restaurants."
+      }
+    ],
+    "food_culture_notes": [
+      "Lucerne's food scene balances centuries-old traditions with modern farm-to-table movements",
+      "Cheese fondue is taken seriously here - outdoor fondue restaurants let you enjoy it with Alpine views",
+      "The weekly farmers' market along the Reuss River showcases regional cheeses, artisanal breads, and seasonal produce",
+      "The autumn Alpine Cheese Festival celebrates the region's artisanal cheese-making heritage with tastings and demonstrations"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Chapel Bridge (Kapellbrücke)",
+      "Lion Monument",
+      "Mount Pilatus cable car",
+      "Lucerne lakefront promenade"
+    ],
+    "atmosphere": [
+      "Alpine mountain backdrop",
+      "medieval covered bridges",
+      "lake steamers",
+      "flower-decorated wooden bridges"
+    ],
+    "colors": [
+      "Alpine lake blue",
+      "snow-capped white peaks",
+      "wooden bridge browns",
+      "Swiss flag red"
+    ],
+    "unique_modern": [
+      "lakefront terrace dining",
+      "contemporary Swiss cuisine",
+      "craft brewery revival",
+      "mountain railway restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Lucerne",
+  "keywords_for_image": [
+    "Chapel Bridge",
+    "Swiss Alps",
+    "cheese fondue",
+    "Lake Lucerne",
+    "medieval architecture"
+  ],
+  "coordinates": {
+    "lat": 47.0502,
+    "lng": 8.3093
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lucerne+🇨🇭/@47.0502,8.3093,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucerne"
+  },
+  "location_id": 270
+}

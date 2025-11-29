@@ -1,0 +1,94 @@
+{
+  "name": "Copenhagen",
+  "country": "Denmark",
+  "fun_fact": "Fun fact: Copenhagen's Noma was named the World's Best Restaurant FIVE times (2010-2014, 2021) and sparked the entire New Nordic cuisine revolution - Chef René Redzepi created a movement of foraging, fermentation, and hyper-local ingredients that changed global fine dining forever!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Smørrebrød",
+        "description": "Open-faced sandwiches on dense rugbrød (rye bread) with artistic toppings",
+        "origin_story": "The Danish lunch tradition - each topping combination has a name. Classics include pickled herring, liver pate with bacon, and shrimp with mayo",
+        "where_to_find": "Aamanns (modern), Schønnemann (traditional since 1877), Selma, Hallernes Smørrebrød"
+      },
+      {
+        "name": "New Nordic Cuisine",
+        "description": "Hyper-local, foraged, fermented - the philosophy that revolutionized world gastronomy",
+        "origin_story": "The New Nordic Manifesto was signed in Copenhagen in 2004. Noma, Geranium, Kadeau lead the movement",
+        "where_to_find": "Noma, Geranium (3 Michelin stars), Alchemist, Kadeau, Hart Bageri"
+      },
+      {
+        "name": "Stegt Flæsk med Persillesovs",
+        "description": "Crispy fried pork belly with parsley sauce and potatoes - Denmark's national dish",
+        "origin_story": "Voted national dish in 2014 - simple, hearty, and beloved",
+        "where_to_find": "Restaurant Kronborg, Torvehallerne, traditional Danish restaurants"
+      },
+      {
+        "name": "Hot Dog (Pølse)",
+        "description": "Red sausage in bun with fried onions, pickles, remoulade, ketchup, and mustard",
+        "origin_story": "Copenhagen has legendary hot dog stands (pølsevogn) since 1921. The red color comes from carmine",
+        "where_to_find": "DØP (Økologisk Pølsemand), John's Hotdog Deli, street carts throughout city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Carlsberg and Tuborg",
+        "description": "Denmark's two major breweries, both founded in Copenhagen",
+        "how_locals_drink_it": "At bars and hygge gatherings, though craft beer has exploded"
+      },
+      {
+        "name": "Aquavit",
+        "description": "Caraway-spiced Scandinavian spirit",
+        "how_locals_drink_it": "Ice cold with smørrebrød, especially herring. Shot with beer chaser"
+      }
+    ],
+    "food_culture_notes": [
+      "More Michelin stars than any city in Scandinavia",
+      "Torvehallerne food halls are incredible for grazing",
+      "Hygge (coziness) is central to Danish food culture",
+      "Copenhagen Street Food (Reffen) is a food truck paradise"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Nyhavn colorful harbor",
+      "Little Mermaid statue",
+      "Tivoli Gardens",
+      "Christiansborg Palace"
+    ],
+    "atmosphere": [
+      "colorful townhouses",
+      "cycling culture",
+      "harbor dining",
+      "hygge coziness"
+    ],
+    "colors": [
+      "Nyhavn pastels",
+      "Nordic grey",
+      "bicycle red",
+      "design minimalism"
+    ],
+    "unique_modern": [
+      "New Nordic capital",
+      "world's happiest city",
+      "carbon-neutral goal",
+      "design capital"
+    ]
+  },
+  "wikipedia_search_term": "Copenhagen",
+  "keywords_for_image": [
+    "smørrebrød open sandwich",
+    "Nyhavn colorful houses",
+    "Danish pastry",
+    "New Nordic cuisine",
+    "cycling harbor"
+  ],
+  "coordinates": {
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Copenhagen+🇩🇰/@55.6761,12.5683,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Copenhagen"
+  },
+  "location_id": 194
+}

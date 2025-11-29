@@ -1,0 +1,94 @@
+{
+  "name": "Algiers",
+  "country": "Algeria",
+  "fun_fact": "Fun fact: Algiers is called 'Alger la Blanche' (Algiers the White) because of its stunning white Ottoman-era buildings that cascade down the hillside to the Mediterranean, creating a dazzling sight when viewed from the sea - a view that inspired countless artists and poets.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Couscous with Lamb",
+        "description": "Fluffy hand-rolled semolina grains steamed over aromatic broth, topped with tender lamb and seven vegetables",
+        "origin_story": "Couscous is Algeria's national dish, traditionally made on Fridays. The Algerian version is distinct from Moroccan or Tunisian couscous - the grains are lighter and fluffier, and it's served with a rich vegetable soup on the side",
+        "where_to_find": "Restaurant Lalla Mina (Moorish architecture setting), Brasserie des Facultés, Les Orientalistes"
+      },
+      {
+        "name": "Mechoui",
+        "description": "Whole roast lamb cooked for hours until the meat is fall-off-the-bone tender with crispy, aromatic skin",
+        "origin_story": "Mechoui is the centerpiece of Algerian celebrations - traditionally cooked in outdoor ovens or over open fires for weddings and festivals. The version at Auberge Du Moulin is legendary among locals",
+        "where_to_find": "Auberge Du Moulin (24 Rue Abane Ramdane, Cheragua - very popular), Restaurant Lalla Mina"
+      },
+      {
+        "name": "Douara",
+        "description": "Sheep stomach cooked with chickpeas and Algerian spices until tender - rich, earthy, and deeply flavorful",
+        "origin_story": "Douara represents Algeria's nose-to-tail eating tradition, where nothing is wasted. When prepared properly with the right spice blend, it's considered a delicacy and a test of a cook's skill",
+        "where_to_find": "Traditional Algerian restaurants, street food markets in the Casbah"
+      },
+      {
+        "name": "Andalusian-Algerian Fusion",
+        "description": "Dishes combining Andalusian techniques with Algerian ingredients - a result of centuries of cultural exchange",
+        "origin_story": "When Muslims and Jews were expelled from Spain in 1492, many settled in Algiers, bringing Andalusian cooking techniques that merged with local Berber and Arab traditions to create a unique culinary style",
+        "where_to_find": "Le Repère (in the historic Casbah), upscale restaurants blending traditions"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mint Tea (Thé à la Menthe)",
+        "description": "Sweet green tea with fresh mint leaves, poured from height to create a foam",
+        "how_locals_drink_it": "Served throughout the day at cafés, after meals, and to guests as a sign of hospitality. The pouring ritual - from high above to create foam - is an art form"
+      },
+      {
+        "name": "Algerian Red Wine",
+        "description": "Full-bodied red wine from Algeria's historic vineyards planted during French colonial times",
+        "how_locals_drink_it": "Served at restaurants like Jenina that cater to both locals and foreigners. Algeria was once one of the world's largest wine producers, and some excellent vineyards remain"
+      }
+    ],
+    "food_culture_notes": [
+      "Algerian cuisine is a mix of Berber, French, Arab, and Turkish flavors - one of North Africa's most complex culinary traditions",
+      "Friday couscous is a sacred tradition - families gather for this weekly feast",
+      "The Casbah's street food markets offer authentic local delicacies not found in restaurants",
+      "Hospitality is central to Algerian food culture - guests are always offered tea and food"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "White Casbah cascading hillside",
+      "Notre Dame d'Afrique basilica",
+      "Martyrs Memorial",
+      "Mediterranean seafront"
+    ],
+    "atmosphere": [
+      "white Ottoman buildings catching sunlight",
+      "winding Casbah alleyways",
+      "call to prayer echoing",
+      "French colonial boulevards"
+    ],
+    "colors": [
+      "brilliant white buildings",
+      "Mediterranean azure blue",
+      "golden Saharan sand tones",
+      "deep terracotta rooftops"
+    ],
+    "unique_modern": [
+      "rooftop cafés overlooking the Mediterranean",
+      "French bistros in historic buildings",
+      "contemporary art scene in the Casbah",
+      "fusion of African and European architecture"
+    ]
+  },
+  "wikipedia_search_term": "Algiers",
+  "keywords_for_image": [
+    "Algiers Algeria",
+    "Casbah white buildings",
+    "Notre Dame d'Afrique",
+    "Algerian couscous",
+    "Mediterranean coastline"
+  ],
+  "coordinates": {
+    "lat": 36.7538,
+    "lng": 3.0588
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Algiers+🇩🇿/@36.7538,3.0588,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Algiers"
+  },
+  "location_id": 295
+}

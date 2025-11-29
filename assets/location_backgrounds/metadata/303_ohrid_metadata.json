@@ -1,0 +1,94 @@
+{
+  "name": "Ohrid",
+  "country": "North Macedonia",
+  "fun_fact": "Fun fact: Lake Ohrid is one of Europe's oldest and deepest lakes at over 1 million years old, and it's home to a unique species of trout found nowhere else on Earth - the Ohrid trout (Salmo letnica), which locals have been fishing and grilling the same way for centuries.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ohrid Trout (Pastrmka)",
+        "description": "Fresh trout from Lake Ohrid, grilled, fried, or baked with lemon and local herbs - delicate, sweet, and unique to this ancient lake",
+        "origin_story": "The Ohrid trout is endemic to Lake Ohrid and has been the centerpiece of local cuisine for millennia. Overfishing threatened the species, so much of what's served now is farmed or from sustainable sources, but the traditional preparation remains unchanged",
+        "where_to_find": "Kaneo Restaurant (below the iconic Church of St. John), Restaurant Dalga (stunning mountain views by the lake), Letna Bavča Kaneo (right on the water's edge)"
+      },
+      {
+        "name": "Tavče Gravče",
+        "description": "Macedonia's national dish - white beans slow-cooked with onions, peppers, tomatoes, and spices, then baked in earthenware until tender",
+        "origin_story": "This humble bean stew represents Macedonian home cooking at its finest. The name comes from 'tava' (the earthenware pot it's cooked in). Every family has their own variation passed down through generations",
+        "where_to_find": "Čun (rustic tavern near old bazaar with hearty portions), Antiko (home-style cooking in stone building)"
+      },
+      {
+        "name": "Gjomleze",
+        "description": "A traditional Ohrid specialty - fish dish unique to the region",
+        "origin_story": "This dish is specific to Ohrid and reflects the city's unique culinary heritage combining Slavic, Greek, and Turkish influences from centuries of different rulers",
+        "where_to_find": "Restaurant Ostrovo at Sveti Naum, Dva Bisera in Radožda"
+      },
+      {
+        "name": "Stuffed Macedonian Trout",
+        "description": "Whole trout stuffed with herbs, vegetables, and traditional seasonings, then baked until the skin is crispy",
+        "origin_story": "This traditional preparation elevates the simple grilled trout by stuffing it with local herbs from the mountains surrounding Lake Ohrid",
+        "where_to_find": "Dva Bisera in Radožda, Restaurant Ostrovo at Sveti Naum"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakija",
+        "description": "North Macedonia's iconic fruit brandy made from grapes, plums, or other fruits - strong and aromatic",
+        "how_locals_drink_it": "Served as a welcome drink (hospitality is sacred in Macedonian culture) and as a digestif after meals. Every family makes their own version, and homemade is always best"
+      },
+      {
+        "name": "Macedonian Wine",
+        "description": "Local wines from the Tikveš region, especially reds made from indigenous grapes",
+        "how_locals_drink_it": "Paired with grilled fish at lakeside restaurants, enjoyed slowly while watching the sunset over Lake Ohrid"
+      }
+    ],
+    "food_culture_notes": [
+      "St Petka restaurant has no menu - the waiter recommends daily specials and house favorites based on what's fresh",
+      "Kaneo area offers the best views - dining below the Church of St. John at Kaneo with the lake spreading below",
+      "Sveti Naum monastery area (south of Ohrid) is famous for traditional fish restaurants with stunning lake views",
+      "Makalo is a creamy garlic dip served with fish - it's ubiquitous in Ohrid and delicious"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Church of St. John at Kaneo on cliff",
+      "Ancient Theatre of Ohrid",
+      "Sveti Naum Monastery",
+      "Samuil's Fortress"
+    ],
+    "atmosphere": [
+      "Byzantine churches overlooking turquoise water",
+      "narrow cobblestone Old Town streets",
+      "waterfront dining",
+      "monastery bells echoing"
+    ],
+    "colors": [
+      "deep turquoise lake water",
+      "white church domes",
+      "terracotta rooftops",
+      "golden sunset over mountains"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage old town",
+      "ancient lake ecosystem",
+      "blend of Byzantine and Ottoman architecture",
+      "traditional music played live at lakeside restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Ohrid",
+  "keywords_for_image": [
+    "Ohrid North Macedonia",
+    "Lake Ohrid",
+    "Church St John Kaneo",
+    "Ohrid trout",
+    "Byzantine architecture"
+  ],
+  "coordinates": {
+    "lat": 41.1171,
+    "lng": 20.8016
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ohrid+🇲🇰/@41.1171,20.8016,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ohrid"
+  },
+  "location_id": 303
+}

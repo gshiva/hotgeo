@@ -1,0 +1,93 @@
+{
+  "name": "Phnom Penh",
+  "country": "Cambodia",
+  "fun_fact": "Fun fact: Nom Banh Chok, Cambodia's national dish of fermented rice noodles, is traditionally sold by women carrying it on their shoulders walking through streets at dawn - a tradition unchanged for centuries!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nom Banh Chok",
+        "description": "Fermented rice noodles with fragrant fish curry sauce, lemongrass, turmeric, basil and mint",
+        "origin_story": "Cambodia's national dish, handmade noodles unchanged for centuries",
+        "where_to_find": "Sold by walking vendors at dawn, traditional markets"
+      },
+      {
+        "name": "Bai Sach Chrouk",
+        "description": "Marinated pork with rice - the quintessential Cambodian breakfast",
+        "origin_story": "Popular breakfast dating back generations",
+        "where_to_find": "Corner of Street 19 and Norodom Boulevard, evening street grills"
+      },
+      {
+        "name": "Fish Amok",
+        "description": "Traditional Khmer steamed fish curry in banana leaf",
+        "origin_story": "Origins trace back to the Khmer Empire era",
+        "where_to_find": "Khmer restaurants throughout the city"
+      },
+      {
+        "name": "Lok Lak",
+        "description": "Marinaded beef cubes cooked rare, served with fried rice",
+        "origin_story": "French-Vietnamese influenced dish adapted into Khmer cuisine",
+        "where_to_find": "Local restaurants and street food stalls"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Fresh coconut juice",
+        "description": "Young coconut served ice cold",
+        "how_locals_drink_it": "From street carts, especially near markets"
+      },
+      {
+        "name": "Sugar cane juice",
+        "description": "Freshly pressed sugar cane",
+        "how_locals_drink_it": "At street stalls with lime"
+      }
+    ],
+    "food_culture_notes": [
+      "Night Market between streets 106-108 has the most concentrated street food",
+      "Russian Market offers authentic BBQ culture with vendors cooking your selected raw meat",
+      "Street food costs $1-3 per dish",
+      "Oldest food culture in Southeast Asia with Vietnamese, Thai, Indian and Chinese influences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Royal Palace golden spires",
+      "Mekong River",
+      "Independence Monument",
+      "Central Market Art Deco dome"
+    ],
+    "atmosphere": [
+      "French colonial buildings",
+      "Buddhist temples",
+      "bustling night markets",
+      "cyclo rickshaws"
+    ],
+    "colors": [
+      "gold and saffron",
+      "emerald green",
+      "terracotta",
+      "river blue"
+    ],
+    "unique_modern": [
+      "riverside promenade",
+      "mix of French colonial and Khmer architecture"
+    ]
+  },
+  "wikipedia_search_term": "Phnom_Penh",
+  "keywords_for_image": [
+    "nom banh chok noodles",
+    "fish amok in banana leaf",
+    "Royal Palace spires",
+    "Mekong River",
+    "French colonial buildings",
+    "night market lanterns"
+  ],
+  "coordinates": {
+    "lat": 11.5564,
+    "lng": 104.9282
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Phnom+Penh+🇰🇭/@11.5564,104.9282,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phnom_Penh"
+  },
+  "location_id": 2
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Palma de Mallorca",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Ensaïmada pastry is so iconic to Mallorca that it has EU Protected Geographical Indication - the distinctive spiral shape uses pork lard (saïm in Catalan), and passengers carry them in special octagonal boxes on flights home!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ensaïmada",
+        "description": "Coiled spiral pastry made with pork lard, often dusted with powdered sugar or filled with cream, apricot, or sobrassada",
+        "origin_story": "Jewish bakers created the shape in the 17th century, using pork lard to prove their conversion to Christianity. Now Mallorca's symbol",
+        "where_to_find": "Forn del Santo Cristo, Fornet de la Soca, Ca'n Joan de S'Aigo (since 1700)"
+      },
+      {
+        "name": "Sobrassada",
+        "description": "Spreadable cured pork sausage with paprika, bright orange-red color",
+        "origin_story": "A Mallorcan specialty since the 16th century - the paprika was an innovation that allowed curing in the humid island climate",
+        "where_to_find": "Every market and grocery, restaurants serve it on toast with honey"
+      },
+      {
+        "name": "Tumbet",
+        "description": "Layered vegetable dish with potato, eggplant, peppers, and tomato sauce",
+        "origin_story": "Mallorca's answer to ratatouille - a summer dish using abundant local vegetables",
+        "where_to_find": "Traditional Mallorcan restaurants, home cooking"
+      },
+      {
+        "name": "Frit Mallorquí",
+        "description": "Fried offal (liver, heart, blood) with potatoes, peppers, and fennel",
+        "origin_story": "A peasant dish using all parts of the pig - hearty and traditional",
+        "where_to_find": "Celler Sa Premsa, Ca'n Pep, traditional cellers"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Hierbas",
+        "description": "Herbal liqueur made with anise, rosemary, fennel, and other Mediterranean herbs",
+        "how_locals_drink_it": "As digestif after meals - sweet (dulce), semi-dry (mezcladas), or dry (secas)"
+      },
+      {
+        "name": "Palo",
+        "description": "Dark, bitter digestif made from quinine and gentian",
+        "how_locals_drink_it": "On ice or with soda - a Mallorcan specialty"
+      }
+    ],
+    "food_culture_notes": [
+      "Cellers are traditional restaurant-cellars, often in old wine caves",
+      "Mercat de l'Olivar is the main food market since 1951",
+      "Pa amb oli (bread with oil and tomato) is the essential starter",
+      "Local wines from Binissalem DO are excellent with seafood"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "La Seu Cathedral",
+      "Bellver Castle",
+      "Old Town (Casc Antic)",
+      "Port de Palma"
+    ],
+    "atmosphere": [
+      "Mediterranean elegance",
+      "Gothic-Catalan architecture",
+      "yacht-filled harbor",
+      "café culture"
+    ],
+    "colors": [
+      "cathedral sandstone",
+      "Mediterranean blue",
+      "bougainvillea pink",
+      "sobrassada orange"
+    ],
+    "unique_modern": [
+      "yacht capital",
+      "Miró museum",
+      "cycling paradise",
+      "German tourism hub"
+    ]
+  },
+  "wikipedia_search_term": "Palma_de_Mallorca",
+  "keywords_for_image": [
+    "ensaïmada pastry",
+    "La Seu Cathedral",
+    "sobrassada",
+    "Mediterranean harbor",
+    "Old Town streets"
+  ],
+  "coordinates": {
+    "lat": 39.5696,
+    "lng": 2.6502
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Palma+de+Mallorca+🇪🇸/@39.5696,2.6502,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palma_de_Mallorca"
+  },
+  "location_id": 215
+}

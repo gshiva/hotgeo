@@ -1,0 +1,94 @@
+{
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "fun_fact": "Fun fact: Vilnius has a self-proclaimed independent republic called Užupis with its own constitution, flag, and even an army of 12 people—it's like the city's bohemian Brooklyn meets Montmartre.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cepelinai",
+        "description": "Massive zeppelin-shaped potato dumplings stuffed with meat, mushrooms, or cottage cheese, garnished with fried bacon and sour cream—heavy enough to power you through a Baltic winter",
+        "origin_story": "Lithuanians call them 'zeppelins' because they resemble airships, though the official name is didžkukuliai (which even locals avoid pronouncing). Created as peasant food, they became a symbol of Lithuanian identity",
+        "where_to_find": "Etno Dvaras (chain with locations throughout Vilnius), Stikliai Tavern (in Old Town), Snekutis, or Čeburekinė for the most authentic Soviet-era canteen experience"
+      },
+      {
+        "name": "Šaltibarščiai (Pink Soup)",
+        "description": "Shocking-pink cold beet soup with cucumber, spring onions, dill, boiled egg, and kefir—refreshingly sour and served with hot potatoes that you dip into the soup",
+        "origin_story": "A summer staple that became so iconic Vilnius hosts a Pink Soup Festival every June. The vibrant color comes from fresh beets, making it Instagram-famous centuries before social media",
+        "where_to_find": "GO Vilnius Pink Soup Festival (June 8), Bernelių Užeiga, or any traditional restaurant in summer"
+      },
+      {
+        "name": "Kepta Duona (Fried Bread)",
+        "description": "Crispy garlic-rubbed rye bread fingers served with creamy cheese sauce—the ultimate beer snack that locals devour by the basket",
+        "origin_story": "What started as a way to use up stale bread became Lithuania's most beloved pub food. Every babushka has her own technique for achieving maximum crispiness",
+        "where_to_find": "Špunka (Etmonų g. 3 or Savičiaus g. 9)—the locals' favorite pub for beer and fried bread"
+      },
+      {
+        "name": "Kibinai",
+        "description": "Crescent-shaped pastries filled with mutton, beef, or vegetables brought by the Karaites, an ethnic minority settled here 600 years ago",
+        "origin_story": "The Karaites were brought to Lithuania by Grand Duke Vytautas in the 14th century. Their food traditions survived centuries, making kibinai a living piece of medieval history",
+        "where_to_find": "Best found in Trakai (30 minutes from Vilnius), but available in Vilnius Old Town restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lithuanian Beer (Švyturys, Kalnapilis)",
+        "description": "Strong, amber-colored lagers brewed in the Baltic tradition—locals take their beer seriously",
+        "how_locals_drink_it": "Always paired with kepta duona or cepelinai. Beer gardens come alive in summer, but winter drinking happens in cozy, wood-paneled pubs with locals debating basketball (Lithuania's true religion)"
+      },
+      {
+        "name": "Krupnikas",
+        "description": "Sweet honey liqueur spiced with cinnamon, cloves, and nutmeg—Lithuania's answer to mulled wine",
+        "how_locals_drink_it": "Served warm in winter to combat the brutal cold, or chilled as a digestif after a heavy cepelinai meal. Grandmothers make the best homemade versions"
+      }
+    ],
+    "food_culture_notes": [
+      "Lithuanians eat cepelinai year-round despite it being incredibly heavy—it's a matter of national pride",
+      "The Pink Soup Festival in June is a real event where the entire city celebrates cold beet soup",
+      "Mushroom foraging is a serious fall tradition—families guard their secret forest spots",
+      "Soviet-era canteens like Čeburekinė preserve the utilitarian aesthetic: cold stone walls, simple tables, unchanged since the 1980s"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gediminas Tower on the hill overlooking the city",
+      "Vilnius Cathedral and its distinctive bell tower",
+      "St. Anne's Church (Gothic brick masterpiece)",
+      "Užupis district with street art and bohemian vibes"
+    ],
+    "atmosphere": [
+      "cobblestone streets in Old Town",
+      "baroque church spires",
+      "cozy amber-lit restaurants",
+      "Soviet-era brutalist architecture mixed with medieval buildings"
+    ],
+    "colors": [
+      "amber and honey tones",
+      "shocking pink (from beet soup)",
+      "golden fried bread crust",
+      "red brick Gothic churches"
+    ],
+    "unique_modern": [
+      "Užupis Republic's quirky constitution posted on walls in multiple languages",
+      "Street art and galleries in former industrial spaces",
+      "Techno clubs in Soviet-era buildings",
+      "Baltic hipster coffee culture meets traditional beer halls"
+    ]
+  },
+  "wikipedia_search_term": "Vilnius",
+  "keywords_for_image": [
+    "Vilnius Old Town cobblestones",
+    "cepelinai Lithuanian dumplings",
+    "pink beet soup Lithuania",
+    "Gediminas Tower",
+    "Užupis Republic street art"
+  ],
+  "coordinates": {
+    "lat": 54.6872,
+    "lng": 25.2797
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Vilnius+🇱🇹/@54.6872,25.2797,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vilnius"
+  },
+  "location_id": 216
+}

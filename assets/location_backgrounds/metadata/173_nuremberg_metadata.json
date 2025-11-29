@@ -1,0 +1,93 @@
+{
+  "name": "Nuremberg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Nuremberg bratwurst are so strictly regulated that they must be no longer than 7-9cm (the size of your little finger) and can ONLY be called 'Nürnberger Rostbratwurst' if made within the city limits - they're protected by EU law since 2003!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nürnberger Rostbratwurst",
+        "description": "Tiny finger-sized sausages grilled over beechwood, served in portions of 6, 8, 10, or 12",
+        "origin_story": "First documented in 1313, these small sausages were designed to be sold through keyholes of inns after curfew! Made with pork, marjoram, and ground pepper",
+        "where_to_find": "Bratwursthäusle bei St. Sebald (since 1313!), Bratwurstglöcklein (since 1453)"
+      },
+      {
+        "name": "Drei im Weggla",
+        "description": "Three bratwurst served in a crusty bread roll, the classic Nuremberg street food",
+        "origin_story": "The quintessential grab-and-go meal - workers have eaten this for centuries",
+        "where_to_find": "Street vendors throughout the old town, Christkindlesmarkt stalls"
+      },
+      {
+        "name": "Nürnberger Lebkuchen",
+        "description": "Spiced gingerbread made with almonds, hazelnuts, honey, and medieval spices",
+        "origin_story": "Made in Nuremberg since 1395 - the city's position on spice trade routes made it the gingerbread capital. Elisenlebkuchen (the premium version) contains NO flour",
+        "where_to_find": "Lebkuchen Schmidt, Wicklein, Düll - historic producers since centuries"
+      },
+      {
+        "name": "Schäufele",
+        "description": "Slow-roasted pork shoulder with crispy crackling, served with potato dumplings",
+        "origin_story": "Franconian Sunday dinner tradition - the name means 'little shovel' referring to the shoulder blade shape",
+        "where_to_find": "Traditional Franconian restaurants, Goldenes Posthorn (Germany's oldest restaurant, 1498)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Franconian Red Beer (Rotbier)",
+        "description": "Malty, reddish-brown beer unique to the Nuremberg region",
+        "how_locals_drink_it": "From traditional stone steins in historic beer cellars"
+      },
+      {
+        "name": "Glühwein",
+        "description": "Hot mulled wine with cinnamon, cloves, and citrus",
+        "how_locals_drink_it": "Essential at Christkindlesmarkt - Nuremberg's is one of the world's most famous"
+      }
+    ],
+    "food_culture_notes": [
+      "Christkindlesmarkt dates to 1628 - one of Germany's oldest and largest Christmas markets",
+      "Bratwurst served with horseradish and sauerkraut, never ketchup or mustard",
+      "Lebkuchen was invented here because Nuremberg controlled the medieval spice trade",
+      "The 'Zwetschgenmännla' (prune men figurines) are a Nuremberg Christmas tradition"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kaiserburg Castle",
+      "Christkindlesmarkt in Hauptmarkt",
+      "Beautiful Fountain",
+      "Old Town walls and towers"
+    ],
+    "atmosphere": [
+      "medieval half-timbered houses",
+      "Christmas market glow",
+      "castle on sandstone hill",
+      "historic guild culture"
+    ],
+    "colors": [
+      "gingerbread brown",
+      "Christmas market gold",
+      "sandstone beige",
+      "medieval red"
+    ],
+    "unique_modern": [
+      "WWII trials history",
+      "toy and Christmas capital",
+      "Albrecht Dürer's birthplace"
+    ]
+  },
+  "wikipedia_search_term": "Nuremberg",
+  "keywords_for_image": [
+    "Nuremberg bratwurst grilling",
+    "Lebkuchen gingerbread",
+    "Christkindlesmarkt",
+    "medieval castle",
+    "half-timbered houses"
+  ],
+  "coordinates": {
+    "lat": 49.4521,
+    "lng": 11.0767
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nuremberg+🇩🇪/@49.4521,11.0767,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nuremberg"
+  },
+  "location_id": 173
+}

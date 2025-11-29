@@ -1,0 +1,114 @@
+{
+  "name": "Buenos Aires",
+  "country": "Argentina",
+  "fun_fact": "Fun fact: Buenos Aires is the birthplace of tango, a dance born in the working-class districts in the late 1800s from a fusion of Candombé (African slaves), Habanera (Cuban), Mazurka (Polish), and Polka (Czech) dances. The Argentine upper classes shunned it until it became wildly popular in Paris after WWI - then suddenly Buenos Aires elite embraced it because it was 'fashionable in Paris.' UNESCO declared tango Intangible Cultural Heritage in 2009.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Asado (Argentine Barbecue)",
+        "description": "Argentina's national dish - beef charcoal or wood-grilled on a large parrilla grill, including chorizo, morcilla, mollejas (sweetbreads), riñón (kidney), chinchulín (chitterlings)",
+        "origin_story": "Until the mid-1800s, huge herds of wild cattle roamed the pampas (fertile grasslands around Buenos Aires). Gauchos - colorful horsemen folk heroes similar to North American cowboys - developed a passion for asado. They roasted beef close to slow-burning quebracho tree wood on skewered metal 'asador' structures. The wood produced little smoke and gave rich flavor. In the 19th-20th centuries, as Argentina urbanized and the cattle industry flourished, asado became a festive tradition for Independence Day, May Revolution Day, weekends, birthdays, and weddings. It's not just about meat - it's a social gathering where people talk over Malbec wine from the moment the fire is made.",
+        "where_to_find": "Aires Criollos - beloved by locals for no-frills atmosphere and perfectly grilled meat (bife de chorizo, entraña) over wood fire. Parrilla Peña near Avenida Córdoba has 'none of the tourist polish but all the authentic flavors' with generous, juicy portions."
+      },
+      {
+        "name": "Empanadas",
+        "description": "Small pastries filled with meat, cheese, sweet corn, and many other fillings, common at parties, picnics, and as meal starters",
+        "origin_story": "From the Spanish verb 'empanar' (to wrap in bread), empanadas trace back to Galicia and Northern Portugal during Moorish invasions. Spanish immigrants brought the recipe to Argentina in the 16th century. The decorative folded edge (repulgue) isn't just aesthetic - it identifies the flavor, since they're traditionally ordered by the dozen with mixed flavors.",
+        "where_to_find": "Traditional bodegones (dinner-style restaurants) throughout the city, especially 'Bares Notables' - establishments protected by law to maintain original facades and interiors"
+      },
+      {
+        "name": "Milanesa (especially Milanesa Napolitana)",
+        "description": "Thin slice of beef or chicken hammered thin, coated in breadcrumbs, then baked or fried. Napolitana version adds tomatoes, cheese, and ham",
+        "origin_story": "Introduced by Italian immigrants, it's a variation of Milan's 'Cotoletta alla milanese' (similar to Wiener Schnitzel). The Milanesa Napolitana version is very Argentinian - invented in Buenos Aires in the 1940s at a restaurant called Napoli on Avenida Corrientes. Legend says the chef accidentally created it while trying to save a burnt milanesa by adding cheese, ham, and tomatoes.",
+        "where_to_find": "El Preferido de Palermo in the heart of Palermo - a favorite among locals for traditional Argentine comfort food. 'The star of the menu is their milanesa, a perfectly breaded and fried cutlet that comes in portions so large it practically covers the entire plate.'"
+      },
+      {
+        "name": "Bodegón Classics",
+        "description": "Hearty dishes in generous portions from vintage bodegones with wooden decor, football memorabilia, and family photos",
+        "origin_story": "Bodegones are the quintessential Porteño dining experience - dinner-style restaurants offering diverse menus from pasta to seafood, beef, pork, chicken. A select few hold 'Bares Notables' distinction, protected by law and required to maintain original facades and interiors with government approval for any changes.",
+        "where_to_find": "El Viejo Vulcano in San Telmo offers traditional Argentine dining a little off the beaten path, popular with locals for affordability. La Sarita is inspired by classic bodegones, recalling a golden era with long tables and professional waiters."
+      },
+      {
+        "name": "Pizza Porteña",
+        "description": "Thick 'al molde' style pizza with thick crust, barely any sauce, and abundant cheese. Fugazzeta (stuffed with mozzarella, topped with onions)",
+        "origin_story": "With 6 million people of Italian descent in São Paulo and massive Italian immigration to Buenos Aires, pizza culture is huge. Proper Porteño pizza is found on Avenida Corrientes. Fugazzeta was invented at Banchero in La Boca in 1932 - a thick doughy base stuffed with mozzarella and topped with onions.",
+        "where_to_find": "Guerrin on Avenida Corrientes is an institution. If you only eat pizza once in Buenos Aires, go here. El Cuartito 'remains as traditional as ever.' Banchero in La Boca (founded 1932) is credited with inventing fugazzeta."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mate",
+        "description": "Traditional South American 'tea' made from dried, chopped yerba leaves drunk from a gourd, with natural stimulant mateína (similar to caffeine)",
+        "how_locals_drink_it": "In a city that never sleeps, mate keeps the porteño motor running. Generally drunk in groups among family and friends in social settings. The mate is passed around, each person drinking the water out and passing back to the server to refill. The epitome of local culture - no Argentine barbecue is complete without mate (and a bottle of Malbec)."
+      },
+      {
+        "name": "Fernet and Coke (Fernet con Coca)",
+        "description": "Italian liqueur Fernet-Branca mixed with Coca-Cola - Argentina's 'unofficial national drink' called Fernandito or Porteñito",
+        "how_locals_drink_it": "Argentina consumes more than 75% of all fernet produced globally! The cocktail became popular among youth in Córdoba in the 1980s and spread nationwide through advertising. Fernet and vermouth are tabletop staples in Buenos Aires, as common as salt and pepper. Argentines drink an estimated 19 million liters of fernet annually (80% of world consumption). More than just a drink - it's a cultural icon at social gatherings, bars, and celebrations, symbolizing unity and tradition."
+      },
+      {
+        "name": "Malbec Wine",
+        "description": "Argentina's signature red wine, especially from Mendoza region",
+        "how_locals_drink_it": "Paired with asado from the moment the fire is being made. The Argentine strain of Malbec has become internationally renowned. Essential at family gatherings and weekend barbecues."
+      }
+    ],
+    "food_culture_notes": [
+      "Porteños are late eaters: lunch 12:30-1:30 PM (locals eat closer to 1:30), dinner starts 8:30 PM but locals eat at 9 PM weekdays, 10-11 PM weekends",
+      "Traditional porteño cuisine blends Mediterranean cooking (heavy Italian and Spanish immigrant influence) with creole, native Andean, and neighboring Latin American ideas",
+      "Buenos Aires population exploded from 180,000 (1869) to 1.5 million (1914) due to immigration - 2 million arrived from Europe in early 1900s (half Italian, third Spanish)",
+      "Lunfardo argot (slang) originated in prisons and spread to all porteños - uses Italian dialects, Portuguese, African, Caribbean, English words - mostly heard in tango lyrics now",
+      "Many Spanish immigrants from Galicia - Spaniards still generically called 'gallegos' (Galicians)",
+      "'Cien barrios porteños' (one hundred porteño neighborhoods) is a common expression from a 1940s tango, though Buenos Aires only has 48 official barrios",
+      "Buenos Aires International Book Fair described as 'perhaps the most important and largest annual literary event in the Spanish-speaking world'"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "La Boca neighborhood - colorful Caminito street, birthplace of tango",
+      "Avenida Corrientes - pizza and theater district",
+      "Plaza de Mayo - political heart",
+      "Palermo - trendy dining and nightlife",
+      "San Telmo - antiques and traditional bodegones",
+      "Café Tortoni and historic cafés where tango was born"
+    ],
+    "atmosphere": [
+      "Paris of South America - European architectural influence",
+      "Working-class tango culture mixed with sophisticated dining",
+      "Late-night dining and social culture",
+      "Football (soccer) passion visible everywhere",
+      "Vintage bodegones with family photos and memorabilia"
+    ],
+    "colors": [
+      "Vibrant blues, yellows, reds of La Boca's painted houses",
+      "Golden brown of crispy milanesa",
+      "Deep red of Malbec wine",
+      "Dark brown of mate gourd",
+      "Smoky gray of asado parrilla grills"
+    ],
+    "unique_modern": [
+      "UNESCO Intangible Cultural Heritage: Tango (2009)",
+      "Argentine upper classes initially shunned tango until it became fashionable in Paris post-WWI",
+      "Rich sons went to Paris in 1910s and introduced tango, making it wildly popular in Europe",
+      "La Boca's Caminito immortalized in 1926 song by tango composer Juan de Dios Filiberto",
+      "Anchoita restaurant (chef Enrique Piñeyro) makes authentic Argentine cuisine its mission with locro, surubi, mate cocido",
+      "Caseros - Bib Gourmand Michelin restaurant featuring porteño staples like grilled polenta and faina (garbanzo flatbread eaten on pizza)"
+    ]
+  },
+  "wikipedia_search_term": "Buenos_Aires",
+  "keywords_for_image": [
+    "buenos aires la boca tango",
+    "argentine asado parrilla",
+    "milanesa argentina",
+    "buenos aires cafe culture",
+    "caminito street buenos aires"
+  ],
+  "coordinates": {
+    "lat": -34.6037,
+    "lng": -58.3816
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Buenos+Aires+🇦🇷/@-34.6037,-58.3816,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buenos_Aires"
+  },
+  "location_id": 24
+}

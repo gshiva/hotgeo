@@ -1,0 +1,93 @@
+{
+  "name": "Minsk",
+  "country": "Belarus",
+  "fun_fact": "Fun fact: Minsk was 80% destroyed in WWII but rebuilt in grandiose Stalinist architecture - Independence Avenue is one of the longest and widest Soviet-era boulevards in the world at 15km, lined with imposing buildings that feel like stepping back in time!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Draniki",
+        "description": "Crispy potato pancakes, Belarus's national dish - often served with sour cream",
+        "origin_story": "The humble potato is central to Belarusian cuisine - draniki are made from grated raw potatoes fried until golden",
+        "where_to_find": "Vasilki, Kamyanitsa, Lido self-service restaurants"
+      },
+      {
+        "name": "Machanka",
+        "description": "Thick meat gravy with sausages and pork ribs, served with draniki or bliny",
+        "origin_story": "A hearty peasant dish for cold winters - the gravy is rich and meaty",
+        "where_to_find": "Kamyanitsa, Talaka, traditional Belarusian restaurants"
+      },
+      {
+        "name": "Kholodnik",
+        "description": "Cold beet soup served in summer - bright pink and refreshing",
+        "origin_story": "Similar to Lithuanian šaltibarščiai, this chilled soup is perfect for summer",
+        "where_to_find": "Available in summer at most traditional restaurants"
+      },
+      {
+        "name": "Kolduny",
+        "description": "Meat-filled dumplings, the Belarusian version of Polish pierogi",
+        "origin_story": "Hearty potato dumplings filled with meat, showing Lithuanian-Polish influences",
+        "where_to_find": "Vasilki chain, traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kvas",
+        "description": "Fermented bread drink, slightly sweet and tangy",
+        "how_locals_drink_it": "From street tanks in summer - refreshing and traditional"
+      },
+      {
+        "name": "Krambambula",
+        "description": "Traditional Belarusian honey-spice vodka infusion",
+        "how_locals_drink_it": "As digestif or warming winter drink"
+      }
+    ],
+    "food_culture_notes": [
+      "Potato-heavy cuisine reflects agricultural heritage",
+      "Soviet-era stolovayas (cafeterias) still exist with very cheap food",
+      "Lido chain offers excellent traditional food at reasonable prices",
+      "Belarusian independence celebrated with traditional foods"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Independence Avenue",
+      "Victory Square",
+      "National Library (diamond shape)",
+      "Gates of Minsk"
+    ],
+    "atmosphere": [
+      "Stalinist grandeur",
+      "wide boulevards",
+      "well-maintained Soviet architecture",
+      "quiet orderliness"
+    ],
+    "colors": [
+      "Soviet grey",
+      "hammer and sickle gold",
+      "beet red",
+      "potato brown"
+    ],
+    "unique_modern": [
+      "preserved Soviet architecture",
+      "IT industry hub",
+      "last dictatorship in Europe nickname"
+    ]
+  },
+  "wikipedia_search_term": "Minsk",
+  "keywords_for_image": [
+    "draniki potato pancakes",
+    "Stalinist architecture",
+    "Independence Avenue",
+    "Soviet buildings",
+    "cold beet soup"
+  ],
+  "coordinates": {
+    "lat": 53.9006,
+    "lng": 27.559
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Minsk+🇧🇾/@53.9006,27.559,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minsk"
+  },
+  "location_id": 206
+}

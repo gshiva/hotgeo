@@ -1,0 +1,94 @@
+{
+  "name": "Seoul",
+  "country": "South Korea",
+  "fun_fact": "Fun fact: Seoul is home to Mosu, Korea's only three-Michelin-star restaurant, but locals are just as passionate about Gwangjang Market's street food stalls that have been serving the same families for over 100 years - proving that culinary excellence exists at every price point.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bibimbap",
+        "description": "Korean mixed rice with colorful seasoned vegetables, gochujang (chili paste), meat, and a raw or fried egg, served in a sizzling hot stone bowl",
+        "origin_story": "This iconic Korean dish represents harmony and balance - each ingredient maintains its distinct flavor while creating a perfect whole when mixed together. The hot stone bowl creates crispy rice at the bottom (nurungji), the most prized part",
+        "where_to_find": "Jeonju Yuhalmeoni Bibimbap (Grandma Yu's - over 40 years old, most authentic in Seoul)"
+      },
+      {
+        "name": "Seoul-Style Bulgogi",
+        "description": "Thinly-sliced beef marinated in soy sauce, sugar, sesame oil, garlic, and pear, then grilled to caramelized perfection",
+        "origin_story": "Seoul's version of bulgogi is so popular that Bib Gourmand restaurant Wooraeok has customers willing to wait several hours for a table. The secret is in the marinade and the quality of the beef",
+        "where_to_find": "Wooraeok (Bib Gourmand - prepare to wait hours), traditional Korean BBQ restaurants"
+      },
+      {
+        "name": "Chutang (Seoul-Style Loach Soup)",
+        "description": "Spicy soup made with whole boiled loach in a broth of beef bones, brisket, and intestines, seasoned with red chili powder",
+        "origin_story": "This distinctly Seoul specialty is unique to the capital. The soup is rich, spicy, and considered a stamina food that gives energy and vitality",
+        "where_to_find": "Yonggeumok (Bib Gourmand restaurant specializing in this Seoul classic)"
+      },
+      {
+        "name": "North Korean-Style Mandu (Dumplings)",
+        "description": "Handmade dumplings with a traditional family recipe brought from North Korea - delicate wrappers with flavorful meat and vegetable filling",
+        "origin_story": "At Gaeseong Mandu Koong in Insadong, the family includes someone who escaped from North Korea. They've been making dumplings with their traditional recipe for three generations",
+        "where_to_find": "Gaeseong Mandu Koong (Insadong - 3-generation family recipe from North Korea)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Soju",
+        "description": "Korea's national spirit - a clear distilled liquor traditionally made from rice",
+        "how_locals_drink_it": "Consumed with Korean BBQ and fried chicken, always poured for others (never yourself) as a sign of respect. The youngest person at the table pours for elders"
+      },
+      {
+        "name": "Makgeolli",
+        "description": "Milky, slightly sweet rice wine with a low alcohol content - refreshing and fizzy",
+        "how_locals_drink_it": "Traditionally served in brass bowls and paired with pajeon (savory pancakes) on rainy days. It's making a comeback among young Koreans"
+      }
+    ],
+    "food_culture_notes": [
+      "Gwangjang Market (established 1905) is one of Seoul's oldest traditional markets with over 5,000 shops",
+      "Street food costs between 1,000-4,000 KRW (US$0.70-3) and is filling enough for a meal",
+      "Korean meals always include banchan (side dishes) that are refilled for free - kimchi is mandatory",
+      "Eatanic Garden at Josun Palace Hotel serves Michelin-starred innovative Korean cuisine focused on fermented and aged flavors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gyeongbokgung Palace",
+      "N Seoul Tower",
+      "Bukchon Hanok Village",
+      "Gwangjang Market"
+    ],
+    "atmosphere": [
+      "neon signs and street food steam",
+      "ancient palaces among skyscrapers",
+      "bustling markets",
+      "trendy cafe culture"
+    ],
+    "colors": [
+      "vibrant red gochujang",
+      "deep green kimchi",
+      "golden bibimbap vegetables",
+      "neon pink and blue signs"
+    ],
+    "unique_modern": [
+      "three-Michelin-star restaurants next to 100-year-old market stalls",
+      "K-pop culture meets royal palaces",
+      "24-hour convenience stores everywhere",
+      "cutting-edge technology with traditional values"
+    ]
+  },
+  "wikipedia_search_term": "Seoul",
+  "keywords_for_image": [
+    "Seoul Korea",
+    "Gwangjang Market",
+    "bibimbap",
+    "Gyeongbokgung Palace",
+    "Korean street food"
+  ],
+  "coordinates": {
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Seoul+🇰🇷/@37.5665,126.978,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seoul"
+  },
+  "location_id": 302
+}

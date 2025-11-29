@@ -1,0 +1,107 @@
+{
+  "name": "Hannover",
+  "country": "Germany",
+  "region": "Lower Saxony",
+  "fun_fact": "Fun fact: Hannover invented the Lüttje Lage drinking ritual - holding both a beer glass and schnapps glass in the same hand and drinking them simultaneously. This tradition dates back to the 16th century beer brewer Cord Broyhan. The trick requires holding the beer between thumb and index finger, schnapps between middle and ring fingers, then raising both to your lips in one go. Master this at Brauhaus Ernst August and you're an honorary Hanoverian!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Welfenspeise (Guelph Pudding)",
+        "description": "Two-layered royal dessert - white vanilla cream layer topped with yellow wine custard (zabaglione)",
+        "origin_story": "Named after the Kingdom of Guelph (Welf dynasty) when Hannover served as the capital in the 19th century. Once the favorite pudding of Elector Ernst August, the colors represent the Royal House of Hanover's official colors. This elegant dessert showcases Lower Saxony's dairy traditions combined with royal refinement.",
+        "where_to_find": "Traditional Hannover restaurants, cafes in Old Town, Brauhaus Ernst August"
+      },
+      {
+        "name": "Schlachteplatte",
+        "description": "Hearty meat platter featuring a variety of different cuts - sausages, pork knuckle, ham, and pickled vegetables",
+        "origin_story": "A Hannover regional specialty reflecting the agricultural heritage of Lower Saxony. The platter uses different parts of the pig, showing the resourcefulness of traditional German butchery. Often served during autumn harvest festivals and winter celebrations.",
+        "where_to_find": "Brauhaus Ernst August (famous for their Schweinshaxe/pork knuckle), traditional Hannoverian gastropubs"
+      },
+      {
+        "name": "Calenberger Pfannenschlag (Rinderwurst)",
+        "description": "Regional beef sausage specialty unique to the Calenberg area around Hannover",
+        "origin_story": "This sausage represents the Calenberg region's distinct culinary identity within Lower Saxony. Made with beef rather than pork, it reflects local cattle-raising traditions in the area's rolling farmland.",
+        "where_to_find": "Local butchers in Hannover, Hannover Market Hall, traditional Lower Saxon restaurants"
+      },
+      {
+        "name": "Grünkohl (Kale) with Bregenwurst",
+        "description": "Traditional Lower Saxon kale (called Braunkohl locally) served with potatoes, smoked pork, and Bregenwurst sausages",
+        "origin_story": "Kale is THE vegetable of Lower Saxony, traditionally served after the first frost when it's sweetest. Bregenwurst is a regional pre-cooked sausage variety from the Lüneburg Heath. Like Bremen's Kohl und Pinkel, this dish is eaten during autumn/winter outings with friends.",
+        "where_to_find": "Country inns around Hannover, traditional restaurants (November-March season), Brauhaus Ernst August"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lüttje Lage",
+        "description": "Dark, top-fermented beer (Schankbier Alt) drunk simultaneously with Korn schnapps from two glasses held in one hand",
+        "how_locals_drink_it": "The ritual is the point: Hold the beer glass between thumb and index finger, the schnapps glass between middle and ring fingers. Raise both to your lips so the schnapps pours into the beer as you drink. It's tricky - practice is required! Brewed by Gilde, Herrenhäuser, and Schaumburger breweries. The tradition lives at Broyhan Haus, where pioneer brewer Cord Broyhan lived in Hannover's second-oldest half-timbered building."
+      },
+      {
+        "name": "Herrenhäuser Beer",
+        "description": "Local Hannover brewery beer, part of the city's major traditional breweries alongside Gilde",
+        "how_locals_drink_it": "Herrenhäuser is one of Hannover's traditional breweries, enjoyed at beer gardens and pubs throughout the city. Often paired with hearty Lower Saxon dishes like pork knuckle and sausages."
+      },
+      {
+        "name": "Hannöversch Pilsner",
+        "description": "Refreshing unfiltered pilsner brewed at Brauhaus Ernst August",
+        "how_locals_drink_it": "This microbrewery pilsner is served fresh at the brewpub in a party atmosphere. Cloudy, hoppy, and served in traditional German steins. The brewpub has revived Hannover's craft brewing tradition."
+      }
+    ],
+    "food_culture_notes": [
+      "Hannover Market Hall is essential for finding authentic Lower Saxon delicacies from different regions",
+      "Lower Saxon cuisine is 'solid and substantial' - hearty dishes served with potatoes (boiled, not fancy)",
+      "Asparagus (Spargel) is eaten as a great delicacy in season (April-June)",
+      "Lake Steinhude nearby offers smoked eel from traditional eel smokeries - a regional treat",
+      "Microbreweries like Brauhaus Ernst August serve first-class home brew alongside traditional Gilde and Herrenhäuser"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Herrenhausen Gardens - Europe's finest Baroque gardens with Great Garden, fountains, and shell-decorated cave",
+      "Neues Rathaus (New Town Hall) with distinctive dome",
+      "Marktkirche church in Old Town",
+      "Broyhan Haus - second-oldest half-timbered building",
+      "Leine River and Maschsee lake"
+    ],
+    "atmosphere": [
+      "Baroque garden splendor at Herrenhausen",
+      "Lively brewpub with Lüttje Lage rituals",
+      "Historic half-timbered buildings in Old Town",
+      "Market halls filled with regional specialties",
+      "Beer gardens along the Leine River"
+    ],
+    "colors": [
+      "White vanilla and yellow wine layers of Welfenspeise",
+      "Golden brown of roasted pork knuckle",
+      "Dark green kale with golden sausages",
+      "Amber beer and clear schnapps",
+      "Baroque garden greens and fountain whites"
+    ],
+    "unique_modern": [
+      "Lüttje Lage drinking ritual since 16th century",
+      "Royal Herrenhausen Gardens among Europe's finest",
+      "Welfenspeise dessert with Royal House colors",
+      "Microbrewery revival in historic buildings",
+      "Lake Steinhude eel smokeries using traditional methods"
+    ]
+  },
+  "wikipedia_search_term": "Hanover",
+  "keywords_for_image": [
+    "Herrenhausen Gardens Hannover baroque",
+    "Lüttje Lage beer schnapps ritual",
+    "Welfenspeise pudding dessert",
+    "Brauhaus Ernst August Hannover",
+    "Hannover Old Town half-timbered",
+    "Schweinshaxe pork knuckle",
+    "Lower Saxony kale Grünkohl"
+  ],
+  "coordinates": {
+    "lat": 52.3759,
+    "lng": 9.732
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hannover+🇩🇪/@52.3759,9.732,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanover"
+  },
+  "location_id": 45
+}

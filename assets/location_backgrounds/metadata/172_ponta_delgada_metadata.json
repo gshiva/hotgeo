@@ -1,0 +1,93 @@
+{
+  "name": "Ponta Delgada",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: The Azores' Cozido das Furnas is cooked using VOLCANIC HEAT - pots of stew are buried in the ground near Furnas Lake where geothermal activity reaches 100°C, slow-cooking the meal for 5-7 hours using only the Earth's natural energy!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cozido das Furnas",
+        "description": "Hearty stew of meats (beef, pork, chicken, chorizo, blood sausage) and vegetables cooked underground by volcanic heat",
+        "origin_story": "For generations, locals have used the volcanic caldeiras near Furnas Lake as natural ovens. Restaurants bury pots at dawn and retrieve them 5-7 hours later, fully cooked by the Earth",
+        "where_to_find": "Furnas village restaurants (30 min from Ponta Delgada), Tony's Restaurant in Furnas"
+      },
+      {
+        "name": "Lapas Grelhadas",
+        "description": "Grilled limpets served sizzling with garlic butter and lemon",
+        "origin_story": "These sea snails are harvested from the volcanic rocks of the Azorean coastline - a true taste of the Atlantic",
+        "where_to_find": "Seafood restaurants along Ponta Delgada waterfront"
+      },
+      {
+        "name": "Queijo São Jorge",
+        "description": "Sharp, aged cow's milk cheese from São Jorge island with DOP status",
+        "origin_story": "Flemish settlers brought cheesemaking traditions in the 15th century, aging wheels for 3-24 months in the humid Azorean climate",
+        "where_to_find": "Mercado da Graça in Ponta Delgada, local grocery stores"
+      },
+      {
+        "name": "Bolo Lêvedo",
+        "description": "Sweet, slightly chewy muffin-like bread unique to the Azores",
+        "origin_story": "Originally from Furnas village, these griddle-cooked breads are eaten for breakfast with butter or used as burger buns",
+        "where_to_find": "Bakeries throughout São Miguel, Furnas village bakeries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chá Gorreana",
+        "description": "Tea from Europe's only tea plantation, established 1883 on São Miguel",
+        "how_locals_drink_it": "Visit the Gorreana tea factory to taste green and black teas grown in the Azorean mist"
+      },
+      {
+        "name": "Licor de Maracujá",
+        "description": "Passion fruit liqueur made from Azorean-grown maracujá",
+        "how_locals_drink_it": "As a digestif after meals, ice cold"
+      }
+    ],
+    "food_culture_notes": [
+      "The Azores are Europe's most remote outpost - isolation created unique culinary traditions",
+      "Volcanic soil and abundant rainfall produce incredibly fertile land",
+      "Dairy is central - Azores produces 30% of Portugal's milk despite tiny population",
+      "Pineapples are grown in greenhouses on São Miguel - the only place in Europe"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Furnas Lake volcanic caldeiras",
+      "Sete Cidades twin lakes",
+      "Portas da Cidade gates",
+      "Gorreana Tea Plantation"
+    ],
+    "atmosphere": [
+      "volcanic steam rising",
+      "lush green crater lakes",
+      "colonial Portuguese architecture",
+      "misty mountains"
+    ],
+    "colors": [
+      "volcanic black",
+      "hydrangea blue",
+      "crater lake green",
+      "colonial white"
+    ],
+    "unique_modern": [
+      "Europe's only tea plantation",
+      "volcanic hot springs",
+      "whale watching capital"
+    ]
+  },
+  "wikipedia_search_term": "Ponta_Delgada",
+  "keywords_for_image": [
+    "cozido das furnas volcanic cooking",
+    "Furnas Lake steam",
+    "Azores crater lakes",
+    "Portuguese colonial",
+    "volcanic landscape"
+  ],
+  "coordinates": {
+    "lat": 37.7412,
+    "lng": -25.6756
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ponta+Delgada+🇵🇹/@37.7412,-25.6756,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ponta_Delgada"
+  },
+  "location_id": 172
+}

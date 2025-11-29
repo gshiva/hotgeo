@@ -1,0 +1,112 @@
+{
+  "name": "Bologna",
+  "country": "Italy",
+  "region": "Emilia-Romagna",
+  "fun_fact": "Fun fact: Bologna has THREE nicknames - 'La Grassa' (the fat one) for being Italy's food capital, 'La Dotta' (the learned) for Europe's oldest university (founded 1088), and 'La Rossa' (the red) for its terracotta rooftops AND historic communist politics!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tagliatelle al Ragù",
+        "description": "Hand-rolled fresh egg pasta ribbons with slow-cooked meat sauce (the REAL bolognese)",
+        "origin_story": "This is THE place to eat hand-rolled fresh pasta with complex, meat-laden ragù. NEVER order 'spaghetti bolognese' here - it doesn't exist! The authentic version uses tagliatelle (never spaghetti) with a slow-cooked sauce of multiple meats. Bologna is where this world-famous sauce was born.",
+        "where_to_find": "Trattoria Anna Maria (signature dish), Da Cesari (family-run since 1955), Trattoria da Me (romantic family-run since 1937), CasaMerlò (bold pop interior mixing classics with modern), Sfoglia Rina (excellent traditional lunch value)"
+      },
+      {
+        "name": "Tortellini in Brodo",
+        "description": "Tiny hat-shaped pasta stuffed with pork, prosciutto, mortadella, Parmigiano Reggiano, nutmeg, and egg, floating in rich beef and poultry broth",
+        "origin_story": "Both Modena and Bologna claim to have invented this traditional dish, but they agree on one thing: the hat-like shape was inspired by the Goddess Venus' navel! The filling is specific and sacred - pork, prosciutto, mortadella, Parmigiano, nutmeg, egg. One of the world's best soups.",
+        "where_to_find": "Sfoglia Rina (one of the best traditional lunch values in Bologna, perfect for satisfying tortellini cravings), traditional trattorias throughout the historic center"
+      },
+      {
+        "name": "Lasagne Verde",
+        "description": "Green spinach pasta layered with ragù bolognese, béchamel, and Parmigiano Reggiano",
+        "origin_story": "Bologna's version of lasagna uses green spinach pasta sheets, distinguishing it from versions elsewhere in Italy. The layers of handmade pasta, slow-cooked ragù, and creamy béchamel represent La Grassa at its finest.",
+        "where_to_find": "Traditional trattorias and osterias throughout Bologna - a must-order alongside tagliatelle al ragù"
+      },
+      {
+        "name": "Mortadella",
+        "description": "Bologna's famous cured pork sausage with cubes of fat and pistachios, protected under PGI status",
+        "origin_story": "Sometimes called 'Bologna' in English, this is the REAL thing in its birthplace. Bolognese cuisine heavily relies on pork meat - mortadella is the crown jewel of the city's salumi tradition.",
+        "where_to_find": "Osteria del Sole (historic institution since 1465, BYO food - they pour the wine), served as antipasto at traditional restaurants, sold at local markets"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lambrusco",
+        "description": "Sparkling red wine from Emilia-Romagna, slightly sweet and effervescent",
+        "how_locals_drink_it": "The region's famous sparkling red wine serves to 'de-grease the palate' from all the rich food! Pairs perfectly with mortadella, ragù, and other heavy Bolognese dishes. Don't be snobby about it - locals know it's the perfect match for La Grassa cuisine."
+      },
+      {
+        "name": "Pignoletto",
+        "description": "Sparkling white wine from nearby vineyards",
+        "how_locals_drink_it": "A lighter alternative to Lambrusco, enjoyed as an aperitivo or with lighter pasta dishes"
+      }
+    ],
+    "food_culture_notes": [
+      "NEVER order 'spaghetti bolognese' - locals will know you're a tourist! Order tagliatelle al ragù instead",
+      "Bologna is THE food capital of Italy, not just a food destination - it earned 'La Grassa' for good reason",
+      "Hand-rolled pasta is the standard here - you'll see sfoglinas (pasta makers) rolling sheets in restaurant windows",
+      "Portions of couscous and pasta dishes are very large - come hungry!",
+      "The 62km of UNESCO-listed porticos provide covered walkways throughout the city, including the famous 3.8km Portico di San Luca",
+      "Osteria dell'Orsa is famous for vegetarian-friendly options (rare in meat-heavy Bologna)",
+      "Osteria del Sole (since 1465) is budget-friendly BYO - bring your own food, they pour the wine",
+      "Best time to visit: March-May or September-October for 15-22°C weather perfect for portico strolls"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Due Torri (Two Towers) - Torre degli Asinelli and Garisenda, leaning towers from 'medieval Manhattan'",
+      "62km of UNESCO-listed porticos (covered arcades)",
+      "Portico di San Luca (3.8km long, climbing to hilltop sanctuary)",
+      "Terracotta rooftops ('La Rossa')",
+      "Piazza Maggiore",
+      "University of Bologna (founded 1088, oldest in Europe)"
+    ],
+    "atmosphere": [
+      "Sfoglinas hand-rolling pasta in restaurant windows",
+      "Covered portico walkways",
+      "Medieval towers rising above red rooftops",
+      "Bustling food markets",
+      "University students filling cafés",
+      "Romantic candlelit trattorias"
+    ],
+    "colors": [
+      "Terracotta red rooftops",
+      "Golden egg pasta",
+      "Deep brown ragù sauce",
+      "Rich red Lambrusco wine",
+      "Green lasagne verde",
+      "Pink mortadella with white fat cubes"
+    ],
+    "unique_modern": [
+      "Medieval Manhattan skyline with over 100 towers historically (Due Torri remain)",
+      "Pop art interior at CasaMerlò mixing tradition and modern",
+      "3.8km covered walk to San Luca sanctuary",
+      "University students bringing energy to historic center",
+      "BYO food culture at Osteria del Sole",
+      "Hand-rolled pasta demonstrations in restaurant windows"
+    ]
+  },
+  "wikipedia_search_term": "Bologna",
+  "keywords_for_image": [
+    "bologna due torri two towers",
+    "tagliatelle al ragu bolognese",
+    "tortellini in brodo bologna",
+    "bologna porticos arcades unesco",
+    "mortadella bologna salumi",
+    "lambrusco sparkling red wine",
+    "bologna terracotta rooftops",
+    "lasagne verde bologna",
+    "portico di san luca bologna",
+    "piazza maggiore bologna"
+  ],
+  "coordinates": {
+    "lat": 44.4949,
+    "lng": 11.3426
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bologna+🇮🇹/@44.4949,11.3426,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bologna"
+  },
+  "location_id": 133
+}

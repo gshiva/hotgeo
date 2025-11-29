@@ -1,0 +1,94 @@
+{
+  "name": "Bangalore",
+  "country": "India",
+  "fun_fact": "Fun fact: Bangalore (Bengaluru) is the birthplace of the Indian coffee industry - Coffee Board of India was established here, and the city's iconic 'darshini' quick-service restaurants serve filter coffee and dosas to millions of tech workers daily!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Masala Dosa",
+        "description": "Crispy fermented rice-lentil crepe filled with spiced potato, served with sambar and chutneys",
+        "origin_story": "South Indian staple perfected in Karnataka. Bangalore's dosas are often crispier than elsewhere",
+        "where_to_find": "MTR (Mavalli Tiffin Rooms since 1924), Vidyarthi Bhavan (since 1943), CTR"
+      },
+      {
+        "name": "Bisi Bele Bath",
+        "description": "Karnataka's signature one-pot meal of rice, lentils, vegetables, and spices, topped with ghee",
+        "origin_story": "A royal dish from the Mysore Palace kitchens, now everyday comfort food. 'Bisi bele' means 'hot lentils' in Kannada",
+        "where_to_find": "MTR, Nagarjuna, traditional Udupi restaurants"
+      },
+      {
+        "name": "Ragi Mudde",
+        "description": "Finger millet balls served with spicy meat or vegetable curry",
+        "origin_story": "Traditional Karnataka village food - ragi is a superfood that's drought-resistant and nutritious. Eaten by rolling balls and dipping in curry",
+        "where_to_find": "Nagarjuna, military hotels (meat restaurants), traditional Karnataka restaurants"
+      },
+      {
+        "name": "Mangalore Buns",
+        "description": "Sweet, puffy fried banana bread, served with coconut chutney",
+        "origin_story": "From coastal Karnataka, these slightly sweet buns are breakfast favorites",
+        "where_to_find": "Brahmin's Coffee Bar, Airlines Hotel, coastal Karnataka restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Filter Coffee",
+        "description": "Strong decoction of coffee powder and chicory, mixed with hot milk and served in steel tumbler-dabara",
+        "how_locals_drink_it": "Poured between tumbler and dabara to cool and froth - the ritual is as important as the taste. Multiple cups daily"
+      },
+      {
+        "name": "Craft Beer",
+        "description": "Bangalore has India's best craft beer scene with numerous brewpubs",
+        "how_locals_drink_it": "At Toit, Arbor Brewing, Windmills Craftworks - IT crowd fills brewpubs after work"
+      }
+    ],
+    "food_culture_notes": [
+      "Darshini restaurants serve quick, standing-only meals for workers",
+      "Military hotels (nothing to do with military) serve non-veg food",
+      "IT boom brought global cuisines but traditional food remains king",
+      "Thindi Beedi (VV Puram Food Street) is street food paradise"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lalbagh Botanical Garden",
+      "Vidhana Soudha",
+      "Bangalore Palace",
+      "Cubbon Park"
+    ],
+    "atmosphere": [
+      "tech campus meets heritage",
+      "garden city greenery",
+      "bustling traffic",
+      "café culture"
+    ],
+    "colors": [
+      "garden green",
+      "IT park blue",
+      "temple gold",
+      "filter coffee brown"
+    ],
+    "unique_modern": [
+      "Silicon Valley of India",
+      "startup culture",
+      "pub scene",
+      "cosmopolitan diversity"
+    ]
+  },
+  "wikipedia_search_term": "Bangalore",
+  "keywords_for_image": [
+    "masala dosa",
+    "filter coffee tumbler",
+    "South Indian thali",
+    "tech city",
+    "garden city"
+  ],
+  "coordinates": {
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bangalore+🇮🇳/@12.9716,77.5946,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bangalore"
+  },
+  "location_id": 189
+}

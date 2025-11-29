@@ -1,0 +1,99 @@
+{
+  "name": "Agra",
+  "country": "India",
+  "fun_fact": "Fun fact: Agra is home to petha, a translucent sweet made from crystallized winter melon that has been the city's signature dessert for over 350 years. The city also invented bedai-jalebi, the breakfast that locals say defines Agra like chole bhature defines Delhi.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bedai and Jalebi",
+        "description": "Agra's iconic breakfast combo: bedai (kachori made of black lentils and spices) served with spicy potato curry and curd, followed by sweet, crispy jalebi to offset the heat",
+        "origin_story": "Deviram Sweets claims to be the first to introduce bedai to Agra 75+ years ago. This breakfast is what chole bhature is to Delhi—a defining local staple eaten from 9am-2pm daily",
+        "where_to_find": "Deviram Sweets (Pratap Pura crossing) - the oldest and most famous spot, serving masses on the street corner since the 1940s for just INR 30 for two"
+      },
+      {
+        "name": "Mughlai Nihari",
+        "description": "Slow-cooked beef or mutton stew with aromatic spices, traditionally eaten for breakfast by Agra locals",
+        "origin_story": "A royal Mughal dish passed down through generations, reflecting Agra's heritage as the seat of Mughal emperors who built the Taj Mahal",
+        "where_to_find": "Peshawri at ITC Mughal for fine dining; Daawat-e-Nawab for royal feast experiences"
+      },
+      {
+        "name": "Petha",
+        "description": "Translucent, chewy sweet made from crystallized ash gourd (winter melon), available in dry/hard or soft varieties with flavors like rose, paan, kesar, and angoori",
+        "origin_story": "Agra's signature sweet for 350+ years. Angoori petha is the most famous variety, named for its grape-like small cubes",
+        "where_to_find": "Panchhi Petha - the most famous petha shop in Agra, known for impeccable quality and wide variety of innovative flavors"
+      },
+      {
+        "name": "Kakori Kebab",
+        "description": "Minced lamb meat mixed with spices and cooked over charcoal fire, so tender it melts in the mouth",
+        "origin_story": "A famed Mughlai dish consumed by ancient royals, representing the pinnacle of royal cuisine. Agra's kebab tradition includes seekh, boti, and the prized galouti kebabs",
+        "where_to_find": "Jahanpanah near the Taj Mahal for traditional recipes; Pinch of Spice for excellent Mughlai dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Tandoori Chai",
+        "description": "Smoky tea served in a hot clay cup that's been fired in a tandoor oven, creating a unique earthy flavor",
+        "how_locals_drink_it": "A visual and taste treat at street stalls throughout Agra, especially in Sadar Bazaar. The clay cup adds a distinctive smoky flavor locals crave"
+      }
+    ],
+    "food_culture_notes": [
+      "Chat Gali (Khao Gali) in Sadar Bazaar is an entire alley dedicated to street food - dahi bhallas, pav bhaji, gol gappe, crispy cheelas, and even Indianised Chinese and Italian",
+      "Locals crowd the streets of Sadar Bazaar, Raja Ki Mandi, and Kinari Bazaar for authentic chaat: aloo tikki, pani puri, papri chaat, samosa, kachori, and dalmoth (spicy lentil mix)",
+      "Biryanis follow traditional Lucknowi style with fragrant basmati rice layered with marinated meats, slow-cooked using the dum method",
+      "Keema naan (filled with spicy minced lamb or chicken) paired with chicken korma reflects Agra's Mughal heritage",
+      "For vegetarian options, locals go to Lakshmi Vilas (one of Agra's oldest restaurants for pure South Indian cuisine) or Joney's Place near Taj Ganj for malai kofta"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Taj Mahal white marble dome",
+      "Agra Fort red sandstone walls",
+      "Yamuna River",
+      "Mughal architecture",
+      "Street food stalls in Sadar Bazaar"
+    ],
+    "atmosphere": [
+      "Bustling bazaars",
+      "aromatic spice markets",
+      "tandoor smoke",
+      "street vendors with clay cups",
+      "crowds eating on street corners"
+    ],
+    "colors": [
+      "White marble of Taj Mahal",
+      "red sandstone",
+      "saffron and turmeric yellows",
+      "deep curry browns",
+      "translucent petha sweets",
+      "golden jalebi spirals"
+    ],
+    "unique_modern": [
+      "Deviram's street corner breakfast crowds",
+      "Chat Gali food alley chaos",
+      "Panchhi Petha's colorful sweet displays",
+      "clay tandoori chai cups"
+    ]
+  },
+  "wikipedia_search_term": "Agra",
+  "keywords_for_image": [
+    "Taj Mahal",
+    "Mughlai cuisine",
+    "petha sweets",
+    "bedai jalebi",
+    "Agra street food",
+    "tandoori chai",
+    "Indian bazaar",
+    "Mughal architecture",
+    "Yamuna River",
+    "kebabs charcoal fire"
+  ],
+  "coordinates": {
+    "lat": 27.1767,
+    "lng": 78.0081
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Agra+🇮🇳/@27.1767,78.0081,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agra"
+  },
+  "location_id": 61
+}

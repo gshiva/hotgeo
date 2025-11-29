@@ -1,0 +1,94 @@
+{
+  "name": "Lagos",
+  "country": "Nigeria",
+  "fun_fact": "Fun fact: Lagos is Africa's largest city with over 21 million people and is projected to become the world's largest city by 2100. It was built on a collection of islands and lagoons, and its name comes from the Portuguese word for 'lakes' - they arrived in the 15th century!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Jollof Rice",
+        "description": "Tomato-based rice cooked with peppers, onions, and spices - West Africa's most beloved dish",
+        "origin_story": "The 'Jollof Wars' between Nigeria and Ghana are legendary - Nigerians insist theirs is superior (smoky party-style)",
+        "where_to_find": "Yellow Chilli, Nkoyo, any 'owambe' party, street vendors"
+      },
+      {
+        "name": "Suya",
+        "description": "Spiced grilled meat skewers coated in ground peanut 'yaji' spice mix",
+        "origin_story": "Originally from northern Nigeria's Hausa people - now Lagos's essential late-night street food",
+        "where_to_find": "Suya spots everywhere, especially Yaba, Allen Avenue, Victoria Island at night"
+      },
+      {
+        "name": "Egusi Soup",
+        "description": "Rich soup made with ground melon seeds, leafy vegetables, and meat or fish, eaten with pounded yam",
+        "origin_story": "A pan-Nigerian staple - the melon seeds give it a distinctive thick, nutty texture",
+        "where_to_find": "Terra Kulture, Buka restaurants, home cooking"
+      },
+      {
+        "name": "Puff Puff",
+        "description": "Deep-fried dough balls, slightly sweet and fluffy - Nigeria's donut",
+        "origin_story": "West African street food essential - every street vendor has their recipe",
+        "where_to_find": "Street vendors everywhere, especially mornings and evenings"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chapman",
+        "description": "Nigerian cocktail with Fanta, Sprite, grenadine, and Angostura bitters",
+        "how_locals_drink_it": "At parties and restaurants - the signature Nigerian soft cocktail"
+      },
+      {
+        "name": "Palm Wine",
+        "description": "Fresh sap from palm trees, milky and naturally fermented",
+        "how_locals_drink_it": "At palm wine joints and local bars - fresh is sweet, older is stronger"
+      }
+    ],
+    "food_culture_notes": [
+      "Buka restaurants serve authentic home-style Nigerian food at low prices",
+      "Owambe parties (celebrations) are where to taste the best Jollof",
+      "'Mama Put' refers to women selling home-cooked food on the street",
+      "Victoria Island and Ikoyi have upscale dining; mainland has authentic spots"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Third Mainland Bridge",
+      "National Theatre",
+      "Lekki Conservation Centre",
+      "Nike Art Gallery"
+    ],
+    "atmosphere": [
+      "African megacity",
+      "traffic-choked streets",
+      "beach clubs",
+      "entrepreneurial hustle"
+    ],
+    "colors": [
+      "yellow danfo buses",
+      "lagoon blue",
+      "market fabric prints",
+      "sunset orange"
+    ],
+    "unique_modern": [
+      "Afrobeats music capital",
+      "Nollywood film industry",
+      "tech startup hub",
+      "floating Makoko community"
+    ]
+  },
+  "wikipedia_search_term": "Lagos",
+  "keywords_for_image": [
+    "jollof rice Nigerian",
+    "Lagos skyline",
+    "suya grilled meat",
+    "Third Mainland Bridge",
+    "Lagos beach"
+  ],
+  "coordinates": {
+    "lat": 6.5244,
+    "lng": 3.3792
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lagos+🇳🇬/@6.5244,3.3792,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lagos"
+  },
+  "location_id": 239
+}

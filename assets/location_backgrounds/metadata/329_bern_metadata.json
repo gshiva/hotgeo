@@ -1,0 +1,94 @@
+{
+  "name": "Bern",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Bern's Old Town has 6 kilometers of arcaded walkways (Lauben) - covered shopping streets that are the longest in Europe. The city also has a peculiar tradition: the Zytglogge (clock tower) features a mechanical show with bears, jesters, and roosters performing 4 minutes before every hour since 1530.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Berner Platte",
+        "description": "Massive platter of meats - sauerkraut, beans, potatoes, pork chops, bacon, pork ribs, beef tongue, and various sausages including Schüblig",
+        "origin_story": "This hearty dish was created to feed hardworking farmers and soldiers. The name means 'Bernese platter' and it's designed for sharing (or one very hungry person). It showcases Bern's Germanic culinary traditions - pork in every form imaginable. Locals eat it in winter after skiing or hiking in the nearby Alps.",
+        "where_to_find": "Altes Tramdepot brewery-restaurant with views of the Aare River, Kornhauskeller (historic granary cellar), or traditional Swiss restaurants in Old Town"
+      },
+      {
+        "name": "Rösti",
+        "description": "Swiss potato pancake - grated potatoes pan-fried until golden and crispy on outside, tender inside, often topped with cheese, bacon, or fried egg",
+        "origin_story": "Originally a Bernese farmer's breakfast, rösti became Switzerland's national dish. The 'Röstigraben' (rösti ditch) metaphorically divides German-speaking Switzerland (which loves rösti) from French-speaking regions. Getting the crust perfectly crispy while keeping the inside tender is an art. Bern locals eat it as a side dish or main course.",
+        "where_to_find": "Schwellenmätteli restaurant on the Aare River, Kornhauskeller, or any traditional Bernese restaurant"
+      },
+      {
+        "name": "Meringue with Whipped Cream (Meringués)",
+        "description": "Large, crispy meringues served with double cream - simple, sweet, and rich",
+        "origin_story": "The village of Meiringen near Bern claims to have invented meringue in the 17th century (disputed by French). Regardless, Bern embraced it. The Swiss version uses generous amounts of double cream - not subtle. Locals order it as dessert after heavy meals, somehow finding room.",
+        "where_to_find": "Confiserie Tschirren (historic pastry shop since 1919), cafes in Old Town, or Hotel Bellevue Palace"
+      },
+      {
+        "name": "Fondue Moitié-Moitié",
+        "description": "Swiss cheese fondue made with equal parts Gruyère and Vacherin Fribourgeois, white wine, and kirsch - served bubbling in a pot with bread cubes for dipping",
+        "origin_story": "While fondue is pan-Swiss, Bern's location between German and French Switzerland means they perfected the moitié-moitié (half-and-half) blend. The wine and kirsch keep the cheese smooth. Swiss rules: if you drop your bread in the pot, you buy the next round of wine. Never drink water with fondue - locals insist wine or schnapps prevents the cheese from solidifying in your stomach.",
+        "where_to_find": "Du Nord restaurant, Kornhauskeller, or traditional Swiss restaurants especially in winter"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rivella",
+        "description": "Swiss soft drink made from milk whey - slightly sweet, slightly fizzy, uniquely Swiss",
+        "how_locals_drink_it": "Rivella is Switzerland's national soft drink, invented in 1952. It's made from lactose-free milk whey, giving it a unique taste foreigners find strange but Swiss love. Bern locals drink it with meals, especially with rich foods like fondue or raclette. The red label is original flavor; blue is low-calorie."
+      },
+      {
+        "name": "Kirsch (Cherry Brandy)",
+        "description": "Clear cherry brandy - strong, aromatic, traditional digestif",
+        "how_locals_drink_it": "Kirsch is essential in fondue (keeps cheese from solidifying) and drunk as digestif after heavy meals. Swiss cherry orchards produce the fruit. Locals in Bern sip it neat from small glasses after Berner Platte or fondue. It's warming, potent (40%+ alcohol), and helps digest mountains of cheese and pork."
+      }
+    ],
+    "food_culture_notes": [
+      "Bern's bear symbol (city named after bears) appears on everything - the BärenPark (Bear Park) houses real bears along the Aare River",
+      "Kornhauskeller is a stunning vaulted cellar restaurant in a former granary - worth visiting for ambiance alone",
+      "Swiss dining is expensive - expect to pay premium prices even for simple meals",
+      "The Aare River has traditional wooden boat restaurants in summer"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Zytglogge (Clock Tower) - medieval clock with mechanical show performing 4 minutes before every hour since 1530",
+      "Old Town with 6km of arcaded walkways (Lauben) - UNESCO World Heritage Site",
+      "Federal Palace (Bundeshaus) - Swiss parliament building with green copper dome",
+      "BärenPark - bear park along the Aare River (bears are city symbol)"
+    ],
+    "atmosphere": [
+      "Swiss capital since 1848, but maintains small-town charm",
+      "Aare River loops around Old Town peninsula",
+      "Medieval architecture perfectly preserved",
+      "German-speaking, bordering French-speaking Switzerland (cultural crossroads)"
+    ],
+    "colors": [
+      "golden rösti potato crust",
+      "green copper dome of Federal Palace",
+      "turquoise Aare River",
+      "sandstone beige of Old Town buildings"
+    ],
+    "unique_modern": [
+      "Einstein lived in Bern 1903-1905, developed Theory of Relativity here - Einstein House museum at Kramgasse 49",
+      "Aare River swimming and floating is summer tradition - Bernese jump in and float downstream",
+      "6km of arcaded walkways are Europe's longest covered shopping promenade",
+      "UNESCO World Heritage Old Town since 1983"
+    ]
+  },
+  "wikipedia_search_term": "Bern",
+  "keywords_for_image": [
+    "bern zytglogge clock tower",
+    "rosti swiss potato pancake",
+    "aare river bern switzerland",
+    "bern old town arcades",
+    "swiss fondue moitie moitie"
+  ],
+  "coordinates": {
+    "lat": 46.948,
+    "lng": 7.4474
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bern+🇨🇭/@46.948,7.4474,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bern"
+  },
+  "location_id": 329
+}

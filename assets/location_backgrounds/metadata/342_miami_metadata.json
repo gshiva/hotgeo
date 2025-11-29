@@ -1,0 +1,94 @@
+{
+  "name": "Miami",
+  "country": "USA",
+  "fun_fact": "Fun fact: Miami is the only major U.S. city founded by a woman - Julia Tuttle, the 'Mother of Miami,' convinced railroad tycoon Henry Flagler to extend his tracks south in 1896 by sending him fresh orange blossoms after a freeze destroyed crops up north",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ropa Vieja",
+        "description": "Shredded flank steak slow-braised in a savory tomato sauce with bell peppers, onions, and olives - literally translates to 'old clothes' because the meat shreds look like tattered fabric",
+        "origin_story": "Cuba's national dish, brought to Miami by waves of Cuban exiles since the 1960s. Legend says a poor man tore up and cooked his own clothes, which miraculously turned into this stew. The Freedom Tower (1925) served as Miami's 'Ellis Island of the South' for these refugees",
+        "where_to_find": "Versailles Restaurant (the iconic spot with mirrors and chandeliers), La Carreta on Calle Ocho (the original location), El Cristo Restaurant"
+      },
+      {
+        "name": "Cuban Sandwich (Cubano)",
+        "description": "Roasted pork, ham, Swiss cheese, pickles, and mustard pressed between Cuban bread until the cheese melts and the crust crisps to golden perfection",
+        "origin_story": "Born in Tampa's cigar factories, perfected in Miami's Little Havana. The bread is crucial - baked with lard and topped with palmetto leaves for a soft interior and crispy crust. Miami's version uses salami, Tampa's doesn't - locals still argue about this",
+        "where_to_find": "Versailles Restaurant, La Carreta, Old's Havana Cuban Bar & Cocina on Calle Ocho"
+      },
+      {
+        "name": "Stone Crab Claws",
+        "description": "Chilled stone crab claws served with tangy mustard sauce - only the claws are harvested, then the crab is released to regrow them",
+        "origin_story": "Exclusive to South Florida waters, this delicacy has been Miami's signature seafood since 1913 when Joe Weiss opened Joe's Stone Crab. Season runs October 15 to May 15. Miami is bordered by two national parks - Biscayne and Everglades - making it a seafood paradise",
+        "where_to_find": "Joe's Stone Crab (the original since 1913, expect 2-hour waits), Truluck's, Garcia's Seafood"
+      },
+      {
+        "name": "Vaca Frita",
+        "description": "Crispy shredded beef marinated in lime and garlic, pan-fried until the edges char and caramelize, topped with raw onions",
+        "origin_story": "Cuban comfort food meaning 'fried cow' - originally a way to repurpose leftover boiled beef. The key is getting the meat crispy while keeping it tender inside, a technique perfected in Little Havana kitchens",
+        "where_to_find": "Mojitos Calle 8 (in the striking blue building since 2001), El Cuban Diner (new 1950s-themed spot opened Oct 2025), Versailles"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cuban Coffee (Cafecito)",
+        "description": "Espresso whipped with sugar until it forms a golden foam (espuma), served in tiny cups - intensely sweet and strong enough to wake the dead",
+        "how_locals_drink_it": "Stand at ventanitas (walk-up windows) along Calle Ocho, knock it back in one shot while gossiping with neighbors. La Carreta's Café con Leche is legendary - half espresso, half steamed milk. Never sit down for this, always standing"
+      },
+      {
+        "name": "Mojito",
+        "description": "White rum muddled with fresh mint, lime juice, sugar, and topped with soda water - born in Havana, perfected in Miami",
+        "how_locals_drink_it": "Sipped slowly on outdoor patios during Miami's eternal summer. Order one at Mojitos Calle 8 or Ball & Chain, the historic jazz club where Billie Holiday once performed. Locals insist on fresh mint, never mint syrup"
+      }
+    ],
+    "food_culture_notes": [
+      "Calle Ocho (8th Street) in Little Havana is Miami's Cuban heartbeat - every March, the Calle Ocho Festival draws 1 million people",
+      "Ventanitas (walk-up coffee windows) are everywhere - grab your cafecito and chat with strangers",
+      "Miami has the world's largest concentration of Art Deco buildings (800+) - many 1930s structures have hidden features indicating illegal gambling from mob days",
+      "The white sand on Miami Beach isn't natural - it was imported from the Bahamas to combat erosion"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Art Deco buildings on Ocean Drive (pastel colors, geometric shapes)",
+      "Freedom Tower (1925 - Miami's Ellis Island of the South)",
+      "Calle Ocho street signs and murals in Little Havana",
+      "Colorful ventanitas (walk-up coffee windows)"
+    ],
+    "atmosphere": [
+      "tropical humidity and palm tree shadows",
+      "live salsa music spilling from open doorways",
+      "vintage 1950s Cuban nostalgia",
+      "neon-lit Art Deco facades at dusk"
+    ],
+    "colors": [
+      "pastel pink and mint green (Art Deco)",
+      "vibrant blue (Mojitos Calle 8 building)",
+      "golden sunset over Biscayne Bay",
+      "red and white Cuban flags"
+    ],
+    "unique_modern": [
+      "World's busiest cruise port (PortMiami - Cruise Capital of the World)",
+      "Only U.S. city bordered by two national parks",
+      "48th Annual Art Deco Weekend festival (January 2025)",
+      "Wynwood Walls street art district"
+    ]
+  },
+  "wikipedia_search_term": "Miami",
+  "keywords_for_image": [
+    "Miami Art Deco Ocean Drive",
+    "Cuban sandwich Miami",
+    "Little Havana Calle Ocho",
+    "Miami stone crab claws",
+    "pastel Art Deco buildings"
+  ],
+  "coordinates": {
+    "lat": 25.7617,
+    "lng": -80.1918
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Miami+🇺🇸/@25.7617,-80.1918,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miami"
+  },
+  "location_id": 342
+}

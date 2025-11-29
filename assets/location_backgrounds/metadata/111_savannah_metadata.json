@@ -1,0 +1,105 @@
+{
+  "name": "Savannah",
+  "country": "USA",
+  "region": "Georgia",
+  "fun_fact": "Savannah has 22 historic squares draped in Spanish moss-covered live oak trees, and Forrest Gump's famous bench scene was filmed at Chippewa Square. The city also claims the most beautiful street in America (Jones Street) and is home to North America's oldest Black church.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Lowcountry She-Crab Soup",
+        "description": "Rich, creamy bisque made with blue crab meat, crab roe, and a touch of sherry",
+        "origin_story": "This coastal Georgia specialty has the perfect balance of cream, flavor, and large clumps of fresh crab meat. The 'she' refers to female crabs with roe, which adds richness.",
+        "where_to_find": "The Olde Pink House is famous for possibly the best She-Crab soup you'll ever have"
+      },
+      {
+        "name": "Southern Fried Chicken (Family-Style)",
+        "description": "Classic Southern fried chicken served family-style at communal tables with cornbread dressing, sweet potato soufflé, black-eyed peas, okra gumbo",
+        "origin_story": "Mrs. Wilkes Dining Room has been serving this tradition since the 1940s - strangers sit together at tables-for-ten with platters passed around",
+        "where_to_find": "Mrs. Wilkes Dining Room (107 West Jones Street) - line forms at 11am daily"
+      },
+      {
+        "name": "Shrimp and Grits",
+        "description": "Perfectly-flaky golden fried shrimp served over creamy stone-ground grits with bacon and gravy",
+        "origin_story": "This Lowcountry staple represents Savannah's coastal heritage, combining fresh Georgia shrimp with Carolina grits",
+        "where_to_find": "Crystal Beer Parlor, B. Matthew's Eatery, and The Wyld serve exceptional versions"
+      },
+      {
+        "name": "Fried Green Tomatoes",
+        "description": "Cornmeal-crusted unripe tomatoes fried golden and crispy, often served with remoulade",
+        "origin_story": "A Southern classic that uses end-of-season green tomatoes, popularized by the novel and film of the same name",
+        "where_to_find": "Found at most traditional Southern restaurants including The Lady & Sons"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sweet Tea",
+        "description": "Ice-cold black tea heavily sweetened while hot, served over ice",
+        "how_locals_drink_it": "Southerners call it 'the house wine of the South' - it's everywhere and expected to be sweet unless you specify 'unsweet'"
+      },
+      {
+        "name": "Chatham Artillery Punch",
+        "description": "Legendary Savannah punch mixing rum, brandy, whiskey, champagne, and fruit juices",
+        "how_locals_drink_it": "Deceptively strong historical punch dating back to the 1800s - one glass is plenty for most people"
+      }
+    ],
+    "food_culture_notes": [
+      "Family-style dining is huge - Mrs. Wilkes seats strangers together at communal tables",
+      "The Grey (in a restored 1938 Greyhound bus terminal) won James Beard awards for chef Mashama Bailey's African-influenced Southern cuisine",
+      "Dinner starts late by Southern standards but earlier than European - most restaurants get busy around 6-7pm",
+      "Spanish moss and live oak trees create the iconic romantic atmosphere",
+      "Savannah is surprisingly affordable - quality Southern meals can be found for under $20"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "22 historic squares with live oak trees and Spanish moss",
+      "Forsyth Park with its iconic fountain (dyed green on St. Patrick's Day)",
+      "The Olde Pink House (18th century mansion)",
+      "Wormsloe Historic Site with 1.5-mile oak tree tunnel",
+      "River Street along the Savannah River",
+      "Bonaventure Cemetery with Spanish moss-draped graves"
+    ],
+    "atmosphere": [
+      "Romantic Southern Gothic ambiance with Spanish moss",
+      "Cobblestone streets and historic architecture",
+      "Horse-drawn carriages",
+      "Wrought-iron balconies and gas lamps",
+      "Humid subtropical climate with lush greenery"
+    ],
+    "colors": [
+      "Deep green Spanish moss",
+      "Pastel historic buildings (especially the pink house)",
+      "Golden oak leaves",
+      "Moss green and cream",
+      "Weathered brick red"
+    ],
+    "unique_modern": [
+      "The Grey restaurant in restored Art Deco Greyhound bus terminal",
+      "Contemporary Southern cuisine movement",
+      "Food tours combining history and gastronomy",
+      "Craft cocktail scene in historic settings"
+    ]
+  },
+  "wikipedia_search_term": "Savannah,_Georgia",
+  "keywords_for_image": [
+    "savannah spanish moss",
+    "forsyth park fountain",
+    "savannah historic squares",
+    "southern fried chicken",
+    "shrimp and grits",
+    "lowcountry cuisine",
+    "live oak trees savannah",
+    "georgia southern food",
+    "she-crab soup",
+    "chippewa square"
+  ],
+  "coordinates": {
+    "lat": 32.0809,
+    "lng": -81.0912
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Savannah+🇺🇸/@32.0809,-81.0912,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Savannah,_Georgia"
+  },
+  "location_id": 111
+}

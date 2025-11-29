@@ -1,0 +1,119 @@
+{
+  "name": "Pamplona",
+  "country": "Spain",
+  "fun_fact": "Fun fact: While Pamplona is world-famous for the Running of the Bulls during San Fermín (dating back 400+ years), the tradition started simply because butchers needed to move bulls from ranches to the city center. Young butchers began racing in front of the bulls to speed them up - and it turned into one of the world's most thrilling festivals. Women were banned until 1974!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Piquillo Peppers (Pimientos del Piquillo)",
+        "description": "Sweet, delicate red peppers with intense flavor, roasted and served with olive oil and garlic, or stuffed with meat, fish, or cod",
+        "origin_story": "Known as the 'red gold' of Navarran allotments with a protected designation of origin. Produced mainly in La Ribera district, these autumn-harvested peppers have an unmistakable flavor. They combine perfectly with cod (bacalao) and represent one of Navarra's most prestigious agricultural products.",
+        "where_to_find": "Restaurante Europa (Michelin-starred since 1993) near Plaza del Castillo offers exquisite treatment of seasonal piquillo peppers. Traditional restaurants throughout the Old Town feature them as starters or main courses."
+      },
+      {
+        "name": "Cordero al Chilindrón",
+        "description": "Tender lamb stew made with tomatoes, onions, garlic, dried nora peppers, white wine, lemon peel, and parsley, served in earthenware",
+        "origin_story": "For centuries, this dish was eaten solely during main festivals in Navarra. Today it's part of daily cooking throughout the region. Made from lamb leg or shoulder sautéed until everything melds together, traditionally served in the same clay dish it was cooked in. Often served Sundays at lunchtime at traditional restaurants, accompanied by boiled or fried potatoes.",
+        "where_to_find": "Enekorri in Riezu (30+ years of expertise, blends traditional Navarrese with innovation) and El Burladero near Plaza de Toros serve authentic versions. Restaurante Anttonenea highlights quality lamb shoulder."
+      },
+      {
+        "name": "Ajoarriero (Bacalao Ajoarriero)",
+        "description": "Desalted cod stewed with red and green piquillo peppers, tomatoes, onions, garlic, choricero peppers, and white wine, served with bread and hard-boiled egg",
+        "origin_story": "This traditional recipe is shared with neighboring La Rioja and has Basque origins but has been widely embraced in Navarra. The name comes from the arriero (muleteer) tradition - hardy travelers who needed filling, flavorful meals on the road.",
+        "where_to_find": "Traditional bodegón-style restaurants in the Old Town. Restaurant Baserriberri offers modern creative takes on classic dishes like this."
+      },
+      {
+        "name": "Menestra de Verduras",
+        "description": "Star vegetable stew from Navarran allotments featuring asparagus, artichokes, peas, and broad beans",
+        "origin_story": "Showcases the excellent vegetables from La Ribera that Navarra is famous for. The region's cardoon, artichokes, fresh white beans, asparagus, and piquillo peppers are prized throughout Spain. This dish celebrates Navarra's agricultural bounty.",
+        "where_to_find": "La Mandarra de La Ramos (sleek tapas bar with chef dedicated to locally-sourced produce) and fine dining spots like Restaurante Europa"
+      },
+      {
+        "name": "Pintxos",
+        "description": "Small bites on bread, Pamplona's version of Basque tapas - a culinary institution and social event",
+        "origin_story": "Pintxos are more than food in Pamplona - they're a way of experiencing life with friends, family, and strangers. The pintxos route spans the Old Town and all neighborhoods, making it the most popular way to eat out. It's impossible to cover the whole route because there are so many bars.",
+        "where_to_find": "Three gastronomic routes run through the city: The Camino route, the Encierro route, and the Green route. Bars throughout the historic center, especially around Plaza del Castillo"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pacharán (Patxaran)",
+        "description": "Reddish digestif liqueur (30% alcohol) made from sloe berries macerated in anisette and spices for months",
+        "how_locals_drink_it": "Served ice-cold after meals as a stomach tonic. For centuries, Navarrans relied on pacharán as a home remedy for stomach pains, nausea, and even hangovers. Records show it was served at the wedding of Gonofre de Navarre in 1415, and Queen Blanca I took it for medicinal purposes in 1441. Though more sangria and beer flow during San Fermín now, pacharán is the drink most closely associated with the festival - like Pimms at Wimbledon. Once looked down upon as blue-collar, it's now enjoyed by everyone from bullrunners to discriminating winemakers. Must contain no artificial flavorings under the official D.O. Navarra designation."
+      },
+      {
+        "name": "Navarra Wine (D.O. Navarra)",
+        "description": "Red wines (Tempranillo, Garnacha, Graciano, Merlot, Cabernet Sauvignon) and whites (Chardonnay, Viura, Moscatel, Malvasía), especially famous for rosado (rosé)",
+        "how_locals_drink_it": "The appellation benefits from the Bay of Biscay, Pyrenees influence, and temperate Ebro valley climate. Five zones: Baja Montana, Ribera Alta, Ribera Baja, Tierra Estella, Valdizarbe. Traditionally linked with rosé wine - Garnacha tops the list. Paired with lamb chilindrón, piquillo peppers, and pintxos."
+      },
+      {
+        "name": "Kalimotxos",
+        "description": "Traditional beverage mixing red wine with cola, served over ice",
+        "how_locals_drink_it": "Order this to feel like a real Navarran local - a uniquely Spanish combination popular at festivals and casual gatherings"
+      },
+      {
+        "name": "Craft Beer and Cider",
+        "description": "Locally produced craft beers and traditional Basque-style cider",
+        "how_locals_drink_it": "A fantastic array of craft beers available throughout Pamplona. Cider drinking is part of local custom, reflecting Basque influence on Navarra's beverage culture."
+      }
+    ],
+    "food_culture_notes": [
+      "Pintxos culture is a culinary institution and social event - impossible to cover the whole route",
+      "The region showcases a mix of Spanish, Basque, and French cultural influences",
+      "Navarra is famous for vegetables from La Ribera: cardoon, artichokes, beans, asparagus, piquillo peppers",
+      "Foie gras, mushrooms, and flavorful meats pair with D.O. Navarre and Rioja wines",
+      "Traditional desserts: cheese, curd (cuajada), rolled wafer sticks, leche frita (fried milk and flour)",
+      "One restaurant near Pamplona has two Michelin stars and a green star - an emblem of Navarran cooking",
+      "Txistorra (chistorra) sausage typical to Navarre, Aragon, and Basque Country - pork/beef with garlic and paprika"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Plaza del Castillo - heart of the Old Town",
+      "Café Iruna - where Hemingway drank (bronze statue at the bar)",
+      "Plaza de Toros bullring",
+      "Pamplona Cathedral",
+      "Encierro route - narrow cobblestone streets (875 meters, 2,044 pine planks)",
+      "Citadel park (fireworks spectacle every night at 23:00 during San Fermín)"
+    ],
+    "atmosphere": [
+      "Sleepy city of 200,000 that swells to 1 million during San Fermín (July 6-14)",
+      "Medieval Old Town with narrow streets and historic bars",
+      "White and red festival attire - uniform of white pants/shirt with red pañuelo and faja",
+      "Gigantes y cabezudos parade (8 giant figures over 150 years old, 4m tall kings and queens)",
+      "Three gastronomic routes winding through historic neighborhoods"
+    ],
+    "colors": [
+      "Intense red of piquillo peppers",
+      "White and red of San Fermín festival attire",
+      "Deep wine red of Navarra rosado",
+      "Golden stone of medieval architecture",
+      "Ruby red of pacharán liqueur"
+    ],
+    "unique_modern": [
+      "San Fermín Festival dates to 1591 (moved from October to July for better weather)",
+      "Running of the Bulls: 8 days, 2,000 runners, 875-meter course, 2.5-minute bull run, 15 deaths since 1910",
+      "Fence introduced 1776 to replace blankets - 2,044 planks, 388 posts, 40 gates",
+      "Ernest Hemingway fell in love with festival in 1923, wrote 'The Sun Also Rises' (1926)",
+      "Saint Fermín was son of Roman senator, converted to Christianity, became Pamplona's first bishop, dragged to death as martyr",
+      "Festival starts with chupinazo fireworks at noon July 6, ends with 'Pobre de Mi' by candlelight July 14"
+    ]
+  },
+  "wikipedia_search_term": "Pamplona",
+  "keywords_for_image": [
+    "pamplona running bulls",
+    "piquillo peppers navarra",
+    "pamplona old town plaza castillo",
+    "navarra lamb chilindrón",
+    "san fermin festival pamplona"
+  ],
+  "coordinates": {
+    "lat": 42.8125,
+    "lng": -1.6458
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pamplona+🇪🇸/@42.8125,-1.6458,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pamplona"
+  },
+  "location_id": 23
+}

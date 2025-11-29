@@ -1,0 +1,46 @@
+{
+  "name": "Chiang Mai Old City",
+  "country": "🇹🇭",
+  "coordinates": {
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Chiang+Mai+Old+City+🇹🇭/@18.7883,98.9853,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiang_Mai_Old_City"
+  },
+  "fun_fact": "Fun fact: Chiang Mai Old City awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Chiang Mai Old City cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Chiang Mai Old City"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Chiang Mai Old City landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 205
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Wellington",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: Wellington hosts New Zealand's biggest food festival 'Visa Wellington On a Plate' for the entire month of August, transforming the windy capital into a foodie paradise - and locals brave the famously fierce winds just to queue for Pravda café's legendary cheese scones!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Green-Lipped Mussels",
+        "description": "New Zealand's signature shellfish, unique to these waters",
+        "origin_story": "Native to New Zealand, harvested from pristine waters",
+        "where_to_find": "Ortega Fish Shack, waterfront restaurants"
+      },
+      {
+        "name": "Lamb",
+        "description": "New Zealand lamb, famous worldwide for quality",
+        "origin_story": "NZ sheep farming tradition makes it world's best lamb",
+        "where_to_find": "Logan Brown for refined preparation"
+      },
+      {
+        "name": "Pavlova",
+        "description": "Meringue dessert with cream and fresh fruit",
+        "origin_story": "Named after ballerina Anna Pavlova, NZ and Australia both claim invention",
+        "where_to_find": "Traditional New Zealand dessert at most restaurants"
+      },
+      {
+        "name": "Hangi",
+        "description": "Traditional Māori earth oven cooking - meat and vegetables slow-cooked underground",
+        "origin_story": "Ancient Māori cooking technique passed through generations",
+        "where_to_find": "Karaka Café for indigenous cuisine"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Flat White Coffee",
+        "description": "Espresso with steamed milk, NZ/Australia invention",
+        "how_locals_drink_it": "Wellington is coffee obsessed - Fidel's Cafe on Cuba Street"
+      },
+      {
+        "name": "Craft Beer",
+        "description": "Wellington has thriving craft beer scene",
+        "how_locals_drink_it": "At numerous craft breweries"
+      }
+    ],
+    "food_culture_notes": [
+      "Pravda café has legendary cheese scones with queues",
+      "Cuba Street is bohemian food and café hub",
+      "Harbourside Market every Sunday",
+      "August's 'Wellington On a Plate' festival transforms the city"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Wellington Cable Car",
+      "Te Papa Museum",
+      "harbour waterfront",
+      "Beehive Parliament"
+    ],
+    "atmosphere": [
+      "windy harbour",
+      "cable car up hills",
+      "café culture",
+      "colourful Cuba Street"
+    ],
+    "colors": [
+      "harbour blue",
+      "green hills",
+      "cable car red",
+      "coffee brown"
+    ],
+    "unique_modern": [
+      "world's windiest capital",
+      "film industry (Weta Workshop)",
+      "compact walkable downtown"
+    ]
+  },
+  "wikipedia_search_term": "Wellington",
+  "keywords_for_image": [
+    "green-lipped mussels",
+    "flat white coffee",
+    "Wellington Cable Car",
+    "harbour view",
+    "Cuba Street cafes",
+    "hillside houses"
+  ],
+  "coordinates": {
+    "lat": -41.2865,
+    "lng": 174.7762
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Wellington+🇳🇿/@-41.2865,174.7762,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wellington"
+  },
+  "location_id": 9
+}

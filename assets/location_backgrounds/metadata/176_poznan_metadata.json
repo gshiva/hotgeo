@@ -1,0 +1,93 @@
+{
+  "name": "Poznan",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Poznan's St. Martin's Croissant (Rogal Świętomarciński) is so special it has EU Protected Geographical Indication status - it MUST contain exactly 81 layers of dough, use white poppy seeds from a specific region, and can only be called by this name if made in Poznan!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Rogal Świętomarciński",
+        "description": "Crescent-shaped croissant with white poppy seed filling, nuts, raisins, and orange peel, glazed with icing",
+        "origin_story": "Created in 1891 to celebrate St. Martin's Day (November 11). Legend says a baker shaped it like a horseshoe from St. Martin's horse. Requires 81 layers and weighs 150-250g",
+        "where_to_find": "Rogalowe Muzeum Poznania (Croissant Museum with baking demonstrations), certified bakeries throughout Poznan"
+      },
+      {
+        "name": "Pyry z Gzikiem",
+        "description": "Boiled potatoes served with gzik - a fresh cheese mixed with chives, radishes, and sour cream",
+        "origin_story": "Poznań's signature dish - so iconic that locals are nicknamed 'Pyry' (potatoes). Simple, humble, and beloved",
+        "where_to_find": "Wiejskie Jadło, Ratuszova, traditional milk bars (bar mleczny)"
+      },
+      {
+        "name": "Duck with Apples",
+        "description": "Roasted duck stuffed with apples and served with red cabbage and dumplings",
+        "origin_story": "A Greater Poland (Wielkopolska) specialty, traditionally served for celebrations and holidays",
+        "where_to_find": "Whiskey in the Jar, Brovaria, traditional Polish restaurants"
+      },
+      {
+        "name": "Szare Kluski",
+        "description": "Grey potato dumplings made with grated raw potatoes, served with meat sauce or bacon",
+        "origin_story": "A Wielkopolska peasant dish - the 'grey' color comes from oxidizing potatoes",
+        "where_to_find": "Bar mleczny (milk bars), traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lech Beer",
+        "description": "Poznan's local lager, brewed here since 1895",
+        "how_locals_drink_it": "The city's beer of choice, often paired with pyry z gzikiem"
+      },
+      {
+        "name": "Nalewka",
+        "description": "Traditional fruit-infused vodka liqueur, homemade in many households",
+        "how_locals_drink_it": "As digestif, especially cherry (wiśniówka) or honey varieties"
+      }
+    ],
+    "food_culture_notes": [
+      "St. Martin's Day (Nov 11) sees 250+ TONNES of rogale consumed in one day",
+      "Only certified bakers can make authentic Rogal Świętomarciński - look for the certificate",
+      "Milk bars (bar mleczny) serve cheap, traditional Polish food and are a Poznan institution",
+      "The Old Market Square has restaurants with goat statues - commemorating the city symbol"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Old Market Square (Stary Rynek)",
+      "Town Hall with mechanical goats",
+      "Imperial Castle",
+      "Cathedral Island (Ostrów Tumski)"
+    ],
+    "atmosphere": [
+      "colorful merchant houses",
+      "goat butting ceremony at noon",
+      "university energy",
+      "Renaissance architecture"
+    ],
+    "colors": [
+      "merchant house pastels",
+      "croissant golden",
+      "poppy seed white",
+      "town hall terracotta"
+    ],
+    "unique_modern": [
+      "Croissant Museum experience",
+      "tech startup hub",
+      "Poland's oldest city"
+    ]
+  },
+  "wikipedia_search_term": "Poznań",
+  "keywords_for_image": [
+    "St Martin croissant rogal",
+    "pyry z gzikiem potatoes",
+    "Old Market Square",
+    "colorful merchant houses",
+    "Polish bakery"
+  ],
+  "coordinates": {
+    "lat": 52.4064,
+    "lng": 16.9252
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Poznan+🇵🇱/@52.4064,16.9252,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Poznań"
+  },
+  "location_id": 176
+}

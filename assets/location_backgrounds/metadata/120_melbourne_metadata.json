@@ -1,0 +1,105 @@
+{
+  "name": "Melbourne",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Melbourne is considered Australia's coffee capital with world-class café culture! Proud Mary, one of Melbourne's iconic cafés, is ranked as the fourth best coffee spot in the entire world. The city has over 200 nationalities, creating an incredibly diverse food scene!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Melbourne Brunch Culture",
+        "description": "Elevated all-day brunch featuring innovative dishes like peanut butter waffles with chocolate and orange yoghurt mousse, smashed avocado toast, ricotta hotcakes, and fusion creations blending Asian and Western flavors.",
+        "origin_story": "Melbourne pioneered the brunch-as-an-art-form movement, with cafés treating breakfast and brunch with the same creativity as fine dining. This culture emerged from the city's obsession with quality coffee and transformed into elaborate all-day dining experiences.",
+        "where_to_find": "Higher Ground (in a stunning heritage-listed building in the CBD) dishes up elevated café dining all day. New Korean cafés like Trbl on Presgrave Place blend French technique with Asian flavors, serving Korean salt bread, matcha croissants, and injeolmi cheesecake alongside savoury options."
+      },
+      {
+        "name": "Laneway Dining Experience",
+        "description": "Hidden cafés and restaurants in Melbourne's narrow laneways serving everything from European-style café fare to Italian/Asian fusion, often with outdoor seating and street art backdrops.",
+        "origin_story": "Melbourne's laneways were once forgotten alleys, but have been transformed into vibrant dining precincts where food, culture, and community merge. These spaces reflect Melbourne's multicultural heartbeat and creative spirit.",
+        "where_to_find": "Degraves Street features cosy European-style cafés serving exceptional coffee and pastries under café umbrellas. Hardware Lane offers lively Italian/Asian fusion dining with outdoor tables under city lights on red-brick paving."
+      },
+      {
+        "name": "Multicultural Fusion Cuisine",
+        "description": "Melbourne's immigrant history creates a melting pot of authentic cuisines from Italy, Greece, China, Vietnam, India, and beyond, often fused in innovative ways.",
+        "origin_story": "With over 200 nationalities represented, Melbourne's food scene has been shaped by waves of immigration. From Italian eateries on Lygon Street to authentic Asian restaurants in Richmond and Footscray, particularly Vietnamese on Victoria Street.",
+        "where_to_find": "Richmond's Victoria Street is famous for authentic Vietnamese restaurants. Chinatown offers authentic Chinese street food from dumplings to fragrant noodle dishes. Lygon Street remains the heart of Melbourne's Italian dining scene."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "World-Class Melbourne Coffee",
+        "description": "Third-wave specialty coffee treated as both an art and a science, with each cup carefully crafted using meticulously selected beans and innovative brewing techniques.",
+        "how_locals_drink_it": "Melbourne cafés have set the global standard for coffee appreciation. Proud Mary (ranked 4th best coffee spot worldwide) pioneered the cool, third-wave café movement. Locals take their coffee seriously - flat whites, piccolos, and batch brews are common orders, not just generic lattes."
+      }
+    ],
+    "food_culture_notes": [
+      "Melbourne has set a global standard for coffee culture, treating coffee as both an art and a science",
+      "Laneway cafés offer brunch for around AUD 20-30 including coffee, while formal dinner restaurants average AUD 35-60+ per person",
+      "New coffee shops like Trbl are defining a new era blending Korean café culture with local suppliers like Dukes Coffee",
+      "Many eateries lean into sustainable practices: vegan, vegetarian, gluten-free, and organic alternatives",
+      "The city hums with creativity fueled by over 200 nationalities, giving it a distinct European flair in architecture and café culture",
+      "Degraves Street is officially recognised as a pedestrian laneway famous for alfresco dining, café culture, and street art",
+      "Richmond is known as lively and multicultural, especially for Vietnamese cuisine on Victoria Street",
+      "Fusion of culinary traditions is common: Korean bakery cafés blend French technique with Asian flavours",
+      "Melbourne's café culture extends beyond coffee to elaborate brunch dishes that rival fine dining"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Graffiti-covered laneways with hidden café entrances",
+      "Degraves Street with alfresco dining under umbrellas",
+      "Hardware Lane's red-brick paving with outdoor tables",
+      "Heritage-listed buildings converted into cafés (like Higher Ground)",
+      "Victorian-era architecture mixed with modern street art",
+      "Trams running through the CBD",
+      "Yarra River and cityscape"
+    ],
+    "atmosphere": [
+      "Intimate laneway dining with outdoor heaters and umbrellas",
+      "Urban tapestry of street art, cafés, and community spaces",
+      "European-style café culture in an Australian setting",
+      "Multicultural neighborhoods with distinct culinary identities",
+      "Creative, artistic energy in converted warehouses and heritage spaces",
+      "Year-round outdoor dining culture",
+      "Communal tables and bench seating in trendy cafés"
+    ],
+    "colors": [
+      "Vibrant street art murals in every laneway",
+      "Rich brown espresso and latte art",
+      "Colorful brunch plates (greens, yellows, purples)",
+      "Red brick of historic lanes and buildings",
+      "Greenery and potted plants at café fronts",
+      "Black and white tiled café floors",
+      "Golden pastries in bakery windows"
+    ],
+    "unique_modern": [
+      "Third-wave coffee culture that influenced the world (Proud Mary ranked #4 globally)",
+      "Korean-Australian café fusion (Korean salt bread, matcha croissants, injeolmi cheesecake)",
+      "Forgotten alleys transformed into dining destinations",
+      "Over 200 nationalities creating unparalleled culinary diversity",
+      "Sustainable dining movement with vegan, vegetarian, gluten-free focus",
+      "Heritage buildings repurposed as modern dining spaces",
+      "Brunch elevated to an art form with Instagram-worthy presentations"
+    ]
+  },
+  "wikipedia_search_term": "Melbourne",
+  "keywords_for_image": [
+    "Melbourne laneway cafes",
+    "Melbourne coffee culture",
+    "Degraves Street Melbourne",
+    "Melbourne street art",
+    "Melbourne brunch",
+    "Australian cafe culture",
+    "Melbourne food scene",
+    "Hardware Lane Melbourne",
+    "Melbourne multicultural food",
+    "third wave coffee Melbourne"
+  ],
+  "coordinates": {
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Melbourne+🇦🇺/@-37.8136,144.9631,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melbourne"
+  },
+  "location_id": 120
+}

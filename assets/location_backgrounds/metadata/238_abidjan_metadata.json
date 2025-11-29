@@ -1,0 +1,93 @@
+{
+  "name": "Abidjan",
+  "country": "Ivory Coast",
+  "fun_fact": "Fun fact: Abidjan is called the 'Paris of West Africa' for its French colonial architecture and boulevards. It's also the world's largest French-speaking city after Paris - and produces 40% of the world's cocoa (your chocolate probably came from here)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Attiéké with Grilled Fish",
+        "description": "Fermented cassava couscous with grilled tilapia or braised fish and spicy pepper sauce",
+        "origin_story": "Attiéké is Ivory Coast's national starch - the fermentation gives it a tangy taste unique to the country",
+        "where_to_find": "Maquis (open-air restaurants), Allocodrome (grill district), street vendors"
+      },
+      {
+        "name": "Poulet Braisé",
+        "description": "Spiced grilled chicken marinated and charred over wood fire",
+        "origin_story": "Every neighborhood has its braised chicken spot - the marinade and wood smoke are essential",
+        "where_to_find": "Maquis everywhere, especially in Zone 4, Allocodrome"
+      },
+      {
+        "name": "Alloco",
+        "description": "Fried ripe plantains served with spicy tomato-onion sauce and sometimes boiled eggs",
+        "origin_story": "The ultimate Ivorian street food - sweet plantains fried crispy with fiery sauce",
+        "where_to_find": "Street vendors, Allocodrome district (named after alloco!)"
+      },
+      {
+        "name": "Kedjenou",
+        "description": "Chicken or guinea fowl slow-cooked in a sealed pot with vegetables, no water added",
+        "origin_story": "From the Bété people - the pot is sealed so the meat cooks in its own juices",
+        "where_to_find": "Traditional restaurants, home cooking, maquis"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bangui (Palm Wine)",
+        "description": "Fresh or fermented palm sap, milky white and slightly effervescent",
+        "how_locals_drink_it": "At maquis and palm wine bars - fresh is sweet, fermented is stronger"
+      },
+      {
+        "name": "Bissap",
+        "description": "Deep red hibiscus flower drink, sweetened and refreshing",
+        "how_locals_drink_it": "Cold from vendors, at restaurants - essential in the tropical heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Maquis are open-air restaurants with grilled meat and cold beer - essential nightlife",
+      "Allocodrome in Cocody is the famous street food district",
+      "Eating is communal - sharing from central plates is normal",
+      "French influence means excellent baguettes and pastries too"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Paul's Cathedral",
+      "Plateau business district",
+      "Banco National Park",
+      "Treichville Market"
+    ],
+    "atmosphere": [
+      "Francophone Africa hub",
+      "tropical modernism",
+      "beach lagoons",
+      "vibrant nightlife"
+    ],
+    "colors": [
+      "lagoon blue",
+      "tropical green",
+      "French colonial white",
+      "market fabric wax prints"
+    ],
+    "unique_modern": [
+      "African Development Bank HQ",
+      "La Pyramide building",
+      "Coupé-Décalé music origin"
+    ]
+  },
+  "wikipedia_search_term": "Abidjan",
+  "keywords_for_image": [
+    "attieke grilled fish",
+    "Abidjan skyline lagoon",
+    "poulet braise",
+    "maquis restaurant",
+    "alloco plantains"
+  ],
+  "coordinates": {
+    "lat": 5.36,
+    "lng": -4.0083
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Abidjan+🇨🇮/@5.36,-4.0083,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abidjan"
+  },
+  "location_id": 238
+}

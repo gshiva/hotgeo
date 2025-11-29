@@ -1,0 +1,105 @@
+{
+  "name": "Colombo",
+  "country": "Sri Lanka",
+  "fun_fact": "Fun fact: Sri Lanka is the world's fourth-largest tea producer, and tea accounts for over $1.3 billion in exports. British planter James Taylor introduced tea in 1867 after coffee plantations were devastated by fungal disease. He's still remembered as the 'Father of Ceylon Tea.' Also, 78% of travelers to Sri Lanka in 2024 came specifically to experience the street food culture!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hoppers (Appa)",
+        "description": "Bowl-shaped pancakes made from fermented rice flour batter. Crispy and lacy on the edges, soft and spongy in the middle. Egg hoppers feature a soft-cooked egg cracked into the center during cooking.",
+        "origin_story": "An ancient Sri Lankan breakfast staple dating back centuries, using fermented rice flour and coconut milk. The unique bowl shape comes from swirling the batter in a small wok-like pan. Each family has their own fermentation secrets passed down through generations.",
+        "where_to_find": "Green Cabin (rumored to have the best hoppers in Colombo). Podi kade (small street shops) throughout the city serve fresh hoppers for LKR 150-300 (USD 0.50-1.00). Best eaten for breakfast or dinner, paired with lunu miris (spicy onion-chili paste) and coconut sambol."
+      },
+      {
+        "name": "Kottu Roti",
+        "description": "Chopped roti stir-fried on a hot griddle with vegetables, egg, and choice of chicken, beef, or cheese. The rhythmic metallic clanging of blades chopping the roti is an iconic street food sound across Sri Lanka.",
+        "origin_story": "Created as a way to use leftover roti, kottu evolved into a beloved national dish. The theatrical preparation - chefs rapidly chopping ingredients with metal blades creating a percussion-like rhythm - became part of the experience. Each chef has a unique chopping pattern.",
+        "where_to_find": "Hotel de New Pilawoos (Pilawoos) is considered THE iconic place for kottu in Colombo - a no-frills restaurant frequented by locals. Remember: kottu is strictly a dinner-time dish, only available after 5 PM. The sound of kottu being made draws crowds of hungry diners."
+      },
+      {
+        "name": "String Hoppers (Idiyappam)",
+        "description": "Delicate rice noodle cakes made by pressing rice flour dough through a mold to create thin noodles, then steamed into circular patties. Light and airy texture.",
+        "origin_story": "A Tamil-influenced dish that became a Sri Lankan breakfast staple. The art of creating perfectly thin, even strands requires skill and practice. Traditionally made fresh each morning by hand.",
+        "where_to_find": "Podi kade (street shops) serve fresh string hoppers for breakfast with coconut sambol and light dhal curry. Found throughout Colombo's neighborhoods, especially in Pettah and near Galle Face."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ceylon Tea",
+        "description": "World-renowned black tea grown in Sri Lanka's hill country. Ceylon tea is characterized by altitude - low-grown (full-bodied), mid-grown (balanced), or high-grown (delicate and aromatic). The six famous regions are Galle, Ratnapura, Kandy, Nuwara Eliya, Dimbula, and Uva.",
+        "how_locals_drink_it": "Tea is mandatory at breakfast - Sri Lankans start the day with tea, then have another with breakfast. Afternoon tea time (inherited from British colonial era) is still observed - families gather for tea and biscuits around 3-4 PM. Served strong, with milk and sugar. On festive occasions like New Year, tea is accompanied by traditional sweets like Kevum, Kokis, and Aluwa."
+      },
+      {
+        "name": "King Coconut Water (Thambili)",
+        "description": "Juice from orange king coconuts (unique to Sri Lanka), naturally sweet and rich in electrolytes. More orange in color and sweeter than regular coconut water.",
+        "how_locals_drink_it": "Drunk fresh from roadside vendors who chop the top off with a machete and add a straw. Consumed throughout the day to cool down in tropical heat. Considered healthier and more refreshing than regular coconut water."
+      }
+    ],
+    "food_culture_notes": [
+      "Sri Lankan cuisine is characterized by bold spices - cinnamon, cardamom, cloves, curry leaves, and chillies dominate",
+      "Rice and curry is the foundation of Sri Lankan meals - rice surrounded by multiple curry dishes, sambols, and papadums",
+      "Pettah Market is the epicenter of Colombo food culture - a sensory overload of spice vendors, street food stalls, and fresh produce",
+      "Galle Face Green becomes a street food paradise at sunset (5 PM onwards) with vendors selling isso wade (shrimp fritters), greasy snacks, grilled chicken, and pickled wood apples",
+      "Podi kade (small street shops) are the authentic eating experience - run-down no-name joints with window displays of pastries, serving hoppers, string hoppers, and kottu at rock-bottom prices",
+      "90% of tea is still produced using traditional hand-picking methods, though modern CTC techniques were introduced in the 1990s",
+      "Street food culture is the main attraction: 78.347% of 2024 travelers came specifically to experience local street food"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Jami Ul-Alfar Mosque (Red Mosque) - candy-striped red and white mosque in Pettah, built 1909",
+      "Galle Face Green - 5-hectare oceanside urban park stretching 500m along the coast, used for kite flying, cricket, and evening street food",
+      "Khan Clock Tower - tall monument marking the entrance to Pettah Market",
+      "Pettah Market - one of Sri Lanka's oldest and busiest markets with colonial-era architecture",
+      "Galle Face Hotel - historic colonial hotel overlooking the ocean (rugby's first match in Ceylon played at Galle Face Green in 1879)"
+    ],
+    "atmosphere": [
+      "Chaotic energy of Pettah Market - vendors calling out, tuk-tuks weaving through crowds, spice aromas",
+      "Rhythmic clanging of kottu chefs chopping roti on hot griddles",
+      "Sunset gatherings at Galle Face Green - families, couples, kite flyers, and food vendors",
+      "Tuk-tuks (auto-rickshaws) everywhere in bright colors with decorative details",
+      "Fresh seafood being grilled on beach-side grills",
+      "Tea culture - families gathering for afternoon tea with traditional sweets",
+      "Tropical heat and monsoon humidity, palm trees swaying in ocean breeze"
+    ],
+    "colors": [
+      "Red and white candy stripes of Jami Ul-Alfar Mosque",
+      "Bright spice piles at Pettah Market - turmeric yellow, red chili, green cardamom, brown cinnamon",
+      "Ocean blues and greens of Galle Face waterfront",
+      "Colorful tuk-tuks - yellow, green, red, decorated with patterns",
+      "Golden-brown hoppers and kottu being cooked",
+      "Vibrant tropical greens of palm trees and monsoon vegetation"
+    ],
+    "unique_modern": [
+      "Pettah Floating Markets - 92 trade stalls on boats at Beira Lake, selling local produce and handicrafts",
+      "Sea Street gold market - hundreds of jewelry shops in a single street where all of Sri Lanka comes to buy gold",
+      "Kite flying tradition at Galle Face Green every evening",
+      "Royal-Thomian cricket match tradition dating to 1879 (first played at Galle Face)",
+      "Colonial history: Dutch laid out Galle Face Green for cannon fire lines against Portuguese, later became promenade for ladies in 1856",
+      "Tea tourism: visitors can tour plantations, meet pickers, see traditional hand-processing (withering, rolling, drying)",
+      "Historical quirk: Kayman's Gate named because Dutch stocked crocodiles in Beira Lake to prevent slave escapes"
+    ]
+  },
+  "wikipedia_search_term": "Colombo",
+  "keywords_for_image": [
+    "Colombo Pettah Market",
+    "Jami Ul-Alfar Red Mosque",
+    "Sri Lankan hoppers egg",
+    "Galle Face Green sunset",
+    "kottu roti street food",
+    "Ceylon tea plantation",
+    "Colombo tuk-tuk",
+    "Sri Lanka spices market",
+    "string hoppers idiyappam",
+    "Galle Face ocean promenade"
+  ],
+  "coordinates": {
+    "lat": 6.9271,
+    "lng": 79.8612
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Colombo+🇱🇰/@6.9271,79.8612,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombo"
+  },
+  "location_id": 148
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Split",
+  "country": "Croatia",
+  "fun_fact": "Fun fact: Split's most traditional cooking method, peka, involves burying a heavy iron dish under hot coals for up to 4 hours - and locals say the best peka is still cooked the old way in fireplaces, not modern ovens, giving the meat a distinctive smoky flavor impossible to replicate.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pašticada",
+        "description": "Slow-cooked beef in a rich, sweet-savory sauce made with prošek (sweet wine), prunes, nutmeg, and onions. Usually served with homemade gnocchi.",
+        "origin_story": "Dalmatian culinary magic that takes two days to prepare - the beef marinates overnight, then simmers for hours until fork-tender. Each family guards their own secret recipe passed down through generations. It's the dish that defines Dalmatian sophistication.",
+        "where_to_find": "Konoba Hvaranin (traditional preparation, cozy family atmosphere), Mala Kate (huge portions at local prices), Šug Restaurant (modern interpretation, Michelin Bib Gourmand)"
+      },
+      {
+        "name": "Peka (Octopus, Veal, or Lamb)",
+        "description": "Meat and vegetables slow-cooked under a bell-shaped iron lid buried in hot coals for 3-4 hours. The meat becomes incredibly tender while potatoes absorb all the juices.",
+        "origin_story": "A traditional Dalmatian method dating back centuries when shepherds and fishermen cooked outdoors. The peka (iron dome) creates a sealed environment where meat steams in its own juices. Octopus peka is the coastal specialty, while inland areas favor veal or lamb.",
+        "where_to_find": "Must be ordered 24 hours in advance at traditional konobas (taverns) throughout Split"
+      },
+      {
+        "name": "Crni Rižot (Black Risotto)",
+        "description": "Creamy risotto made with cuttlefish or squid and their ink, giving it a dramatic black color and briny, oceanic flavor.",
+        "origin_story": "A Dalmatian coast classic that showcases the Adriatic's cuttlefish. The ink not only colors the dish but adds a subtle seafood sweetness. It's available at almost every restaurant in Split - finding bad black risotto is actually hard.",
+        "where_to_find": "Available throughout Split, particularly good at Konoba Fetivi (Michelin-recognized), Villa Spiza (artfully prepared)"
+      },
+      {
+        "name": "Buzara (Mussels or Scampi)",
+        "description": "Adriatic seafood cooked in olive oil, white wine, garlic, and fresh herbs. Served 'na bijelo' (white sauce) or 'na crveno' (red sauce with tomato).",
+        "origin_story": "A traditional Dalmatian cooking method that lets fresh seafood shine. The aromatic sauce is perfect for soaking up with crusty bread. Using same-day caught Adriatic shellfish makes all the difference.",
+        "where_to_find": "Konoba Fetivi, coastal restaurants along Split's harbor, Villa Spiza"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Prošek",
+        "description": "Traditional Dalmatian dessert wine made from dried grapes, sweet and aromatic with notes of dried fruit and honey.",
+        "how_locals_drink_it": "Served after meals with dessert or cheese. Used in cooking (especially pašticada). Locals treasure family recipes passed down for generations."
+      },
+      {
+        "name": "Rakija",
+        "description": "Croatian fruit brandy, often made from grapes (loza), plums, or figs. Clear, strong (40%+ alcohol), and traditional.",
+        "how_locals_drink_it": "The ultimate digestive, drunk after heavy meals. Locals often make their own, and offering homemade rakija is a sign of hospitality. Served room temperature in small glasses."
+      }
+    ],
+    "food_culture_notes": [
+      "Marenda (Croatian soul food brunch) is served at konohas from 10:30am to 2pm - traditional local dishes at their most authentic",
+      "Dinner doesn't start before 7-8pm, even later in summer when it's too hot to eat earlier",
+      "Reservations are essential at popular spots like Konoba Fetivi - locals book days in advance",
+      "Fresh grilled fish is always served with blitva (boiled potatoes and swiss chard) - it's the mandatory Dalmatian side dish"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Diocletian's Palace",
+      "Riva waterfront promenade",
+      "Marjan Hill",
+      "Cathedral of Saint Domnius"
+    ],
+    "atmosphere": [
+      "ancient Roman ruins",
+      "marble-paved streets",
+      "palm tree-lined waterfront",
+      "Adriatic sunset views"
+    ],
+    "colors": [
+      "Adriatic turquoise blue",
+      "white Dalmatian stone",
+      "terracotta rooftops",
+      "Mediterranean sunset orange"
+    ],
+    "unique_modern": [
+      "palace courtyard restaurants",
+      "marina fine dining",
+      "rooftop bars in Roman walls",
+      "modern Dalmatian fusion"
+    ]
+  },
+  "wikipedia_search_term": "Split,_Croatia",
+  "keywords_for_image": [
+    "Diocletian's Palace",
+    "Dalmatian cuisine",
+    "black risotto",
+    "Adriatic Sea",
+    "pašticada"
+  ],
+  "coordinates": {
+    "lat": 43.5081,
+    "lng": 16.4402
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Split+🇭🇷/@43.5081,16.4402,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Split,_Croatia"
+  },
+  "location_id": 277
+}

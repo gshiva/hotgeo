@@ -1,0 +1,95 @@
+{
+  "name": "New York",
+  "country": "USA",
+  "fun_fact": "Fun fact: Katz's Delicatessen has been serving pastrami since 1888 - over 135 years - and still hangs the iconic 'Send A Salami To Your Boy In The Army' sign from WWII when they shipped meat to soldiers overseas!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pastrami on Rye",
+        "description": "Hand-cut pastrami piled high on rye bread with spicy mustard",
+        "origin_story": "Brought by Romanian Jewish immigrants in the 1880s, pastrami became NYC's deli icon",
+        "where_to_find": "Katz's Delicatessen (since 1888), 2nd Avenue Deli"
+      },
+      {
+        "name": "New York-Style Pizza",
+        "description": "Large thin foldable slices with hand-tossed crust, simple tomato sauce, gooey mozzarella",
+        "origin_story": "First US pizzeria opened in Little Italy by Gennaro Lombardi in 1905",
+        "where_to_find": "Lombardi's, Di Fara, Joe's Pizza, corner slice shops"
+      },
+      {
+        "name": "Bagel with Lox",
+        "description": "Dense chewy bagel with cream cheese and smoked salmon",
+        "origin_story": "Polish Jewish immigrants brought bagels to NYC in the late 1800s",
+        "where_to_find": "Russ & Daughters, Absolute Bagels, Ess-a-Bagel"
+      },
+      {
+        "name": "Dirty Water Hot Dog",
+        "description": "Street cart dog with sauerkraut and spicy mustard",
+        "origin_story": "NYC street vendor tradition since the 1860s",
+        "where_to_find": "Street carts throughout Manhattan, especially near Central Park"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Egg Cream",
+        "description": "Chocolate syrup, milk, and seltzer - no egg, no cream",
+        "how_locals_drink_it": "Classic soda fountain drink at Jewish delis"
+      },
+      {
+        "name": "Manhattan Cocktail",
+        "description": "Whiskey, sweet vermouth, bitters - invented in NYC",
+        "how_locals_drink_it": "At classic cocktail bars"
+      }
+    ],
+    "food_culture_notes": [
+      "Dollar slice pizza is a NYC institution - $1 for a huge slice",
+      "Black and white cookies are NYC bakery staples",
+      "Halal cart food (chicken over rice) became iconic street food",
+      "Frankel's pastrami, egg and cheese on challah made NYT's '57 sandwiches that define NYC'"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Empire State Building",
+      "Statue of Liberty",
+      "Brooklyn Bridge",
+      "Times Square"
+    ],
+    "atmosphere": [
+      "yellow taxis",
+      "steam from street vents",
+      "neon signs",
+      "crowded sidewalks"
+    ],
+    "colors": [
+      "yellow taxi",
+      "brick red",
+      "steel gray",
+      "neon lights"
+    ],
+    "unique_modern": [
+      "food carts on every corner",
+      "deli counters",
+      "rooftop bars"
+    ]
+  },
+  "wikipedia_search_term": "New_York_City",
+  "keywords_for_image": [
+    "pastrami sandwich",
+    "pizza slice",
+    "bagel with lox",
+    "Empire State Building",
+    "yellow taxi",
+    "deli counter",
+    "street food cart"
+  ],
+  "coordinates": {
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/New+York+🇺🇸/@40.7128,-74.006,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "location_id": 11
+}

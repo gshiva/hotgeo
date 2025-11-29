@@ -1,0 +1,46 @@
+{
+  "name": "São Paulo",
+  "country": "🇧🇷",
+  "coordinates": {
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/São+Paulo+🇧🇷/@-23.5505,-46.6333,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/São_Paulo"
+  },
+  "fun_fact": "Fun fact: São Paulo awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local São Paulo cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of São Paulo"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "São Paulo landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 22
+}

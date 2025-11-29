@@ -1,0 +1,108 @@
+{
+  "name": "Cape Town",
+  "country": "South Africa",
+  "fun_fact": "Fun fact: Cape Malay cuisine traces back to the 17th century when slaves from Indonesia, Malaysia, and Southeast Asia were brought to the Cape by Dutch colonists. Their culinary traditions created a unique fusion cuisine that's now central to Cape Town's identity!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bobotie",
+        "description": "The heart and soul of Cape Malay cuisine - savory and sweet spiced minced meat enriched with dried fruits (raisins or apricots), topped with delicate egg custard. Aromatic blend of turmeric, coriander, and bay leaves with sweet-savory balance.",
+        "origin_story": "Arguably a contender for South Africa's national dish, bobotie represents the fusion of Southeast Asian and African influences brought by slaves in the 1600s. The blend of spices and dried fruits creates the distinctive Cape Malay balance of sweet, savory, and tangy flavors.",
+        "where_to_find": "Biesmiellah (family-run for 40+ years in Bo-Kaap), Bo-Kaap Kombuis (traditional Cape Malay restaurant with cooking classes), Gold Restaurant in Green Point (immersive dining experience), The Africa Café in Heritage Square (pan-African tasting menu). Served with sambal and rice."
+      },
+      {
+        "name": "Koesisters (not Koeksisters)",
+        "description": "Gently spiced doughnuts tossed in toasted coconut with notes of cardamom, cinnamon, aniseed, and naartjie (tangerine) peel - distinct from the syrupy plaited koeksisters",
+        "origin_story": "These Cape Malay koesisters are different from the better-known Afrikaner koeksisters (syrupy plaited dough). The spices reflect the Indonesian and Malaysian heritage of Cape Malay culture.",
+        "where_to_find": "Charly's Bakery in District Six (beloved for creative takes on Cape Malay koeksister), Bo-Kaap Kombuis, Eastern Food Bazaar"
+      },
+      {
+        "name": "Bredie",
+        "description": "Slow-cooked stew that showcases Cape Malay spice blending, often made with tender lamb and aromatic spices",
+        "origin_story": "Traditional Cape Malay comfort food representing the slow-cooking techniques brought from Southeast Asia and adapted to local ingredients",
+        "where_to_find": "Biesmiellah (famous for tender lamb bredie), Bo-Kaap Kombuis"
+      },
+      {
+        "name": "Cape Malay Curry",
+        "description": "Fragrant chicken or lamb curry with cinnamon, cloves, turmeric, coconut milk, and tamarind creating layers of sweet, spicy, and tangy flavors",
+        "origin_story": "Reflects the Malaysian and Indonesian spice trade heritage, using traditional spices like cloves, cardamom, and coriander bought from decades-old Atlas Trading store in Bo-Kaap",
+        "where_to_find": "Bo-Kaap Kombuis (offers cooking classes), Biesmiellah, The Africa Café, Gold Restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rooibos Tea",
+        "description": "South African red bush tea, naturally caffeine-free with slightly sweet, earthy flavor",
+        "how_locals_drink_it": "Often enjoyed with Cape Malay sweets or as a palate cleanser between spicy dishes"
+      },
+      {
+        "name": "South African Wine",
+        "description": "Cape Town is gateway to world-renowned wine regions",
+        "how_locals_drink_it": "Local wines pair beautifully with Cape Malay cuisine's complex spice profiles"
+      }
+    ],
+    "food_culture_notes": [
+      "Cape Malay cuisine evolved from 17th-century slaves brought from Indonesia, Malaysia, India, and East Africa",
+      "Characterized by delicate balance of sweet, savory, and tangy notes with fiery chilies, sweet dried fruits, and aromatic spices",
+      "Key spices: cinnamon, cloves, turmeric, cardamom, coriander, with tamarind's tanginess and coconut milk's creaminess",
+      "Bo-Kaap neighborhood is the heart of Cape Malay culture, especially among Cape Town's Muslim population",
+      "Atlas Trading store in Bo-Kaap has sold spices for decades - fragrance of cloves, cardamom, coriander wafts from windows",
+      "Food is seen as a way to tell stories and forge connections, not just sustenance",
+      "Strong sense of community - culinary scene is about coming together to celebrate diverse cultures",
+      "Includes other Cape foods like Gatsby (submarine sandwich), sosaties (kebabs), samoosas, bunny chows"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Table Mountain - iconic 1,085m flat-topped mountain (one of New 7 Wonders of Nature)",
+      "Bo-Kaap's brightly colored houses on cobblestoned streets below Signal Hill",
+      "Auwal Mosque (1794) - one of South Africa's oldest mosques",
+      "V&A Waterfront",
+      "Bo-Kaap Museum in mid-18th century home showcasing Islamic culture",
+      "Robben Island visible from Table Mountain"
+    ],
+    "atmosphere": [
+      "Vibrant Bo-Kaap neighborhood with multicultural heritage (56.9% Muslim)",
+      "Fragrant spice aromas wafting through Bo-Kaap streets",
+      "Largest concentration of pre-1850 architecture in South Africa",
+      "Oldest surviving residential neighborhood in Cape Town (dates to 18th century)",
+      "Community-centered food culture with sharing and celebration",
+      "Mix of Asian, African, and European cultural influences"
+    ],
+    "colors": [
+      "Bright candy colors of Bo-Kaap houses (pink, yellow, green, blue, purple)",
+      "Warm golden-brown of bobotie with turmeric-yellow hues",
+      "Rich browns and oranges of spices in markets",
+      "Deep blue of Table Bay and Atlantic Ocean",
+      "White tablecloth of clouds on Table Mountain"
+    ],
+    "unique_modern": [
+      "Bo-Kaap houses painted in celebration of freedom after residents could buy (not rent) homes",
+      "Mix of historic 18th-century architecture with modern restaurant scene",
+      "Cooking classes at Bo-Kaap Kombuis where visitors learn traditional recipes",
+      "Pan-African fusion restaurants showcasing Cape Malay alongside other African cuisines",
+      "Table Mountain Aerial Cableway (operating since 1929, carried 30+ million passengers)"
+    ]
+  },
+  "wikipedia_search_term": "Cape_Town",
+  "keywords_for_image": [
+    "bobotie egg custard",
+    "Cape Malay cuisine",
+    "Bo-Kaap colorful houses",
+    "Table Mountain",
+    "koesisters coconut",
+    "South African spices",
+    "bredie stew",
+    "Cape Town waterfront",
+    "Islamic heritage"
+  ],
+  "coordinates": {
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cape+Town+🇿🇦/@-33.9249,18.4241,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_Town"
+  },
+  "location_id": 157
+}

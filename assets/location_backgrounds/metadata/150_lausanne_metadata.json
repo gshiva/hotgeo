@@ -1,0 +1,117 @@
+{
+  "name": "Lausanne",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Lausanne is the Olympic Capital of the world! In 1915, Baron Pierre de Coubertin chose Lausanne as the headquarters for the International Olympic Committee (IOC), and in 1994 it was officially promoted to 'Olympic Capital.' The Olympic Museum houses over 10,000 artifacts - the world's largest archive of Olympic Games memorabilia - attracting 250,000+ visitors annually with panoramic views of Lake Geneva and the Alps.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cheese Fondue",
+        "description": "The quintessential Swiss dish - a communal pot of melted cheese (typically Gruyère and Emmental blend) mixed with white wine and kirsch (cherry brandy), kept bubbling over a small flame. Diners dip cubes of crusty bread on long forks, creating strings of melted cheese.",
+        "origin_story": "Fondue originated in the Swiss Alps as a way to use aged cheese and stale bread during long winters when fresh food was scarce. The word 'fondue' comes from French 'fondre' (to melt). It became Switzerland's national dish and symbol of Swiss communal dining tradition. Each region has slightly different cheese blends and secret ratios.",
+        "where_to_find": "Le Chalet Suisse (serves typical Swiss cuisine in alpine setting - fondue and raclette as much as you like), Café du Grütli (in old town, just off town hall square with famous glockenspiel), Café Romand (historic bistro since 1951 offering 10 different fondue varieties), and TOM Café at the Olympic Museum (all-you-can-eat buffet brunch with panoramic lake views)."
+      },
+      {
+        "name": "Raclette",
+        "description": "A whole wheel of raclette cheese is heated and scraped onto plates, served over boiled potatoes with small gherkins, pickled onions, dried meats, ham, and sausages. The melted cheese creates a stretchy, gooey blanket over everything.",
+        "origin_story": "Raclette comes from the French word 'racler' (to scrape). Alpine shepherds would place cheese near the fire and scrape the melted part onto bread. This rustic mountain meal evolved into a beloved Swiss tradition. Modern raclette grills allow each diner to melt their own cheese portions.",
+        "where_to_find": "Le Chalet Suisse (all-you-can-eat raclette), Historic Pub (established 1780 - oldest pub in Lausanne, great for raclette), Café du Grütli. Raclette battles and competitions are held during Lausanne Á Table events throughout the year."
+      },
+      {
+        "name": "Papet Vaudois",
+        "description": "A hearty leek and potato stew, unique to the Vaud canton (where Lausanne is located). Creamy, comforting, and often served with Saucisse aux choux (cabbage sausage).",
+        "origin_story": "A traditional Vaudois peasant dish that used readily available winter vegetables - leeks and potatoes. This rustic comfort food has become a symbol of Lausanne/Vaud regional identity, distinguishing it from German-Swiss or Ticino cuisine.",
+        "where_to_find": "Traditional Lausanne bistros and brasseries, especially Café Romand which specializes in regional Vaudois cuisine."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swiss White Wine (Chasselas)",
+        "description": "The Lake Geneva region produces excellent white wines, particularly from the Chasselas grape variety. Crisp, mineral, and perfect with cheese dishes. The Lavaux vineyard terraces (UNESCO site) overlook Lake Geneva near Lausanne.",
+        "how_locals_drink_it": "Served chilled with fondue and raclette - the acidity cuts through rich cheese. Enjoyed at lakeside cafes and wine bars. Lausanne Á Table hosts wine auctions, tastings, and vineyard visits throughout the year. Locals are proud of Vaud's wine heritage."
+      },
+      {
+        "name": "Kirsch (Cherry Brandy)",
+        "description": "A clear fruit brandy distilled from cherries. Strong alcohol (40%+) with intense cherry flavor. Used in fondue preparation and drunk as a digestif.",
+        "how_locals_drink_it": "Small glasses served at room temperature after meals to aid digestion. Often consumed during fondue meals - there's a Swiss tradition of taking a 'coup du milieu' (a shot of kirsch in the middle of the fondue to help digest the cheese)."
+      },
+      {
+        "name": "Hot Chocolate",
+        "description": "Rich, thick Swiss hot chocolate made with real melted chocolate, not powder. Creamy and decadent, often topped with whipped cream (chantilly).",
+        "how_locals_drink_it": "Enjoyed at cafes during cold months, especially after winter activities. Switzerland's chocolate heritage (Cailler, Nestlé) makes hot chocolate a point of pride. Served in ceramic cups with biscuits or pastries."
+      }
+    ],
+    "food_culture_notes": [
+      "Swiss dining emphasizes quality ingredients and Alpine traditions - cheese, potatoes, cured meats are staples",
+      "Communal eating is central to Swiss culture - fondue and raclette are social meals where everyone shares from the same pot or grill",
+      "Swiss German, French, and Italian influences create distinct regional cuisines. Lausanne is in French-speaking Switzerland (Suisse Romande), so cuisine leans French",
+      "Chocolate culture runs deep - Switzerland consumes 11kg of chocolate per person annually (world's highest). Tours of chocolate factories are popular tourist activities",
+      "Lausanne Á Table organizes food events year-round: pop-ups, wine auctions, farm visits, raclette battles promoting local Vaud products",
+      "Precise timing is Swiss - meals are served punctually, reservations are honored exactly, and restaurants often close between lunch (11:30 AM - 2 PM) and dinner (6 PM - 10 PM)",
+      "Sunday brunches are a tradition - families gather for elaborate all-you-can-eat buffets at hotels and restaurants like TOM Café",
+      "High prices reflect Swiss wages and quality - expect fondue/raclette to cost CHF 30-40 per person, fine dining CHF 100+"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Olympic Museum - 3,000 m² of exhibits, 150 screens, Olympic Park sculpture garden, panoramic restaurant overlooking Lake Geneva and Alps",
+      "Lausanne Cathedral (Gothic architecture) - dominates old town skyline",
+      "Lake Geneva (Lac Léman) waterfront - Europe's largest Alpine lake",
+      "Lavaux vineyard terraces (UNESCO World Heritage) - terraced vineyards cascading down to the lake",
+      "Ouchy waterfront promenade - lakeside walking path with flower gardens and Belle Époque architecture",
+      "IOC headquarters in Vidy district - modern Olympic administrative complex"
+    ],
+    "atmosphere": [
+      "Alpine elegance meets lakeside serenity - mountains reflected in Lake Geneva",
+      "Multilingual environment - French primarily, but German, Italian, English widely spoken",
+      "Olympic spirit everywhere - Olympic rings, museum visitors, international sports federations headquarters",
+      "Swiss precision and cleanliness - spotless streets, trains arriving exactly on time",
+      "Chalet-style restaurants with wood interiors and alpine decor",
+      "Outdoor cafes with lake views and Alpine backdrop",
+      "Students from University of Lausanne and EPFL creating youthful energy",
+      "Seasonal magic: winter snow on Alps, summer swimming in lake, autumn vineyard colors"
+    ],
+    "colors": [
+      "Azure blue of Lake Geneva",
+      "Snow-white Alps in the background",
+      "Golden-brown melted raclette and fondue cheese",
+      "Rich brown Swiss chocolate",
+      "Deep green vineyard terraces in summer, gold and red in autumn",
+      "Gray stone Gothic cathedral and old town buildings",
+      "Olympic rings colors (blue, yellow, black, green, red) throughout the city"
+    ],
+    "unique_modern": [
+      "Home to 55+ international sports federations beyond the IOC - truly the global capital of sport",
+      "Olympic Museum opened 1993, renovated with modern interactive exhibits and 150 screens",
+      "Lausanne metro system (M2) is one of the steepest automated metros in the world",
+      "Bô Noël winter festival (Nov 20 - Dec 31, 2025) transforms the city with lights, markets, and holiday magic",
+      "EPFL (École Polytechnique Fédérale de Lausanne) - world-class technical university driving innovation",
+      "Rolex Learning Center at EPFL - stunning wave-shaped architecture, one of Switzerland's most photographed buildings",
+      "Swiss watchmaking heritage - precision timekeeping symbolized by Olympic Clock monument",
+      "Collection de l'Art Brut - unique museum of outsider art",
+      "Four-language culture (French, German, Italian, Romansh) creates cosmopolitan atmosphere",
+      "Extremely high quality of life but very expensive (Switzerland has world's highest prices)"
+    ]
+  },
+  "wikipedia_search_term": "Lausanne",
+  "keywords_for_image": [
+    "Lausanne Olympic Museum",
+    "Lake Geneva Alps view",
+    "Swiss cheese fondue",
+    "Lavaux vineyards terraces",
+    "Lausanne Cathedral Gothic",
+    "raclette melted cheese",
+    "Ouchy waterfront Switzerland",
+    "Swiss chocolate",
+    "Olympic rings Lausanne",
+    "Lake Geneva mountains"
+  ],
+  "coordinates": {
+    "lat": 46.5197,
+    "lng": 6.6323
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lausanne+🇨🇭/@46.5197,6.6323,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lausanne"
+  },
+  "location_id": 150
+}

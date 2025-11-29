@@ -1,0 +1,119 @@
+{
+  "name": "Freiburg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Freiburg is Germany's sunniest city and gateway to the Black Forest! The medieval Bächle (little streams) running through the streets were built in 1120 for firefighting, and according to legend, if you accidentally step in one, you'll marry a Freiburg native. The city's stunning Münster cathedral has a tower described in 1869 as 'the most beautiful tower on earth'!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Lange Rote (Long Red Sausage)",
+        "description": "A 35cm-long, bright red, skinless sausage unique to Freiburg. Best served broiled in a bun with plenty of mustard. The vibrant red color and impressive length make it instantly recognizable at the Münstermarkt.",
+        "origin_story": "A specialty of Freiburg's famous Münstermarkt (Cathedral Market), the Lange Rote has been a local favorite for generations. The market dates back centuries and operates in the shadow of the magnificent Freiburg Münster cathedral.",
+        "where_to_find": "Münsterplatz Farmer's Market (Münstermarkt) - look for the line of Wurststands all offering traditional Lange Rote. The market operates on the square in front of Freiburg Münster cathedral."
+      },
+      {
+        "name": "Black Forest Ham (Schwarzwälder Schinken)",
+        "description": "The real authentic Black Forest ham undergoes a three-month maturation process. Cured in salt for two weeks, then cold-smoked for several weeks, becoming almost black on the outside. It's Europe's best-selling smoked ham.",
+        "origin_story": "Thanks to Freiburg's proximity to the Black Forest, this traditional smoked ham has been produced for centuries using time-honored techniques. The long smoking process over fir wood gives it the distinctive dark exterior and rich flavor.",
+        "where_to_find": "Traditional restaurants like Zum Roten Bären (Germany's oldest inn, established 1120) and Oberkirchs Weinstube. Also available at the Münstermarkt from local producers."
+      },
+      {
+        "name": "Maultaschen",
+        "description": "A Swabian specialty from the Baden-Württemberg region - think German ravioli meets Polish pierogies. Flour dough wrapped around spinach, vegetables, cheese, and/or meat. Can be eaten in soup or as a main course.",
+        "origin_story": "This beloved dish originated in the Swabian region which includes Freiburg. The name roughly translates to 'mouth pockets' and legend says monks invented them to hide meat during Lent!",
+        "where_to_find": "Oma's Küche (Grandma's Kitchen) is a local favorite for well-prepared Maultaschen. Also served at traditional restaurants like Tacheles and Großer Meyerhof."
+      },
+      {
+        "name": "Flammkuchen",
+        "description": "A thin-crusted pizza-like dish topped with cream (crème fraîche), onions, and bacon. Crispy, savory, and absolutely delicious - a local specialty of the Alsace-Baden region.",
+        "origin_story": "This dish comes from the border region between Germany and France (Alsace). Freiburg's proximity to France means it's a staple here. Traditionally baked in wood-fired ovens.",
+        "where_to_find": "Waldrestaurant St. Valentin (7km from Freiburg) offers Alsace-style Flammekueche with beautiful mountain views and a beer garden."
+      },
+      {
+        "name": "Schwarzwälder Kirschtorte (Black Forest Cake)",
+        "description": "The world-famous layered chocolate cake with whipped cream and cherries. To be authentic, it MUST be made with Kirschwasser (a clear cherry spirit from the Black Forest).",
+        "origin_story": "Named after the Black Forest region's specialty spirit, Kirschwasser. This cake became internationally famous but the authentic version must use real Kirschwasser, not cherry flavoring.",
+        "where_to_find": "Available at traditional cafés and restaurants throughout Freiburg. Best enjoyed at establishments emphasizing Black Forest traditions."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kirschwasser",
+        "description": "A clear, strong fruit brandy made from sour cherries - the Black Forest's signature spirit. It's what makes Black Forest cake authentic and is beloved throughout the region.",
+        "how_locals_drink_it": "Served as a digestif after hearty Black Forest meals. Also used in cooking and baking, especially in the famous Schwarzwälder Kirschtorte. Locals sip it neat in small glasses."
+      },
+      {
+        "name": "Baden Wine",
+        "description": "Freiburg sits in the Baden wine region, Germany's warmest and sunniest wine-growing area. The region produces excellent white wines (especially Müller-Thurgau and Grauburgunder) and light reds.",
+        "how_locals_drink_it": "Enjoyed at Weinstubes (wine taverns) like Oberkirchs Weinstube. Locals pair regional wines with traditional Black Forest cuisine. Wine culture is strong here thanks to the sunny climate and proximity to vineyards."
+      }
+    ],
+    "food_culture_notes": [
+      "Freiburg's Münstermarkt has operated continuously since the Middle Ages, making it one of Germany's most historic food markets",
+      "The city is gateway to the Black Forest, so traditional game meats (venison, wild boar) are popular",
+      "Freiburg has over 25,000 university students, creating a vibrant mix of traditional and modern dining",
+      "Zum Roten Bären (established 1120) is Germany's oldest continuously operating restaurant",
+      "The 900-year-old cellar at Tacheles restaurant now houses one of the city's most popular German restaurants, offering 24 schnitzel variations",
+      "Freiburg's proximity to France means Alsace-French influences blend with German Black Forest traditions",
+      "The city is known for sustainability - expect lots of local, seasonal ingredients and bike-friendly dining culture",
+      "Schneckensuppe (snail soup) is a traditional delicacy in the Black Forest and Baden area - rich, creamy, yellow, with pieces of escargot"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Freiburg Münster cathedral with its 116m tower (the most beautiful tower on earth)",
+      "Bächle - the small water channels running through medieval streets (15km total)",
+      "Münsterplatz with the colorful market and cathedral backdrop",
+      "Historisches Kaufhaus (Historical Merchants' Hall) from 1520",
+      "Medieval old town with cobblestone streets",
+      "Black Forest mountains visible from the city",
+      "Gothic gargoyles on the Münster (91 figures protecting from rainwater and demons)"
+    ],
+    "atmosphere": [
+      "Children pulling wooden Bächle boats through the water channels",
+      "Students dangling feet in the Bächle on sunny days",
+      "Sausage stands at the Münstermarkt with lines of locals",
+      "Outdoor terraces with views of Freiburg Münster",
+      "Beer gardens in the mountains surrounding the city",
+      "Cobblestone streets with medieval charm",
+      "Bike-friendly culture with cyclists everywhere"
+    ],
+    "colors": [
+      "Red Lange Rote sausages at market stands",
+      "Red sandstone of Freiburg Münster cathedral",
+      "Dark exterior of Black Forest ham",
+      "Green of surrounding Black Forest",
+      "Golden sunshine (Germany's sunniest city!)",
+      "Clear water flowing through the Bächle"
+    ],
+    "unique_modern": [
+      "Freiburg is a sustainability leader with green initiatives and bike culture",
+      "Wolfshöhle offers modern gastronomy blending Black Forest cuisine with contemporary techniques",
+      "New hawkerpreneurs experimenting with traditional recipes",
+      "The city survived WWII bombing - the Münster tower's lead anchors saved it",
+      "Albert-Ludwigs-University (founded 1457) brings 25,000+ students and modern energy",
+      "The Bächle legend about marrying locals keeps romance alive in the digital age"
+    ]
+  },
+  "wikipedia_search_term": "Freiburg_im_Breisgau",
+  "keywords_for_image": [
+    "Freiburg Münster cathedral",
+    "Bächle water channels Freiburg",
+    "Black Forest Germany",
+    "Lange Rote sausage",
+    "Münstermarkt Freiburg",
+    "medieval German city",
+    "Black Forest ham",
+    "Freiburg old town",
+    "Baden wine region",
+    "sunny German city"
+  ],
+  "coordinates": {
+    "lat": 47.999,
+    "lng": 7.8421
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Freiburg+🇩🇪/@47.999,7.8421,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau"
+  },
+  "location_id": 162
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Osaka",
+  "country": "Japan",
+  "fun_fact": "Fun fact: Osaka is called 'Tenka no Daidokoro' (Japan's Kitchen) and almost every household owns a takoyaki maker! The city developed a unique 'konamon' culture centered on flour-based street foods.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Takoyaki",
+        "description": "Crispy-on-the-outside, molten-on-the-inside octopus balls made from flour and egg batter with octopus chunks, pickled ginger, and green onion, topped with takoyaki sauce, mayo, aonori (green laver), and katsuobushi (dried bonito flakes)",
+        "origin_story": "The king of Osaka street food, takoyaki literally means 'grilled octopus.' Cooked in special takoyaki pans that mold the batter into perfect spheres, these generate absurdly long lines at Dotonbori stalls and have become emblematic of Osaka's street food scene.",
+        "where_to_find": "Takoyaki Wanaka (famous for perfectly crispy texture), Aizuya (one of the original vendors serving simple sauce-free version), Kukuru (known for large, chewy octopus pieces with melt-in-your-mouth batter). Found throughout Dotonbori and Tenjinbashi-suji Shopping Street. Typically 300-800 yen per serving (6-12 pieces)."
+      },
+      {
+        "name": "Okonomiyaki",
+        "description": "Savory pancake-like dish where shredded cabbage and ingredients like squid, prawn, octopus, or meat are mixed into flour-based batter and grilled, then topped with okonomiyaki sauce, mayo, aonori, and katsuobushi",
+        "origin_story": "The method of 'mixing flour and frying' was devised by Sen no Rikyu, a prominent tea master active in the 1500s. Osaka-style okonomiyaki mixes all ingredients together before cooking, unlike Hiroshima's layered style. Some restaurants let customers prepare it themselves on table hot plates.",
+        "where_to_find": "Kiji in Umeda (serves authentic, fluffy okonomiyaki), Ajinoya (humble joint rated highly by Michelin for savory Japanese pancakes). Found throughout Dotonbori and Shinsekai districts. Typically 800-1,500 yen depending on toppings."
+      },
+      {
+        "name": "Kushikatsu",
+        "description": "Deep-fried skewered meat, seafood, and vegetables served with a communal dipping sauce (strict no double-dipping rule!)",
+        "origin_story": "Part of Osaka's 'konamon' (flour-based) food culture that defines the city's cuisine. Especially popular in Shinsekai district.",
+        "where_to_find": "Shinsekai district is the kushikatsu capital. Tenjinbashi-suji Shopping Street (Japan's longest at 2.6 km) has many vendors."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Local Beer and Highballs",
+        "description": "Japanese beer and whisky highballs pair perfectly with Osaka's rich street food",
+        "how_locals_drink_it": "Enjoyed standing at street food stalls or sitting at outdoor tables along Dotonbori canal while watching the neon lights and crowds"
+      }
+    ],
+    "food_culture_notes": [
+      "Osaka is known as 'Japan's Kitchen' due to its exceptional culinary scene and affordable, delicious food",
+      "Konamon culture: dishes made with wheat flour are deeply rooted in daily life (takoyaki, okonomiyaki, kushikatsu)",
+      "Dotonbori is the most famous food district with neon lights, giant billboards (iconic Glico running man sign), and countless street vendors",
+      "Kuromon Ichiba Market offers fresh seafood and local produce",
+      "Tenjinbashi-suji is Japan's longest shopping street (2.6 km) with all Osaka gourmet foods gathered in one place",
+      "Osakans are proud of being 'the city with the friendliest and funniest people in Japan'",
+      "Kansai-ben dialect is lively and direct, often associated with comedy (many famous comedians hail from the region)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Osaka Castle - 1583 castle with ferro-concrete tower rebuilt in 1931, beautifully illuminated at night",
+      "Dotonbori canal with iconic Glico running man billboard and eccentric neon signboards",
+      "Tsutenkaku Tower in Shinsekai district",
+      "Cherry blossoms at Nishinomaru Garden (former western citadel of Osaka Castle)"
+    ],
+    "atmosphere": [
+      "Bustling nightlife and entertainment in Dotonbori's neon-lit streets",
+      "Street food vendors with long lines of loyal customers",
+      "Theater district heritage (Dotonbori was historically a theater district, birthplace of Bunraku puppet theater)",
+      "Lively, direct communication style with Kansai-ben dialect",
+      "Friendly, funny locals who are proud of their city and food culture"
+    ],
+    "colors": [
+      "Bright neon reds, yellows, and blues from Dotonbori signboards",
+      "White and gold of illuminated Osaka Castle at night",
+      "Golden-brown of crispy takoyaki and okonomiyaki",
+      "Pink cherry blossoms in spring at castle park"
+    ],
+    "unique_modern": [
+      "Giant 3D billboards and mechanical crab signs on Dotonbori buildings",
+      "Takoyaki pans in nearly every household",
+      "Interactive dining where customers cook okonomiyaki at table hot plates",
+      "Street food culture meets modern urban nightlife"
+    ]
+  },
+  "wikipedia_search_term": "Osaka",
+  "keywords_for_image": [
+    "takoyaki octopus balls",
+    "okonomiyaki savory pancake",
+    "Dotonbori neon lights",
+    "Glico running man",
+    "Osaka Castle illuminated",
+    "kushikatsu deep fried skewers",
+    "Japanese street food stalls",
+    "Kansai cuisine",
+    "konamon flour dishes"
+  ],
+  "coordinates": {
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Osaka+🇯🇵/@34.6937,135.5023,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osaka"
+  },
+  "location_id": 156
+}

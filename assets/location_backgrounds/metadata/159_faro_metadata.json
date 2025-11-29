@@ -1,0 +1,121 @@
+{
+  "name": "Faro",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: The cataplana isn't just a dish - it's a copper cooking vessel shaped like a clam that dates back to the Moorish era! Its tight seal locks in flavors, creating deeply aromatic stews that define Algarve cuisine.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cataplana de Marisco",
+        "description": "Seafood stew cooked in the signature copper cataplana vessel, featuring prawns, clams, mussels, and fish in aromatic broth with tomatoes, peppers, onions, garlic, and white wine",
+        "origin_story": "The cataplana is a symbol of the Algarve's rich culinary tapestry, tracing its origins to the Moorish era. The clam-shaped copper vessel's tight seal ensures all flavors and aromas are locked in. It has seamlessly integrated into the Algarve's gastronomic identity over centuries.",
+        "where_to_find": "Tasca do Ricky (ancestral Algarve recipes with standout seafood cataplana), Chefe Branco (classic Algarve comfort food with flavorful monkfish cataplana), Vila Adentro (18th-century azulejo factory with rare vegetarian cataplana option), Tertulia Algarvia (octopus cataplana). Most restaurants require minimum 2 people to order due to size."
+      },
+      {
+        "name": "Amêijoas à Bulhão Pato",
+        "description": "Fresh clams cooked in garlic, white wine, olive oil, and fresh coriander - simple but showcases the incredible quality of local shellfish",
+        "origin_story": "Named after Portuguese poet Bulhão Pato, this dish represents the Algarve's philosophy of letting pristine seafood shine with minimal but perfect seasoning",
+        "where_to_find": "Throughout Faro restaurants, especially seafood specialists near the Ria Formosa where clams are harvested daily"
+      },
+      {
+        "name": "Arroz de Marisco",
+        "description": "Rich seafood rice dish somewhere between soup and risotto, loaded with prawns, clams, mussels, and crab in tomato-saffron broth",
+        "origin_story": "Traditional Portuguese seafood rice that showcases the abundance of the Atlantic and Ria Formosa lagoon - a complete meal celebrating the sea",
+        "where_to_find": "Tasca do Ricky (standout razor clam rice), Adega Nova (enormous seafood portions near train station)"
+      },
+      {
+        "name": "Grilled Fresh Fish",
+        "description": "Wild Atlantic fish like sea bass, golden bream, or sardines simply grilled with olive oil, sea salt, and lemon",
+        "origin_story": "Faro's prime location between Atlantic Ocean and Ria Formosa lagoon provides daily catches. Over 200km of coastline means fishing has provided food and income as long as the area has been settled.",
+        "where_to_find": "Tasca do Ricky (perfectly grilled fresh fish), Chefe Branco (classic grilled fish), Adega Nova (simple preparations, enormous portions). Often priced by weight."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vinho Verde",
+        "description": "Slightly sparkling 'green wine' from northern Portugal - light, crisp, refreshing white wine",
+        "how_locals_drink_it": "Perfect pairing for seafood, especially on sunny terraces overlooking the marina or Ria Formosa"
+      },
+      {
+        "name": "Algarve Regional Wines",
+        "description": "Local wines from the Algarve region pair beautifully with seafood cataplanas",
+        "how_locals_drink_it": "Enjoyed at lunch (1-3pm, main meal) or dinner (starting 7-8pm, locals dine 8-9pm)"
+      },
+      {
+        "name": "Ginjinha",
+        "description": "Portuguese sour cherry liqueur served in chocolate cups",
+        "how_locals_drink_it": "As a digestif after seafood feasts"
+      }
+    ],
+    "food_culture_notes": [
+      "Cataplana variations: marisco (seafood), peixe (fish), peixe e marisco (fish & seafood), carne de porco com amêijoas (pork & clams)",
+      "Prime location between Atlantic Ocean and Ria Formosa provides incredible variety of fresh seafood daily",
+      "Wild Atlantic fish: cod, monkfish, sea bass, bream, sardines, anchovies",
+      "Fresh wild clams, mussels, oysters abound from the lagoon",
+      "Portuguese eat lunch 1-3pm (often main meal), dinner 7-8pm or later (locals 8-9pm)",
+      "Fresh fish priced by weight, sharing dishes is common and encouraged",
+      "Small plates (petiscos) are cornerstone: chouriço assado, bolinhos de bacalhau, pica-pau, salada de polvo",
+      "Caldeirada (traditional fish stew) showcases multiple fish types",
+      "Cenouras algarvias (Algarve carrots marinated in garlic) - regional specialty",
+      "Bread and olives often appear automatically (small charge applies)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Faro Cathedral (Sé de Faro) - Gothic, Renaissance, Baroque blend with panoramic tower views",
+      "Arco da Vila - neoclassical gateway commissioned by Bishop Francisco Gomes in early 19th century",
+      "Medieval Arco do Repouso gate where King Afonso III rested after conquering Faro in 1249",
+      "Roman and Moorish city walls with pentagonal Byzantine towers",
+      "Ria Formosa Natural Park - 18,400 hectares of tidal marshes, lagoons, barrier islands",
+      "Capela dos Ossos (Chapel of Bones) decorated with bones of 1,200 monks",
+      "Municipal Museum with huge Roman mosaic and emperor busts"
+    ],
+    "atmosphere": [
+      "Old Town (Cidade Velha) with cobbled streets, whitewashed buildings, orange-tree-lined squares",
+      "Ancient stone walls behind modern buzzing marina",
+      "Historic quarter partially enclosed by Roman/Moorish fortifications",
+      "Peaceful barrier island beaches reachable only by ferry",
+      "Sanctuary for migratory birds in Ria Formosa wetlands",
+      "Blend of Roman (Ossonoba), Moorish (8th century), and Portuguese (1249) heritage"
+    ],
+    "colors": [
+      "White-washed buildings of Cidade Velha",
+      "Terracotta rooftops of old town",
+      "Golden stone of ancient Roman/Moorish walls",
+      "Azure blues of Atlantic Ocean and Ria Formosa lagoon",
+      "Copper gleam of cataplana cooking vessels",
+      "Orange trees dotting the plazas",
+      "Pink and grey of fresh seafood at markets"
+    ],
+    "unique_modern": [
+      "Copper cataplana vessels displayed in restaurant windows",
+      "First book printed in Portugal created in Faro (1487) - tiny Gutenberg press museum",
+      "Mix of 2,000-year-old Roman ruins with modern restaurants",
+      "Neoclassical 19th-century gateway into medieval walled city",
+      "Ria Formosa as vital ecosystem and pristine beach access",
+      "Less-traveled eastern Algarve alternative to tourist-heavy western resorts",
+      "Ferry boats to secluded barrier islands",
+      "Gothic cathedral tower offering 360° views from old town to lagoon islands"
+    ]
+  },
+  "wikipedia_search_term": "Faro,_Portugal",
+  "keywords_for_image": [
+    "cataplana copper pot",
+    "Algarve seafood",
+    "Ria Formosa lagoon",
+    "Portuguese clams",
+    "Faro old town walls",
+    "azulejo tiles",
+    "grilled sardines",
+    "Portuguese fishing boat",
+    "Moorish architecture"
+  ],
+  "coordinates": {
+    "lat": 37.0194,
+    "lng": -7.9322
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Faro+🇵🇹/@37.0194,-7.9322,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faro,_Portugal"
+  },
+  "location_id": 159
+}

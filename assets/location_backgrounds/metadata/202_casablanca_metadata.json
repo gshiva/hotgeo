@@ -1,0 +1,93 @@
+{
+  "name": "Casablanca",
+  "country": "Morocco",
+  "fun_fact": "Fun fact: Despite the famous 1942 film, 'Casablanca' was never actually filmed in Morocco - it was shot entirely in Hollywood! But the city does have Rick's Café, built in 2004 as a replica of the movie's fictional bar.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tagine",
+        "description": "Slow-cooked stew of meat, vegetables, and spices in a conical clay pot",
+        "origin_story": "The cone-shaped lid returns condensation to keep food moist. Each region has signature versions - Casablanca favors fish tagine",
+        "where_to_find": "La Sqala, Le Rouget de l'Isle, traditional restaurants throughout the medina"
+      },
+      {
+        "name": "Couscous",
+        "description": "Steamed semolina grains served with vegetables, meat, and broth",
+        "origin_story": "The North African staple - traditionally served on Fridays after mosque. UNESCO Intangible Cultural Heritage",
+        "where_to_find": "Every traditional restaurant, especially on Fridays"
+      },
+      {
+        "name": "Pastilla (Bisteeya)",
+        "description": "Sweet-savory pie with pigeon or chicken, almonds, and powdered sugar in layers of warqa pastry",
+        "origin_story": "Originally from Fez, this intricate dish layers savory meat with sweet almonds - the ultimate Moroccan celebration food",
+        "where_to_find": "La Sqala, upscale Moroccan restaurants, special occasions"
+      },
+      {
+        "name": "Fresh Seafood",
+        "description": "Grilled fish, sardines, and shellfish from the Atlantic",
+        "origin_story": "Casablanca's port location means exceptional fresh seafood - sardines are especially beloved",
+        "where_to_find": "Port area restaurants, Le Cabestan, La Corniche seafood spots"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mint Tea",
+        "description": "Green tea with fresh mint and plenty of sugar, poured from height to create foam",
+        "how_locals_drink_it": "Multiple times daily - the pouring ritual is as important as the taste. Never refuse an offer of tea"
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "description": "Freshly squeezed Moroccan oranges at juice stalls",
+        "how_locals_drink_it": "At market stalls - Morocco's oranges are incredibly sweet"
+      }
+    ],
+    "food_culture_notes": [
+      "Friday couscous is sacred family time",
+      "Ramadan brings special foods like harira soup and chebakia sweets",
+      "La Sqala restaurant is in a beautiful 18th-century fortress",
+      "Central Market (Marché Central) has incredible fresh produce and fish"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hassan II Mosque (3rd largest in world)",
+      "La Corniche waterfront",
+      "Old Medina",
+      "Art Deco downtown"
+    ],
+    "atmosphere": [
+      "Atlantic Ocean views",
+      "French colonial meets Moroccan",
+      "bustling commerce",
+      "Art Deco architecture"
+    ],
+    "colors": [
+      "mosque white and green",
+      "Atlantic blue",
+      "medina earth tones",
+      "tile zellige patterns"
+    ],
+    "unique_modern": [
+      "largest mosque in Africa",
+      "Morocco's business capital",
+      "Rick's Café movie replica"
+    ]
+  },
+  "wikipedia_search_term": "Casablanca",
+  "keywords_for_image": [
+    "tagine clay pot",
+    "mint tea pouring",
+    "Hassan II Mosque",
+    "Moroccan tiles",
+    "Atlantic coast"
+  ],
+  "coordinates": {
+    "lat": 33.5731,
+    "lng": -7.5898
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Casablanca+🇲🇦/@33.5731,-7.5898,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Casablanca"
+  },
+  "location_id": 202
+}

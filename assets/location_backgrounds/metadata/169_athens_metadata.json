@@ -1,0 +1,111 @@
+{
+  "name": "Athens",
+  "country": "Greece",
+  "fun_fact": "Fun fact: The earliest evidence of a Greek restaurant was discovered at the Ancient Agora of Athens in the 1970s, complete with cooking utensils, plates, and meat spits! The taverna tradition has been part of Athens' DNA since ancient times.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Souvlaki",
+        "description": "Skewers of grilled meat (typically pork or chicken, also lamb and beef) served with pita bread, fresh vegetables, and tzatziki sauce. The most popular street food in Athens.",
+        "origin_story": "Souvlaki is as beloved by locals as tourists and represents Athens' street food culture. Often wrapped in pita with tomatoes, onions, and tzatziki, it's the quintessential quick meal found on every corner.",
+        "where_to_find": "Street vendors and tavernas throughout Monastiraki, Psirri, and Plaka neighborhoods"
+      },
+      {
+        "name": "Moussaka",
+        "description": "A sort of eggplant lasagna with layer after layer of thinly sliced eggplant coated in spiced ground meat, cheese, and creamy béchamel sauce. Can also include potato layers.",
+        "origin_story": "One of Greece's most iconic dishes, moussaka represents the country's Mediterranean comfort food tradition with Ottoman and Byzantine influences.",
+        "where_to_find": "Traditional tavernas in Plaka (Stamatopoulos since 1882, Psarras since 1898, Klimataria since 1927)"
+      },
+      {
+        "name": "Grilled Octopus",
+        "description": "Tender octopus char-grilled and served with olive oil and lemon",
+        "origin_story": "A classic mezze dish showcasing Greece's seafood heritage and simple, quality-focused Mediterranean cooking",
+        "where_to_find": "Seafood tavernas like Psarras, coastal restaurants, traditional mezedopoleia"
+      },
+      {
+        "name": "Meze Platters",
+        "description": "Small plates including tzatziki (yogurt-cucumber dip), dolmades (stuffed grape leaves), fried zucchini, taramosalata, and more",
+        "origin_story": "Meze culture is central to Greek dining - sharing small plates with wine or ouzo, encouraging conversation and leisurely meals",
+        "where_to_find": "Ouzeri and mezedopoleia in Monastiraki and Psirri, Ouzeri Karyiannis in Central Markets"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Retsina",
+        "description": "Resinated wine with a distinctive pine resin flavor, the quintessential Greek wine",
+        "how_locals_drink_it": "Traditionally drawn from wooden barrels at tavernas, served in small glasses or carafes. No visit to Athens is complete without sipping retsina at a traditional taverna."
+      },
+      {
+        "name": "Ouzo",
+        "description": "Anise-flavored Greek spirit, often compared to pastis or sambuca",
+        "how_locals_drink_it": "Served at cafeneio (traditional cafes) with a plate of mezedes so you never drink without eating. Locals gather to talk politics, play backgammon, and sip ouzo throughout the afternoon and evening."
+      },
+      {
+        "name": "Greek Coffee",
+        "description": "Strong, unfiltered coffee served in small cups with thick grounds at the bottom",
+        "how_locals_drink_it": "Sipped slowly at traditional cafeneio while socializing, reading newspapers, or playing backgammon"
+      }
+    ],
+    "food_culture_notes": [
+      "Dinner is the main meal of the day - many Greeks don't head to dinner until 10:00 PM",
+      "Dining is generally affordable: budget meals €10-15, mid-range €20-30 per person",
+      "Historic tavernas have been operating for over a century (Stamatopoulos since 1882, Psarras since 1898, Klimataria since 1927)",
+      "Plaka neighborhood is known as the 'Neighborhood of the Gods' where ancient and modern Greece converge",
+      "Best neighborhoods: Monastiraki and Psirri for variety, Plaka for Acropolis views, Petralona and Kypseli for hidden gems",
+      "Traditional kafeneio culture: men gathering to drink coffee, ouzo, or raki while playing backgammon and discussing politics"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "The Acropolis and Parthenon",
+      "Ancient Agora (birthplace of the taverna)",
+      "Plaka's narrow cobblestone streets",
+      "Monastiraki Flea Market",
+      "Temple of Olympian Zeus",
+      "Syntagma Square and Parliament"
+    ],
+    "atmosphere": [
+      "Ancient ruins alongside bustling modern cafes",
+      "Rooftop bars with Acropolis views",
+      "Narrow streets filled with taverna tables and chairs",
+      "Souvlaki smoke wafting through Monastiraki",
+      "Live bouzouki music spilling from tavernas",
+      "Old men playing backgammon at traditional kafeneio"
+    ],
+    "colors": [
+      "White marble of the Acropolis against azure skies",
+      "Golden-brown grilled meats",
+      "Vibrant purple of eggplant moussaka",
+      "Bright white tzatziki and creamy béchamel",
+      "Terracotta taverna walls",
+      "Deep blue and white Greek flags"
+    ],
+    "unique_modern": [
+      "Rooftop bars serving craft cocktails with Acropolis views and DJ sets",
+      "Traditional tavernas that make you linger over one more glass of ouzo",
+      "Ancient cafeneio culture preserved in modern Athens",
+      "Farm-to-table movement reviving traditional Greek cuisine",
+      "UNESCO World Heritage Acropolis overlooking vibrant street food scene"
+    ]
+  },
+  "wikipedia_search_term": "Athens",
+  "keywords_for_image": [
+    "acropolis parthenon athens sunset",
+    "greek taverna souvlaki grill",
+    "moussaka bechamel eggplant",
+    "ouzo mezze traditional greek",
+    "plaka neighborhood cobblestone",
+    "grilled octopus olive oil",
+    "ancient agora athens",
+    "retsina wine taverna"
+  ],
+  "coordinates": {
+    "lat": 37.9838,
+    "lng": 23.7275
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Athens+🇬🇷/@37.9838,23.7275,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Athens"
+  },
+  "location_id": 169
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Manila",
+  "country": "Philippines",
+  "fun_fact": "Fun fact: Manila is the most densely populated city in the world with approximately 46,000 people per square kilometer. The entire metropolitan area has over 24 million inhabitants, making it one of the largest megacities globally, yet known for its warm Filipino hospitality ('Mabuhay!').",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Adobo",
+        "description": "Chicken or pork (or both) marinated in soy sauce, vinegar, garlic, bay leaves, and black pepper, then stewed until tender - Philippines' unofficial national dish",
+        "origin_story": "Despite the Spanish name meaning 'sauce,' adobo predates Spanish colonization. Indigenous Filipinos preserved meat in vinegar before refrigeration. Spanish saw similarities to their marinades and called it 'adobo.' Each Filipino family has their secret ratio of soy sauce to vinegar. Some versions skip soy entirely (adobong puti with just vinegar). The dish is Filipino identity on a plate.",
+        "where_to_find": "Ilustrado in Intramuros (famous for Adobong Bagnet with crab fat), Grace Park in Rockwell (elevated Lamb Adobo Rice by chef Margarita Fores), Pamana Restaurant (Adobo Flakes - crispy deep-fried), or any Filipino home kitchen"
+      },
+      {
+        "name": "Sisig",
+        "description": "Chopped pig's face and ears, seasoned with calamansi, chili, and onions, served sizzling on a hot plate with raw egg on top that cooks from the heat",
+        "origin_story": "Born in Pampanga province from the Kapampangan tradition of using every part of the pig. Originally a sour salad using pig ears and snout. In the 1970s, Lucia Cunanan ('Aling Lucing') of Angeles City added sizzling hot plate presentation, creating the modern version. It became beer food (pulutan) legend - the crackling sound and smoky aroma make it irresistible.",
+        "where_to_find": "Trellis Restaurant (Tayag family from Pampanga, first to serve sisig in Manila, featured on Anthony Bourdain's No Reservations), Manam at The Triangle (House Crispy Sisig - perfectly crispy throughout), or Abe Restaurant (spicy Kapampangan version)"
+      },
+      {
+        "name": "Sinigang",
+        "description": "Sour tamarind-based soup with pork, shrimp, or fish, loaded with vegetables like taro, radish, and water spinach",
+        "origin_story": "This sour soup represents Filipino comfort food - the sourness (asim) from tamarind, green mango, or calamansi is uniquely Filipino. Every region has variations. It's healing food eaten during rainy season or when sick. The soup's tartness cuts through Manila's humidity. Debate rages whether pork or shrimp makes the best version.",
+        "where_to_find": "Manam at The Triangle (Sinigang na Beef Short Rib and Watermelon - innovative take), traditional carinderias (neighborhood eateries), or any Filipino home"
+      },
+      {
+        "name": "Lechon",
+        "description": "Whole pig stuffed with lemongrass, garlic, and spices, roasted over charcoal for hours until skin is crackling crispy",
+        "origin_story": "Spanish brought pig roasting, Filipinos perfected it. Lechon is centerpiece of every celebration - weddings, fiestas, Christmas. The Cebu version is legendary, but Manila's is excellent. The crispy skin (balat) is prized - fight over it at parties. Anthony Bourdain called Filipino lechon 'the best pig ever.'",
+        "where_to_find": "Lydia's Lechon, Elar's Lechon in La Loma (lechon district), or ordered for special occasions"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Calamansi Juice",
+        "description": "Juice from calamansi (Philippine lime) - tiny citrus fruit that's sour, slightly sweet, and intensely aromatic",
+        "how_locals_drink_it": "Calamansi is the Filipino lime - smaller, more aromatic than regular limes. The juice is mixed with water and sugar, served over ice. It's the default beverage at Filipino meals, cutting through rich adobo and lechon. Street vendors sell it fresh-squeezed. Locals also squeeze it on everything - pancit noodles, soup, grilled fish."
+      },
+      {
+        "name": "San Miguel Beer",
+        "description": "Philippines' iconic pale pilsner beer, brewed since 1890 - crisp, light, perfect for tropical heat",
+        "how_locals_drink_it": "San Miguel (San Mig) is Filipino beer culture. Ordered by the 'grande' bottle or bucket of ice. Drunk at pulutan (drinking snack) sessions with sisig and crispy pata. The ritual: ice-cold beer, salty-sour-spicy food, hours of conversation with friends. Peak Filipino social bonding."
+      }
+    ],
+    "food_culture_notes": [
+      "Merienda (mid-afternoon snack) is a meal - Filipinos eat 5-6 times daily including breakfast, lunch, merienda, dinner, and late-night snacks",
+      "Pulutan is drinking food culture - sisig, crispy pata, and bar snacks eaten during beer sessions",
+      "Intramuros (walled city built 1571) has historic restaurants serving Spanish-Filipino fusion in colonial settings",
+      "SPOT.ph's 50 Great Restaurants of 2024 highlights Manila's evolving fine dining and casual food scenes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Intramuros - 16th-century walled city with Spanish colonial churches and cobblestone streets",
+      "Rizal Park (Luneta) - massive urban park honoring national hero José Rizal",
+      "Manila Bay sunset - famous for orange-purple skies over the bay",
+      "Jeepneys - colorful decorated jeeps converted to public transport, iconic Manila symbol"
+    ],
+    "atmosphere": [
+      "World's most densely populated city - 46,000 people per square kilometer",
+      "24+ million in metro Manila, creating vibrant chaotic energy",
+      "Tropical heat and humidity year-round with monsoon rains June-November",
+      "Spanish colonial heritage mixed with American influence and Filipino traditions"
+    ],
+    "colors": [
+      "bright jeepney colors - chrome, neon, religious iconography",
+      "golden crispy lechon skin",
+      "dark adobo sauce",
+      "vibrant sunset over Manila Bay"
+    ],
+    "unique_modern": [
+      "Manam at The Triangle opened 2024 as flagship with 164 seats, Bibingka bar, and al fresco dining",
+      "Filipino cuisine gaining international recognition - adobo and sisig appearing globally",
+      "SM Mall of Asia - one of world's largest malls with ice skating rink and IMAX theater",
+      "'Mabuhay!' greeting means 'long live' or 'welcome' - captures Filipino warmth and hospitality"
+    ]
+  },
+  "wikipedia_search_term": "Manila",
+  "keywords_for_image": [
+    "manila adobo chicken",
+    "sisig sizzling plate",
+    "jeepney colorful manila",
+    "intramuros walled city",
+    "lechon roasted pig"
+  ],
+  "coordinates": {
+    "lat": 14.5995,
+    "lng": 120.9842
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Manila+🇵🇭/@14.5995,120.9842,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manila"
+  },
+  "location_id": 336
+}

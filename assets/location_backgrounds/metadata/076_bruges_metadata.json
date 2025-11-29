@@ -1,0 +1,96 @@
+{
+  "name": "Bruges",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Bruges has an underground beer pipeline stretching 3.2km through the city to avoid trucks damaging the medieval cobblestones. The 'Bruges Fool' beer gets its name from when Emperor Maximilian witnessed a parade of jesters and locals asked him for a 'madhouse'!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stoverij (Flemish Beef Stew)",
+        "description": "Rich, chunky beef stew slowly cooked for hours in dark Belgian beer, creating a sweet, complex gravy unique to Bruges",
+        "origin_story": "This traditional Flemish dish has been a staple of Bruges cuisine for centuries, using local dark beers to tenderize and flavor the meat during long, slow cooking",
+        "where_to_find": "Cambrinus (historic brasserie with 400+ Belgian beers), Bistro Brugis (next to Grote Markt)"
+      },
+      {
+        "name": "Moules-frites (Mussels and Fries)",
+        "description": "Fresh North Sea mussels steamed in white wine and garlic, served with crispy twice-fried Belgian frites",
+        "origin_story": "A quintessential Belgian dish showcasing seafood from the nearby North Sea. The secret to Belgian frites is double-frying in ox fat or lard",
+        "where_to_find": "Traditional brasseries throughout Bruges, especially near Grote Markt. Look for places making waffles fresh (not pre-made)"
+      },
+      {
+        "name": "North Sea Shrimp Croquettes",
+        "description": "Crispy fried croquettes filled with creamy North Sea shrimp or cheese, found on almost every menu",
+        "origin_story": "A Belgian classic using the tiny grey shrimp from the North Sea, prized for their delicate sweetness",
+        "where_to_find": "Nearly every restaurant in Bruges serves these. Best enjoyed at authentic local taverns"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Brugse Zot",
+        "description": "Bruges' own blonde city beer (6% ABV), brewed for 6 generations at De Halve Maan brewery in the city center using 4 malts and 2 hop varieties",
+        "how_locals_drink_it": "Locals enjoy this at De Halve Maan brewery after the famous tour, or at one of the many beer cafés. There's also a stronger Brugse Zot Dubbel made with 6 specialty malts"
+      },
+      {
+        "name": "Straffe Hendrik",
+        "description": "Strong beer from the same De Halve Maan brewery that brews Brugse Zot, representing 500 years of brewing tradition",
+        "how_locals_drink_it": "Served at the brewery and local taverns. Belgian beer culture was inscribed on UNESCO's Intangible Cultural Heritage list in 2016"
+      }
+    ],
+    "food_culture_notes": [
+      "Never expect a table on Friday/Saturday without a reservation - this small city draws crowds from across Belgium",
+      "Avoid restaurants too close to Grote Markt (main square) - venture to side streets for authentic local spots",
+      "One local favorite only has menus in Flemish, adding to the authentic experience",
+      "Belgian waffles are best from Arlecchino Gelateria (white van on Burg Square) - they make them fresh, not pre-made",
+      "Belgian frites are traditionally served with mayonnaise, not ketchup"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Medieval canals (over 80 bridges)",
+      "Belfry of Bruges (13th-century tower with 47-bell carillon)",
+      "Church of Our Lady (115.6m brick spire - world's 2nd highest)",
+      "Half-timbered medieval buildings from Danish period",
+      "Cobblestone streets in UNESCO World Heritage historic center"
+    ],
+    "atmosphere": [
+      "Venice of the North - canal-based medieval city",
+      "Flemish Primitives art heritage (Jan van Eyck, Hans Memling)",
+      "Best-preserved medieval town in Europe",
+      "Carillonneur gives free concerts regularly",
+      "Procession of the Holy Blood (UNESCO intangible heritage) on Ascension Day"
+    ],
+    "colors": [
+      "Golden beer tones",
+      "Medieval brick reds and Gothic browns",
+      "Canal water reflections",
+      "Cream and beige half-timbered buildings",
+      "Dark Belgian beer glazes"
+    ],
+    "unique_modern": [
+      "Underground beer pipeline (3.2km long)",
+      "Craft brewery Fort Lapin just outside center",
+      "Bourgogne des Flandres modern brewery",
+      "Lace-making tradition continues",
+      "100,000+ annual brewery visitors"
+    ]
+  },
+  "wikipedia_search_term": "Bruges",
+  "keywords_for_image": [
+    "bruges medieval canals",
+    "belfry tower belgium",
+    "flemish architecture",
+    "brugse zot beer",
+    "belgian waffles fresh",
+    "stoverij flemish stew",
+    "north sea mussels",
+    "cobblestone bruges"
+  ],
+  "coordinates": {
+    "lat": 51.2093,
+    "lng": 3.2247
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bruges+🇧🇪/@51.2093,3.2247,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruges"
+  },
+  "location_id": 76
+}

@@ -1,0 +1,98 @@
+{
+  "name": "San Sebastian",
+  "country": "Spain",
+  "fun_fact": "Fun fact: San Sebastián has more Michelin stars per capita than anywhere else in the world—19 Michelin stars within just a 16-mile radius! The Basque Country has 33 Michelin stars across 23 restaurants, and the city is home to legendary chef Martín Berasategui, who holds 12 Michelin stars (third most in the world).",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pintxos (Basque Tapas)",
+        "description": "The Basque word 'pintxo' means 'spike,' referring to the toothpick that holds these perfectly balanced morsels together on slices of bread. Unlike regular tapas, many pintxos are made to order and represent miniature works of culinary art.",
+        "origin_story": "Lonely Planet named doing a pintxos bar crawl in San Sebastián as the world's #1 food experience. The pintxos scene evolved from simple bar snacks into sophisticated mini-dishes that helped kick off modern Basque cuisine.",
+        "where_to_find": "La Cuchara de San Telmo (slow-cooked beef cheek, made-to-order pintxos by chef Iñaki Gulín), Ganbara (txangurro a la donostiarra—stuffed spider crab, sautéed mushrooms with egg and shrimp), Borda Berri (grilled meats, entirely made-to-order menu). The Parte Vieja (Old Town) has over 200 pintxos bars—locals practice 'txikiteo' or pintxos hopping."
+      },
+      {
+        "name": "Txangurro a la Donostiarra",
+        "description": "Spider crab from the Bay of Biscay, stuffed, seasoned, and baked in its own shell. The pintxos version is served as an impressive tartlet that captures the essence of Basque seafood mastery.",
+        "origin_story": "This dish represents San Sebastián's ('Donostia' in Basque) deep connection to the sea and the Basque tradition of elevating humble seafood into refined cuisine.",
+        "where_to_find": "Ganbara is the legendary spot—locals and visitors alike line up outside with wine or cider because seating is limited. It's one of San Sebastián's most famous dishes."
+      },
+      {
+        "name": "Grilled Fish and Seafood",
+        "description": "Fresh fish, cod fritters, and seafood prepared with classical French techniques blended with unique Basque flavors and local ingredients from the Cantabrian Sea.",
+        "origin_story": "San Sebastián's cuisine reflects a long-standing reverence for ingredient-driven cooking, seasonality, and a fearless spirit of experimentation that has made the region a culinary paradise.",
+        "where_to_find": "Three-Michelin-starred restaurants include Arzak, Akelarre, and Martín Berasategui. For more accessible options, explore the pintxos bars in Parte Vieja."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Txakoli (Basque White Wine)",
+        "description": "A slightly sparkling, dry white wine native to the Basque Country, traditionally poured from a height to aerate it and enhance the bubbles.",
+        "how_locals_drink_it": "Locals drink txakoli throughout the day during pintxos crawls, standing at the bar counter and moving from one establishment to another in the narrow stone streets of Parte Vieja."
+      },
+      {
+        "name": "Basque Cider (Sagardoa)",
+        "description": "Natural, slightly sour apple cider served straight from large barrels in traditional cider houses (sagardotegiak).",
+        "how_locals_drink_it": "During cider season (January-April), locals gather at cider houses for 'txotx'—when the barrel is opened, everyone rushes to catch the stream of cider in their glass, then returns to tables laden with grilled steak and salt cod."
+      }
+    ],
+    "food_culture_notes": [
+      "San Sebastián has an honor system in pintxos bars—you grab food yourself and keep track of what you've eaten by the toothpicks on your plate, then tell the bartender when settling your bill.",
+      "The city's culinary scene blends classical French techniques (from its proximity to France) with Basque ingredients and fearless innovation.",
+      "Pintxos culture is intensely social—both locals and tourists roam from bar to bar day and night, sampling different wines and gourmet creations.",
+      "The Basque Country has one of the highest concentrations of Michelin stars per capita globally, reflecting centuries of culinary excellence and gastronomic societies (txokos) where locals cook together.",
+      "Many pintxos bars have standing room only—eating at the counter is part of the authentic experience."
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "La Concha Beach—one of Europe's most beautiful urban beaches with its distinctive crescent shape",
+      "Monte Urgull—historic hill overlooking the old town with fortifications",
+      "Parte Vieja (Old Town)—narrow stone streets packed with pintxos bars",
+      "San Telmo Museum—sits at the base of Monte Urgull",
+      "Belle Époque architecture along the waterfront promenade"
+    ],
+    "atmosphere": [
+      "Bustling pintxos bars with crowds spilling onto cobblestone streets",
+      "Elegant bay-side promenades with Art Nouveau buildings",
+      "Lively bar counters laden with colorful pintxos displays",
+      "Golden evening light over La Concha Bay",
+      "Sophisticated yet relaxed coastal elegance"
+    ],
+    "colors": [
+      "Azure blue of the Bay of Biscay",
+      "Golden toasted bread of pintxos",
+      "Deep green of Monte Urgull's forests",
+      "Warm ochre and cream of Belle Époque architecture",
+      "Rich reds and greens of fresh ingredients"
+    ],
+    "unique_modern": [
+      "Pintxos arranged as edible art on bar counters",
+      "Modern Basque cuisine presentation—molecular gastronomy meets tradition",
+      "Sleek wine bars alongside centuries-old taverns",
+      "Contemporary food photography-worthy dishes",
+      "Michelin-starred minimalist plating"
+    ]
+  },
+  "wikipedia_search_term": "San_Sebastián",
+  "keywords_for_image": [
+    "San Sebastian pintxos",
+    "La Concha beach",
+    "Basque tapas bar",
+    "Parte Vieja San Sebastian",
+    "pintxos crawl",
+    "txangurro crab",
+    "Basque cuisine",
+    "San Sebastian old town",
+    "Monte Urgull",
+    "Basque Country food"
+  ],
+  "coordinates": {
+    "lat": 43.3183,
+    "lng": -1.9812
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/San+Sebastian+🇪🇸/@43.3183,-1.9812,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Sebastián"
+  },
+  "location_id": 56
+}

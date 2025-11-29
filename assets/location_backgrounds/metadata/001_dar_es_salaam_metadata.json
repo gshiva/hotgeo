@@ -1,0 +1,93 @@
+{
+  "name": "Dar es Salaam",
+  "country": "Tanzania",
+  "fun_fact": "Fun fact: Dar es Salaam is credited as the birthplace of Chipsi Mayai - an egg and French fry omelette that became Tanzania's beloved street food, invented when creative vendors combined leftover fries with eggs!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Chipsi Mayai",
+        "description": "Egg and French fry omelette - the city's signature street food invention",
+        "origin_story": "Born in Dar es Salaam when street vendors combined leftover fries with eggs",
+        "where_to_find": "Street stalls throughout the city, best with kachumbari salad"
+      },
+      {
+        "name": "Mishkaki",
+        "description": "BBQ-flavored meat skewers with Zanzibar-style spices",
+        "origin_story": "Dar es Salaam is credited as the home of these mouthwatering skewers",
+        "where_to_find": "Mamboz Corner BBQ, street-side stands at evening markets"
+      },
+      {
+        "name": "Zanzibar Mix (Urojo)",
+        "description": "Deep-fried cassava, plantains, chapati, and marinated meat in tangy soup",
+        "origin_story": "Swahili Coast fusion of Arab, Indian, and African flavors",
+        "where_to_find": "Bustling local markets and roadside food stalls"
+      },
+      {
+        "name": "Vitumbua",
+        "description": "Rice and coconut milk pancake-doughnuts with cardamom",
+        "origin_story": "Traditional Swahili Coast breakfast treat",
+        "where_to_find": "Street food stalls along the seaside"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Coconut water",
+        "description": "Fresh from the shell, sold by street vendors",
+        "how_locals_drink_it": "Straight from machete-cut coconuts at beach stalls"
+      },
+      {
+        "name": "Tangawizi",
+        "description": "Ginger-based traditional drink",
+        "how_locals_drink_it": "Refreshing cold drink at local markets"
+      }
+    ],
+    "food_culture_notes": [
+      "Mamboz Corner BBQ takes over pavements at night with firigisi (gizzards) and maini (livers)",
+      "Hotelis (local cafés) serve chakula for under $5",
+      "Ugali (ground corn) served with meat or fish stews",
+      "Kachumbari (tomato, onion, cucumber salad) accompanies everything"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Indian Ocean waterfront",
+      "Askari Monument",
+      "Kariakoo Market",
+      "ferry terminals"
+    ],
+    "atmosphere": [
+      "colorful market stalls",
+      "palm trees",
+      "street-side BBQ smoke",
+      "ocean breeze"
+    ],
+    "colors": [
+      "ocean blue",
+      "sandy beige",
+      "sunset orange",
+      "tropical green"
+    ],
+    "unique_modern": [
+      "bustling ferry port",
+      "mix of colonial and modern architecture"
+    ]
+  },
+  "wikipedia_search_term": "Dar_es_Salaam",
+  "keywords_for_image": [
+    "chipsi mayai omelette",
+    "mishkaki skewers on grill",
+    "Indian Ocean view",
+    "palm trees",
+    "Swahili architecture",
+    "colorful market"
+  ],
+  "coordinates": {
+    "lat": -6.7924,
+    "lng": 39.2083
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dar+es+Salaam+🇹🇿/@-6.7924,39.2083,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dar_es_Salaam"
+  },
+  "location_id": 1
+}

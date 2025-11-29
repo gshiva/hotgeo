@@ -1,0 +1,94 @@
+{
+  "name": "Skopje",
+  "country": "North Macedonia",
+  "fun_fact": "Fun fact: In the controversial 'Skopje 2014' project, the government spent $700 million (8-10% of the national budget) to add 284 neoclassical statues and 25 baroque buildings to a city that was rebuilt with brutalist architecture after a 1963 earthquake. The centerpiece is a 22-meter bronze statue called 'Warrior on a Horse' that looks exactly like Alexander the Great but was never officially named that to avoid angering Greece",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tavče Gravče",
+        "description": "North Macedonia's national dish - creamy baked beans cooked with onions, paprika, and red pepper, served bubbling hot in a traditional earthenware pot (tavče) with crusty bread for dipping",
+        "origin_story": "A humble peasant dish elevated to national pride. The name literally means 'beans in a pot.' Macedonian grandmothers swear by soaking the beans overnight, then slow-baking them with the right paprika blend. Every restaurant claims their version is most authentic, but locals say Debar Maalo street has the best",
+        "where_to_find": "Skopski Merak on Debar Maalo street, Kaj Serdarot, Old City House (around 250 denar), Chardak (with live traditional music)"
+      },
+      {
+        "name": "Ajvar",
+        "description": "A rich, smoky red pepper and eggplant relish - Macedonia's ketchup. Sweet roasted peppers are hand-mashed with garlic and sunflower oil into a spreadable paste",
+        "origin_story": "Every Macedonian family makes ajvar in late summer during 'ajvar season' - entire neighborhoods smell like roasting peppers. Recipes are family secrets passed down through generations. The debate over chunky vs. smooth ajvar can end friendships",
+        "where_to_find": "Served as a side dish at every restaurant - try it at Kaj Serdarot, Kafana Debar Maalo, or buy homemade jars at Old Bazaar stalls"
+      },
+      {
+        "name": "Pastrmajlija",
+        "description": "Macedonian 'pizza' - oval flatbread topped with marinated chunks of pork or lamb, no cheese, just meat and fat cubes that crisp up in a wood-fired oven",
+        "origin_story": "From Ohrid and Struga regions, this dish represents Macedonia's Ottoman heritage mixed with Balkan heartiness. Traditionally eaten for breakfast with rakija. The name comes from 'pastrma' (dried meat), though modern versions use fresh meat",
+        "where_to_find": "Skopski Merak (famous for slow-roasted ribs version), Dukat (wood-oven baked), Kafana Debar Maalo"
+      },
+      {
+        "name": "Sarma",
+        "description": "Cabbage or grape leaves stuffed with spiced rice and minced meat, slow-cooked in tomato broth until the leaves are silky and translucent",
+        "origin_story": "Ottoman inheritance shared across the Balkans, but Macedonians claim theirs is the best because they add more paprika and cook it longer. Winter versions use pickled cabbage, summer uses fresh grape leaves. It's required eating at every holiday celebration",
+        "where_to_find": "Chardak (traditional recipe with live music), Dukat (folkloric setting), Kaj Kanevce near Stone Bridge"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakija (Grape Brandy)",
+        "description": "Crystal-clear fruit brandy, usually made from grapes but also plums (šljivovica) or apples - typically 40-60% alcohol",
+        "how_locals_drink_it": "Served in small glasses at room temperature or chilled. Always offered as a welcome drink in homes. Locals sip it slowly with meze (small plates), never shot it like tourists do. Homemade rakija is a point of family pride - everyone's grandfather makes the best batch"
+      },
+      {
+        "name": "Mastika",
+        "description": "Anise-flavored spirit unique to Macedonia and the Balkans - milky white when cold, clear when warm. Sweeter and smoother than Greek ouzo",
+        "how_locals_drink_it": "Served ice-cold in summer as an aperitif, or after meals as a digestive. Pairs perfectly with grilled meat and sharp white cheese. The clouding effect when chilled is called 'the louche' and means it's proper quality"
+      }
+    ],
+    "food_culture_notes": [
+      "The word 'kafana' describes traditional Balkan restaurants with local food, rustic decor, and live acoustic music - Kafana Debar Maalo epitomizes this",
+      "Skopje has one of the biggest Ottoman urban complexes in Europe - the Old Bazaar (Stara Čaršija) is filled with traditional eateries and spice stalls",
+      "After the 1963 earthquake destroyed 80% of the city, Skopje was rebuilt with brutalist architecture, creating a bizarre contrast with the Ottoman quarter",
+      "Shopska salad (tomatoes, cucumbers, onions, white cheese) appears on every table - it's the Balkan answer to Greek salad"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Warrior on a Horse statue (22-meter Alexander the Great lookalike)",
+      "Old Stone Bridge over Vardar River",
+      "Kale Fortress overlooking the city",
+      "Museum of Archaeology (neoclassical 2014 building)"
+    ],
+    "atmosphere": [
+      "clashing architectural styles (Ottoman, brutalist, neoclassical kitsch)",
+      "live traditional music in kafanas",
+      "bustling Old Bazaar lanes",
+      "surreal statue-filled plazas"
+    ],
+    "colors": [
+      "terracotta rooftops (Ottoman quarter)",
+      "concrete grey (brutalist buildings)",
+      "bright white marble (Skopje 2014 statues)",
+      "red pepper ajvar"
+    ],
+    "unique_modern": [
+      "284 statues added in controversial Skopje 2014 project",
+      "Named 2028 European Capital of Culture (announced 2023)",
+      "Bizarre mix of neoclassical facades over brutalist concrete",
+      "Europe's most surreal capital transformation"
+    ]
+  },
+  "wikipedia_search_term": "Skopje",
+  "keywords_for_image": [
+    "Skopje 2014 statues Macedonia",
+    "tavce gravce Macedonian beans",
+    "Skopje Stone Bridge Vardar",
+    "Old Bazaar Skopje Ottoman",
+    "Alexander Great statue Skopje"
+  ],
+  "coordinates": {
+    "lat": 41.9973,
+    "lng": 21.428
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Skopje+🇲🇰/@41.9973,21.428,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Skopje"
+  },
+  "location_id": 344
+}

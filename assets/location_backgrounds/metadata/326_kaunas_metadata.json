@@ -1,0 +1,94 @@
+{
+  "name": "Kaunas",
+  "country": "Lithuania",
+  "fun_fact": "Fun fact: Kaunas was Lithuania's temporary capital from 1920-1939 when Vilnius was occupied. The city has Europe's only museum dedicated to devils (Žmuidzinavičius Museum) with over 3,000 devil figures. Kaunas was named European Capital of Culture 2022.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cepelinai",
+        "description": "Large potato dumplings shaped like zeppelins, stuffed with meat or curd cheese, served with sour cream and bacon bits",
+        "origin_story": "Named after the Zeppelin airships due to their shape, cepelinai are Lithuania's national dish. Created in the early 20th century, they combine grated and mashed potatoes formed around a meat filling. They're heavy, filling, and designed for cold Lithuanian winters. Eating one is a commitment - they're massive.",
+        "where_to_find": "Traditional Lithuanian restaurants in Kaunas Old Town, Bernelių Užeiga (folk-style restaurant), or local eateries"
+      },
+      {
+        "name": "Šaltibarščiai (Cold Beet Soup)",
+        "description": "Bright pink cold soup made with beets, kefir, cucumbers, dill, and hard-boiled eggs - refreshing and tangy",
+        "origin_story": "This vibrant pink soup is summer's answer to borscht. Made with beets, buttermilk or kefir, fresh cucumbers, and dill, it's served ice-cold. The color is shocking pink - Instagram-worthy before Instagram existed. Lithuanian grandmothers serve it on hot summer days. The sourness from fermented dairy is addictive.",
+        "where_to_find": "Lithuanian restaurants throughout Kaunas, especially in summer months, or local bistros"
+      },
+      {
+        "name": "Kibinai",
+        "description": "Half-moon shaped pastries filled with mutton or pork, onions, and spices - flaky crust with savory filling",
+        "origin_story": "Brought to Lithuania by Karaite Jews from Crimea in the 14th century, kibinai became a Lithuanian staple. The Karaite community settled in Trakai (near Kaunas), and their meat pies spread throughout Lithuania. The crispy pastry shatters when bitten, releasing juicy meat filling.",
+        "where_to_find": "Bakeries in Kaunas Old Town, or restaurants serving Lithuanian cuisine"
+      },
+      {
+        "name": "Bulviniai Blynai (Potato Pancakes)",
+        "description": "Crispy potato pancakes made from grated potatoes, eggs, and onions - served with sour cream",
+        "origin_story": "Like cepelinai, these show Lithuanian love for potatoes. Grated potatoes mixed with egg and onion, fried until golden and crispy. They're comfort food eaten year-round, often as a main dish rather than side. Simple, peasant food that became national identity.",
+        "where_to_find": "Traditional Lithuanian restaurants, cafes in Kaunas, or market stalls"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Midus (Lithuanian Mead)",
+        "description": "Honey-based alcoholic drink, fermented with hops and spices - sweet, warming, ancient",
+        "how_locals_drink_it": "Midus is one of Europe's oldest alcoholic beverages, made in Lithuania for over 1,000 years. It's fermented honey water with hops, sometimes flavored with berries or spices. Served at room temperature or warm in winter. Lithuanians drink it at celebrations and festivals. The sweetness hides surprising alcohol strength."
+      },
+      {
+        "name": "Švyturys or Utenos Beer",
+        "description": "Lithuanian lagers - crisp, clean, perfect for washing down heavy potato dishes",
+        "how_locals_drink_it": "Lithuania has strong beer culture. Švyturys (lighthouse) is the most popular brand. Locals drink it cold with cepelinai or kibinai - the crisp lager cuts through rich, heavy food. Beer gardens fill up in summer along the Nemunas River in Kaunas."
+      }
+    ],
+    "food_culture_notes": [
+      "Lithuanian cuisine is heavy on potatoes, rye bread, pork, and dairy - designed for harsh winters",
+      "Rūgštynė (sour milk) and kefir are breakfast staples - Lithuanians love fermented dairy",
+      "Kaunas Old Town has traditional Lithuanian restaurants alongside modern European cafes",
+      "Black rye bread (juoda duona) accompanies every meal - dense, sour, and filling"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kaunas Castle - 14th-century Gothic castle, only medieval castle with double walls in Lithuania",
+      "Ninth Fort - Soviet-era fortress and Holocaust memorial",
+      "Pažaislis Monastery - stunning Baroque monastery complex",
+      "Laisvės Alėja (Freedom Avenue) - longest pedestrian street in Eastern Europe (1.7km)"
+    ],
+    "atmosphere": [
+      "Temporary capital 1920-1939, preserving interwar modernist architecture",
+      "Confluence of Nemunas and Neris rivers",
+      "European Capital of Culture 2022",
+      "Mix of medieval Old Town, interwar modernism, and Soviet-era buildings"
+    ],
+    "colors": [
+      "bright pink of šaltibarščiai cold beet soup",
+      "golden potato pancakes",
+      "red brick of Kaunas Castle",
+      "autumn colors along Nemunas River"
+    ],
+    "unique_modern": [
+      "Devil Museum (Žmuidzinavičius Museum) - over 3,000 devil figures from around the world",
+      "Christ's Resurrection Basilica - massive Art Deco church, tallest building in Kaunas",
+      "M. K. Čiurlionis National Museum of Art - named after famous Lithuanian artist",
+      "Kaunas was key center of Lithuanian independence movement"
+    ]
+  },
+  "wikipedia_search_term": "Kaunas",
+  "keywords_for_image": [
+    "cepelinai lithuanian dumplings",
+    "kaunas castle lithuania",
+    "saltibarsciai pink soup",
+    "kaunas old town",
+    "nemunas river kaunas"
+  ],
+  "coordinates": {
+    "lat": 54.8985,
+    "lng": 23.9036
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kaunas+🇱🇹/@54.8985,23.9036,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaunas"
+  },
+  "location_id": 326
+}

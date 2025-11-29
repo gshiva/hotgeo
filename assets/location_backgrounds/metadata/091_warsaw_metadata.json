@@ -1,0 +1,110 @@
+{
+  "name": "Warsaw",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Warsaw's 'milk bars' (Bar Mleczny) are communist-era cafeterias still serving dirt-cheap traditional Polish food to locals. They're government-subsidized relics where you can eat pierogi, żurek, and gołąbki for a few dollars—a time capsule of post-war Poland that somehow survived capitalism.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi Ruskie",
+        "description": "Famous dumplings stuffed with cottage cheese, onion, potatoes, and pepper, typically served with sour cream",
+        "origin_story": "These aren't Russian despite the name—'Ruskie' refers to the historical Ruthenian region. They're a staple at every milk bar and family table in Poland.",
+        "where_to_find": "Zapiecek on Nowy Świat 64, or any milk bar like Bar Prasowy, Bar Bambino, or Bar Pod Barbakanem"
+      },
+      {
+        "name": "Zapiekanka",
+        "description": "Polish 'pizza'—an open-face baguette topped with melted cheese, chopped mushrooms, and ketchup, elevated with gourmet toppings",
+        "origin_story": "Born as communist-era street food in the 1970s, zapiekanka has evolved from basic cheese-and-mushroom toast to a trendy fast food with artisanal ingredients.",
+        "where_to_find": "Zapiexy Luxusowe near Nowy Świat offers gourmet versions with caramelized onions, bacon, and artisanal cheeses"
+      },
+      {
+        "name": "Żurek",
+        "description": "Sour rye soup with sausage and egg, often served in a bread bowl instead of a regular plate",
+        "origin_story": "This tangy fermented soup is Poland's hangover cure and comfort food. The sour base comes from fermented rye flour, giving it a unique flavor unlike any other soup.",
+        "where_to_find": "Bar Mleczny Pod Temidą, Bar Prasowy, and traditional milk bars throughout the city"
+      },
+      {
+        "name": "Bigos (Hunter's Stew)",
+        "description": "Hearty stew made with sauerkraut, chopped meat, and fresh mushrooms—Warsaw's signature comfort food",
+        "origin_story": "Originally a dish for Polish nobility during hunting expeditions, bigos is said to improve with each reheating. Some families keep a pot going for days.",
+        "where_to_find": "Traditional restaurants and milk bars throughout Warsaw, especially Bar Prasowy"
+      },
+      {
+        "name": "Pączek (Polish Donut)",
+        "description": "The definitive Polish sweet—fluffy fried dough filled with rose jam, traditionally eaten on Fat Thursday",
+        "origin_story": "Varsovians take their pączki seriously. On Fat Thursday, Poles consume an estimated 100 million pączki nationwide.",
+        "where_to_find": "Zagoździński—the most popular among Warsaw locals, with lines out the door on Fat Thursday"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Żubrówka (Bison Grass Vodka)",
+        "description": "Unique Polish vodka infused with bison grass from Białowieża Forest, with a distinct herbal flavor and slight green hue",
+        "how_locals_drink_it": "Served straight in shots with the toast 'Na zdrowie!' while making eye contact (avoid eye contact = years of bad luck). Often paired with pickled herring or at Christmas with śledź (pickled fish)."
+      },
+      {
+        "name": "Kompot",
+        "description": "Traditional fruit drink made by boiling fruit (berries, cherries, raspberries) with sugar—served warm in winter, cold in summer",
+        "how_locals_drink_it": "A nostalgic childhood drink Poles associate with grandma's house and Christmas Eve. The warm version (kompot z suszu) made from dried fruits is a Christmas table staple."
+      },
+      {
+        "name": "Kwas Chlebowy (Bread Kvass)",
+        "description": "Lightly alcoholic fermented beverage made from rye bread with a sour taste, known for health benefits",
+        "how_locals_drink_it": "A refreshing low-alcohol option for hot weather, famous for quickly quenching thirst. Strengthens immunity and regulates digestion."
+      }
+    ],
+    "food_culture_notes": [
+      "Milk bars (Bar Mleczny) are uniquely Polish—communist-era cafeterias offering traditional food at incredibly cheap, government-subsidized prices",
+      "Vodka culture is serious: shots are drunk straight 'do dna' (to the bottom), never sipped, always with eye contact and 'Na zdrowie!'",
+      "Zakąski (small plates) are essential vodka accompaniments—pickled fish, sausage, and bread are traditional pairings",
+      "Pączek consumption reaches absurd levels on Fat Thursday—Poles eat an estimated 100 million donuts in one day",
+      "Warsaw food culture mixes post-war nostalgia (milk bars) with modern gourmet twists (artisanal zapiekanka)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Old Town (reconstructed after WWII)",
+      "Palace of Culture and Science (Stalin's gift)",
+      "Royal Castle",
+      "Nowy Świat street",
+      "Vistula River boulevards"
+    ],
+    "atmosphere": [
+      "Communist-era milk bars with minimalist interiors",
+      "Bustling street food stands",
+      "Trendy cafes mixing old and new Poland",
+      "Post-war reconstruction meeting modern Warsaw"
+    ],
+    "colors": [
+      "Red and white (Polish flag colors)",
+      "Gray concrete from Soviet era",
+      "Colorful reconstructed Old Town facades",
+      "Golden yellow of fried pierogi"
+    ],
+    "unique_modern": [
+      "Gourmet zapiekanka bars elevating communist street food",
+      "Craft vodka tastings",
+      "Hip milk bars with vintage aesthetics",
+      "Modern Polish cuisine movement"
+    ]
+  },
+  "wikipedia_search_term": "Warsaw",
+  "keywords_for_image": [
+    "Warsaw Old Town",
+    "Polish pierogi",
+    "milk bar Warsaw",
+    "zapiekanka",
+    "Polish vodka",
+    "Palace of Culture Warsaw",
+    "Vistula River",
+    "Polish street food"
+  ],
+  "coordinates": {
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Warsaw+🇵🇱/@52.2297,21.0122,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warsaw"
+  },
+  "location_id": 91
+}

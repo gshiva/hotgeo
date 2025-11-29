@@ -1,0 +1,93 @@
+{
+  "name": "Kochi",
+  "country": "India",
+  "fun_fact": "Fun fact: Kochi (formerly Cochin) has the oldest European church in India (1503), the oldest synagogue in the Commonwealth (1568), and Chinese fishing nets that have been used for 600 years - all within walking distance of each other!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kerala Fish Curry (Meen Curry)",
+        "description": "Sour and spicy curry with kokum or tamarind, coconut milk, and fresh catch - karimeen (pearl spot) is prized",
+        "origin_story": "Kerala's coast provides incredible seafood - this tangy red curry is the state's signature, made in clay pots for depth",
+        "where_to_find": "Fort House Restaurant, Kayees Rahmathulla, Dhe Puttu"
+      },
+      {
+        "name": "Appam with Stew",
+        "description": "Lacy fermented rice pancake with coconut milk vegetable or meat stew",
+        "origin_story": "Syrian Christian specialty of Kerala - the bowl shape catches the creamy stew perfectly",
+        "where_to_find": "Kashi Art Café, Qissa Café, Kerala Kitchen, any Syrian Christian home"
+      },
+      {
+        "name": "Karimeen Pollichathu",
+        "description": "Pearl spot fish marinated in spices, wrapped in banana leaf, and pan-fried",
+        "origin_story": "Karimeen is Kerala's state fish, found in the backwaters - pollichathu means 'cooked in banana leaf'",
+        "where_to_find": "Grand Hotel, Fort House, backwater houseboats"
+      },
+      {
+        "name": "Puttu and Kadala Curry",
+        "description": "Steamed rice and coconut cylinders with black chickpea curry",
+        "origin_story": "Classic Kerala breakfast - the cylindrical puttu steamer is found in every Kerala home",
+        "where_to_find": "Dhe Puttu (famous for 40+ puttu varieties), local breakfast stalls"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Toddy (Kallu)",
+        "description": "Fresh coconut palm sap, mildly alcoholic and refreshing",
+        "how_locals_drink_it": "At toddy shops (kallu shappu) with spicy fried fish - an authentic local experience"
+      },
+      {
+        "name": "Filter Coffee",
+        "description": "South Indian style drip coffee with milk, served in steel tumbler and davara",
+        "how_locals_drink_it": "Poured between vessels to cool and froth - the ritual is part of the pleasure"
+      }
+    ],
+    "food_culture_notes": [
+      "Fort Kochi has colonial-era cafés and art scene with excellent food",
+      "Jewish Quarter (Jew Town) has legendary antique shops and spice markets",
+      "Fresh catch sold at Chinese fishing nets - have it cooked at nearby stalls",
+      "Syrian Christian, Jewish, Portuguese, and Dutch influences create unique fusion"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Chinese Fishing Nets",
+      "Fort Kochi",
+      "Mattancherry Palace",
+      "Jewish Synagogue"
+    ],
+    "atmosphere": [
+      "colonial heritage",
+      "spice trading history",
+      "backwaters",
+      "multicultural harmony"
+    ],
+    "colors": [
+      "fishing net silhouettes",
+      "spice market turmeric",
+      "banana leaf green",
+      "Arabian Sea blue"
+    ],
+    "unique_modern": [
+      "Kochi-Muziris Biennale",
+      "street art capital of India",
+      "metro through historic city"
+    ]
+  },
+  "wikipedia_search_term": "Kochi",
+  "keywords_for_image": [
+    "Chinese fishing nets Kochi",
+    "Kerala fish curry",
+    "Fort Kochi colonial",
+    "backwaters houseboat",
+    "spice market"
+  ],
+  "coordinates": {
+    "lat": 9.9312,
+    "lng": 76.2673
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kochi+🇮🇳/@9.9312,76.2673,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kochi"
+  },
+  "location_id": 356
+}

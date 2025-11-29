@@ -1,0 +1,104 @@
+{
+  "name": "Montpellier",
+  "country": "France",
+  "fun_fact": "Fun fact: In 1787, a young American ambassador named Thomas Jefferson visited Montpellier and declared the wine of Saint-Georges d'Orques one of the best wines he'd tasted in France. When he became President of the United States, he served this Montpellier wine at the White House! The region has been making wine since 500 BC when Etruscans settled in nearby Lattes—archaeologists even found an ancient grape-stomping trough proving wine trade existed 2,500 years ago.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Brandade de Morue",
+        "description": "Salt cod purée whipped with olive oil, milk, and garlic into a creamy, rich spread. A Mediterranean specialty highlighting Montpellier's coastal connections.",
+        "origin_story": "This Languedoc classic dates back centuries as a preservation method for cod. The dish showcases the region's blend of French technique and Mediterranean ingredients—salt cod from the Atlantic, olive oil from the south.",
+        "where_to_find": "Traditional brasseries throughout Montpellier's historic center, especially those serving Languedoc-Roussillon specialties"
+      },
+      {
+        "name": "Brasucade de Moules",
+        "description": "Fresh Mediterranean mussels cooked over burning coals, giving them a distinctive smoky flavor. Often seasoned simply with herbs and white wine.",
+        "origin_story": "A rustic coastal tradition where fishermen would grill fresh mussels directly over wood fires on the beach. The charred, smoky preparation is uniquely Mediterranean French, distinct from the steamed moules-frites of Belgium.",
+        "where_to_find": "Seafood restaurants near the coast and traditional Languedoc brasseries"
+      },
+      {
+        "name": "Fougasse Bread",
+        "description": "Montpellier's traditional flatbread, often studded with olives, herbs, or anchovies. Light, crispy, and deeply aromatic.",
+        "origin_story": "An ancient bread dating back to Roman times in Provence and Languedoc. Each region has its own version, and Montpellier's fougasse reflects the Mediterranean terroir with local olive oil and herbs.",
+        "where_to_find": "Local boulangeries throughout the city, especially in the old town markets"
+      },
+      {
+        "name": "Oysters from Thau Lagoon",
+        "description": "Briny, fresh oysters harvested from the nearby Étang de Thau lagoon, one of the Mediterranean's premier oyster farming regions.",
+        "origin_story": "The Thau Lagoon has been cultivated for oysters since the late 19th century. These Mediterranean oysters have a distinctive minerality and sweetness compared to Atlantic varieties. Just 30km from Montpellier, they arrive at restaurants within hours of harvest.",
+        "where_to_find": "La Réserve Rimbaud (riverside terrace with focus on Languedoc-Roussillon products), seafood-focused brasseries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Languedoc Wine",
+        "description": "Red wines from local appellations like Pic Saint-Loup, Terrasses du Larzac, and Grès de Montpellier. Main grapes: grenache, mourvèdre, syrah, carignan. Also rosé and white wines with viognier, roussanne, marsanne.",
+        "how_locals_drink_it": "Montpellier's food and beverage scene revolves around wine. From bustling outdoor terraces to rowdy hole-in-the-wall wine bars, locals drink Languedoc wines with every meal. The region is now rated among 'the best vineyards in the world' and is the 2nd biggest organic wine département in France. Vineyards grow right at the city gates—about 50 wine estates in the Montpellier Méditerranée region."
+      },
+      {
+        "name": "Muscat de Lunel",
+        "description": "A famous sweet, aromatic wine from the nearby Lunel region, made from Muscat grapes. Golden, honeyed, with intense floral notes.",
+        "how_locals_drink_it": "Served chilled as an aperitif or with desserts. This vin doux naturel (fortified wine) has been produced in the region for centuries and is a point of local pride."
+      }
+    ],
+    "food_culture_notes": [
+      "Montpellier sits between the gastronomic areas of Sud-Ouest and Provence, blending hearty cassoulet with garlicky bourride fish stew",
+      "Wine heritage dates to 500 BC—Etruscans made wine in what's now Lattes",
+      "Romans organized vineyards along the ancient Voie Domitienne when southern France was a major Gallo-Roman province",
+      "Botanist Jules Émile Planchon made the breakthrough in fighting phylloxera vine disease—a statue honors him on Square Planchon (built 1894)",
+      "Locals celebrate produce with festivals: Truffle (January), Olive (October), Tomato (September), Honey (October), wine festival Rencontres vigneronnes (November)",
+      "Fresh-market Mediterranean cuisine emphasizes seasonal, local ingredients from nearby vegetable gardens",
+      "Chef Charles Fontès at La Réserve Rimbaud focuses on 'authenticity and simplicity' with Languedoc-Roussillon products",
+      "Chef Julien Leclère practices 'cuisine d'arrivage'—one set tasting menu based solely on what's freshest that day"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Old town historic center",
+      "Riverside terraces shaded by plane trees",
+      "Mediterranean coastline (30km away)",
+      "Étang de Thau lagoon oyster beds",
+      "Nearby vineyard landscapes of Pic Saint-Loup"
+    ],
+    "atmosphere": [
+      "Charming sidewalk cafes",
+      "Farm-to-table bistros",
+      "Bustling outdoor terraces",
+      "Mediterranean markets with fresh produce",
+      "Rowdy wine bars in old stone buildings"
+    ],
+    "colors": [
+      "Golden wine in glasses",
+      "Silvery-green olive trees",
+      "Deep purple wine grapes",
+      "Terracotta rooftops",
+      "Bright Mediterranean vegetables",
+      "Creamy white brandade"
+    ],
+    "unique_modern": [
+      "Restaurant Leclère's hyper-seasonal tasting menus",
+      "Le Bistro Urbain's creative Mediterranean fusion",
+      "Restaurant Azalée's plant-based Mediterranean cuisine from local Eden vegetable garden",
+      "Grazing Montpellier's tapas and Mediterranean small plates"
+    ]
+  },
+  "wikipedia_search_term": "Montpellier",
+  "keywords_for_image": [
+    "Montpellier old town",
+    "Languedoc wine vineyard",
+    "Mediterranean oysters",
+    "French bistro terrace",
+    "Provence herbs",
+    "Mediterranean market",
+    "Southern France architecture"
+  ],
+  "coordinates": {
+    "lat": 43.6108,
+    "lng": 3.8767
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Montpellier+🇫🇷/@43.6108,3.8767,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montpellier"
+  },
+  "location_id": 87
+}

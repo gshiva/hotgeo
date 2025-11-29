@@ -1,0 +1,103 @@
+{
+  "name": "San Francisco",
+  "country": "USA",
+  "fun_fact": "Fun fact: San Francisco's sourdough bread has been a staple since the California Gold Rush era (1849), and its unique flavor comes from a specific type of lactobacillus bacteria found nowhere else in the world!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "San Francisco Sourdough Bread",
+        "description": "The city's most iconic food - crusty, tangy sourdough bread with a unique flavor created by lactobacillus bacteria found only in San Francisco's air. The bread has a crispy crust and soft, chewy interior.",
+        "origin_story": "Dating back to the California Gold Rush (1849), San Francisco sourdough became a staple food for miners and settlers. The unique microclimate and local bacteria create a flavor profile that can't be replicated anywhere else in the world.",
+        "where_to_find": "Boudin Bakery (established 1849) at Fisherman's Wharf is the most famous, known for sourdough bread bowls filled with clam chowder. Tartine Bakery is beloved for its rustic country loaves with a cult following (arrive early before they sell out!). Acme Bread Company supplies many of the city's top restaurants."
+      },
+      {
+        "name": "Mission-Style Burrito",
+        "description": "A hefty, satisfying burrito with rice, beans, meat, cheese, sour cream, guacamole, and salsa - all wrapped in a massive flour tortilla. This is a San Francisco invention, distinct from traditional Mexican burritos.",
+        "origin_story": "Born in the Mission District's taquerias in the 1960s, the Mission burrito is undeniably a San Francisco creation. It revolutionized the burrito by adding rice and creating a complete meal-in-hand that became a beloved staple.",
+        "where_to_find": "La Taqueria on Mission Road is broadly considered among the best, known for simple but flavorful burritos. El Farolito is another popular taqueria, open late and a favorite among locals for post-night-out meals."
+      },
+      {
+        "name": "Dungeness Crab",
+        "description": "Fresh Dungeness crab from the cool waters off the California coast, steamed and served whole or in dishes like crab cakes, crab Louis salad, or the famous cioppino seafood stew.",
+        "origin_story": "Named after Dungeness, Washington, this crustacean thrives in California's coastal waters and became inextricably linked to San Francisco's culinary identity. Fisherman's Wharf has served up the ocean's bounty for over a century, originally home to the city's bustling Italian fishing fleet.",
+        "where_to_find": "Fisherman's Wharf (especially mid-November through spring, prime crab season). Expect to pay $25-45 for a whole steamed crab. Scoma's on Pier 47 offers higher-end seafood with bay views. The wharf's outdoor stands serve fresh crab with the aroma of garlic and butter drifting through the air."
+      },
+      {
+        "name": "Clam Chowder in a Sourdough Bread Bowl",
+        "description": "Creamy New England-style clam chowder served in a hollowed-out round of San Francisco sourdough bread - combining two of the city's iconic foods.",
+        "origin_story": "This combination became a San Francisco signature at Fisherman's Wharf, merging the city's famous sourdough with the abundant seafood from the Pacific.",
+        "where_to_find": "Boudin Bakery at Fisherman's Wharf is the most famous spot for this dish, though many wharf restaurants serve their own versions."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Irish Coffee",
+        "description": "Hot coffee mixed with Irish whiskey and sugar, topped with cream. This warming cocktail was invented in San Francisco.",
+        "how_locals_drink_it": "Created by a bartender at the Buena Vista Cafe in the 1950s, this drink is best enjoyed while looking out at the bay. The Buena Vista Cafe still serves them using the original recipe."
+      }
+    ],
+    "food_culture_notes": [
+      "Fisherman's Wharf has been the seafood epicenter for over a century, still buzzing with the aroma of garlic, butter, and fresh crab drifting through the air",
+      "The Mission District is ground zero for authentic taquerias and the birthplace of the Mission burrito",
+      "Tartine Bakery has a cult following - plan to wait in line and arrive early before they sell out of their famous country loaves",
+      "San Francisco also invented the fortune cookie (created by a Japanese immigrant in the early 20th century)",
+      "The city's culinary scene reflects its diverse immigrant history and position as a Pacific coast port city",
+      "Cable cars, fog, and sourdough are the holy trinity of San Francisco icons"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Fisherman's Wharf with fishing boats and sea lions",
+      "Golden Gate Bridge shrouded in fog",
+      "Mission District's colorful murals and Victorian houses",
+      "Cable cars climbing steep hills",
+      "Tartine Bakery storefront with lines down the block",
+      "Boudin Bakery's iconic sign at the Wharf"
+    ],
+    "atmosphere": [
+      "Foggy mornings breaking into sunny afternoons",
+      "Bustling Fisherman's Wharf with street vendors and seafood stands",
+      "Vibrant, diverse Mission District with Latin American culture",
+      "Victorian 'Painted Ladies' houses on hillsides",
+      "Casual, laid-back West Coast food culture",
+      "Sea breeze and salty air along the waterfront"
+    ],
+    "colors": [
+      "Golden-brown crust of sourdough bread",
+      "Bright red-orange of steamed Dungeness crab",
+      "Creamy white clam chowder",
+      "International Orange of the Golden Gate Bridge",
+      "Vibrant murals in the Mission District",
+      "Gray-white fog rolling over the bay"
+    ],
+    "unique_modern": [
+      "Tech industry influence bringing innovative food concepts",
+      "Farm-to-table movement pioneered by Bay Area chefs",
+      "Fusion of Asian, Mexican, and American cuisines",
+      "Artisanal bakeries with scientific approaches to fermentation",
+      "The contrast between historic establishments (Boudin since 1849) and cutting-edge culinary innovation"
+    ]
+  },
+  "wikipedia_search_term": "San_Francisco",
+  "keywords_for_image": [
+    "San Francisco sourdough bread",
+    "Fisherman's Wharf Dungeness crab",
+    "Mission burrito",
+    "Tartine Bakery",
+    "San Francisco clam chowder bread bowl",
+    "Golden Gate Bridge fog",
+    "Mission District murals",
+    "San Francisco food culture",
+    "Boudin Bakery",
+    "cable cars San Francisco"
+  ],
+  "coordinates": {
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/San+Francisco+🇺🇸/@37.7749,-122.4194,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Francisco"
+  },
+  "location_id": 117
+}

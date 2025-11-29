@@ -1,0 +1,121 @@
+{
+  "name": "Cologne (Köln)",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Cologne is home to TWO world-famous inventions! Eau de Cologne perfume was created here in 1709 by Italian perfumer Giovanni Maria Farina, who described it as having 'the scent of a spring morning in Italy.' The competing brand renamed itself 4711 after losing a legal battle. Plus, Kölsch beer can ONLY be brewed within Cologne's city limits by law - it's the only beer style protected by regional appellation in Germany!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Halve Hahn",
+        "description": "Despite the name meaning 'half rooster,' this is NOT chicken! It's a rye bread roll (Röggelchen) with thick slices of aged Gouda cheese, onions, and mustard. Simple, traditional, perfect with Kölsch beer.",
+        "origin_story": "Classic Kölsch brewery snack dating back generations. The quirky name is part of Cologne's playful local humor.",
+        "where_to_find": "Peters Brauhaus (quintessential brauhaus vibes), Päffgen brewery restaurant (prototypical Rhineland cuisine), traditional Kölsch pubs"
+      },
+      {
+        "name": "Himmel un Äd (Heaven and Earth)",
+        "description": "Traditional Rhineland dish combining mashed potatoes (earth) with apple sauce (heaven), blood sausage, and fried onions. Sweet and savory flavors together.",
+        "origin_story": "Classic Rhineland comfort food reflecting German love for combining contrasting flavors. The poetic name reflects local food culture's whimsy.",
+        "where_to_find": "Peters Brauhaus (full regional Rhineland menu), Bei d'r Tant (traditional iconic spot), Päffgen"
+      },
+      {
+        "name": "Rhineland-style Sauerbraten",
+        "description": "Beef roast marinated for days in wine vinegar, herbs, and spices, then slow-cooked until meltingly tender. Served with red cabbage and potato dumplings (Klöße). The Rhineland version is sweeter than other German regions.",
+        "origin_story": "One of Germany's national dishes with roots in medieval preservation techniques. The long marination (up to 10 days) creates distinctive tangy-sweet flavor.",
+        "where_to_find": "Brauerei zur Malzmühle (Cologne's second-oldest brewery restaurant where Sauerbraten is the star)"
+      },
+      {
+        "name": "Reibekuchen (Potato Pancakes)",
+        "description": "Crispy, pillowy fried potato pancakes served with apple sauce or sour cream. Somehow crispy and fluffy simultaneously.",
+        "origin_story": "Must-try Cologne dish, especially popular at Christmas markets. Simple comfort food perfected over generations.",
+        "where_to_find": "Street vendors, Christmas markets, traditional restaurants throughout Cologne"
+      },
+      {
+        "name": "Haxen (Pork Knuckle)",
+        "description": "Massive fried or roasted pork knuckle with crispy skin and tender meat. Often beer-marinated for extra flavor.",
+        "origin_story": "Classic German brewery food designed to sustain hours of beer drinking.",
+        "where_to_find": "Peters Brauhaus, Päffgen (beer-marinaded version)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kölsch Beer",
+        "description": "Light, crisp, pale ale-style beer served in tiny 200ml cylindrical glasses called 'Stange.' About 25 different brands brewed only within Cologne city limits. Protected by strict regional appellation since 1986.",
+        "how_locals_drink_it": "Served by waiters called 'Köbes' in traditional gruff style. Your glass is continuously refilled until you place a coaster on top to signal you've had enough. The small glasses keep beer cold and fresh. The Köln Guild of Brewers dates to 1396. Kölsch beer style appeared in 1800s."
+      },
+      {
+        "name": "Eau de Cologne (Kölnisch Wasser)",
+        "description": "While not a drink, this world-famous perfume has been made in Cologne since 1709. Farina's original formula described as 'spring morning in Italy, mountain narcissus, and orange blossom after rain.'",
+        "how_locals_drink_it": "Not consumed, but the world's oldest perfume factory (operating since 1723) is a point of local pride. Both 'Farina' and '4711' brands are Cologne institutions."
+      }
+    ],
+    "food_culture_notes": [
+      "Brewery restaurants (Brauhäuser) are the heart of Cologne food culture - combining fresh beer with hearty Rhineland cuisine",
+      "The Köbes (traditional brewery waiters) wear traditional costumes and have a reputation for gruff, direct service - it's part of the charm",
+      "Kölsch beer in 200ml glasses seems small to tourists, but it keeps the beer perfectly cold and encourages social drinking pace",
+      "The local Kölsch dialect is also named Kölsch - belongs to Ripuarian Franconian variety of German",
+      "Food is designed for beer pairing - rich, salty, hearty dishes that make you thirsty",
+      "Lommerzheim became legendary as the 'kölscheste of all Kölsch pubs' - ultimate authentic atmosphere",
+      "Christmas market food culture is huge - Reibekuchen, bratwurst, and mulled wine stalls",
+      "Früh am Dom (classic Kölsch brewery next to Cathedral) combines excellent beer with local dishes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cologne Cathedral (Kölner Dom) - UNESCO World Heritage, 600 years construction (1248-1880), largest Gothic cathedral in Northern Europe",
+      "Rhine River waterfront with five Rhine ports",
+      "Historic Old Town (Altstadt) with colorful buildings",
+      "Hohenzollern Bridge with love locks",
+      "Traditional Brauhaus buildings with stained glass",
+      "4711 perfume flagship store",
+      "Cologne Carnival decorations and traditions"
+    ],
+    "atmosphere": [
+      "Clinking 200ml Stange glasses in packed Brauhäuser",
+      "Gruff Köbes waiters delivering continuous beer refills",
+      "Cathedral bells echoing across the Rhine",
+      "Cologne Carnival energy (fifth season)",
+      "Wood-paneled brewery restaurants with stained glass domes",
+      "Rhine riverboat traffic and bridges",
+      "Steam and sizzle from Haxen and Sauerbraten kitchens"
+    ],
+    "colors": [
+      "Golden Kölsch beer in narrow cylindrical glasses",
+      "Dark Gothic grey-black of Cathedral stone",
+      "Rhine River silver-grey under cloudy skies",
+      "Rich browns of Sauerbraten gravy",
+      "Red cabbage deep purple alongside pork",
+      "Warm wood paneling in traditional Brauhäuser",
+      "Colorful Old Town building facades"
+    ],
+    "unique_modern": [
+      "Art and museum scene (Museum Ludwig, Wallraf-Richartz)",
+      "LGBTQ+ friendly culture and Pride celebrations",
+      "Second largest inland port in Germany - industrial heritage meets culture",
+      "Chocolate Museum on Rhine waterfront",
+      "Contemporary art galleries alongside Gothic architecture",
+      "Vibrant nightlife beyond traditional Brauhäuser",
+      "2000-year history (Romans founded Colonia in 38 BC) meets modern city life"
+    ]
+  },
+  "wikipedia_search_term": "Cologne",
+  "keywords_for_image": [
+    "cologne cathedral",
+    "kölsch beer stange",
+    "cologne germany",
+    "rhine river cologne",
+    "german bratwurst",
+    "eau de cologne",
+    "hohenzollern bridge",
+    "rhineland cuisine",
+    "cologne old town",
+    "german beer hall"
+  ],
+  "coordinates": {
+    "lat": 50.9375,
+    "lng": 6.9603
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cologne+🇩🇪/@50.9375,6.9603,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cologne"
+  },
+  "location_id": 110
+}

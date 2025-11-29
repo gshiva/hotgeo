@@ -1,0 +1,94 @@
+{
+  "name": "Cairo",
+  "country": "Egypt",
+  "fun_fact": "Fun fact: Koshary, Egypt's national dish, was created by accident in the 19th century when Egyptian cooks combined Italian pasta and tomato sauce with Indian rice and lentils - creating a uniquely Egyptian fusion that's now sold from dedicated koshary shops on every Cairo street corner.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Koshary",
+        "description": "Egypt's national dish: layers of rice, macaroni, and lentils topped with chickpeas, crispy fried onions, and spicy tomato-vinegar sauce. It's carb heaven and inexplicably delicious.",
+        "origin_story": "A 19th-century cultural mashup born from Egypt's diverse influences - Italian pasta, Indian lentils and rice, Egyptian tomatoes and spices. Originally street food for the working class, it's now a cultural phenomenon with entire restaurants dedicated to perfecting this one dish.",
+        "where_to_find": "Koshary Abou Tarek (downtown Cairo, dating to 1950, most popular restaurant in the Middle East), Zooba (trendy upscale version)"
+      },
+      {
+        "name": "Ful Medames",
+        "description": "Slow-cooked fava beans stewed with garlic, lemon juice, and olive oil, served with warm pita bread. Simple, hearty, protein-packed.",
+        "origin_story": "One of Egypt's oldest dishes, eaten since Pharaonic times. Traditionally cooked overnight in a large pot called a 'damassa,' then sold at breakfast carts throughout Cairo. It's the ultimate Egyptian breakfast - affordable, filling, and found on literally every street corner.",
+        "where_to_find": "Found at every street corner and restaurant, Zooba (sit-down version), Abou El Sid Zamalek"
+      },
+      {
+        "name": "Ta'amiya (Egyptian Falafel)",
+        "description": "Vibrant green falafel made from crushed fava beans (not chickpeas like elsewhere), mixed with herbs and spices, then deep-fried until crispy outside and tender inside.",
+        "origin_story": "Egypt's answer to falafel predates the chickpea version found elsewhere in the Middle East. The use of fava beans gives it a distinctive green interior and different texture. It's a breakfast staple and vegetarian favorite.",
+        "where_to_find": "Zooba, street vendors throughout Cairo, Kebdet El Prince"
+      },
+      {
+        "name": "Molokhia",
+        "description": "Traditional soup made from jute leaves boiled in chicken or rabbit broth with garlic, coriander, and spices. It has a unique, slightly slimy texture that locals love.",
+        "origin_story": "An ancient Egyptian dish with a divisive texture - the mucilaginous quality comes from the jute leaves. Legend says the name means 'food of kings,' and it's been eaten in Egypt for thousands of years. You either love it or you don't.",
+        "where_to_find": "Abou El Sid Zamalek, Naguib Mahfouz Restaurant (Khan El Khalili), Zitouni Restaurant (Four Seasons)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Shai (Egyptian Tea)",
+        "description": "Strong black tea brewed with loads of sugar, sometimes flavored with mint or served with milk.",
+        "how_locals_drink_it": "Consumed constantly throughout the day at ahwas (traditional coffeehouses). Served in small glasses, always sweet, often accompanied by shisha smoking and backgammon. Refusing tea is considered rude."
+      },
+      {
+        "name": "Karkade (Hibiscus Tea)",
+        "description": "Tart, ruby-red drink made from dried hibiscus flowers, served hot or cold with sugar.",
+        "how_locals_drink_it": "A popular refreshment, especially in hot weather when served cold. The tangy flavor is uniquely Egyptian. Often sold by street vendors from large decorated dispensers."
+      }
+    ],
+    "food_culture_notes": [
+      "Cairo dining is incredibly affordable - a full meal costs just a few dollars at local spots",
+      "Many traditional eateries are cash-only, especially smaller spots and street vendors",
+      "Egyptian cuisine is naturally vegetarian-friendly - koshary, ta'amiya, ful, and mahshi are all meat-free",
+      "Breakfast culture is huge - Cairenes take their morning ful and ta'amiya very seriously"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Pyramids of Giza",
+      "Egyptian Museum",
+      "Khan El Khalili bazaar",
+      "Cairo Tower"
+    ],
+    "atmosphere": [
+      "bustling street markets",
+      "traditional ahwas (coffeehouses)",
+      "Nile riverfront",
+      "medieval Islamic architecture"
+    ],
+    "colors": [
+      "desert sand gold",
+      "Nile river blue",
+      "spice market earth tones",
+      "Islamic geometric patterns"
+    ],
+    "unique_modern": [
+      "rooftop restaurants with pyramid views",
+      "Nile dinner cruises",
+      "contemporary Egyptian fusion",
+      "stylish cafes in Zamalek"
+    ]
+  },
+  "wikipedia_search_term": "Cairo",
+  "keywords_for_image": [
+    "koshary",
+    "pyramids",
+    "Egyptian street food",
+    "Khan El Khalili",
+    "Nile River"
+  ],
+  "coordinates": {
+    "lat": 30.0444,
+    "lng": 31.2357
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cairo+🇪🇬/@30.0444,31.2357,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cairo"
+  },
+  "location_id": 273
+}

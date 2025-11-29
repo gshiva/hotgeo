@@ -1,0 +1,94 @@
+{
+  "name": "Glasgow",
+  "country": "Scotland",
+  "fun_fact": "Fun fact: Glasgow only received its first Michelin star in 2021, but by 2025 the city has two Michelin-starred restaurants and multiple Bib Gourmand winners - proving that Scotland's culinary revolution is happening faster in gritty, creative Glasgow than in refined Edinburgh.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Haggis, Neeps, and Tatties",
+        "description": "Scotland's national dish - sheep's stomach stuffed with oats, onions, and offal, served with mashed turnips and potatoes",
+        "origin_story": "Immortalized by Robert Burns, haggis is Scotland's most iconic dish. Despite its intimidating description, it's savory, peppery, and delicious. At Stravaigin, they've perfected the traditional preparation",
+        "where_to_find": "Stravaigin (Gibson Street - excellent version), Mharsanta (haggis lasagne variation), Rab Ha's (Scottish small plates)"
+      },
+      {
+        "name": "Cullen Skink",
+        "description": "Thick Scottish soup made with smoked haddock, onions, leeks, and potatoes - creamy, smoky, and warming",
+        "origin_story": "Originating in the coastal town of Cullen, this soup has become a Scottish staple. Glasgow's seafood restaurants make it with the freshest smoked haddock",
+        "where_to_find": "Crabshakk (Argyle Street), Café Gandolfi (Albion Street - truly delicious recipe)"
+      },
+      {
+        "name": "Scottish Seafood at The Finnieston",
+        "description": "Sustainable Scottish seafood including Loch Fyne langoustines, Shetland hake, and fresh oysters from local waters",
+        "origin_story": "The Finnieston celebrates Scotland's incredible seafood with a regularly changing seasonal menu. Their commitment to sustainability and showcasing Scotland's waters has made them a Glasgow institution",
+        "where_to_find": "The Finnieston (Finnieston district), Crabshakk"
+      },
+      {
+        "name": "Modern Scottish Fine Dining at The Gannet",
+        "description": "Ambitious, inventive dishes centered around Scotland's larder - think venison with foraged mushrooms or Orkney scallops with peas",
+        "origin_story": "This Michelin-rated Finnieston hotspot represents Glasgow's new culinary confidence - using Scotland's incredible ingredients with creativity and technical skill",
+        "where_to_find": "The Gannet (Finnieston - Michelin-rated), Number 16 (West End - Michelin Guide recognition)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Scotch Whisky",
+        "description": "Single malt whisky from Scotland's distilleries - smoky, complex, and sacred",
+        "how_locals_drink_it": "Sipped neat or with a splash of water at pubs. Glasgow has excellent whisky bars where bartenders guide you through regional differences. Never ask for ice"
+      },
+      {
+        "name": "Irn-Bru",
+        "description": "Scotland's other national drink - bright orange, impossibly sweet soda made from a secret recipe",
+        "how_locals_drink_it": "Consumed as a hangover cure, with fish and chips, or straight from the can. Glaswegians are fiercely loyal to this Scottish soft drink"
+      }
+    ],
+    "food_culture_notes": [
+      "Mharsanta in Merchant City serves chicken Balmoral and Shetland Island mussels using Scotland's best produce",
+      "Dishoom opened its first Scottish location in August 2025 in the Grade A-listed former Glasgow Stock Exchange",
+      "Trust By Modou (opened July 2025) offers five-course feast for £30 per person tailored with seasonal ingredients",
+      "Glasgow's food scene is thriving with working-class roots meeting Michelin-star ambition"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Glasgow Cathedral",
+      "Kelvingrove Art Gallery",
+      "Charles Rennie Mackintosh buildings",
+      "River Clyde"
+    ],
+    "atmosphere": [
+      "Victorian red sandstone buildings",
+      "gritty creativity",
+      "shipyard heritage",
+      "rain on cobblestones"
+    ],
+    "colors": [
+      "deep orange Irn-Bru",
+      "gray rainy skies",
+      "red sandstone architecture",
+      "silvery salmon"
+    ],
+    "unique_modern": [
+      "rapid Michelin star accumulation since 2021",
+      "Finnieston as foodie district",
+      "Charles Rennie Mackintosh Art Nouveau legacy",
+      "working-class city becoming culinary destination"
+    ]
+  },
+  "wikipedia_search_term": "Glasgow",
+  "keywords_for_image": [
+    "Glasgow Scotland",
+    "Kelvingrove Art Gallery",
+    "haggis neeps tatties",
+    "River Clyde",
+    "Victorian architecture"
+  ],
+  "coordinates": {
+    "lat": 55.8642,
+    "lng": -4.2518
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Glasgow+🇬🇧/@55.8642,-4.2518,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glasgow"
+  },
+  "location_id": 312
+}

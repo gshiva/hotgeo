@@ -1,0 +1,110 @@
+{
+  "name": "Pompeii",
+  "country": "Italy",
+  "fun_fact": "Fun fact: The wood-fired pizza ovens used in Naples today are nearly identical to the ancient Roman ovens excavated at Pompeii! A painting of ancient Roman flatbread was even found at the ruins. Modern Neapolitan pizza-making was honored with UNESCO 'intangible cultural heritage' status in 2017, connecting 2,000 years of pizza history.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pizza Margherita",
+        "description": "The archetypal Neapolitan pizza: San Marzano tomatoes, buffalo mozzarella, fresh basil, and olive oil on wood-fired dough, representing the Italian flag (red, white, green)",
+        "origin_story": "Modern pizza evolved in Naples's poorer areas in the late 18th-early 19th century when adding tomatoes to flatbread became a sensation. By 1807, Naples had 54 pizzerias. Legend says Raffaele Esposito created the Margherita in 1889 for Queen Margherita, though the pizza already existed before. In 2010, it received STG (Specialità Tradizionale Garantita) designation",
+        "where_to_find": "Trammiere (2.9km from Pompeii) - highly acclaimed for exceptional Neapolitan pizzas like Margherita, Napoletana, and Bufalina. Also Pizzeria Orlando near the archaeological site entrance for wood-fired pizzas"
+      },
+      {
+        "name": "Authentic Neapolitan Pizza with DOP Ingredients",
+        "description": "Pizza baked 60-90 seconds at minimum 800°F in stone igloo-shaped wood-fire ovens, using only San Marzano tomatoes from Mount Vesuvius and either Mozzarella di Bufala Campana or Fior di Latte di Agerola",
+        "origin_story": "True DOP San Marzano tomatoes only grow at the bottom of Mount Vesuvius, 9km east of Naples, on volcanic plains. Buffalo mozzarella comes from water buffaloes brought by Normans to Naples from India for hard physical labor",
+        "where_to_find": "Ristorante President Pompei (Michelin-starred, near Madonna di Pompeii Sanctuary) - Chef Paolo Gramaglia since 1993 blends traditional and innovative Italian dishes"
+      },
+      {
+        "name": "Pasta alla Genovese",
+        "description": "Traditional Neapolitan slow-cooked onion and meat sauce served with pasta - despite its name, this is a Naples specialty, not from Genoa",
+        "origin_story": "A cornerstone of Campania cuisine, this dish requires hours of slow cooking to caramelize the onions into a rich, sweet sauce",
+        "where_to_find": "La Bettola del Gusto - family-owned restaurant specializing in traditional Neapolitan cuisine with cozy atmosphere and rustic decor"
+      },
+      {
+        "name": "Traditional Campanian Antipasti",
+        "description": "Local charcuterie, buffalo mozzarella, authentic breads, and traditional Campanian dishes featuring San Marzano tomatoes",
+        "origin_story": "Campania's cuisine is one of the richest and most varied in Italy, world-famous for Neapolitan pizza, buffalo mozzarella, and San Marzano tomatoes. The volcanic soil of Vesuvius creates unique flavors",
+        "where_to_find": "Casina dell'Aquila inside the archaeological park - 'Pizza, Pasta & More' offers tastings of local products in the inner courtyard with wines and cheeses"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Limoncello",
+        "description": "Sweet lemon liqueur made from Amalfi Coast lemons, served ice-cold as a digestif",
+        "how_locals_drink_it": "Served in chilled glasses after meals throughout Campania. The Amalfi Coast lemons are famous worldwide for their intense fragrance and flavor"
+      },
+      {
+        "name": "Local Campanian Wines",
+        "description": "Wines from the volcanic slopes of Mount Vesuvius, including Lacryma Christi (Tears of Christ) and Greco di Tufo",
+        "how_locals_drink_it": "Paired with meals at restaurants near Pompeii. The volcanic soil creates distinctive mineral flavors in the wines"
+      }
+    ],
+    "food_culture_notes": [
+      "Inside the archaeological park, visitors can sample authentic Campanian dishes and artisanal ice cream at the Café & Wine Bar",
+      "Campania is world-famous for iconic desserts like Rum baba and sfogliatella",
+      "Na Pasta near Pompeii serves affordable specialty pasta (gnocchi, spaghetti, lasagna) for around 7 euros - ideal for budget travelers",
+      "La Gare (220m from Pompeii) offers a serene escape from touristy hustle with Italian cuisines including pizza, seafood, and Mediterranean specialties",
+      "For fine dining, Hortus Restaurant in a historic building offers tasting menus showcasing the best of Italian cuisine with fresh, seasonal ingredients",
+      "Ancient Romans at Pompeii ate flatbreads painted on murals, and used ovens excavated at the ruins that look identical to modern pizza ovens",
+      "Pizza is so important that Neapolitan pizza-making received UNESCO intangible cultural heritage status in 2017"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mount Vesuvius volcano",
+      "Pompeii ruins and columns",
+      "Archaeological excavations",
+      "Ancient Roman ovens",
+      "Madonna di Pompeii Sanctuary",
+      "Naples Bay",
+      "Volcanic plains"
+    ],
+    "atmosphere": [
+      "Ancient Roman streets",
+      "wood-fired pizza ovens",
+      "archaeological mystery",
+      "volcanic soil vineyards",
+      "bustling Naples energy",
+      "Mediterranean coastline"
+    ],
+    "colors": [
+      "Pompeii ash gray stone",
+      "red lava rock",
+      "bright red San Marzano tomatoes",
+      "white buffalo mozzarella",
+      "green fresh basil",
+      "golden pizza crust",
+      "blue Mediterranean sky"
+    ],
+    "unique_modern": [
+      "2,000-year-old ovens still inspiring modern pizza",
+      "UNESCO heritage pizza-making tradition",
+      "DOP protected ingredients from volcanic soil",
+      "Michelin-starred dining near ancient ruins"
+    ]
+  },
+  "wikipedia_search_term": "Pompeii",
+  "keywords_for_image": [
+    "Pompeii ruins",
+    "Mount Vesuvius",
+    "Neapolitan pizza",
+    "wood-fired oven",
+    "buffalo mozzarella",
+    "San Marzano tomatoes",
+    "archaeological site",
+    "ancient Roman",
+    "Naples Bay",
+    "volcanic soil vineyards"
+  ],
+  "coordinates": {
+    "lat": 40.7461,
+    "lng": 14.4989
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pompeii+🇮🇹/@40.7461,14.4989,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pompeii"
+  },
+  "location_id": 64
+}

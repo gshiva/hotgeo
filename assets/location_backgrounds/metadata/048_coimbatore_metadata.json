@@ -1,0 +1,108 @@
+{
+  "name": "Coimbatore",
+  "country": "India",
+  "region": "Tamil Nadu",
+  "fun_fact": "Fun fact: Coimbatore is the heart of Kongu Nadu cuisine, a distinct Tamil culinary tradition that uses gingelly (sesame) oil generously, fresh turmeric, and conservative spices compared to its famous cousin Chettinad cuisine. The region is Tamil Nadu's highest producer of turmeric, gingelly, and coconuts, which directly shapes the rustic, ingredient-forward cooking style.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pallipalayam Chicken",
+        "description": "Succulent pan-fried chicken nuggets with copious shallots, dried red chilies, and fresh coconut bits - minimal spices, maximum flavor",
+        "origin_story": "Named after Pallipalayam, a quaint town on the Cauvery River bank in Namakkal district. This signature Kongu Nadu dish became synonymous with the town's name. The rustic preparation uses simple ingredients but delivers wonderful peculiar flavors - shallots and red chilies are still the primary ingredients after decades.",
+        "where_to_find": "Junior Kuppanna (serving since 1960, preserving Kongu Nadu legacy); Valarmathi Mess (Racecourse area, family-run café-style, coconut slivers garnish); featured at 2024 Chennai Food Festival as 'Namakkal Pallipalayam Chicken'"
+      },
+      {
+        "name": "Mutton Chukka",
+        "description": "Spicy, flavorful dry mutton preparation - a Kongu Nadu specialty with simple spices and coconut paste finish",
+        "origin_story": "Kongu people love simple meals with two or three meat dishes, and mutton chukka is at the top. The Kongu way doesn't use a large number of spices - it's rustic cooking that finishes with coconut paste, letting the meat shine.",
+        "where_to_find": "Junior Kuppanna (legendary eatery, famous mutton chops and chukka); Kongu Unavagam (mouth-watering mutton chukka alongside pepper chicken); Hotel Junior Kuppanna (multiple locations)"
+      },
+      {
+        "name": "Authentic South Indian Breakfast",
+        "description": "Fluffy idlis, crispy vadas, various dosas and uttapams served with chutneys and podis (spice powders)",
+        "origin_story": "Coimbatore's breakfast culture centers on perfectly steamed idlis unlike anywhere else. The traditional methods have remained unchanged for decades at places like Sree Annapoorna, serving locals since the chain began.",
+        "where_to_find": "Murugan Idli Shop (soft idlis in various types with chutneys and podis, properly steamed); Shree Annapoorna (100 Feet Road, Tatabad - oldest chain, known for taste for decades); Sree Annapoorna Sree Gowrishankar"
+      },
+      {
+        "name": "Kongu Nadu Traditional Pot Cook",
+        "description": "Meals cooked in traditional clay pots over wood fire, preserving ancient cooking methods",
+        "origin_story": "Kongu Nadu cuisine has remained simple and unchanged over centuries, shaped by agricultural practices and trade routes. Pot cooking represents this unbroken tradition of rustic preparation.",
+        "where_to_find": "Ammayi Veedu Pot Cook - original authentic taste, loads of food in good quantities, different style focusing on traditional cooking modes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Filter Coffee (Kaapi)",
+        "description": "Strong South Indian coffee brewed in traditional metal filters, mixed with frothy milk",
+        "how_locals_drink_it": "Morning ritual at restaurants and messes, served in steel tumblers and davaras (saucers), cooled by pouring between vessels. Locals have specific preferences for 'degree' (milk ratio)."
+      },
+      {
+        "name": "Fresh Buttermilk (Mor/Neer Mor)",
+        "description": "Spiced yogurt-based drink with curry leaves, green chilies, and ginger",
+        "how_locals_drink_it": "Essential accompaniment to spicy meals, especially after mutton chukka or Pallipalayam chicken. Cooling effect balances the heat."
+      }
+    ],
+    "food_culture_notes": [
+      "Kongu Nadu cuisine differs from Chettinad - conservative spices, ample pepper, cumin, and fresh turmeric",
+      "Gingelly (sesame) oil and coconut oil are primary cooking fats",
+      "Meat dishes are simple and rustic - not heavy on masala, letting natural flavors shine",
+      "Shallots and red chilies remain primary ingredients across dishes",
+      "Aachi Mess serves original Tamil cuisine on old formulae with best, freshest ingredients",
+      "Traditional 'mess' culture - simple cafés serving authentic local food to working people",
+      "Featured at major food festivals showcasing regional Tamil cuisine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Western Ghats mountain backdrop",
+      "Marudamalai Hills temple",
+      "Perur Pateeswarar Temple",
+      "Siruvani Waterfalls",
+      "Kovai Kutralam Falls",
+      "Traditional Kongu architecture"
+    ],
+    "atmosphere": [
+      "Bustling 'mess' restaurants with locals eating quickly",
+      "Steam rising from idli makers in morning",
+      "Copper pots and traditional cooking vessels",
+      "Family-run eateries with decades of history",
+      "Open kitchens showing clay pot cooking",
+      "Simple café-style seating, focus on food not décor"
+    ],
+    "colors": [
+      "Deep red Pallipalayam chicken with red chilies",
+      "White fluffy idlis on banana leaves",
+      "Golden coconut oil",
+      "Bright yellow fresh turmeric",
+      "Green Western Ghats landscape",
+      "Brown traditional clay pots"
+    ],
+    "unique_modern": [
+      "Preserved 60-year-old cooking traditions (Junior Kuppanna since 1960)",
+      "Featured in national food festivals (Chennai 2024)",
+      "Balance of ancient methods with modern café service",
+      "Growing recognition of Kongu Nadu as distinct culinary region",
+      "Traditional mess culture thriving alongside modern restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Coimbatore",
+  "keywords_for_image": [
+    "Coimbatore Pallipalayam chicken",
+    "Tamil Nadu Kongu Nadu cuisine",
+    "South Indian idli breakfast",
+    "Coimbatore traditional mess restaurant",
+    "Tamil Nadu clay pot cooking",
+    "Coimbatore Western Ghats",
+    "South Indian filter coffee kaapi",
+    "Kongu Nadu mutton chukka"
+  ],
+  "coordinates": {
+    "lat": 11.0168,
+    "lng": 76.9558
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Coimbatore+🇮🇳/@11.0168,76.9558,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coimbatore"
+  },
+  "location_id": 48
+}

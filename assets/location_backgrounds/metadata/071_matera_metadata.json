@@ -1,0 +1,119 @@
+{
+  "name": "Matera",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Matera is one of the oldest continuously inhabited cities in the world, with cave dwellings (Sassi) that have been occupied for over 9,000 years since the Paleolithic era. It's the only place where people still live in the same houses as their ancestors from 9,000 years ago!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pane di Matera IGP",
+        "description": "Iconic durum wheat bread with Protected Geographical Indication status, featuring an intensely thick crust and tangy, chewy interior with large irregular holes",
+        "origin_story": "Made using rare Lucanian-milled semolina grain (Senatore Cappelli) and natural yeast from grapes and figs fermented in local spring water. The long fermentation process creates the signature sourdough-like taste and keeps the bread fresh for up to a week.",
+        "where_to_find": "Bakeries tucked into the Sassi cave dwellings are best for authentic IGP-certified loaves. Look for official certification guaranteeing the real experience."
+      },
+      {
+        "name": "Fave e Cicoria",
+        "description": "Traditional soup of mashed fava beans, wild chicory leaves, and sundried peppers - a humble peasant dish showcasing Basilicata's agricultural heritage",
+        "origin_story": "This dish represents centuries-old traditions of making simple, local ingredients into nourishing meals in the harsh cave-dwelling environment.",
+        "where_to_find": "La Lopa (small cave restaurant), Baccanti (high-end interpretation on stone terrace or in subterranean cave)"
+      },
+      {
+        "name": "Crapiata",
+        "description": "Ancient soup made from beans and grains, following recipes passed down for generations",
+        "origin_story": "A traditional harvest celebration dish that reflects the agrarian culture of the Materan countryside.",
+        "where_to_find": "La Lopa, traditional trattorie in the Sassi"
+      },
+      {
+        "name": "Peperoni Cruschi",
+        "description": "Crispy sun-dried peppers - crunchy, sweet, and slightly smoky. Known as 'red gold' of Basilicata",
+        "origin_story": "A staple of Basilicata cuisine, these preserved peppers allowed families to enjoy summer's harvest through the winter months in the caves.",
+        "where_to_find": "Served as appetizers or garnish at most traditional restaurants; found at markets throughout Matera"
+      },
+      {
+        "name": "Pignata",
+        "description": "Stewed meat with vegetables prepared in a ceramic pot, slow-cooked following centuries-old traditions",
+        "origin_story": "The name comes from the terracotta pot it's cooked in. This dish was ideal for cave-dwelling families who needed meals that could cook slowly while they worked.",
+        "where_to_find": "Traditional restaurants in the Sassi, Regiacorte"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vino Primitivo di Matera",
+        "description": "Bold red wine made from Primitivo grapes grown in the Matera terroir",
+        "how_locals_drink_it": "Paired with aged cheeses, lamb dishes, and the region's hearty peasant food. The wine reflects the intense sun and limestone soil of the Murgia plateau."
+      },
+      {
+        "name": "Aglianico del Vulture",
+        "description": "Powerful red wine from the nearby Vulture region, considered one of Southern Italy's finest wines",
+        "how_locals_drink_it": "Locals pair this age-worthy wine with grilled meats and sharp pecorino cheese, especially during Sunday family meals."
+      }
+    ],
+    "food_culture_notes": [
+      "Matera's cuisine is cucina povera (peasant cooking) elevated to art - simple ingredients treated with respect and centuries of knowledge",
+      "The Sassi cave environment influenced cooking methods: slow-cooked stews, preserved foods, and bread that stays fresh for days",
+      "Orecchiette and cavatelli pastas are shaped by hand, often served with lamb ragù or cime di rapa (turnip tops)",
+      "Over 150 rupestrian (rock-carved) churches from Byzantine monks dot the landscape, blending Eastern and Western religious traditions",
+      "Breakfast culture: locals dip thick slices of Pane di Matera into espresso or spread with fresh ricotta and honey"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sassi di Matera - limestone cave dwellings cascading down the Gravina gorge",
+      "Sasso Barisano and Sasso Caveoso - the two ancient districts",
+      "Rupestrian churches carved into rock with Byzantine frescoes (8th-13th centuries)",
+      "Matera Cathedral perched above the Sassi",
+      "Gravina ravine cutting through the ancient settlement",
+      "Park of the Rupestrian Churches (UNESCO World Heritage Site)",
+      "Casa Grotta - museum showing cave dwelling life"
+    ],
+    "atmosphere": [
+      "Honey-colored limestone glowing at sunrise and sunset",
+      "Multi-level cave houses stacked like a natural amphitheater",
+      "Winding stone staircases connecting different layers of dwellings",
+      "Ancient ceramic bread ovens still visible in cave doorways",
+      "Film location atmosphere (The Passion of the Christ, No Time to Die)",
+      "Byzantine church bells echoing through the ravine",
+      "Artisan workshops in cave spaces - pottery, papier-mâché, textiles"
+    ],
+    "colors": [
+      "Warm beige and cream limestone",
+      "Terracotta rooftops",
+      "Deep blue sky contrasting with pale stone",
+      "Golden wheat fields on the Murgia plateau",
+      "Deep red of Peperoni Cruschi",
+      "Rich golden-brown crust of Pane di Matera"
+    ],
+    "unique_modern": [
+      "Cave hotels - luxury accommodations in restored Sassi dwellings",
+      "2019 European Capital of Culture legacy projects",
+      "Contemporary art galleries in cave spaces",
+      "Rooftop restaurants with panoramic Sassi views (like Baccanti's stone terrace)",
+      "Hidden cave restaurants with movie rooms (La Lopa)",
+      "Matera as symbol of sustainable renovation - from 1950s 'shame of Italy' to UNESCO treasure"
+    ]
+  },
+  "wikipedia_search_term": "Matera",
+  "keywords_for_image": [
+    "Sassi di Matera",
+    "cave dwellings",
+    "Pane di Matera bread",
+    "limestone caves",
+    "rupestrian churches",
+    "Gravina gorge",
+    "fave e cicoria",
+    "peperoni cruschi",
+    "Basilicata cuisine",
+    "UNESCO World Heritage",
+    "troglodyte settlement",
+    "golden limestone",
+    "Italian cave city"
+  ],
+  "coordinates": {
+    "lat": 40.6663,
+    "lng": 16.6043
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Matera+🇮🇹/@40.6663,16.6043,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matera"
+  },
+  "location_id": 71
+}

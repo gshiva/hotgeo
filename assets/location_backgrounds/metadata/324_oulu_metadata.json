@@ -1,0 +1,94 @@
+{
+  "name": "Oulu",
+  "country": "Finland",
+  "fun_fact": "Fun fact: Oulu hosts the annual World Air Guitar Championships where contestants from around the globe compete by pretending to play guitar - no actual instruments allowed. The city also hosts 'Polar Bear Pitching' where startups pitch business ideas while standing waist-deep in an ice hole.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Poronkäristys (Sautéed Reindeer)",
+        "description": "Thinly sliced reindeer meat sautéed in butter until tender, traditionally served with mashed potatoes, lingonberry jam, and pickled cucumber",
+        "origin_story": "Reindeer herding has been central to Sami culture in northern Finland for millennia. What was once survival food for Arctic herders became Oulu's signature dish. The tender meat comes from semi-wild reindeer that roam Lapland's forests. Locals pair it with tart lingonberries - the sweet-savory combination is quintessentially Finnish.",
+        "where_to_find": "Sokeri-Jussin Kievari on Pikisaari island (traditional Northern Ostrobothnia recipes in historic sugar warehouse), Oula Kitchen & Bar at Lapland Hotels (Lappish-inspired decor with joik music), or Bistoria Patio (opened Feb 2024)"
+      },
+      {
+        "name": "Rössypottu",
+        "description": "Traditional Oulu blood sausage and potato stew with pork, onions - hearty, dark, and warming",
+        "origin_story": "Born from Oulu's harsh winters when nothing could be wasted, rössypottu combines blood sausage (mustamakkara) with potatoes and pork in a thick stew. It's peasant food elevated to regional pride. Locals eat it during the polar night when temperatures drop to -30°C and sunlight disappears for months.",
+        "where_to_find": "Oulu Market Hall vendors (traditional preparation), Sokeri-Jussin Kievari, or home kitchens during winter months"
+      },
+      {
+        "name": "Leipäjuusto with Cloudberry Jam",
+        "description": "Squeaky cheese (bread cheese) grilled until crusty, served warm with cloudberry or lingonberry jam - sweet, savory, and oddly squeaky when you chew",
+        "origin_story": "Made by curdling milk and baking it until it gets a toasted crust, leipäjuusto dates back centuries when Finnish farmers needed cheese that wouldn't spoil. The 'squeak' happens when cheese curds rub against your teeth. Cloudberries (lakka) grow in Arctic bogs - golden berries so prized they're called 'swamp gold.'",
+        "where_to_find": "Oulu Market Hall, Puistola (Scandinavian wine bar with bakery in Art Nouveau building), or any traditional Finnish cafe"
+      },
+      {
+        "name": "Lohikeitto (Salmon Soup)",
+        "description": "Creamy soup with fresh salmon, potatoes, carrots, leeks, and dill - warming and rich",
+        "origin_story": "Finland's coastal waters provide abundant salmon. This soup became a staple in fishing communities along the Gulf of Bothnia where Oulu sits. The cream and butter make it calorie-dense for Arctic winters. Finns eat it year-round, but it's essential comfort food during the months of darkness.",
+        "where_to_find": "Sokeri-Jussin Kievari (traditional version), Oulu Market Hall vendors, or Oula Kitchen & Bar"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sahti",
+        "description": "Ancient Finnish farmhouse ale flavored with juniper berries and branches instead of hops - cloudy, sweet, and strong (7-8% alcohol)",
+        "how_locals_drink_it": "Sahti is Finland's traditional beer, brewed for centuries before hops arrived. The juniper gives it a piney, slightly resinous flavor. In Oulu, it's drunk at celebrations, sauna gatherings, and during festivals. The beer is unfiltered and often served from wooden buckets. Don't drink too much - it's stronger than it tastes."
+      },
+      {
+        "name": "Finnish Coffee",
+        "description": "Extremely light roast coffee, brewed strong and served black - Finland has the world's highest per capita coffee consumption",
+        "how_locals_drink_it": "Finns drink coffee constantly - at breakfast, mid-morning break (kahvitauko is mandatory), after lunch, and evening. Oulu residents drink it to survive polar nights and midnight sun disruption. The light roast has more caffeine than dark roasts. Always served with pulla (cinnamon cardamom buns). Refusing coffee is mildly offensive."
+      }
+    ],
+    "food_culture_notes": [
+      "Oulu Market Hall and Market Square (Kauppatori) are the heart of local food - vendors sell smoked fish, reindeer, fresh Arctic berries, and pulla",
+      "Arctic Food Lab program celebrates local ingredients and traditional Arctic gastronomy - restaurants increasingly focus on hyperlocal sourcing",
+      "Cloudberries (lakka) are Arctic gold - these orange berries grow in bogs and are intensely prized, expensive, and protected (foraging laws apply)",
+      "Polar night (kaamos) lasts from late November to mid-January when sun barely rises - hearty stews and warm soups sustain Oulu residents"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Oulu Cathedral (1830-32) - neoclassical church, seat of bishopric since 1900",
+      "Nallikari Beach - sandy beach popular for Northern Lights viewing with minimal light pollution",
+      "Pikisaari - island of artists with historic wooden buildings and galleries",
+      "Technopolis - Scandinavia's oldest and most active science park"
+    ],
+    "atmosphere": [
+      "Gateway to Lapland, 200km south of Arctic Circle",
+      "Polar nights (November-January) and midnight sun (June-July) - extreme light variations",
+      "Northern Lights visible 30% of nights September-April",
+      "Fastest growing city in Arctic Europe, tech hub with University of Oulu (founded 1959)"
+    ],
+    "colors": [
+      "green and purple Northern Lights dancing overhead",
+      "white snow covering the city 5-6 months per year",
+      "golden cloudberries in summer bogs",
+      "dark blue polar night sky"
+    ],
+    "unique_modern": [
+      "Oulu 2026 European Capital of Culture",
+      "World Air Guitar Championships - contestants compete pretending to play guitar",
+      "Polar Bear Pitching - startups pitch business ideas while standing in ice holes",
+      "Finnish Meteorological Institute: 25-30% chance of seeing Northern Lights any given night"
+    ]
+  },
+  "wikipedia_search_term": "Oulu",
+  "keywords_for_image": [
+    "northern lights oulu finland",
+    "reindeer sauteed poronkaristys",
+    "oulu market hall kauppatori",
+    "leipajuusto squeaky cheese",
+    "nallikari beach winter"
+  ],
+  "coordinates": {
+    "lat": 65.0121,
+    "lng": 25.4651
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Oulu+🇫🇮/@65.0121,25.4651,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oulu"
+  },
+  "location_id": 324
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Toledo",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Toledo's famous marzipan was invented by nuns at Convento de San Clemente in the Middle Ages, and you can still buy the original recipe through a rotating wooden shelf at the cloistered convent!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Carcamusas",
+        "description": "Rich tomato-based pork stew with peas, garlic, paprika, and white wine",
+        "origin_story": "Toledo's most famous dish, born in local tabernas",
+        "where_to_find": "Traditional tabernas near Plaza de Zocodover, served as tapas"
+      },
+      {
+        "name": "Perdiz a la Toledana",
+        "description": "Braised partridge with garlic, onion, and bay leaf",
+        "origin_story": "The jewel of Toledo gastronomy, centuries-old hunting tradition",
+        "where_to_find": "Traditional restaurants throughout the old city"
+      },
+      {
+        "name": "Mazapán de Toledo",
+        "description": "Almond and sugar paste shaped into artistic figures",
+        "origin_story": "Created by medieval nuns, remains of Muslim past",
+        "where_to_find": "Santo Tomé bakery, Convento de San Clemente"
+      },
+      {
+        "name": "Migas Manchegas",
+        "description": "Fried breadcrumbs with garlic, chorizo, and grapes",
+        "origin_story": "Traditional shepherd's dish from La Mancha",
+        "where_to_find": "Rustic restaurants, especially in autumn and winter"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Wines of La Mancha",
+        "description": "Local wines from Uclés, Méntrida, and Valdepeñas regions",
+        "how_locals_drink_it": "With tapas at traditional tabernas"
+      },
+      {
+        "name": "Zurra",
+        "description": "Local sangria-like wine punch",
+        "how_locals_drink_it": "Summer refreshment at terraces"
+      }
+    ],
+    "food_culture_notes": [
+      "Toledo was 2016 Spanish Capital of Gastronomy",
+      "First Spanish cookbook was published in Toledo",
+      "Cuisine reflects Roman, Arab, and Jewish heritage",
+      "Manchego cheese from local Manchega sheep is essential"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Alcázar fortress",
+      "Toledo Cathedral",
+      "Puente de San Martín bridge",
+      "El Greco views"
+    ],
+    "atmosphere": [
+      "medieval stone walls",
+      "narrow cobblestone streets",
+      "Tagus River gorge",
+      "hilltop city silhouette"
+    ],
+    "colors": [
+      "golden stone",
+      "terracotta roofs",
+      "deep blue sky",
+      "river green"
+    ],
+    "unique_modern": [
+      "three cultures city (Christian, Muslim, Jewish)",
+      "sword-making tradition"
+    ]
+  },
+  "wikipedia_search_term": "Toledo,_Spain",
+  "keywords_for_image": [
+    "carcamusas stew",
+    "marzipan figures",
+    "Toledo Cathedral spires",
+    "Alcázar fortress",
+    "medieval walls",
+    "Tagus River gorge",
+    "hilltop city"
+  ],
+  "coordinates": {
+    "lat": 39.8628,
+    "lng": -4.0273
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Toledo+🇪🇸/@39.8628,-4.0273,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toledo,_Spain"
+  },
+  "location_id": 4
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Salamanca",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Salamanca's hornazo meat pie has been eaten every Easter Monday since the 16th century as part of a tradition called Lunes de Aguas - when men left the city to picnic while women stayed behind with priests, the hearty pastry sustained them outdoors for hours, creating a centuries-old ritual.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hornazo",
+        "description": "Meat-filled pastry made with pork, chorizo, lard, and eggs baked in a golden crust. Hearty, savory, traditionally eaten at Eastertime.",
+        "origin_story": "Dating back to the 16th century, hornazo was created for Easter Monday's Lunes de Aguas festival when men picnicked outside Salamanca. The portable meat pie sustained them for hours outdoors and became a beloved tradition that continues today.",
+        "where_to_find": "Traditional bakeries throughout Salamanca, especially popular around Easter but available year-round at local pastelerías"
+      },
+      {
+        "name": "Farinato",
+        "description": "Orange-colored cooked sausage made from pork fat, bread, and onion with a soft texture. Often served as tapas.",
+        "origin_story": "A regional Salamanca recipe adapted to tapas culture. Despite resembling fresh-meat sausages, farinato has a uniquely soft texture and distinctive flavor from the bread and onion mixture.",
+        "where_to_find": "Served in bars and restaurants throughout Salamanca as tapas, Casa Paca (traditional Castilian cuisine)"
+      },
+      {
+        "name": "Guijuelo Ham (Jamón)",
+        "description": "Air-cured acorn-fed Iberian ham from pigs that graze in Salamanca's oak pastures. Considered by many to be Spain's finest ham.",
+        "origin_story": "Guijuelo, a town near Salamanca, produces ham that many Spaniards consider the best available. The region's unique microclimate, altitude, and centuries-old curing techniques create unparalleled flavor and texture.",
+        "where_to_find": "Available at most restaurants, Casa Paca (traditional establishment), OroViejo (characterful 17th-century building)"
+      },
+      {
+        "name": "Patatas Revolconas (Meneadas)",
+        "description": "Potatoes cooked with lots of paprika and topped with pork scratchings. Warm, filling, perfect for cold days.",
+        "origin_story": "This dish is served in every bar and restaurant in Salamanca and is a hugely popular choice with locals. The name 'revolconas' means 'rolled around,' referring to how the potatoes are mixed with the paprika.",
+        "where_to_find": "Found throughout Salamanca, Restaurante El Mesón de Gonzalo (operating since 1947), traditional Castilian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ribera del Duero Wine",
+        "description": "Red wines from the Ribera del Duero region, full-bodied and complex with dark fruit flavors.",
+        "how_locals_drink_it": "Paired with Salamanca's meat-heavy Castilian cuisine. Wine lists in Salamanca restaurants feature extensive local selections. Locals take wine seriously, favoring regional producers."
+      },
+      {
+        "name": "Sierra de Salamanca Wine",
+        "description": "Local wines from the Sierra de Salamanca region, less famous than Ribera del Duero but equally prized by locals.",
+        "how_locals_drink_it": "Enjoyed at restaurants throughout the city, often recommended by sommeliers as hidden gems. The local pride in Sierra de Salamanca wines is strong."
+      }
+    ],
+    "food_culture_notes": [
+      "Salamanca's food is typical of interior Castilla - meaty dishes reflecting the vast countryside and highland pastures",
+      "The city's university heritage means tapas bars cater to students, creating an affordable and vibrant bar scene",
+      "Guijuelo ham is Salamanca's pride - the region's acorn pastures and curing traditions create what many consider Spain's finest jamón",
+      "Traditional dishes like hornazo connect modern Salamanca to centuries-old festival traditions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Plaza Mayor",
+      "University of Salamanca",
+      "New Cathedral",
+      "Casa de las Conchas"
+    ],
+    "atmosphere": [
+      "golden sandstone architecture",
+      "university student energy",
+      "medieval streets",
+      "Plaza Mayor gatherings"
+    ],
+    "colors": [
+      "sandstone golden glow",
+      "deep Castilian red wines",
+      "hornazo pastry gold",
+      "autumn harvest colors"
+    ],
+    "unique_modern": [
+      "contemporary tapas innovation",
+      "historic restaurant conversions",
+      "university town nightlife",
+      "blend of medieval and modern"
+    ]
+  },
+  "wikipedia_search_term": "Salamanca",
+  "keywords_for_image": [
+    "Plaza Mayor",
+    "Castilian cuisine",
+    "jamón ibérico",
+    "university city",
+    "sandstone architecture"
+  ],
+  "coordinates": {
+    "lat": 40.9701,
+    "lng": -5.6635
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Salamanca+🇪🇸/@40.9701,-5.6635,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salamanca"
+  },
+  "location_id": 286
+}

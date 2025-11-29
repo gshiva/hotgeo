@@ -1,0 +1,94 @@
+{
+  "name": "Brno",
+  "country": "Czech Republic",
+  "fun_fact": "Fun fact: Brno is home to the Villa Tugendhat, a UNESCO World Heritage modernist masterpiece, and it's where Gregor Mendel discovered the laws of genetic inheritance while breeding pea plants in a monastery garden.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Svíčková na Smetaně",
+        "description": "Tender beef sirloin in creamy vegetable sauce, served with bread dumplings, cranberry sauce, and whipped cream",
+        "origin_story": "This is THE Czech national dish - true comfort food that every Czech grandmother makes differently but everyone agrees is essential. The beef is marinated in a creamy sauce made from pureed root vegetables, creating silky richness. The dollop of whipped cream on top isn't optional, it's tradition.",
+        "where_to_find": "Lokál U Caipla (near the cathedral - popular pub serving traditional Czech classics including svíčková), Pivnice U Čápa (historic pub in heart of Brno - traditional Czech and Moravian cuisine)"
+      },
+      {
+        "name": "Vepřo Knedlo Zelo",
+        "description": "Roast pork with dumplings and sauerkraut - the Czech holy trinity of flavors",
+        "origin_story": "This dish represents Czech cooking's Germanic influences. Tender roasted pork with crispy crackling, served with sliced bread dumplings that soak up the gravy and tangy sauerkraut that cuts the richness. Simple ingredients elevated through perfect execution - it's Czech soul food.",
+        "where_to_find": "Restaurant Špalíček (renowned for traditional preparation of Vepřo knedlo zelo), traditional Czech pubs throughout Brno"
+      },
+      {
+        "name": "Trdelník",
+        "description": "Cylindrical pastry grilled over open flame, coated in sugar and walnuts - sweet, crispy outside with soft doughy center",
+        "origin_story": "While more common in Prague, trdelník (chimney cake) is found throughout Czech Republic. The dough is wrapped around a wooden roller, grilled over charcoal, then rolled in cinnamon sugar and chopped walnuts. The result is part donut, part cinnamon roll, entirely addictive.",
+        "where_to_find": "Trdelníkické Hody (city center - offers both classic and innovative flavor combinations), street vendors in Old Town"
+      },
+      {
+        "name": "Traditional Czech Dumplings (Knedlíky)",
+        "description": "Sliced bread dumplings or potato dumplings, essential for soaking up Czech sauces and gravies",
+        "origin_story": "Czech cuisine is built on knedlíky - without dumplings, there's no meal. These aren't fluffy like Chinese dumplings; they're dense, sliceable, and designed to absorb sauces. Made from bread or potatoes, they're the foundation of every traditional Czech plate.",
+        "where_to_find": "Every traditional Czech restaurant - they accompany svíčková, goulash, and roast pork dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Moravian Wine",
+        "description": "White wines from the surrounding Moravian wine region - Grüner Veltliner, Welschriesling, Müller-Thurgau",
+        "how_locals_drink_it": "Moravia is the Czech Republic's premier wine region. Brno sits surrounded by vineyard-covered hills. Locals drink Moravian whites with dinner - crisp, mineral, food-friendly. The rolling hills around Brno produce some of Central Europe's best wines that rarely leave the region."
+      },
+      {
+        "name": "Czech Pilsner",
+        "description": "The original pilsner-style beer - crisp, golden, hoppy perfection from nearby Pilsen",
+        "how_local drink it": "Beer is cheaper than water in Czech Republic. Served from tank (tankovna) at traditional pubs for ultimate freshness. Pilsner Urquell straight from the tank is religious experience. Locals drink it throughout meals and evenings at hospodas (pubs)."
+      }
+    ],
+    "food_culture_notes": [
+      "Zelný trh market dates to the 13th century - find fresh produce, artisan cheeses, meats, and traditional Czech breads",
+      "Czech portions are enormous - don't order too much. One svíčková is a complete meal.",
+      "Whipped cream on svíčková isn't garnish - it's essential part of the dish, tempering the richness",
+      "Brno is the gateway to Moravian wine country - locals take their wine as seriously as their beer"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Špilberk Castle",
+      "Villa Tugendhat (UNESCO)",
+      "Cathedral of St. Peter and Paul",
+      "Zelný trh market"
+    ],
+    "atmosphere": [
+      "Moravian wine country",
+      "modernist architecture",
+      "university city energy",
+      "Czech tradition"
+    ],
+    "colors": [
+      "golden pilsner",
+      "cranberry sauce red",
+      "Moravian vineyard green",
+      "whipped cream white"
+    ],
+    "unique_modern": [
+      "UNESCO modernist architecture",
+      "University city culture",
+      "Gateway to Moravian wine region",
+      "Mendel's genetics legacy"
+    ]
+  },
+  "wikipedia_search_term": "Brno",
+  "keywords_for_image": [
+    "Brno Czech Republic",
+    "svíčková beef cream sauce",
+    "Czech dumplings",
+    "Moravian vineyard",
+    "Špilberk Castle"
+  ],
+  "coordinates": {
+    "lat": 49.1951,
+    "lng": 16.6068
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Brno+🇨🇿/@49.1951,16.6068,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brno"
+  },
+  "location_id": 260
+}

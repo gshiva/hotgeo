@@ -1,0 +1,85 @@
+{
+  "name": "Frankfurt",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Frankfurt's Apfelwein (apple wine) culture dates back centuries, and every sip reflects the soul and history of the Hessian region. The traditional ribbed glass with a diamond pattern is part of Frankfurt's cultural heritage!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Frankfurter Grüne Soße (Frankfurt Green Sauce)",
+        "description": "Frankfurt's culinary flagship - a cold sauce made from exactly seven herbs: chives, parsley, chervil, borage, sorrel, burnet and cress. The herbs must be grown in or around Frankfurt for the sauce to merit the eponymous word in its name.",
+        "origin_story": "This fresh, herb-packed sauce has been the city's signature dish for centuries. The seven-herb combination creates a characteristic fresh flavor that often surprises first-time tasters who expect a warm sauce.",
+        "where_to_find": "Served cold with boiled eggs and jacket potatoes, or as a fresh dip with fish or schnitzel at traditional Ebbelwei-Wirtschaften (apple wine pubs). Try Apfelweinwirtschaft Wagner (family-run since 1931) or Zum Gemalten Haus in Sachsenhausen."
+      },
+      {
+        "name": "Frankfurter Schnitzel with Grüne Soße",
+        "description": "Veal schnitzel served with Frankfurt's famous green sauce and fried potatoes - the ultimate traditional Frankfurt meal.",
+        "origin_story": "This combination represents the heart of Frankfurt cuisine, pairing the tender veal schnitzel with the city's beloved seven-herb sauce.",
+        "where_to_find": "Zum Gemalten Haus in Sachsenhausen district serves this iconic combination in an authentic apple wine tavern atmosphere."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Apfelwein (Ebbelwoi)",
+        "description": "Apple wine pressed from the juiciest apples, fermented to create an unmistakably refreshing, slightly tangy flavor. Deeply rooted in Hessian tradition with a history stretching back centuries.",
+        "how_locals_drink_it": "Traditionally enjoyed from a ribbed glass with a diamond pattern (Geripptes). Purists drink it straight, but there are variations: 'Sauergespritzter' (mixed with mineral water) or 'Süßgespritzter' (mixed with lemonade for a softer flavor). Served in traditional Ebbelwei-Wirtschaften."
+      }
+    ],
+    "food_culture_notes": [
+      "Traditional apple wine pubs (Ebbelwei-Wirtschaften) are the centerpiece of Frankfurt's cultural heritage, especially concentrated in Sachsenhausen on the southern side of the river Main",
+      "Frankfurt has a diverse dining scene beyond traditional food, with top-tier restaurants offering both traditional and contemporary cuisine at the highest level",
+      "The communal wooden tables in traditional taverns like Atschel (founded 1849) create a beer hall-style atmosphere where locals and visitors share meals together",
+      "Other traditional restaurants include Apfelweinwirtschaft Dauth-Schneider (known for generous portions of schnitzel and flammkuchen), Atschel, Frau Rauscher, Apfelwein Dax, and Apfelwein Solzer"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sachsenhausen district with traditional half-timbered buildings",
+      "River Main with bridges connecting the old town",
+      "Traditional Ebbelwei-Wirtschaften with outdoor seating",
+      "Historic taverns with wooden communal tables",
+      "Frankfurt's modern skyline (Europe's financial center)"
+    ],
+    "atmosphere": [
+      "Cozy apple wine taverns with communal seating",
+      "Outdoor beer garden-style settings",
+      "Traditional German gemütlichkeit (coziness)",
+      "Mix of historic charm and modern city life",
+      "Lively tavern culture with locals gathering over Apfelwein"
+    ],
+    "colors": [
+      "Golden amber of Apfelwein in ribbed glasses",
+      "Bright green of the seven-herb Grüne Soße",
+      "Warm wood tones of traditional tavern interiors",
+      "Red-checked tablecloths in classic taverns",
+      "Golden-brown of crispy schnitzel"
+    ],
+    "unique_modern": [
+      "Contrast between historic Sachsenhausen taverns and Frankfurt's modern banking skyscrapers",
+      "Family-run establishments maintaining centuries-old traditions",
+      "The distinctive ribbed Apfelwein glasses (Geripptes) as cultural icons",
+      "Frankfurt's dual identity as both a financial powerhouse and guardian of traditional Hessian culture"
+    ]
+  },
+  "wikipedia_search_term": "Frankfurt",
+  "keywords_for_image": [
+    "Frankfurt Apfelwein",
+    "Grüne Soße",
+    "Frankfurt green sauce",
+    "Sachsenhausen tavern",
+    "Ebbelwei Wirtschaft",
+    "Frankfurt traditional food",
+    "ribbed Apfelwein glass",
+    "Frankfurt River Main",
+    "German apple wine",
+    "Frankfurt food culture"
+  ],
+  "coordinates": {
+    "lat": 50.1109,
+    "lng": 8.6821
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Frankfurt+🇩🇪/@50.1109,8.6821,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frankfurt"
+  },
+  "location_id": 116
+}

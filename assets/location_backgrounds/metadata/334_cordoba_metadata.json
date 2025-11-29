@@ -1,0 +1,94 @@
+{
+  "name": "Cordoba",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Cordoba hosts 'The White Night of Flamenco' - an all-night citywide flamenco festival unique in the world. Also, the Mezquita-Cathedral is an architectural impossibility: an 8th-century mosque with a 16th-century Renaissance cathedral built right in the middle, creating one of history's most unusual buildings.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Salmorejo",
+        "description": "Thick, creamy cold tomato soup blended with bread, garlic, olive oil, and sherry vinegar - topped with jamón and hard-boiled egg",
+        "origin_story": "Salmorejo is Cordoba's answer to gazpacho, but thicker and richer. Farm workers created it using stale bread, ripe tomatoes, and olive oil - ingredients always available in Andalusia. The bread makes it creamy without dairy. The jamón and egg toppings add protein. Perfect for blazing Cordoban summers when temperatures hit 45°C (113°F).",
+        "where_to_find": "Traditional tabernas throughout Cordoba's historic center, near the Mezquita, or at tapas bars in the Jewish Quarter"
+      },
+      {
+        "name": "Flamenquín",
+        "description": "Pork loin wrapped around jamón serrano and cheese, rolled, breaded, and deep-fried golden - served sliced to show the spiral",
+        "origin_story": "This hefty Cordoban specialty resembles a large croquette. The name means 'little flamenco' possibly because the spiral inside looks like a flamenco dancer's ruffled dress when sliced. It's protein-packed comfort food, invented when Cordobans wrapped leftover pork around jamón scraps. Now it's a point of local pride.",
+        "where_to_find": "Traditional Cordoban taverns, tapas bars in the Jewish Quarter, or restaurants near the Mezquita"
+      },
+      {
+        "name": "Rabo de Toro (Oxtail Stew)",
+        "description": "Bull's tail slow-braised in red wine with vegetables until the meat falls off the bone - rich, gelatinous, deeply savory",
+        "origin_story": "Cordoba's bullfighting tradition created this dish - using the toro's tail after corridas (bullfights). The meat is tough, requiring hours of slow cooking. The result is intensely flavorful, almost like French boeuf bourguignon. Locals eat it during Feria de Córdoba (May fair week) and at traditional taverns year-round.",
+        "where_to_find": "Traditional Cordoban restaurants, especially during Feria de Córdoba week in late May"
+      },
+      {
+        "name": "Berenjenas con Miel (Fried Eggplant with Honey)",
+        "description": "Thin slices of eggplant fried crispy, drizzled with local honey or cane molasses",
+        "origin_story": "This dish shows Cordoba's Moorish heritage - the sweet-savory combination is quintessentially Arabic. During the 8th-10th centuries when Cordoba was the capital of the Umayyad Caliphate, it was Western Europe's largest, most cultured city. The Moors brought eggplants and honey-drizzling traditions that survive today.",
+        "where_to_find": "Tapas bars throughout Cordoba, especially in the Jewish Quarter (Judería)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Montilla-Moriles Wine",
+        "description": "Sherry-style wine from nearby Montilla region - dry, crisp, slightly nutty",
+        "how_locals_drink_it": "Cordoba's local wine comes from Montilla-Moriles DO, made like sherry but from Pedro Ximénez grapes. Locals drink the dry fino style chilled as an aperitif with tapas, especially olives and jamón. During Feria de Córdoba (May fair), everyone drinks it at the casetas (festival tents) while dancing sevillanas."
+      },
+      {
+        "name": "Rebujito",
+        "description": "Mix of Montilla-Moriles sherry and lemon soda (Sprite or 7-Up) - refreshing, slightly sweet, dangerously easy to drink",
+        "how_locals_drink_it": "The official drink of Andalusian fairs. During Feria de Córdoba, rebujito flows in plastic cups from morning to dawn. It's deceptively strong - the sweet soda masks the alcohol. Locals warn tourists: 'Rebujito makes you dance like a pro, then fall like a fool.'"
+      }
+    ],
+    "food_culture_notes": [
+      "Feria de Córdoba (late May) is week-long festival dating to 13th century - expect flamenco, rebujito, and traditional foods",
+      "Festival de Patios (May) showcases Cordoba's flower-filled courtyards open to visitors",
+      "Jewish Quarter (Judería) near the Mezquita has historic taverns and tapas bars",
+      "Cordoba can hit 45°C (113°F) in summer - cold soups like salmorejo are survival food, not just tradition"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mezquita-Cathedral - 8th-century mosque with Renaissance cathedral built inside, UNESCO World Heritage Site",
+      "Roman Bridge over Guadalquivir River - 16 arches dating to 1st century BC",
+      "Jewish Quarter (Judería) - maze of narrow whitewashed streets and flower-filled patios",
+      "Alcázar de los Reyes Cristianos - 14th-century fortress palace with gardens"
+    ],
+    "atmosphere": [
+      "Capital of Umayyad Caliphate 8th-10th centuries - was Western Europe's largest, most cultured city",
+      "Whitewashed buildings with geranium-filled balconies and patios",
+      "Extreme heat in summer (often hottest city in Europe)",
+      "Flamenco guitar echoing from taverns in the Jewish Quarter"
+    ],
+    "colors": [
+      "red tomato of salmorejo",
+      "white-washed buildings",
+      "vibrant geraniums and bougainvillea",
+      "striped arches inside the Mezquita - red brick and white stone"
+    ],
+    "unique_modern": [
+      "The White Night of Flamenco - all-night citywide festival unique in the world",
+      "Mezquita's forest of 856 columns with horseshoe arches creates hypnotic optical effect",
+      "Festival de Patios (May) - private courtyards compete for most beautiful flower displays",
+      "Cordoba was birthplace of philosopher Seneca and Maimonides"
+    ]
+  },
+  "wikipedia_search_term": "Córdoba,_Spain",
+  "keywords_for_image": [
+    "cordoba mezquita cathedral",
+    "salmorejo soup cordoba",
+    "cordoba patios flowers",
+    "flamenco andalusia",
+    "roman bridge cordoba"
+  ],
+  "coordinates": {
+    "lat": 37.8882,
+    "lng": -4.7794
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cordoba+🇪🇸/@37.8882,-4.7794,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Córdoba,_Spain"
+  },
+  "location_id": 334
+}

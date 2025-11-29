@@ -1,0 +1,94 @@
+{
+  "name": "Memphis",
+  "country": "USA",
+  "fun_fact": "Fun fact: Memphis is the birthplace of rock 'n' roll (Elvis recorded at Sun Studio), soul music (Stax Records), and Memphis-style BBQ - the city's three greatest contributions to American culture all involve smoke, soul, and rhythm.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Memphis Dry Rub Ribs",
+        "description": "Pork ribs coated in dry spice rub, slow-smoked over hickory, served without sauce (or sauce on the side) - Memphis BBQ's signature",
+        "origin_story": "Memphis BBQ is defined by dry rub - a secret blend of spices applied before smoking. Unlike Kansas City's thick sauce or Texas brisket, Memphis lets the smoke and spice do the talking. Rendezvous (since 1948) claims to have invented this style, but every pit master has their secret rub recipe. The ribs should pull cleanly from bone with slight tug - fall-off-the-bone means overcooked to Memphis purists.",
+        "where_to_find": "Charlie Vergos' Rendezvous (basement down famous alley at 52 S 2nd St since 1948 - charcoal-grilled dry rub ribs, celebrities and locals), Central BBQ (downtown steps from Beale Street, award-winning, ribs served wet/dry/both), Corky's Bar-B-Q (40+ years, signature fall-off-the-bone ribs)"
+      },
+      {
+        "name": "Pulled Pork Sandwich",
+        "description": "Slow-smoked pork shoulder pulled into tender shreds, piled on white bread with coleslaw on top - Memphis classic",
+        "origin_story": "Pork is king in Memphis BBQ. Shoulder smoked for 12+ hours becomes so tender it pulls apart by hand. Serving it on white bread (not fancy buns) with slaw piled ON TOP (not on the side) is Memphis tradition. The bread soaks up juices, slaw adds crunch and tang. It's working-class food elevated to art.",
+        "where_to_find": "Payne's (chopped pork sandwiches with slaw - local favorite), Central BBQ, The Bar-B-Q Shop"
+      },
+      {
+        "name": "BBQ Spaghetti",
+        "description": "Spaghetti tossed with pulled pork and BBQ sauce - Memphis' weird, wonderful creation",
+        "origin_story": "Only in Memphis would someone put BBQ pulled pork on spaghetti and create genius. The Bar-B-Q Shop originated this dish that sounds wrong but tastes so right. Tangy BBQ sauce becomes pasta sauce, smoky pork replaces meatballs. It's the kind of innovation that happens when BBQ culture meets Southern soul food.",
+        "where_to_find": "The Bar-B-Q Shop (originated BBQ spaghetti), various Memphis BBQ joints that copied the innovation"
+      },
+      {
+        "name": "Smoked Wings and Cornish Hen",
+        "description": "Chicken wings or whole Cornish game hens slow-smoked until tender, with Memphis dry rub or sauce",
+        "origin_story": "Memphis pitmasters smoke everything. Wings get the same respect as ribs - dry rub, hickory smoke, time. Cozy Corner's smoked Cornish game hen is legendary - whole hen infused with smoke. It's BBQ versatility showcased.",
+        "where_to_find": "Central BBQ (smoked wings are award-winning), Cozy Corner Bar-B-Q (Cornish game hen - named one of South's 20 Best BBQ Joints by Southern Living)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sweet Tea",
+        "description": "Ice-cold black tea sweetened heavily - Southern hospitality in a glass",
+        "how_locals_drink_it": "Served in huge glasses with ice at every BBQ joint. It's not optional - sweet tea and BBQ are inseparable. The sweetness cuts through smoky, savory meat. Locals drink it all day, refilled constantly."
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "Memphis craft beer scene complements BBQ culture - malty, hoppy, refreshing",
+        "how_locals_drink_it": "Ice-cold beer pairs perfectly with dry rub ribs. Local breweries create beers specifically designed to complement BBQ's smoke and spice. Served in frosty mugs or bottles at casual BBQ joints."
+      }
+    ],
+    "food_culture_notes": [
+      "Memphis BBQ is dry rub first - sauce on the side is acceptable, drowning ribs in sauce is tourist behavior",
+      "Rendezvous's famous alley entrance (down at 52 S 2nd St) has hosted celebrities and presidents since 1948",
+      "BBQ spaghetti sounds crazy but it's Memphis genius - don't knock it until you try it",
+      "Downtown Memphis BBQ joints are steps from Beale Street, National Civil Rights Museum, and Orpheum Theatre - eat before exploring music history"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Beale Street",
+      "Graceland",
+      "Sun Studio",
+      "National Civil Rights Museum (Lorraine Motel)"
+    ],
+    "atmosphere": [
+      "blues music spilling from bars",
+      "BBQ smoke haze",
+      "Mississippi River",
+      "Elvis everywhere"
+    ],
+    "colors": [
+      "hickory smoke gray",
+      "dry rub red-brown",
+      "neon Beale Street",
+      "Mississippi River muddy"
+    ],
+    "unique_modern": [
+      "Birthplace of rock 'n' roll and soul",
+      "BBQ capital of America",
+      "FedEx global hub",
+      "Stax Records legacy"
+    ]
+  },
+  "wikipedia_search_term": "Memphis,_Tennessee",
+  "keywords_for_image": [
+    "Memphis Beale Street neon",
+    "BBQ ribs dry rub smoke",
+    "Graceland Elvis",
+    "Mississippi River Memphis",
+    "blues guitar"
+  ],
+  "coordinates": {
+    "lat": 35.1495,
+    "lng": -90.049
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Memphis+🇺🇸/@35.1495,-90.049,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Memphis,_Tennessee"
+  },
+  "location_id": 265
+}

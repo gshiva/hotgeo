@@ -1,0 +1,94 @@
+{
+  "name": "Moscow",
+  "country": "Russia",
+  "fun_fact": "Fun fact: Café Pushkin recreates a 19th-century Russian noble's library so convincingly that tourists often ask how old the building is—it actually opened in 1999, but the antique books, old manuscripts, and period furniture make it feel like time travel.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Borscht at Café Pushkin",
+        "description": "Deep crimson beet soup with tender beef, cabbage, and a dollop of sour cream—served in elegant porcelain with old-world refinement",
+        "origin_story": "Café Pushkin opened in 1999 but designed every detail to transport guests to the first half of the 19th century. The menu uses recipes inspired by Russian nobility, and the borscht is prepared with modern technique but traditional soul",
+        "where_to_find": "Café Pushkin (Tverskoy Boulevard)—one of Moscow's most atmospheric restaurants"
+      },
+      {
+        "name": "Pelmeni at Lepim i Varim",
+        "description": "Plump dumplings stuffed with fresh beef and pork, boiled until tender and served with sour cream or butter—simple, comforting, and never frozen",
+        "origin_story": "Lepim i Varim ('Shaping and Boiling') claims to use meat that's fresh and never frozen. Their name describes exactly what they do: make pelmeni from scratch all day long, with multiple fillings from traditional to creative",
+        "where_to_find": "Lepim i Varim (Stoleshnikov Lane 9/1)—watch them make pelmeni through the window"
+      },
+      {
+        "name": "Blini at Teremok",
+        "description": "Thin Russian pancakes filled with caviar, smoked salmon, mushrooms, or sweet fillings like condensed milk and jam—endlessly versatile",
+        "origin_story": "Teremok operates 350+ outlets across Russia, serving freshly made blini on-site. What started as fast food became a national chain preserving Russian breakfast traditions. Their blini are made fresh, not pre-cooked",
+        "where_to_find": "Teremok (350+ locations across Moscow)—Russian fast food at its finest"
+      },
+      {
+        "name": "Beef Stroganoff at Grand Café Dr. Zhivago",
+        "description": "Tender strips of beef in rich sour cream sauce, served over rice or noodles—the Russian classic elevated to fine dining",
+        "origin_story": "Dr. Zhivago sits right by Red Square, offering Kremlin views with your meal. The traditional dishes get modern twists, but the beef stroganoff stays true to the 19th-century original created by a French chef for Russian aristocrats",
+        "where_to_find": "Grand Café Dr. Zhivago (Mokhovaya St. 15/1)—Red Square views included"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vodka (Beluga, Russian Standard)",
+        "description": "Ice-cold, crystal-clear vodka served neat in frozen shot glasses—Russia's national spirit",
+        "how_locals_drink_it": "Always frozen and served with zakuski (appetizers) like pickles, herring, and black bread. Toasts are mandatory before each shot. Never sip—down it in one gulp, then chase with food"
+      },
+      {
+        "name": "Kvass",
+        "description": "Fermented rye bread drink with a slightly sweet, malty, tangy flavor—like a non-alcoholic beer",
+        "how_locals_drink_it": "Sold from street tanks in summer, served ice-cold. It's refreshing, slightly fizzy, and has been drunk for over 1,000 years. Locals consider it healthier than soda"
+      }
+    ],
+    "food_culture_notes": [
+      "Moscow's restaurant scene recreates Imperial Russia with obsessive detail—Café Pushkin's antique library feels more authentic than actual 19th-century buildings",
+      "Pelmeni are to Russians what dumplings are to Chinese—every region claims the best version",
+      "Teremok proves fast food can be traditional—blini made fresh on-site at 350+ locations",
+      "Zakuski (appetizer spreads) are essential with vodka—pickles, herring, caviar, and black bread"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Red Square and St. Basil's Cathedral",
+      "Kremlin walls",
+      "Moscow Metro stations (underground palaces)",
+      "Bolshoi Theatre"
+    ],
+    "atmosphere": [
+      "ornate 19th-century interiors",
+      "steaming bowls of borscht",
+      "old Russian manuscripts and antique books",
+      "grand chandeliers and wooden booths"
+    ],
+    "colors": [
+      "deep crimson borscht",
+      "white sour cream swirls",
+      "golden blini",
+      "red Kremlin walls and onion domes"
+    ],
+    "unique_modern": [
+      "Café Pushkin's 1999 building designed to feel 200 years old",
+      "Teremok's 350+ fast-food blini empire",
+      "SibirSibir's research trips to remote Siberian villages for authentic recipes",
+      "Moscow Metro stations doubling as marble palaces"
+    ]
+  },
+  "wikipedia_search_term": "Moscow",
+  "keywords_for_image": [
+    "Red Square St Basil's Cathedral",
+    "Russian borscht sour cream",
+    "pelmeni dumplings",
+    "blini pancakes caviar",
+    "Kremlin Moscow"
+  ],
+  "coordinates": {
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Moscow+🇷🇺/@55.7558,37.6173,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moscow"
+  },
+  "location_id": 223
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Rennes",
+  "country": "France (Brittany)",
+  "fun_fact": "Fun fact: Rennes is the heart of Brittany's cider production - 84% of Brittany's cider (which represents 40% of all cider consumed in France) comes from within 60km of the city. The rivalry between Brittany and Normandy over who invented cider and who makes the best is legendary. Rennes has its own master crêpier college at the Centre Culinaire Contemporain where students spend hours learning the art of wielding the traditional wooden rozell rake.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Galette Complète",
+        "description": "Savory buckwheat crêpe filled with egg, ham, and cheese - crispy, light, and perfectly folded",
+        "origin_story": "The classic galette complète is the most iconic combination. Galettes are made from buckwheat flour (gluten-free) and originated in Haute-Bretagne (Upper Brittany). The exact shade varies based on the buckwheat flour type used",
+        "where_to_find": "La Saint-Georges (contemporary approach in a stunning half-timbered house with galettes named after famous Georges), La Motte Picquet (opposite the cathedral, one of Rennes' oldest crêperies), Ar Pillig (organic ingredients)"
+      },
+      {
+        "name": "Galette-Saucisse",
+        "description": "Sausage wrapped in a buckwheat galette - the street food of Rennes, eaten like a hot dog",
+        "origin_story": "This sausage-stuffed buckwheat pancake is 'the food of the gods' and a symbol of the Breton capital, central to the Rennes experience. Found at any Rennes gathering, it embodies Breton cuisine: simple, unfussy, incredibly tasty",
+        "where_to_find": "Marché des Lices (the famous Saturday market) and crêperies throughout Rennes' old town"
+      },
+      {
+        "name": "Sweet Crêpes",
+        "description": "Thin wheat-flour crêpes with butter and sugar, honey and lemon, strawberries, salted caramel, or flambéed",
+        "origin_story": "Crêpes are sweet and come from Basse-Bretagne (Lower Brittany). They're the dessert counterpart to savory galettes, showcasing Brittany's famous salted butter",
+        "where_to_find": "All crêperies (Rennes has over 35), traditionally served after galettes"
+      },
+      {
+        "name": "Kig ha-farz",
+        "description": "Traditional Breton dish of meats stewed with buckwheat stuffing",
+        "origin_story": "A hearty Breton specialty that reflects the region's agricultural heritage and use of buckwheat",
+        "where_to_find": "Traditional Breton restaurants in Rennes"
+      },
+      {
+        "name": "Far Breton",
+        "description": "Flan-style custard cake studded with prunes, made with eggs, milk, flour, and sugar",
+        "origin_story": "Classic Breton dessert showcasing the region's dairy excellence and love of simple, rich sweets",
+        "where_to_find": "Pâtisseries and crêperies throughout Rennes"
+      },
+      {
+        "name": "Kouign Amann",
+        "description": "Layered, buttery pastry with caramelized sugar - one of the world's most decadent pastries",
+        "origin_story": "From Brittany, this pastry is made with generous amounts of Breton salted butter, creating crispy caramelized layers outside and soft buttery layers within",
+        "where_to_find": "Bakeries throughout Rennes and Brittany"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cidre Breton (Breton Cider)",
+        "description": "Apple cider in three styles - doux (sweet, under 3% alcohol), demi-sec (half-dry, 3-4%), and brut (dry, 5.5%)",
+        "how_locals_drink_it": "Served in bolées (small terracotta bowls) poured from a pitcher. Forget wine at the crêperie - cider is mandatory! Cidre doux pairs with sweet crêpes, cidre brut with savory galettes. The acidity cuts through the rich butter. Made from 600+ local apple varieties, protected by AOC status. Royal Guillevic is France's only Red Label Cider, called 'Breton champagne'"
+      },
+      {
+        "name": "Kir Breton",
+        "description": "Breton cider mixed with blackcurrant liqueur",
+        "how_locals_drink_it": "A Rennes specialty aperitif, fruity and refreshing, served before meals"
+      },
+      {
+        "name": "Chouchen",
+        "description": "Honey wine made from fermented honey and apple juice",
+        "how_locals_drink_it": "Produced in Brittany since Celtic times, served as a sweet digestif or aperitif"
+      },
+      {
+        "name": "Lambig and Fine de Bretagne",
+        "description": "Apple brandy (lambig) and white liqueur distilled from cider",
+        "how_locals_drink_it": "Sipped as digestifs after meals, showcasing Brittany's apple-based spirits tradition"
+      }
+    ],
+    "food_culture_notes": [
+      "Over 35 crêperies in Rennes alone - crêpes and galettes are the heart of Breton cuisine",
+      "Salted butter (beurre salé) is essential to Breton cooking, used in both sweet and savory dishes",
+      "Cider and crêpes/galettes pairing is unthinkable to skip for Bretons",
+      "The rozell (traditional wooden rake) technique for spreading batter is an art form taught at specialized schools",
+      "Marché des Lices is one of France's most famous markets, held Saturday mornings with incredible local produce",
+      "Production of cider dates back to the 8th century in Brittany; techniques refined since the 12th century",
+      "Brittany produces 40% of all French cider, with Rennes at the center of production",
+      "Cornouaille Cider was the first product from Brittany granted AOC (Appellation d'Origine Protégée) in 1996",
+      "Several Breton ciders are supplied to the Élysée Palace (French President's residence)",
+      "Breton cuisine reflects Celtic heritage and maritime culture"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Half-timbered medieval houses in old town",
+      "Place des Lices with famous Saturday market",
+      "Rennes Cathedral",
+      "Portes Mordelaises (medieval gates)",
+      "Parc du Thabor gardens",
+      "Parlement de Bretagne building",
+      "Vilaine River running through the city"
+    ],
+    "atmosphere": [
+      "Medieval architecture and cobblestone streets",
+      "University city energy (students everywhere)",
+      "Breton cultural pride and traditions",
+      "Market culture and local food focus",
+      "Lively crêperie terraces",
+      "Celtic heritage visible in festivals and music"
+    ],
+    "colors": [
+      "Timber browns and cream of half-timbered buildings",
+      "Golden cider amber",
+      "Dark buckwheat brown of galettes",
+      "Rich yellow Breton butter",
+      "Green and white of Breton flag",
+      "Gray stone of medieval buildings"
+    ],
+    "unique_modern": [
+      "Master crêpier training center (Centre Culinaire Contemporain)",
+      "Contemporary crêperies like La Saint-Georges with stylish decor",
+      "Protected AOC ciders with terroir recognition",
+      "University city blending students with ancient traditions",
+      "Thriving market culture at Marché des Lices",
+      "Modern take on galettes with creative fillings while honoring tradition"
+    ]
+  },
+  "wikipedia_search_term": "Rennes",
+  "keywords_for_image": [
+    "Rennes Brittany France",
+    "galette bretonne buckwheat",
+    "crêperie Rennes",
+    "Breton cider bolée",
+    "half-timbered houses Rennes",
+    "Marché des Lices",
+    "medieval Rennes old town",
+    "Brittany galette saucisse",
+    "cidre breton apple orchards",
+    "Place des Lices Rennes",
+    "Breton food culture",
+    "kouign amann pastry"
+  ],
+  "coordinates": {
+    "lat": 48.1173,
+    "lng": -1.6778
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rennes+🇫🇷/@48.1173,-1.6778,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rennes"
+  },
+  "location_id": 55
+}

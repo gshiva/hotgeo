@@ -1,0 +1,93 @@
+{
+  "name": "Liverpool",
+  "country": "UK",
+  "fun_fact": "Fun fact: The word 'Scouse' (Liverpool's dialect AND its signature stew) comes from 'Lobscouse' - a sailor's stew brought by Scandinavian sailors. Liverpudlians became so associated with the dish that they're literally nicknamed 'Scousers'!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Scouse",
+        "description": "A hearty lamb or beef stew with potatoes, carrots, and onions, served with beetroot and crusty bread",
+        "origin_story": "Brought by Norwegian and Baltic sailors, the name comes from 'lobscouse'. So central to Liverpool identity that locals are called 'Scousers'",
+        "where_to_find": "Maggie May's Café, The Baltic Fleet pub, traditional Liverpool cafés"
+      },
+      {
+        "name": "Wet Nelly",
+        "description": "A baked bread pudding made with leftover bread, dried fruit, and spices",
+        "origin_story": "A poor person's dessert from Victorian times, using stale bread. The 'wet' refers to the soaked bread texture",
+        "where_to_find": "Traditional bakeries, the Tate Liverpool café, heritage restaurants"
+      },
+      {
+        "name": "Liverpool Tart",
+        "description": "Open tart with lemon curd and a lattice pastry top",
+        "origin_story": "A local variation on Bakewell tart, popular in Liverpool bakeries for generations",
+        "where_to_find": "Sayers bakery, Greggs (local versions), traditional cafés"
+      },
+      {
+        "name": "Chippy Tea",
+        "description": "Fish and chips from the local chippy - Liverpool has legendary fish and chip shops",
+        "origin_story": "Liverpool's port heritage means excellent fresh fish. The 'chippy tea' is a working-class Friday tradition",
+        "where_to_find": "The Lobster Pot, Maggie Fu's, traditional chippies across the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Purple (Vimto)",
+        "description": "Liverpudlians love Vimto - the purple fruit cordial is practically the city drink",
+        "how_locals_drink_it": "With soda, in cocktails, or frozen as a slushy - purple is Liverpool"
+      },
+      {
+        "name": "Local Ales",
+        "description": "Liverpool has a thriving craft beer scene plus historic pubs serving real ale",
+        "how_locals_drink_it": "At historic pubs like The Philharmonic Dining Rooms or Black Lodge Brewery"
+      }
+    ],
+    "food_culture_notes": [
+      "The word 'Scouser' comes from the stew - you are what you eat!",
+      "Baltic Triangle is the hip food and drink neighborhood",
+      "Bold Street is incredibly diverse - every cuisine imaginable",
+      "Liverpool ONE brought modern dining options to the waterfront"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Royal Albert Dock",
+      "Liver Building with Liver Birds",
+      "The Cavern Club",
+      "Metropolitan Cathedral"
+    ],
+    "atmosphere": [
+      "maritime heritage",
+      "Beatles history",
+      "Victorian grandeur",
+      "football passion"
+    ],
+    "colors": [
+      "Liver Bird green",
+      "dock brick red",
+      "Mersey grey",
+      "Beatles black"
+    ],
+    "unique_modern": [
+      "UNESCO waterfront",
+      "two cathedrals",
+      "European Capital of Culture 2008"
+    ]
+  },
+  "wikipedia_search_term": "Liverpool",
+  "keywords_for_image": [
+    "scouse stew",
+    "fish and chips",
+    "Royal Albert Dock",
+    "Liver Building",
+    "maritime heritage"
+  ],
+  "coordinates": {
+    "lat": 53.4084,
+    "lng": -2.9916
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Liverpool+🇬🇧/@53.4084,-2.9916,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  "location_id": 181
+}

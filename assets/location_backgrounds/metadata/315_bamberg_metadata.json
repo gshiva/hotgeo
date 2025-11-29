@@ -1,0 +1,94 @@
+{
+  "name": "Bamberg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Bamberg's Rauchbier (smoked beer) dates back to medieval times when all beer was accidentally smoked from drying malt over beechwood fires - while other breweries modernized, Bamberg kept the tradition alive, and now tourists make pilgrimages just to taste this smoky, bacon-flavored beer that most people either love or hate.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Schäuferla",
+        "description": "Roasted pork shoulder cooked in beer-infused broth - the meat is fall-apart tender with impossibly crispy crackling skin",
+        "origin_story": "This is Franconian soul food at its finest. The pork shoulder is slow-roasted for hours, often in Rauchbier, creating meat so tender it barely needs a knife. The crackling is the prize",
+        "where_to_find": "Schlenkerla, Brauerei Spezial (paired with smoked beer)"
+      },
+      {
+        "name": "Blaue Zipfel",
+        "description": "Blue sausages simmered in tangy vinegar and wine broth, served with sauerkraut and fresh pretzels",
+        "origin_story": "The name comes from the sausages' bluish color after simmering in the spiced vinegar broth. This is a uniquely Franconian dish that showcases the region's love of bold, tangy flavors",
+        "where_to_find": "Schlenkerla (Dominikanerstraße 6 - served with sauerkraut and potatoes)"
+      },
+      {
+        "name": "Bamberg Zwiebel",
+        "description": "Ground pork and bacon mixture filled into a hollowed onion and slow-roasted, finished with Bamberg smoked beer",
+        "origin_story": "This labor-intensive dish is almost like meatloaf stuffed inside an onion. The addition of Rauchbier towards the end adds smoky depth and is pure Bamberg",
+        "where_to_find": "Schlenkerla (most popular place to order it)"
+      },
+      {
+        "name": "Bamberger Hörnla",
+        "description": "Both a rare potato variety and buttery, flaky pastry crescents - beloved regional specialties",
+        "origin_story": "The Bamberger Hörnla potato is so prized that top chefs seek it out. The pastry of the same name is equally beloved, showing Bamberg's dual culinary personality",
+        "where_to_find": "Local markets for potatoes, bakeries for pastries, top restaurants for both"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rauchbier (Smoked Beer)",
+        "description": "Beer made with malt dried over beechwood fires - intensely smoky, like drinking liquid bacon",
+        "how_locals_drink_it": "At Schlenkerla and Brauerei Spezial, the two most famous smoked beer breweries. It's an acquired taste - most people are shocked by the first sip but by the third they're converted"
+      },
+      {
+        "name": "Smoked Beer Truffle Hot Chocolate",
+        "description": "Smooth chocolate infused with Rauchbier - curious, elegant pairing of smoke and sweetness",
+        "how_locals_drink_it": "At Café am Dom around the corner from the Cathedral. They've taken Bamberg's famous smoked beer and paired it with perfect chocolate in truffle form"
+      }
+    ],
+    "food_culture_notes": [
+      "Schlenkerla is a well-established family-owned brewery known for unique smoked beer and traditional Bavarian cuisine",
+      "Brauerei Spezial follows traditional methods by malting its own grain over beechwood fire instead of buying from malting facilities",
+      "Klosterbrau brewery dates back to 1533, Fässla Brewery to 1649 - beer tradition runs deep",
+      "Bamberg remains one of Germany's most authentic and affordable hidden gems even in 2025"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Altes Rathaus on island in river",
+      "Bamberg Cathedral Romanesque spires",
+      "Little Venice riverside houses",
+      "Michaelsberg Abbey"
+    ],
+    "atmosphere": [
+      "medieval UNESCO Old Town",
+      "smoke from brewery chimneys",
+      "cobblestone streets unchanged for centuries",
+      "timber-framed houses"
+    ],
+    "colors": [
+      "amber smoked beer",
+      "golden crispy pork skin",
+      "blue-tinted sausages",
+      "red medieval rooftops"
+    ],
+    "unique_modern": [
+      "fairy-tale charm meeting beer culture",
+      "medieval town hall built on island",
+      "smoked beer tradition from Middle Ages",
+      "budget-friendly alternative to tourist-packed German cities"
+    ]
+  },
+  "wikipedia_search_term": "Bamberg",
+  "keywords_for_image": [
+    "Bamberg Germany",
+    "Altes Rathaus Bamberg",
+    "Rauchbier smoked beer",
+    "Little Venice Bamberg",
+    "medieval Old Town"
+  ],
+  "coordinates": {
+    "lat": 49.8988,
+    "lng": 10.9027
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bamberg+🇩🇪/@49.8988,10.9027,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bamberg"
+  },
+  "location_id": 315
+}

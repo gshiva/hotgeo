@@ -1,0 +1,103 @@
+{
+  "name": "Uppsala",
+  "country": "Sweden",
+  "fun_fact": "Fun fact: Uppsala University is Scandinavia's oldest university (founded 1477) and is where Carl Linnaeus - the 'father of modern taxonomy' - lived and worked for 35 years. The Linnaeus Garden, Sweden's oldest botanical garden (1655), was where potatoes were grown for the very first time in Sweden!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Swedish Meatballs (Köttbullar)",
+        "description": "Savory morsels of seasoned ground meat served with creamy mashed potatoes, lingonberry sauce, and cream gravy",
+        "origin_story": "A classic Swedish dish that became internationally famous. Uppsala's restaurants, both traditional and contemporary, pay homage to this iconic comfort food with modern and traditional interpretations.",
+        "where_to_find": "Traditional konditori and restaurants throughout Uppsala's historic quarter"
+      },
+      {
+        "name": "Sill (Herring)",
+        "description": "Fermented or pickled herring, often served as S.O.S. (smör, ost, sill - butter, cheese, and herring) on Swedish crisp bread",
+        "origin_story": "Dating back to Viking times when preservation methods like fermenting were vital for survival. These ancient traditions are still celebrated in festive Swedish dishes today.",
+        "where_to_find": "Traditional Swedish restaurants and konditori across Uppsala"
+      },
+      {
+        "name": "Kanelbullar (Cinnamon Buns)",
+        "description": "The most iconic Swedish treat - soft, spiral buns flavored with cinnamon and cardamom, often topped with pearl sugar",
+        "origin_story": "Central to Swedish 'fika' culture (coffee break), found in every café across Sweden. These buns represent the Swedish tradition of taking a break with coffee and something sweet.",
+        "where_to_find": "Güntherska Hovkonditori (family-run café across from Fyris river, bakes fresh daily), konditori throughout Uppsala"
+      },
+      {
+        "name": "Semla",
+        "description": "Seasonal cardamom-spiced wheat buns filled with almond paste and whipped cream, traditionally eaten before Easter",
+        "origin_story": "A beloved Swedish tradition appearing in cafés and bakeries in the weeks leading up to Easter",
+        "where_to_find": "Traditional konditori during semla season (January-Easter)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swedish Coffee",
+        "description": "Light roast coffee central to fika culture",
+        "how_locals_drink_it": "Consumed throughout the day during fika breaks, paired with cinnamon buns or other pastries at konditori (traditional cafés)"
+      },
+      {
+        "name": "Lördagsgodis (Saturday Candy)",
+        "description": "Not a drink but a cherished Swedish tradition of picking candy from bulk walls every Saturday - a colorful mix of sweet, sour, and salty treats",
+        "how_locals_drink_it": "N/A - but this tradition is so central to Swedish culture it deserves mention!"
+      }
+    ],
+    "food_culture_notes": [
+      "Uppsala's food scene emphasizes organic, locally-sourced produce served in season",
+      "The city combines classic Swedish food with international cuisine and innovative crossover concepts",
+      "Many restaurants focus on Swedish produce sourced from small-scale farms",
+      "Fika culture is world-renowned - taking a break for coffee and pastries is a daily ritual",
+      "As a major university city, Uppsala has a vibrant student food culture with diverse, affordable options"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Uppsala Cathedral (tallest church in Scandinavia)",
+      "Linnaeus Garden (Sweden's oldest botanical garden, 1655)",
+      "Uppsala Castle (pink Renaissance castle)",
+      "Fyris river running through the city",
+      "Linnaeus Museum (his residence 1743-1778)",
+      "University main building Gustavianum with its distinctive dome"
+    ],
+    "atmosphere": [
+      "Historic university town with cobblestone streets",
+      "Students cycling along the Fyris river",
+      "Cozy konditori cafés with locals enjoying fika",
+      "Botanical gardens and academic architecture",
+      "Charming wooden buildings in the classic quarter"
+    ],
+    "colors": [
+      "Golden-brown cinnamon buns with pearl sugar sparkle",
+      "Bright red lingonberry sauce",
+      "Pink Uppsala Castle",
+      "Green botanical gardens and linden trees",
+      "Cream and brown Swedish meatball gravy"
+    ],
+    "unique_modern": [
+      "Carl Linnaeus' legacy - the twinflower (Linnaea borealis) was his personal symbol",
+      "Linnaeus's name came from a linden tree near his father's house",
+      "The Linnaeus Garden houses 1,000+ species restored to his 1745 design",
+      "Uppsala is Sweden's fourth-largest city but maintains its historic charm",
+      "University culture blends centuries-old traditions with modern innovation"
+    ]
+  },
+  "wikipedia_search_term": "Uppsala",
+  "keywords_for_image": [
+    "uppsala cathedral scandinavia",
+    "linnaeus garden botanical sweden",
+    "swedish cinnamon buns fika",
+    "fyris river uppsala",
+    "kanelbullar pearl sugar",
+    "swedish meatballs lingonberry",
+    "university town cobblestone",
+    "pink uppsala castle"
+  ],
+  "coordinates": {
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Uppsala+🇸🇪/@59.8586,17.6389,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uppsala"
+  },
+  "location_id": 168
+}

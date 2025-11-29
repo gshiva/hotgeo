@@ -1,0 +1,94 @@
+{
+  "name": "Trieste",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Trieste was the main port of the Austro-Hungarian Empire until 1918, and locals still drink coffee like Vienna - ordering a 'capo in b' (espresso with a drop of milk in a glass) at grand café houses that have remained unchanged since the empire fell over a century ago.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gulasch with Polenta",
+        "description": "Hungarian-style beef stew slow-cooked with onions, paprika, tomatoes, and herbs, served with creamy polenta.",
+        "origin_story": "Trieste adopted the Hungarian national dish when it was the Austro-Hungarian Empire's only port. The local version uses Italian olive oil and herbs alongside Hungarian paprika, creating a unique Triestino fusion that's neither fully Italian nor Austrian.",
+        "where_to_find": "Buffet da Pepi (opened 1897, institution for Austro-Hungarian tradition), traditional buffets throughout Trieste"
+      },
+      {
+        "name": "Mixed Meat Platter at Buffet da Pepi",
+        "description": "Six different forms of mostly pork prepared using original kettle cooking technique - sausages, roasts, boiled meats, served cold or warm.",
+        "origin_story": "Buffet da Pepi has been serving this Austro-Hungarian specialty since 1897 using the same kettle cooking technique. The menu is exclusively meat, reflecting Vienna's influence on Trieste's working-class food culture.",
+        "where_to_find": "Buffet da Pepi (a true institution since 1897, exclusively meat menu)"
+      },
+      {
+        "name": "Jota",
+        "description": "Hearty stew made with beans, potatoes, sauerkraut (crauti), olive oil, and garlic. Sometimes includes smoked pork.",
+        "origin_story": "Found from Trieste down to Istria, jota represents the Slovenian influence on Triestino cuisine. The combination of Italian beans and olive oil with Slavic sauerkraut creates something uniquely regional.",
+        "where_to_find": "Traditional trattorias throughout Trieste, Nerodiseppia (one of Italy's best trattorias)"
+      },
+      {
+        "name": "Fresh Adriatic Seafood",
+        "description": "Daily catch from the Marano lagoon to Istria waters - grilled fish, seafood pasta, mixed fish plates prepared simply to highlight freshness.",
+        "origin_story": "As a port city, Trieste's Italian side shines in its seafood preparations. While Austrian influence dominates meat dishes, the Adriatic provides exceptional fish prepared with Mediterranean simplicity.",
+        "where_to_find": "Hostaria Malcanton (fresh seafood favorite), Nerodiseppia (catch of the day from local waters)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Viennese-Style Coffee",
+        "description": "Coffee served in the Austro-Hungarian tradition with many variations - capo in b (espresso with drop of milk in glass), cappuccino, macchiato.",
+        "how_locals_drink_it": "Enjoyed at grand cafés like Caffè degli Specchi (unchanged since the Empire) where elegant interiors transport you to old Trieste. Ordering coffee here is a ritual, not just caffeine."
+      },
+      {
+        "name": "Friulano Wine",
+        "description": "White wine from the Friuli Venezia Giulia region, crisp and aromatic with floral notes.",
+        "how_locals_drink_it": "Paired with seafood at Trieste's trattorias. The local wine reflects the region's unique terroir and winemaking traditions distinct from the rest of Italy."
+      }
+    ],
+    "food_culture_notes": [
+      "Trieste isn't quite like the rest of Italy - the food is Triestino, pulling from Italian, Austro-Hungarian, and Slovenian influences",
+      "Buffets in Trieste aren't all-you-can-eat - they're working-class taverns serving Austro-Hungarian meat specialties",
+      "Coffee culture is Viennese, not Italian - grand café houses with Empire-era elegance still dominate",
+      "The city's three identities (Italian, Austrian, Slovenian) are felt at every meal"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Piazza Unità d'Italia",
+      "Miramare Castle",
+      "Roman Theatre",
+      "Canal Grande"
+    ],
+    "atmosphere": [
+      "Austro-Hungarian grand cafés",
+      "seafront promenades",
+      "neoclassical architecture",
+      "port city energy"
+    ],
+    "colors": [
+      "Adriatic blue waters",
+      "Habsburg yellow buildings",
+      "white limestone",
+      "café interior gold"
+    ],
+    "unique_modern": [
+      "Empire-era coffee houses",
+      "fusion cuisine scene",
+      "waterfront restaurants",
+      "literary café culture"
+    ]
+  },
+  "wikipedia_search_term": "Trieste",
+  "keywords_for_image": [
+    "Austro-Hungarian",
+    "gulasch",
+    "grand café",
+    "Adriatic port",
+    "Miramare Castle"
+  ],
+  "coordinates": {
+    "lat": 45.6495,
+    "lng": 13.7768
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Trieste+🇮🇹/@45.6495,13.7768,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trieste"
+  },
+  "location_id": 281
+}

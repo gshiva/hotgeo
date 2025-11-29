@@ -1,0 +1,94 @@
+{
+  "name": "Shanghai",
+  "country": "China",
+  "fun_fact": "Fun fact: Xiaolongbao was invented in 1871 in a small village called Nanxiang (now part of Shanghai), and the original restaurant still operates in Yuyuan Garden—where you can watch soup dumplings being hand-folded with exactly 18 pleats, a technique that hasn't changed in 150 years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Xiaolongbao at Lai Lai",
+        "description": "Delicate soup dumplings with paper-thin wrappers holding a burst of hot, savory broth and pork filling—sucking out the soup is an art form",
+        "origin_story": "Lai Lai's Tianjin Lu location earned a Michelin Guide Bib Gourmand in 2024. Their xiaolongbao have impossibly thin wrappers that somehow hold a river of soup. The technique requires years of training to achieve 18 perfect pleats",
+        "where_to_find": "Lai Lai (Tianjin Lu—Michelin Bib Gourmand 2024), Linlongfang Xiaolongbao (off-shoot of Jia Jia Tangbao), Nanxiang in Yuyuan Garden (the 150-year-old original)"
+      },
+      {
+        "name": "Shengjianbao at Da Hu Chun",
+        "description": "Pan-fried pork buns with crispy golden bottoms and fluffy tops, filled with soup and meat—the street food cousin of xiaolongbao",
+        "origin_story": "Shengjianbao was created over 100 years ago as dim sum in Shanghai tea houses. Da Hu Chun perfected the technique: crispy bottom, soft top, soup inside. It's served at breakfast but eaten all day",
+        "where_to_find": "Da Hu Chun (best in Shanghai), Yang's Fried Dumplings (97 Huang He Road—reliable chain locals trust)"
+      },
+      {
+        "name": "Hairy Crab (seasonal)",
+        "description": "Shanghai's most prized seasonal delicacy—small freshwater crabs with sweet, creamy roe, steamed and eaten with vinegar and ginger",
+        "origin_story": "Hairy crabs from Yangcheng Lake arrive in Shanghai every autumn, causing a citywide frenzy. The roe is considered liquid gold. Locals spend hundreds on authentic crabs, and counterfeits are a real problem",
+        "where_to_find": "Seasonal (September-November) at high-end Shanghainese restaurants and specialty crab shops"
+      },
+      {
+        "name": "Scallion Oil Noodles",
+        "description": "Simple wheat noodles tossed in fragrant scallion oil with soy sauce—minimalist but addictively savory",
+        "origin_story": "This humble dish shows Shanghai's knack for making magic from almost nothing. The scallion oil is fried slowly until dark and intensely aromatic. It's comfort food that costs pennies",
+        "where_to_find": "Local noodle shops throughout Shanghai, especially in old neighborhoods"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Soy Milk (Doujiang)",
+        "description": "Hot, unsweetened soy milk served with youtiao (fried dough sticks) for dipping—the classic Shanghai breakfast",
+        "how_locals_drink_it": "Fresh-made at breakfast shops, served piping hot in bowls. Locals tear youtiao into pieces and dunk them in soy milk. It's the breakfast of choice before work"
+      },
+      {
+        "name": "Osmanthus Wine",
+        "description": "Sweet, floral wine infused with osmanthus flowers—delicate and fragrant",
+        "how_locals_drink_it": "Served slightly chilled in small cups at banquets and special occasions. The osmanthus flower blooms in fall, making it seasonal. It's elegant and uniquely Shanghainese"
+      }
+    ],
+    "food_culture_notes": [
+      "Xiaolongbao etiquette: bite a tiny hole, suck out the soup, then eat the dumpling—using chopsticks only",
+      "Authentic xiaolongbao should have exactly 18 pleats, though most diners can't count them before devouring",
+      "Hairy crab season (autumn) is serious business—restaurants require reservations months in advance",
+      "Shengjianbao is breakfast food, but Yang's Fried Dumplings made it an all-day affair"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "The Bund waterfront and skyline",
+      "Yu Garden and classical Chinese gardens",
+      "Oriental Pearl Tower",
+      "Nanjing Road shopping district"
+    ],
+    "atmosphere": [
+      "steaming bamboo baskets of dumplings",
+      "wok-fried scallion oil aroma",
+      "crowded breakfast shops with locals",
+      "modern skyscrapers meeting old longtang neighborhoods"
+    ],
+    "colors": [
+      "translucent xiaolongbao wrappers",
+      "golden-brown shengjianbao bottoms",
+      "bright red hairy crab shells",
+      "green scallion oil"
+    ],
+    "unique_modern": [
+      "Michelin Bib Gourmand for soup dumplings (Lai Lai 2024)",
+      "150-year-old Nanxiang restaurant still operating in Yu Garden",
+      "Yang's Fried Dumplings chain making street food upscale",
+      "Hairy crab counterfeit market requiring expert verification"
+    ]
+  },
+  "wikipedia_search_term": "Shanghai",
+  "keywords_for_image": [
+    "Shanghai xiaolongbao soup dumplings",
+    "shengjianbao pan-fried buns",
+    "The Bund skyline",
+    "bamboo steamer baskets",
+    "hairy crab Shanghai"
+  ],
+  "coordinates": {
+    "lat": 31.2304,
+    "lng": 121.4737
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Shanghai+🇨🇳/@31.2304,121.4737,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shanghai"
+  },
+  "location_id": 225
+}

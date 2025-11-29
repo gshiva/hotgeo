@@ -1,0 +1,93 @@
+{
+  "name": "Catania",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Catania has been destroyed by Mount Etna eruptions at least 7 times throughout history, yet locals keep rebuilding at the volcano's base - the lava-black stone used to reconstruct the Baroque city is so distinctive that Catania is nicknamed 'La Città Nera' (The Black City)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pasta alla Norma",
+        "description": "Pasta with fried eggplant, tomato sauce, ricotta salata, and basil - Catania's signature dish",
+        "origin_story": "Named after the opera 'Norma' by Catania-born composer Vincenzo Bellini. Legend says a guest declared it 'una vera Norma!' (a true masterpiece)",
+        "where_to_find": "Trattoria del Cavaliere, Osteria Antica Marina, every restaurant in Catania"
+      },
+      {
+        "name": "Arancini",
+        "description": "Fried rice balls stuffed with ragù, peas, and mozzarella (cone-shaped in Eastern Sicily)",
+        "origin_story": "In Catania, arancini are cone-shaped (not round like Palermo). The shape supposedly represents Mount Etna",
+        "where_to_find": "Savia (historic bar), Spinella, street vendors at La Pescheria market"
+      },
+      {
+        "name": "Granita con Brioche",
+        "description": "Semi-frozen flavored ice (almond, pistachio, coffee, lemon) served with a fluffy brioche for dipping",
+        "origin_story": "Sicilians eat this for BREAKFAST. The granita tradition likely comes from Arab snow collection on Etna",
+        "where_to_find": "Caffè del Duomo, Caffè Minerva, any bar for breakfast"
+      },
+      {
+        "name": "Seafood from La Pescheria",
+        "description": "Fresh fish, swordfish, sea urchin, and shellfish from Catania's legendary fish market",
+        "origin_story": "La Pescheria has operated since medieval times - vendors shout prices in Sicilian dialect. Restaurants cook your purchase",
+        "where_to_find": "Osteria Antica Marina (inside the market), market restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Etna Wine",
+        "description": "Volcanic wines from Mount Etna's slopes - reds from Nerello Mascalese grape",
+        "how_locals_drink_it": "At enotecas throughout the city - Etna wines have DOC status and international acclaim"
+      },
+      {
+        "name": "Seltz Limone e Sale",
+        "description": "Sparkling water with fresh lemon juice and a pinch of salt - Catania summer essential",
+        "how_locals_drink_it": "At kiosks (chioschi) throughout the city, especially in summer heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Etna's volcanic soil produces exceptional pistachios, blood oranges, and wine",
+      "La Pescheria fish market is one of Europe's most vibrant",
+      "Breakfast is sweet - granita or pastries, never savory",
+      "Via Etnea is the main food street stretching from Duomo to Etna foothills"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mount Etna",
+      "Piazza del Duomo",
+      "La Pescheria fish market",
+      "Elephant fountain (Liotru)"
+    ],
+    "atmosphere": [
+      "black lava stone buildings",
+      "Baroque churches",
+      "volcano looming",
+      "chaotic fish market"
+    ],
+    "colors": [
+      "volcanic black",
+      "blood orange",
+      "Baroque white",
+      "Etna smoke grey"
+    ],
+    "unique_modern": [
+      "UNESCO Baroque heritage",
+      "active volcano tourism",
+      "thriving nightlife"
+    ]
+  },
+  "wikipedia_search_term": "Catania",
+  "keywords_for_image": [
+    "pasta alla Norma",
+    "arancini cone",
+    "Mount Etna volcano",
+    "La Pescheria fish market",
+    "black lava Baroque"
+  ],
+  "coordinates": {
+    "lat": 37.5079,
+    "lng": 15.083
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Catania+🇮🇹/@37.5079,15.083,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catania"
+  },
+  "location_id": 193
+}

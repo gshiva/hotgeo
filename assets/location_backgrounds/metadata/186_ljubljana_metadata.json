@@ -1,0 +1,93 @@
+{
+  "name": "Ljubljana",
+  "country": "Slovenia",
+  "fun_fact": "Fun fact: Ljubljana was named European Green Capital 2016 and has completely pedestrianized its historic center - cars are banned, replaced by electric tourist trains, cyclists, and outdoor café seating stretching along the emerald Ljubljanica River!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Potica",
+        "description": "Rolled walnut bread with intricate spiral pattern, Slovenia's most iconic pastry",
+        "origin_story": "Made for Christmas and Easter, with over 80 filling variations. The dough must be stretched paper-thin before rolling",
+        "where_to_find": "Every bakery in Ljubljana, especially Slaščičarna Pri Vodnjaku"
+      },
+      {
+        "name": "Štruklji",
+        "description": "Rolled dumplings with sweet (walnut, tarragon) or savory (cottage cheese) fillings",
+        "origin_story": "Traditional Slovenian comfort food, often served with meat dishes or as dessert",
+        "where_to_find": "Gostilna na Gradu (in the castle), Gostilna As, traditional restaurants"
+      },
+      {
+        "name": "Kraški Pršut",
+        "description": "Air-dried ham from the Karst region, aged 12-24 months in the unique bora wind",
+        "origin_story": "The dry, cold bora wind of the Karst plateau creates perfect curing conditions. EU Protected Geographical Indication",
+        "where_to_find": "Central Market, Pri Žabarju, wine bars throughout the city"
+      },
+      {
+        "name": "Idrijski Žlikrofi",
+        "description": "Hat-shaped dumplings filled with potato, onion, and bacon from Idrija",
+        "origin_story": "Created by miners' wives in the 16th century - each has a distinctive ear-shaped edge. EU PGI protected",
+        "where_to_find": "Julija, Gostilna As, Druga Violina"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Union or Laško Beer",
+        "description": "Slovenia's two rival breweries - locals are loyal to one or the other",
+        "how_locals_drink_it": "At outdoor terraces along the Ljubljanica River, ice cold"
+      },
+      {
+        "name": "Slovenian Wine",
+        "description": "Three wine regions produce excellent whites (Rebula, Malvazija) and the unique orange wine",
+        "how_locals_drink_it": "At vinoteka wine bars - Primorska region's orange wines are having a global moment"
+      }
+    ],
+    "food_culture_notes": [
+      "Open Kitchen (Odprta Kuhna) Friday food market features Slovenia's best chefs",
+      "Central Market designed by architect Jože Plečnik is a food lover's paradise",
+      "Farm-to-table is the norm - Slovenia is 60% forest with pristine produce",
+      "Beekeeping is huge - every 200th Slovenian keeps bees"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ljubljana Castle",
+      "Triple Bridge",
+      "Dragon Bridge",
+      "Prešeren Square"
+    ],
+    "atmosphere": [
+      "green pedestrian center",
+      "café-lined riverbanks",
+      "Baroque and Art Nouveau",
+      "castle on the hill"
+    ],
+    "colors": [
+      "Ljubljanica emerald",
+      "Plečnik grey",
+      "dragon green",
+      "Baroque pastel"
+    ],
+    "unique_modern": [
+      "car-free center",
+      "electric tourist train",
+      "urban beekeeping on rooftops"
+    ]
+  },
+  "wikipedia_search_term": "Ljubljana",
+  "keywords_for_image": [
+    "potica walnut roll",
+    "dragon bridge",
+    "Ljubljanica River cafés",
+    "Ljubljana Castle",
+    "pedestrian city"
+  ],
+  "coordinates": {
+    "lat": 46.0569,
+    "lng": 14.5058
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ljubljana+🇸🇮/@46.0569,14.5058,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ljubljana"
+  },
+  "location_id": 186
+}

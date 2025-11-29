@@ -1,0 +1,94 @@
+{
+  "name": "Da Nang",
+  "country": "Vietnam",
+  "fun_fact": "Fun fact: Da Nang's Dragon Bridge breathes fire and water every weekend night at 9pm - a 666-meter steel dragon that lights up in rainbow colors. The city also has the world's longest non-stop cable car to Bà Nà Hills (5,771 meters), reaching a French colonial hill station.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Mì Quảng",
+        "description": "Wide rice noodles with turmeric, topped with shrimp, pork, quail eggs, peanuts, herbs, and crispy rice crackers - served with minimal broth",
+        "origin_story": "This is Da Nang's signature dish, originating from nearby Quang Nam province. Unlike pho (soupy), mì quảng has just enough broth to coat the yellow turmeric noodles. The turmeric gives a golden color and earthy flavor. Locals eat it for breakfast or lunch, adding lime, chili, and herbs. Each vendor claims the authentic recipe.",
+        "where_to_find": "Mì Quảng Bà Mua (legendary spot), street vendors throughout Da Nang, or Bà Dương Mì Quảng"
+      },
+      {
+        "name": "Bánh Xèo",
+        "description": "Crispy turmeric crepe filled with pork, shrimp, bean sprouts - wrapped in lettuce with herbs and dipped in fish sauce",
+        "origin_story": "The name means 'sizzling pancake' from the sound rice batter makes hitting the hot pan. Central Vietnamese bánh xèo are smaller and crispier than southern versions. You tear off pieces, wrap them in lettuce and herbs, then dunk in nước chấm (fish sauce). It's interactive eating - messy and fun.",
+        "where_to_find": "Bà Dưỡng Bánh Xèo, street food stalls near Han Market, or beachfront restaurants"
+      },
+      {
+        "name": "Bún Chả Cá",
+        "description": "Fish cake noodle soup with rice vermicelli, fried fish cakes, fresh greens, and herbs in light broth",
+        "origin_story": "Da Nang's coastal location means incredible fresh fish. The fish cakes are made from mackerel or snakehead fish, pounded into paste with spices, then fried or grilled. The soup is lighter than pho, letting the fish flavor shine. Locals add mountains of herbs and greens.",
+        "where_to_find": "Bún Chả Cá 78 Hoàng Diệu, street vendors in Han Market area, or beachside cafes"
+      },
+      {
+        "name": "Bánh Tráng Cuốn Thịt Heo",
+        "description": "Fresh rice paper rolls stuffed with boiled pork, herbs, and vegetables - dipped in sweet-sour peanut sauce",
+        "origin_story": "Da Nang's version uses exceptionally thin, translucent rice paper. You can see the ingredients through the wrapper. Unlike fried spring rolls, these are fresh and light - perfect for hot coastal weather. Rolling them yourself at the table is part of the experience.",
+        "where_to_find": "Bánh Tráng Cuốn Thịt Heo Hoàng Bèo, street food vendors, or local restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cà Phê Trứng (Egg Coffee) - Da Nang Style",
+        "description": "Strong Vietnamese coffee topped with whipped egg yolk, condensed milk, and sometimes cheese or yogurt",
+        "how_locals_drink_it": "While Hanoi invented egg coffee, Da Nang added their own twist - some versions include cream cheese or yogurt. It's dessert disguised as coffee. Locals drink it in the afternoon at beachfront cafes, sipping through the sweet egg foam. The caffeine kick comes with sugar overload."
+      },
+      {
+        "name": "Nước Mía (Sugarcane Juice)",
+        "description": "Fresh-pressed sugarcane juice, often with kumquat or lemon - sweet, refreshing, bright green",
+        "how_locals_drink_it": "Street vendors press sugarcane through manual or electric presses. The juice is served over ice, sometimes with kumquat squeezed in. In Da Nang's tropical heat (30°C+year-round), nước mía is hydration and sugar rush combined. Locals drink it after beach time or with bánh xèo."
+      }
+    ],
+    "food_culture_notes": [
+      "Central Vietnamese cuisine is distinct - less sweet than southern, less complex than northern, more emphasis on fresh herbs and vegetables",
+      "Han Market is Da Nang's food hub - vendors sell fresh seafood, fruits, and ready-to-eat dishes",
+      "My Khe Beach area has seafood restaurants grilling fresh catches",
+      "Da Nang's proximity to Hoi An (30km) means some dishes overlap between the cities"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Dragon Bridge - 666m steel dragon breathing fire and water every weekend at 9pm",
+      "Marble Mountains - five limestone hills with Buddhist temples and caves",
+      "Golden Bridge (Cầu Vàng) - pedestrian bridge held by giant stone hands at Bà Nà Hills",
+      "My Khe Beach - pristine white sand beach, voted one of world's most beautiful"
+    ],
+    "atmosphere": [
+      "Coastal city on South China Sea with year-round tropical weather",
+      "Modern skyscrapers mixed with French colonial architecture",
+      "Gateway to Hoi An (30km) and Hue (100km) - central Vietnam's tourism hub",
+      "Motorcycle traffic weaving through streets at all hours"
+    ],
+    "colors": [
+      "golden turmeric of mì quảng noodles",
+      "rainbow lights of Dragon Bridge",
+      "turquoise waters of My Khe Beach",
+      "green Marble Mountains"
+    ],
+    "unique_modern": [
+      "Bà Nà Hills cable car - world's longest non-stop cable car (5,771m), reaches French colonial hill station",
+      "Sun Wheel - Asia's tallest Ferris wheel when built (2013)",
+      "Da Nang hosted APEC Summit 2017",
+      "Fastest-growing city in Vietnam with modern infrastructure"
+    ]
+  },
+  "wikipedia_search_term": "Da_Nang",
+  "keywords_for_image": [
+    "da nang dragon bridge fire",
+    "mi quang noodles turmeric",
+    "golden bridge hands vietnam",
+    "my khe beach da nang",
+    "banh xeo crispy pancake"
+  ],
+  "coordinates": {
+    "lat": 16.0544,
+    "lng": 108.2022
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Da+Nang+🇻🇳/@16.0544,108.2022,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Da_Nang"
+  },
+  "location_id": 328
+}

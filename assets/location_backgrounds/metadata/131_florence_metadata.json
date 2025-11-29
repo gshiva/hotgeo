@@ -1,0 +1,107 @@
+{
+  "name": "Florence",
+  "country": "Italy",
+  "region": "Tuscany",
+  "fun_fact": "Fun fact: Florence invented the Negroni cocktail, and still serves wine through ancient 17th-century 'wine windows' (buchette del vino) - tiny stone openings where Prosecco or Chianti is passed to you, just like during the plague!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bistecca alla Fiorentina",
+        "description": "Massive T-bone steak cut 5-6 cm thick from Chianina cattle raised in Tuscany, grilled over wood fire and served rare",
+        "origin_story": "Must be from Chianina cows (an ancient Tuscan breed with PGI protection) to be authentic. The first official document about it dates to the Accademia della Crusca in 1750. Cut 3-4 fingers high in the loin, cooked rare on the grill - no compromise!",
+        "where_to_find": "Buca Lapi (1800s wine cellar), I'Tuscani (local favorite where the guide eats), Trattoria Mario (via Rosina), Regina Bistecca (near the Duomo), La Giostra. WARNING: Many places use meat from Northern Europe or South America - true bistecca must be Tuscan Chianina!"
+      },
+      {
+        "name": "Hand-rolled Pasta",
+        "description": "Fresh pappardelle, tagliatelle, and other hand-rolled pastas with wild boar ragù or other Tuscan sauces",
+        "origin_story": "Tuscany's tradition of hand-rolling pasta dates back centuries, with each shape perfectly suited to catch the region's hearty meat sauces",
+        "where_to_find": "Traditional trattorias throughout Oltrarno neighborhood, paired with local Chianti Classico wine"
+      },
+      {
+        "name": "Lampredotto",
+        "description": "Street food sandwich made from cow's fourth stomach, slow-cooked in tomato broth with vegetables",
+        "origin_story": "Historic Florentine working-class dish, now a beloved street food served from traditional green carts throughout the city",
+        "where_to_find": "Street vendors near Mercato Centrale and throughout the historic center"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Negroni",
+        "description": "Equal parts gin, Campari, and sweet vermouth, garnished with orange peel",
+        "how_locals_drink_it": "Invented in Florence! Enjoy as aperitivo before dinner at historic cafés. Order it with confidence - this is its birthplace!"
+      },
+      {
+        "name": "Chianti Classico DOCG",
+        "description": "Bold red wine from Sangiovese grapes, instantly recognizable by its 'Gallo Nero' (Black Rooster) emblem used since 1924",
+        "how_locals_drink_it": "Perfect pairing with bistecca fiorentina and wild boar ragù. The Chiantigiana road (SR 222) from Florence to Siena passes through acre upon acre of these famous vineyards. Best visited during September harvest when grapes ripen on the vines."
+      },
+      {
+        "name": "Vin Santo",
+        "description": "Sweet dessert wine traditionally served with cantucci (almond biscotti) for dipping",
+        "how_locals_drink_it": "The traditional end to a Tuscan meal - dip the hard biscotti into the sweet wine"
+      }
+    ],
+    "food_culture_notes": [
+      "Wine served through historic 17th-century wine windows (buchette del vino) in Oltrarno - a rare experience where drinks are passed through stone openings",
+      "Oltrarno neighborhood (across Ponte Vecchio) is where locals eat - avoid the tourist traps near the Duomo",
+      "Florence has a local statute requiring restaurants source at least 70% of ingredients from Tuscany",
+      "Aperitivo culture is strong - enjoy a Negroni with small bites before dinner",
+      "The region produces not just Chianti but also cold cuts from pork, wild boar, and the famous 'cinta senese' pig"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ponte Vecchio bridge lined with jewelry shops",
+      "Duomo with Brunelleschi's dome",
+      "Uffizi Gallery",
+      "Boboli Gardens",
+      "Terracotta rooftops",
+      "Arno River views"
+    ],
+    "atmosphere": [
+      "Renaissance elegance",
+      "Wine windows in ancient stone walls",
+      "Vaulted wine cellar restaurants",
+      "Vineyard-covered hills of Chianti",
+      "Bustling Mercato Centrale",
+      "Golden hour on the Arno"
+    ],
+    "colors": [
+      "Terracotta and ochre buildings",
+      "Deep red Chianti wine",
+      "Charred crust of bistecca",
+      "Golden olive oil",
+      "Green Tuscan hills",
+      "Orange Negroni"
+    ],
+    "unique_modern": [
+      "Wine served through 400-year-old stone windows",
+      "Green street food carts selling lampredotto",
+      "Vintage Fiat 500s on cobblestone streets",
+      "Leather artisans in Oltrarno workshops",
+      "Grape harvest festivals in September"
+    ]
+  },
+  "wikipedia_search_term": "Florence",
+  "keywords_for_image": [
+    "bistecca fiorentina chianina steak",
+    "florence ponte vecchio sunset",
+    "chianti classico wine vineyard tuscany",
+    "florence wine window buchette",
+    "tuscan trattoria",
+    "negroni cocktail florence",
+    "florence duomo terracotta rooftops",
+    "lampredotto sandwich florence",
+    "oltrarno florence artisan",
+    "arno river florence golden hour"
+  ],
+  "coordinates": {
+    "lat": 43.7696,
+    "lng": 11.2558
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Florence+🇮🇹/@43.7696,11.2558,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence"
+  },
+  "location_id": 131
+}

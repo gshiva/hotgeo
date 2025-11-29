@@ -1,0 +1,94 @@
+{
+  "name": "Manchester",
+  "country": "UK",
+  "fun_fact": "Fun fact: Manchester invented the modern curry house - the first Indian restaurant in Britain, 'The Hindoostane Coffee House,' opened here in 1810, and the city's Curry Mile (Wilmslow Road) is legendary for having more curry houses per square mile than anywhere else in the UK.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Buttermilk Fried Chicken at Yard & Coop",
+        "description": "Crispy, juicy buttermilk-marinated fried chicken served as wings, tenders, nuggets, or burgers with creative sauces and sides.",
+        "origin_story": "Yard & Coop became a Manchester institution by perfecting Southern-style fried chicken in the Northern Quarter. They've elevated it from American import to Manchester comfort food staple, with locals claiming it rivals anything in the American South.",
+        "where_to_find": "Yard & Coop (Northern Quarter, mains around £15, lunch deal £8)"
+      },
+      {
+        "name": "Bundobust Gujarati Street Food",
+        "description": "Vegetarian and vegan Indian street food including okra fries, paneer kadai, chole saag, and contemporary twists on traditional dishes, paired with craft beer.",
+        "origin_story": "Bundobust pioneered the pairing of Gujarati street food with craft beer, creating a unique dining concept. Their exclusively brewed beer complements the vibrant flavors of authentic and modern Gujarati dishes.",
+        "where_to_find": "Bundobust (Northern Quarter, vegetarian/vegan tapas-style menu)"
+      },
+      {
+        "name": "BAB Kebabs",
+        "description": "Elevated kebabs with succulent meat, gorgeous flatbreads, and fresh ingredients sourced from local suppliers.",
+        "origin_story": "BAB NQ transformed the kebab from late-night drunk food to a respected culinary experience, using premium local ingredients and proper cooking techniques. Their lunch special (BAB with fries for £10) makes quality accessible.",
+        "where_to_find": "BAB NQ (Northern Quarter, BABs from £14.50)"
+      },
+      {
+        "name": "Manchester Egg",
+        "description": "A pickled egg wrapped in black pudding and sausage meat, coated in breadcrumbs and deep-fried. Manchester's answer to the Scotch egg.",
+        "origin_story": "Created at the Tavern in Didsbury, the Manchester Egg has become an icon of the city's food scene - celebrating local black pudding while putting a regional twist on the traditional Scotch egg.",
+        "where_to_find": "Originally from The Tavern, now found at pubs and gastropubs throughout Manchester"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Manchester Craft Beer",
+        "description": "The city has a thriving craft beer scene with local breweries producing IPAs, pale ales, stouts, and experimental brews.",
+        "how_locals_drink_it": "Enjoyed at Northern Quarter pubs and beer halls, often paired with street food. The beer scene is vibrant and constantly evolving, with new breweries opening regularly."
+      },
+      {
+        "name": "Vimto",
+        "description": "Manchester's contribution to the soft drink world - a fruity, herbal cordial created in 1908, made from grapes, raspberries, and blackcurrants.",
+        "how_locals_drink_it": "While now sold globally, Vimto was invented in Manchester and locals have nostalgic attachment to it. Drunk as a cordial mixed with water or as a fizzy drink."
+      }
+    ],
+    "food_culture_notes": [
+      "Manchester's Northern Quarter is the epicenter of the city's food scene - American diners, Indian street food, Japanese fusion, and brunch spots",
+      "The city embraces international cuisines while celebrating Northern English comfort food traditions",
+      "Curry culture is huge - the Curry Mile in Rusholme is a Manchester institution with Pakistani and Indian restaurants",
+      "The food scene is unpretentious and affordable, with great lunch deals and casual dining dominating over fine dining"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Old Trafford stadium",
+      "Manchester Cathedral",
+      "John Rylands Library",
+      "Beetham Tower"
+    ],
+    "atmosphere": [
+      "red brick Victorian warehouses",
+      "Northern Quarter street art",
+      "industrial canal-side dining",
+      "football culture"
+    ],
+    "colors": [
+      "red brick industrial",
+      "Manchester United red",
+      "canal water grey",
+      "street art vibrant murals"
+    ],
+    "unique_modern": [
+      "converted warehouse restaurants",
+      "rooftop bars",
+      "street food markets",
+      "independent craft breweries"
+    ]
+  },
+  "wikipedia_search_term": "Manchester",
+  "keywords_for_image": [
+    "Northern Quarter",
+    "fried chicken",
+    "curry",
+    "industrial architecture",
+    "street food"
+  ],
+  "coordinates": {
+    "lat": 53.4808,
+    "lng": -2.2426
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Manchester+🇬🇧/@53.4808,-2.2426,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "location_id": 274
+}

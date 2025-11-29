@@ -1,0 +1,93 @@
+{
+  "name": "Baghdad",
+  "country": "Iraq",
+  "fun_fact": "Fun fact: Masgouf (grilled carp) recipes date back to ancient Sumerian times with mentions in the Babylonian Talmud - Iraqis have been grilling fish from the Tigris the same way for over 4,000 years!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Masgouf",
+        "description": "Open-cut carp from the Tigris, butterflied and slow-roasted over open fire with tamarind and turmeric",
+        "origin_story": "Iraq's national dish dating to Sumerian times, takes 45 min to 3 hours to prepare",
+        "where_to_find": "Abu Nawas Fish Restaurant on Abu Nawas Street, fish market by al-samek saed hamem"
+      },
+      {
+        "name": "Dolma",
+        "description": "Vine leaves and vegetables stuffed with lamb/beef, rice, and spices in tomato broth",
+        "origin_story": "Iraqi version uniquely uses pomegranate juice, served without yogurt unlike other regions",
+        "where_to_find": "Traditional restaurants, home cooking"
+      },
+      {
+        "name": "Kubba Mosul",
+        "description": "Crispy deep-fried bulgur dumplings filled with spiced meat and pine nuts",
+        "origin_story": "Specialty from Mosul, most popular kubba variety",
+        "where_to_find": "Zahrat Al Khaimah on Karrada Street"
+      },
+      {
+        "name": "Quzi",
+        "description": "Slow-cooked whole lamb on fragrant rice with nuts and raisins",
+        "origin_story": "Celebratory dish for special occasions",
+        "where_to_find": "Traditional restaurants for special events"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Iraqi Chai",
+        "description": "Strong black tea, often with cardamom",
+        "how_locals_drink_it": "Served post-meal as hospitality gesture, often complimentary"
+      },
+      {
+        "name": "Iraqi Coffee (Qahwa)",
+        "description": "Cardamom-spiced Arabic coffee",
+        "how_locals_drink_it": "From small cups, part of hospitality tradition"
+      }
+    ],
+    "food_culture_notes": [
+      "Fish market is Baghdad's version of Tsukiji - watch masgouf grilled before your eyes",
+      "Soup and salad often served complimentary before meals",
+      "Iraqi hospitality means chai and coffee often free after meal",
+      "Food is celebration and connection - sharing meals shows warmth"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tigris River",
+      "Al-Shaheed Monument",
+      "Baghdad Clock Tower",
+      "Al-Mustansiriya University (medieval)"
+    ],
+    "atmosphere": [
+      "riverside dining",
+      "open fire grills",
+      "ancient meets modern",
+      "bustling souks"
+    ],
+    "colors": [
+      "Tigris blue-green",
+      "desert sand",
+      "golden domes",
+      "palm green"
+    ],
+    "unique_modern": [
+      "reconstruction and resilience",
+      "ancient Mesopotamian heritage"
+    ]
+  },
+  "wikipedia_search_term": "Baghdad",
+  "keywords_for_image": [
+    "masgouf grilled fish over fire",
+    "dolma stuffed vegetables",
+    "Tigris River",
+    "Iraqi tea",
+    "riverside dining",
+    "ancient architecture"
+  ],
+  "coordinates": {
+    "lat": 33.3152,
+    "lng": 44.3661
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Baghdad+🇮🇶/@33.3152,44.3661,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baghdad"
+  },
+  "location_id": 17
+}

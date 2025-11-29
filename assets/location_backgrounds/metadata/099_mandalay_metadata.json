@@ -1,0 +1,134 @@
+{
+  "name": "Mandalay",
+  "country": "Myanmar",
+  "fun_fact": "Fun fact: Mandalay is home to the 'world's largest book' - the Kuthodaw Pagoda contains the entire Pāli Canon (Buddhist scriptures) inscribed on 729 white marble slabs, each housed in its own miniature stupa. The city was founded in 1857 by King Mindon as Burma's final royal capital, designed according to Buddhist cosmology with the palace at the exact center. The Mandalay Palace design later inspired Shah Jahan when he created the Taj Mahal.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Mohinga (Myanmar's National Dish)",
+        "description": "Hearty, herb-based lemongrass and rice noodle soup in rich, savory fish broth, often supplemented with the crunchy pith of banana tree. Topped with crispy fritters, hard-boiled eggs, and lime wedges. The perfect balanced breakfast.",
+        "origin_story": "Mohinga is Myanmar's soul in a bowl - the national dish eaten primarily for breakfast but now popular anytime. Street hawkers develop devoted neighborhood followings, each with their own secret blend of spices and fish. Few people make mohinga at home; instead, they patronize their favorite street vendors who roam the streets with portable setups. The dish originated in central Myanmar along the Irrawaddy River where freshwater fish is abundant.",
+        "where_to_find": "Countless street vendors throughout Mandalay (especially mornings), roadside stalls near markets, local tea shops. Mandalay's Chinatown has popular hawkers. The market near U Bein Bridge also serves excellent mohinga. Rarely found in tourist restaurants - this is pure street food culture."
+      },
+      {
+        "name": "Lahpet Thoke (Pickled Tea Leaf Salad)",
+        "description": "Sour, slightly bitter pickled tea leaves mixed by hand with shredded white cabbage, sliced tomatoes, ginger, fried spices, dried shrimp, crunchy peanuts, lima beans, and peas. One of Myanmar's most iconic and unique dishes.",
+        "origin_story": "Lahpet (fermented tea leaves) has been consumed in Myanmar for centuries, both as a stimulant and as a symbol of hospitality and reconciliation. The leaves are carefully fermented for months, creating a complex sour-bitter flavor found nowhere else. Lahpet thoke is uniquely Burmese - no neighboring cuisine has anything like it. The ritual of mixing it by hand brings people together.",
+        "where_to_find": "Tea shops throughout Mandalay, local restaurants serving traditional Burmese fare (Green Elephant in colonial villa with garden), night markets, and served as a snack/appetizer at most meals."
+      },
+      {
+        "name": "Shan Noodles",
+        "description": "Two versions: 'dry' with pork or chicken sauce over rice noodles with toasted chickpea flour, or 'soup' in rich broth. Both versions are beloved throughout Myanmar, not just Shan State.",
+        "origin_story": "From Shan State in eastern Myanmar, but Mandalay's version (especially Myee Shay) has spread nationwide. The dish shows Chinese Yunnanese influence blended with Burmese flavors. Mandalay has a significant Chinese population, creating unique Sino-Burmese fusion.",
+        "where_to_find": "Popular Shan noodle hawker in Mandalay's Chinatown, the market near U Bein bridge, most tea shops throughout the city (Myee Shay version with medium rice noodles, toasted chickpea flour, pork/chicken sauce)."
+      },
+      {
+        "name": "Mya Nandar's Sino-Burmese Specialties",
+        "description": "Authentic Sino-Burmese food in a stunning setting - wooden deck garden overlooking the Ayeyarwaddy River. Represents Mandalay's unique Chinese-influenced cuisine.",
+        "origin_story": "Mandalay, as an inland city near the Chinese border, developed distinctive Sino-Burmese fusion cuisine not found in coastal Myanmar. Chinese immigration and trade along the Irrawaddy created unique culinary blends.",
+        "where_to_find": "Mya Nandar restaurant on Strand Road, near the Mingun boat jetty - perfect for sunset drinks overlooking the river. Dishes around 5,000-6,000 kyat (not cheap but worth it)."
+      },
+      {
+        "name": "Barbecue and Draught Beer",
+        "description": "Evening Burmese tapas culture: small plates of grilled fish, pork, chicken, meatballs, and vegetables. Locals order multiple items which are grilled to order.",
+        "origin_story": "This is how Mandalay locals actually eat dinner. Draught beer cafes follow a consistent format: choose your items from display, they grill them fresh, you share multiple small plates with friends. Very social, casual dining culture.",
+        "where_to_find": "Draught beer and barbecue cafes throughout the city - look for places packed with locals, especially in evenings. Draught beer around 700-800 kyat per glass."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Burmese Tea (Lahpet Yay)",
+        "description": "Sweet, milky tea similar to Indian chai but with condensed milk. Often served with jaggery (palm sugar) or sugar cubes. Rich, creamy, intensely sweet.",
+        "how_locals_drink_it": "Myanmar tea shop culture is legendary - people spend hours at tea shops socializing, discussing politics, playing chess. Tea is served in small glasses constantly refilled. It's social glue. Morning tea shops are packed with people having breakfast and tea."
+      },
+      {
+        "name": "Jaggery Palm Toddy/Juice",
+        "description": "Sweet sap collected from toddy palm trees, consumed fresh as juice or fermented. Milky white color, naturally sweet, slightly fizzy when fermenting.",
+        "how_locals_drink_it": "Fresh palm juice is popular in the morning - sweet, refreshing, considered healthy. Fermented toddy is mildly alcoholic. Palm trees are tapped early morning and the sap collected throughout the day."
+      },
+      {
+        "name": "Myanmar Beer",
+        "description": "Local lager-style beer, the most popular being 'Myanmar Beer' brand. Light, crisp, refreshing in tropical heat.",
+        "how_locals_drink_it": "Draught beer is the evening drink of choice. Served ice-cold at barbecue cafes. Locals drink it slowly while sharing grilled food. Very social evening activity, especially for men after work."
+      },
+      {
+        "name": "Sugarcane Juice",
+        "description": "Fresh-pressed sugarcane juice from street vendors. Sweet, refreshing, pale green. Often served with lime.",
+        "how_locals_drink_it": "Drunk fresh at street stalls and markets, especially during hot afternoons. Vendors run whole stalks through pressing machines. Immediately consumed over ice."
+      }
+    ],
+    "food_culture_notes": [
+      "Mohinga for breakfast is non-negotiable - it's what Myanmar wakes up to, not just in Mandalay but nationwide",
+      "Tea shops are Myanmar's social hubs - people gather for hours drinking sweet tea, eating snacks, gossiping",
+      "Burmese cuisine blends influences from India (curries, fritters), China (noodles, stir-fries), and Thailand (herbs, lime)",
+      "Fermented tea leaves (lahpet) are unique to Myanmar - no other cuisine uses tea this way",
+      "The mighty Irrawaddy River provides freshwater fish, essential to Mandalay's landlocked cuisine",
+      "Pork, beef, and poultry are more common in Mandalay than coastal cities (which favor seafood)",
+      "Street food is where locals actually eat - not tourist restaurants on 65 Street",
+      "Green Elephant (chain restaurant) in colonial villa offers good quality classic Burmese in beautiful setting",
+      "Mandalay's Chinese population created unique Sino-Burmese fusion not found elsewhere in Myanmar",
+      "Evening draught beer and barbecue culture is very social - order many small plates to share",
+      "Toasted chickpea flour (besan) is used extensively - in Shan noodles, fritters, garnishes",
+      "Most dishes come with various condiments, pickles, and raw vegetables to customize flavors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mandalay Palace with its moat and 64-square grid layout",
+      "Mandalay Hill with panoramic city views",
+      "Kuthodaw Pagoda - 'world's largest book' with 729 marble slabs",
+      "U Bein Bridge (nearby Amarapura) - world's longest teak bridge",
+      "Shwenandaw Monastery (golden palace monastery)",
+      "Irrawaddy River flowing past the city",
+      "Countless golden pagodas and white stupas dotting the landscape"
+    ],
+    "atmosphere": [
+      "Last royal capital of Burma - regal heritage mixed with modern chaos",
+      "Over 700 pagodas creating a skyline of gold and white",
+      "Vibrant street food culture - mohinga vendors, tea shops packed with locals",
+      "Irrawaddy River commerce - boats, trade, ferry crossings",
+      "Buddhist monasteries everywhere - monks in burgundy robes collecting alms",
+      "Hot, dusty inland city (not coastal) with tropical intensity",
+      "Traditional workshops: gold leaf hammering, silk weaving, wood carving",
+      "Tea shops as social centers - chess, politics, endless sweet tea"
+    ],
+    "colors": [
+      "Glittering gold of pagoda spires in sunlight",
+      "Saffron and burgundy of monks' robes",
+      "Muddy brown of the Irrawaddy River",
+      "Golden-brown mohinga broth",
+      "White marble stupas at Kuthodaw",
+      "Rich green of pickled tea leaves",
+      "Faded colonial pastels mixed with bright new paint",
+      "Sunset orange reflecting off the river"
+    ],
+    "unique_modern": [
+      "Mandalay as Myanmar's cultural heart - Buddhism, traditional arts, language preservation",
+      "Gold leaf workshops still using traditional methods (Mandalay produces most of Myanmar's gold leaf)",
+      "Younger generation blending tradition with modern influences after decades of isolation",
+      "Growing food scene slowly moving beyond pure street food to modern restaurants",
+      "Economic center of Upper Myanmar - trade, commerce, university town",
+      "Post-colonial renewal - restoring heritage while developing modern infrastructure"
+    ]
+  },
+  "wikipedia_search_term": "Mandalay",
+  "keywords_for_image": [
+    "Mandalay Myanmar palace",
+    "Mandalay Hill pagoda",
+    "Kuthodaw Pagoda marble",
+    "Irrawaddy River Myanmar",
+    "mohinga Burmese soup",
+    "Myanmar street food",
+    "Buddhist monks Myanmar",
+    "U Bein Bridge teak"
+  ],
+  "coordinates": {
+    "lat": 21.9588,
+    "lng": 96.0891
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mandalay+🇲🇲/@21.9588,96.0891,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mandalay"
+  },
+  "location_id": 99
+}

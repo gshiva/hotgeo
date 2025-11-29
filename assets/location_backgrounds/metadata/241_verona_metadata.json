@@ -1,0 +1,88 @@
+{
+  "name": "Verona",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Verona's Arena, a perfectly preserved Roman amphitheater built in 30 AD, hosts the world's largest opera festival under the stars - seating 15,000 spectators where gladiators once fought.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Risotto all'Amarone",
+        "description": "Creamy Vialone Nano rice cooked in rich Amarone wine from Valpolicella, creating a deep burgundy risotto with complex, fruity notes",
+        "origin_story": "This dish celebrates two of Verona's protected specialties: Vialone Nano PGI rice grown in the plains around Verona, and Amarone wine from the nearby Valpolicella hills. The rice absorbs the prestigious wine, creating a luxurious marriage of local terroir.",
+        "where_to_find": "Antica Bottega del Vino (1500s wine bar with 18,000+ wine labels), Ostregheteria Sottoriva 23, Caffe Dante Bistrot (a Veronese institution since the 1860s)"
+      },
+      {
+        "name": "Pastissada de Caval",
+        "description": "Tender horse meat stew slow-cooked in red wine with aromatic herbs, creating a rich, deeply flavorful dish",
+        "origin_story": "Born during the siege of Verona (569-572 AD) when Lombard King Alboino's horses fell in battle. The locals, desperate for food, marinated the meat in wine and herbs - accidentally creating a signature dish that survived 1,500 years.",
+        "where_to_find": "Osteria al Duca, Osteria da Morandin (cheap local spot), Trattoria Arco dei Gavi (rustic 20-seat neighborhood gem)"
+      },
+      {
+        "name": "Tortellini di Valeggio",
+        "description": "Delicate pasta parcels known as 'lover's knots' made with paper-thin dough, traditionally filled with meat or cheese",
+        "origin_story": "From the nearby town of Valeggio sul Mincio, these tortellini are shaped like knots as a romantic symbol. Legend says they were created for a wedding feast along the Mincio River.",
+        "where_to_find": "Osteria Caffè Monte Baldo (cozy eatery with cicchetti), Osteria A Le Petarine (homecooked food spot away from tourist center)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Amarone della Valpolicella",
+        "description": "Full-bodied red wine made from partially dried grapes, creating concentrated flavors of dark cherry, chocolate, and spice",
+        "how_locals_drink_it": "Served at room temperature with rich meat dishes or aged cheeses. Locals debate the best vintages at Antica Bottega del Vino's legendary wine bar, choosing from over 18,000 labels."
+      },
+      {
+        "name": "Bardolino",
+        "description": "Light, fruity red wine from Lake Garda shores, much fresher and more casual than its famous cousin Amarone",
+        "how_locals_drink_it": "Slightly chilled and enjoyed as a lunch wine or afternoon aperitivo, especially during warm months by the lake"
+      }
+    ],
+    "food_culture_notes": [
+      "Verona's plains grow Vialone Nano rice, a PGI-protected variety perfect for risotto - shorter and fatter than other Italian rice",
+      "Horse meat dishes are traditional here, reflecting the city's agricultural history and frugal Lombard heritage",
+      "The city sits between rice fields to the south and Valpolicella vineyards to the north, creating unique dual terroir",
+      "Polenta is served alongside almost everything - a reflection of Verona's historically poorer agricultural region where corn was a staple"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Arena di Verona (Roman amphitheater)",
+      "Juliet's Balcony",
+      "Ponte Pietra",
+      "Castelvecchio"
+    ],
+    "atmosphere": [
+      "romantic",
+      "medieval stone streets",
+      "opera performances",
+      "wine country elegance"
+    ],
+    "colors": [
+      "terracotta red",
+      "Verona pink marble",
+      "deep burgundy wine",
+      "golden wheat fields"
+    ],
+    "unique_modern": [
+      "World's largest outdoor opera festival",
+      "Bustling Piazza delle Erbe market",
+      "Aperitivo culture along Via Mazzini",
+      "Contemporary art at Galleria d'Arte Moderna"
+    ]
+  },
+  "wikipedia_search_term": "Verona",
+  "keywords_for_image": [
+    "Verona Arena amphitheater",
+    "risotto amarone wine",
+    "Italian opera",
+    "Valpolicella vineyards",
+    "Romeo Juliet balcony"
+  ],
+  "coordinates": {
+    "lat": 45.4384,
+    "lng": 10.9916
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Verona+🇮🇹/@45.4384,10.9916,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verona"
+  },
+  "location_id": 241
+}

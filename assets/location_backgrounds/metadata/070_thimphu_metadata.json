@@ -1,0 +1,123 @@
+{
+  "name": "Thimphu",
+  "country": "Bhutan",
+  "fun_fact": "Fun fact: Thimphu is the world's only capital city with no traffic lights! Traffic is managed by vigilant policemen wearing white gloves who direct vehicles at major intersections. In 1998, Bhutan removed a trial traffic light simply because people preferred relying on officers—residents felt the impersonal nature of traffic lights didn't suit the communal and human-centric ethos of Bhutanese society. Bhutan also prioritizes Gross National Happiness (GNH) over GDP and is the world's first and only carbon-negative nation!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ema Datshi (Chili Cheese Stew)",
+        "description": "Bhutan's national dish—a spicy stew made from hot chili peppers and cheese (datshi). 'Ema' means chili and 'datshi' means cheese in Dzongkha. Bhutanese eat this almost every day with red rice.",
+        "origin_story": "Often called the 'soul of Bhutanese cuisine,' Ema Datshi represents more than food—it embodies culture, traditions, and agricultural simplicity of Bhutan. What makes it unique is its widespread presence: served at humble family dinners and grand celebratory feasts alike. The cheese (datshi) is made from goat, cow, or yak's milk. This dish showcases the Bhutanese love for extremely spicy food—chilies are treated as a vegetable, not just a seasoning!",
+        "where_to_find": "Folk Heritage Restaurant (Thimphu) for authentic preparation with traditional ambiance, Bukhari at COMO Uma (Paro) for fine-dining twist, Central Market Stalls (Thimphu) for budget-friendly home-style versions, Choki Traditional Art School Café (Thimphu)"
+      },
+      {
+        "name": "Kewa Datshi (Potato Cheese)",
+        "description": "Popular variation of Ema Datshi using potatoes instead of just chilies—still spicy but more accessible to those not used to extreme heat",
+        "origin_story": "Kewa Datshi represents how Bhutanese cuisine adapts while maintaining its core identity—the beloved datshi (cheese). Potatoes soften the intense chili heat while still providing substantial spice. It's comfort food for Bhutanese people.",
+        "where_to_find": "Every Bhutanese restaurant, home kitchens, hotel dining rooms"
+      },
+      {
+        "name": "Phaksha Paa (Pork with Red Chilies)",
+        "description": "Dried pork cooked with red chilies and sometimes radishes—a rich, fatty, spicy dish",
+        "origin_story": "Pork is popular in Bhutan, and this dish showcases the Bhutanese method of preserving meat through drying. The dried pork (shakam) is rehydrated during cooking, creating intensely flavored, fatty pieces that pair perfectly with rice and cut through the altitude's cold.",
+        "where_to_find": "Traditional Bhutanese restaurants, farmhouse homestays, local eateries in Thimphu"
+      },
+      {
+        "name": "Red Rice with Ema Datshi",
+        "description": "Bhutan's staple grain—short-grain red rice with a nutty flavor, always served with Ema Datshi and other curries",
+        "origin_story": "Red rice grows in the Paro Valley and is semi-milled, retaining nutrients in the red husk. It's higher in fiber than white rice and has a distinctive nutty, earthy flavor. Bhutanese consider a meal incomplete without rice, and red rice is the premium variety.",
+        "where_to_find": "Every Bhutanese meal, markets selling local Paro Valley red rice"
+      },
+      {
+        "name": "Jasha Maroo (Spicy Chicken Curry)",
+        "description": "Minced chicken cooked with tomatoes, ginger, garlic, and lots of chilies—another spicy staple",
+        "origin_story": "Jasha Maroo shows how Bhutanese cuisine balances meat, vegetables, and intense spice. The chicken is finely minced or shredded, allowing the spices to penetrate thoroughly. It's often served alongside Ema Datshi for a complete meal.",
+        "where_to_find": "Bhutanese restaurants, hotel dining rooms, local family eateries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Suja (Butter Tea)",
+        "description": "Traditional Bhutanese tea made by blending tea with yak butter and salt—high calorie, smooth, hot, and healthy",
+        "how_locals_drink_it": "The most well-known beverage in Bhutan, especially in colder areas. The word suja means 'su' (churned) and 'ja' (chai/tea). Traditionally churned in a wooden device called a dapa for perfect consistency, made using yak butter prized for its high fat content. Unlike sweet teas, Suja is salty, slightly smoky, and deeply nourishing. It's more than a beverage—it's an offering, a social ritual, and a gesture of hospitality. Drunk at special occasions like weddings and Losar (Tibetan New Year). When being hosted, guests are typically served Suja along with Zao (puffed rice roasted with butter and sugar). This tradition dates back to the 7th century."
+      },
+      {
+        "name": "Ara (Traditional Rice Spirit)",
+        "description": "Traditional alcoholic liquor made from fermented or distilled rice, wheat, millet, buckwheat, maize, or barley—clear and strong, sometimes with butter and eggs added for flavor",
+        "how_locals_drink_it": "A significant part of Bhutan's social and cultural foundation. Usually made by hand, commonly prepared at home by women. Ara is a huge part of the country's cultural heritage, stored in traditional flasks. It's drunk during celebrations, festivals, and social gatherings. Stronger than chang (millet beer) because it's distilled."
+      },
+      {
+        "name": "Ngaja (Sweet Milk Tea)",
+        "description": "Sweet milk tea similar to Indian chai, but with Bhutanese preparation methods",
+        "how_locals_drink_it": "The sweeter alternative to salty butter tea. Both teas can be enjoyed with zaw (puffed rice) or sip (pounded corn). More common in modern Thimphu cafés and restaurants than traditional suja."
+      }
+    ],
+    "food_culture_notes": [
+      "Chilies are treated as a vegetable, not just seasoning—Bhutanese food is extremely spicy",
+      "Cheese (datshi) appears in almost every meal in various forms",
+      "Yak products (butter, cheese, meat) are prized, especially from high-altitude areas",
+      "Red rice from Paro Valley is considered superior to white rice",
+      "Meals are incomplete without rice and chili cheese (Ema Datshi)",
+      "Butter tea represents hospitality—refusing it can be seen as rude",
+      "Traditional cooking uses wooden churners (dapa) for butter tea",
+      "Home-made ara prepared by women is culturally significant"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Traffic policemen in white gloves directing traffic (no traffic lights!)",
+      "Tashichho Dzong (fortress monastery)",
+      "Buddha Dordenma statue overlooking valley",
+      "Traditional Bhutanese architecture with painted wooden windows",
+      "Prayer flags on every building and hillside",
+      "Memorial Chorten (large white stupa)"
+    ],
+    "atmosphere": [
+      "World's only capital without traffic lights—human-directed traffic",
+      "Strong sense of tradition mixed with careful modernization",
+      "Everyone wears traditional dress (gho for men, kira for women)",
+      "Clean mountain air in high-altitude valley",
+      "Buddhist prayer wheels and flags everywhere",
+      "Café culture growing while maintaining traditional tea houses",
+      "Focus on Gross National Happiness over economic growth"
+    ],
+    "colors": [
+      "Red chilies drying on rooftops and in markets",
+      "Colorful prayer flags—blue, white, red, green, yellow",
+      "White and red of traditional dzong architecture",
+      "Golden Buddha statues and temple decorations",
+      "Red rice in wooden bowls",
+      "Orange cheese (yak datshi) in bubbling pots"
+    ],
+    "unique_modern": [
+      "Only carbon-negative country in the world (over 70% forest cover)",
+      "Gross National Happiness (GNH) prioritized over GDP since 1972",
+      "Traffic controlled by white-gloved policemen, not lights",
+      "Traditional dress required in government buildings and schools",
+      "TV only introduced in 1999—one of the last countries to get television",
+      "Growing café scene in Thimphu mixing international and traditional",
+      "Modern interpretations of butter tea in urban cafés",
+      "Preservation of traditional home-cooking methods alongside modernization"
+    ]
+  },
+  "wikipedia_search_term": "Thimphu",
+  "keywords_for_image": [
+    "Thimphu Bhutan no traffic lights",
+    "Ema Datshi chili cheese Bhutan",
+    "Bhutanese suja butter tea yak",
+    "Thimphu dzong fortress monastery",
+    "Bhutan red chilies drying",
+    "Bhutanese gho kira traditional dress",
+    "Thimphu prayer flags mountains",
+    "Bhutan red rice datshi cheese"
+  ],
+  "coordinates": {
+    "lat": 27.4728,
+    "lng": 89.6393
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Thimphu+🇧🇹/@27.4728,89.6393,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thimphu"
+  },
+  "location_id": 70
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Kandy",
+  "country": "Sri Lanka",
+  "fun_fact": "Fun fact: Kandy is home to the Temple of the Sacred Tooth Relic, which houses Buddha's left canine tooth. According to legend, it was smuggled into Sri Lanka in 301-328 AD hidden in Princess Hemamali's hair, and whoever possesses this tooth is believed to hold the governance of the country.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kottu Roti",
+        "description": "Chopped flatbread stir-fried on a griddle with vegetables, eggs, and meat or seafood, creating a rhythmic clanging sound from metal spatulas",
+        "origin_story": "Originally from Tamil street food in Southern India, kottu roti was introduced to Sri Lanka in the 1970s and has since become one of the most beloved street foods. The rhythmic clanging of metal spatulas against the hot griddle has become an iconic sound of Sri Lankan street corners.",
+        "where_to_find": "Street stalls around Kandy city center near the main market, along Peradeniya Road, and near Dalada Veediya (Temple of the Sacred Tooth area). Kandy Lake Club Restaurant also serves excellent kottu."
+      },
+      {
+        "name": "Hoppers (Appa)",
+        "description": "Bowl-shaped pancakes made from fermented rice flour and coconut milk with crispy edges and soft, spongy center. Can be plain or with an egg cracked in the middle (egg hopper)",
+        "origin_story": "A traditional breakfast classic in Kandy, hoppers must be eaten fresh and hot. They're typically paired with spicy sambols (relishes) and coconut chutneys. Being a breakfast dish, they're found at early morning street markets.",
+        "where_to_find": "Small stalls around Dalada Veediya near the Temple of the Sacred Tooth Relic, and early morning vendors at Kandy Market Hall"
+      },
+      {
+        "name": "Rice and Curry",
+        "description": "Slow-cooked curries with balanced, earthy flavors (less fiery than other regions), served with rice and sambols",
+        "origin_story": "In Kandy, the curries are slow-cooked for many hours, creating more balanced and earthy flavors compared to the fiery intense curries of some other Sri Lankan regions. This reflects Kandy's refined culinary heritage as the last cultural capital.",
+        "where_to_find": "The Kandy Muslim Hotel (authentic Sri Lankan Muslim cuisine), The Empire Cafe (colonial ambiance with Ceylon tea), and family-run local eateries throughout the city"
+      },
+      {
+        "name": "Lamprais",
+        "description": "Dutch Burgher dish of rice, meat curry, and accompaniments wrapped in a banana leaf and baked",
+        "origin_story": "Introduced by Dutch Burghers (mixed Dutch-Portuguese-Sri Lankan descent) during Dutch colonial rule (1658-1796). Based on the Javanese dish 'lemper,' the name comes from Dutch 'lomprijst' meaning 'packet of rice.' First mentioned in Hilda Deutrom's Ceylon Daily News Cookery Book in 1929.",
+        "where_to_find": "Traditional restaurants and the Kandy Muslim Hotel for authentic preparations"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ceylon Tea",
+        "description": "Fragrant black tea from Sri Lanka's central highlands",
+        "how_locals_drink_it": "Often enjoyed at The Empire Cafe with views of bustling Kandy streets, reflecting the city's colonial tea heritage"
+      },
+      {
+        "name": "King Coconut Water (Thambili)",
+        "description": "Fresh sweet water from orange king coconuts, naturally refreshing",
+        "how_locals_drink_it": "Sold by street vendors throughout the city, especially near the lake and temple areas"
+      }
+    ],
+    "food_culture_notes": [
+      "Kalu Dodol is a dark, sticky sweet confection made from coconut milk, jaggery, and rice flour",
+      "Kokis are crispy flower-shaped treats made from rice flour and coconut milk, enjoyed during festive seasons",
+      "Watalappam is a coconut custard pudding brought by Sri Lankan Malays in the 18th century",
+      "String hoppers (idiyappam) are steamed rice flour noodles served with kiri hodi (coconut gravy) or pol sambola",
+      "The Good Shed Bus Stand area has vendors selling a variety of traditional Sri Lankan sweets"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa)",
+      "Kandy Lake",
+      "Royal Botanical Gardens Peradeniya",
+      "Pattiripuwa octagonal tower with palm-leaf manuscripts",
+      "Colonial architecture along city streets"
+    ],
+    "atmosphere": [
+      "Bustling street markets with rhythmic kottu clanging",
+      "Sacred Buddhist pilgrimage site",
+      "Hill country tea plantations",
+      "Colorful Esala Perahera festival processions",
+      "Colonial-era cafes with Ceylon tea culture"
+    ],
+    "colors": [
+      "Saffron and maroon of Buddhist robes",
+      "Golden temple architecture",
+      "Green hillside tea estates",
+      "Vibrant market produce and spices",
+      "White colonial buildings"
+    ],
+    "unique_modern": [
+      "Last cultural capital before colonial takeover",
+      "UNESCO World Heritage Site since 1988",
+      "Daily temple rituals three times per day",
+      "Wednesday Nanumura Mangallaya (symbolic bathing of relic with healing water)"
+    ]
+  },
+  "wikipedia_search_term": "Kandy",
+  "keywords_for_image": [
+    "Kandy Sri Lanka",
+    "Temple of the Sacred Tooth",
+    "kottu roti street food",
+    "hoppers appa",
+    "Kandy Lake",
+    "Sri Lankan curry",
+    "Buddhist temple",
+    "Ceylon tea"
+  ],
+  "coordinates": {
+    "lat": 7.2906,
+    "lng": 80.6337
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kandy+🇱🇰/@7.2906,80.6337,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kandy"
+  },
+  "location_id": 26
+}

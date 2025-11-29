@@ -1,0 +1,108 @@
+{
+  "name": "Hong Kong",
+  "country": "China",
+  "fun_fact": "Fun fact: Hong Kong-style milk tea is such a cultural icon that locals consume an average of 2.5 million cups per day - nearly the same ubiquitous status as coffee in the West. The drink emerged in the 1940s when locals couldn't afford British hotel afternoon tea, so dai pai dong (street stalls) created an affordable version using evaporated milk and strong tea blends for laborers who needed high caffeine. It became a symbol of Hong Kong identity during the 1997 handover from Britain to China.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Wonton Noodles",
+        "description": "Bouncy alkaline noodles made with flour and alkaline water, served in delicate clear broth of dried flounder and yellow chives, topped with wontons filled with shrimp.",
+        "origin_story": "Mak's Noodle, a culinary institution, makes noodles using the traditional bamboo pressing method, ensuring a springy texture unique to their preparation. Ho Hung Kee, founded in 1946 by Ho Chiu-hung, is one of the longest-standing wonton institutions and earned Michelin star status. The dish represents Cantonese culinary precision - the broth must be crystal clear, noodles perfectly al dente.",
+        "where_to_find": "Mak's Noodle (traditional bamboo method), Ho Hung Kee in Hysan Place (Michelin-starred since 1946), and Kwan Kee Bamboo Noodles in Sham Shui Po (Michelin Bib Gourmand for hand-made noodles). Best with a splash of red vinegar to balance alkaline flavor."
+      },
+      {
+        "name": "Char Siu (BBQ Pork)",
+        "description": "Roasted pork with rich marinade giving savoury complexity, finished with caramelized maltose glaze for sweetness and charred notes. Served over rice or in buns.",
+        "origin_story": "Arguably one of Hong Kong's most loved dishes, char siu evolved from Cantonese roasting traditions where the intense heat and precise timing create the signature red exterior and juicy interior. The maltose glaze technique has been perfected over generations of roast masters.",
+        "where_to_find": "Joy Hing Roasted Meat in Wan Chai is revered for expertly roasted char siu with succulent meat and intense flavors. Wing Sing Restaurant in Sham Shui Po serves classic preparations in no-frills setting attracting locals and food tourists. Both maintain Michelin recognition at affordable HK$30-80 prices."
+      },
+      {
+        "name": "Dim Sum at Dai Pai Dong",
+        "description": "Small steamed or fried dishes including rice noodle rolls (cheung fun), shrimp dumplings, and barbecued pork buns, traditionally served from pushcarts during yum cha (tea brunch).",
+        "origin_story": "Lin Heung Teahouse in Sheung Wan, one of the city's oldest teahouses, offers tradition with bustling atmosphere and dim sum served on pushcarts - a dying practice. The leisurely yum cha (drinking tea) culture represents Cantonese social dining where families gather for hours over endless small plates and tea.",
+        "where_to_find": "Lin Heung Teahouse (oldest teahouse with pushcarts), Tim Ho Wan (Michelin-recognized for meticulous preparation), One Dim Sum (local favorite). Best selection appears 8-11 AM when dishes come fresh from kitchen. Silky rice noodle rolls at dai pai dong stalls."
+      },
+      {
+        "name": "Dai Pai Dong Stir-Fry",
+        "description": "Wok-fried dishes cooked at extreme heat creating 'wok hei' (breath of the wok) - the smoky, charred essence that defines Cantonese cooking. Served at outdoor street stalls.",
+        "origin_story": "Only 17 dai pai dong remained in Hong Kong as of July 2024, down from hundreds. These green-painted steel kitchens with untidy atmosphere and no air conditioning represent authentic working-class Hong Kong culture. The roaring wok and intense heat create flavors impossible to replicate in modern restaurants.",
+        "where_to_find": "Keung Kee in Sham Shui Po (local workers and families, six pavement tables off Apliu Street), Sing Heung Yuen in Central (operating since 1959, beloved by office workers), Chan Kun Kee in Sha Tin (relocated indoors but maintains traditional dishes), Woosung Street Cooked Food Market (reopened 2021, about 10 stalls)."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Hong Kong-Style Milk Tea (Silk Stocking Tea)",
+        "description": "Strong black tea blend strained through a cloth bag (resembling silk stockings) and mixed with evaporated milk. Stronger and creamier than British milk tea.",
+        "how_locals_drink_it": "Consumed at breakfast, afternoon tea, or dinner - costs around HK$20 and Hongkongers drink 2.5 million cups daily. Lan Fong Yuen claims to have invented it in 1952. The drink is considered culturally significant and a symbol of Hong Kong identity, representing the city's unique blend of British colonial influence and local adaptation."
+      },
+      {
+        "name": "Yuenyeung (鴛鴦)",
+        "description": "Blend of strong black coffee and Hong Kong-style milk tea, sweetened with sugar and enriched with evaporated or condensed milk. Served hot or iced.",
+        "how_locals_drink_it": "Named after mandarin ducks (yuenyeung) which mate for life, symbolizing the harmonious blend of coffee and tea. Invented at Lan Fong Yuen in 1952 for patrons who couldn't decide between coffee and tea. Represents Hong Kong's hybrid East-West identity from 150+ years of British rule. Widely available at every cha chaan teng."
+      }
+    ],
+    "food_culture_notes": [
+      "Cha chaan teng (tea restaurants) emerged in 1946, combining affordable East-meets-West fusion cuisine in no-frills settings with 10-20 minute high customer turnover",
+      "Dai pai dong (open-air food stalls) are endangered heritage - only 17 remain as of 2024, characterized by green steel kitchens and intense wok hei cooking",
+      "Sham Shui Po neighborhood serves locals first, with many eateries operating under same family for 3+ generations",
+      "Hong Kong-style milk tea and yuenyeung are part of Hong Kong's intangible cultural heritage",
+      "Street food costs HK$20-50, cha chaan teng meals HK$50-100, Michelin Bib Gourmand spots in Sham Shui Po maintain reasonable prices despite recognition"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Victoria Harbour skyline",
+      "Dai pai dong green steel kitchens",
+      "Cha chaan teng neon signs",
+      "Bamboo scaffolding on skyscrapers",
+      "Temple Street night market",
+      "Sham Shui Po street stalls"
+    ],
+    "atmosphere": [
+      "Humid subtropical climate",
+      "Intense wok hei cooking smoke",
+      "High-density urban energy",
+      "East-meets-West colonial fusion",
+      "Bustling market crowds",
+      "Neon-lit night streets",
+      "Pushcart dim sum tradition"
+    ],
+    "colors": [
+      "Neon pink and green signs",
+      "Red char siu glaze",
+      "Golden wonton noodles",
+      "Milk tea caramel brown",
+      "Victoria Harbour blue",
+      "Green dai pai dong kitchens"
+    ],
+    "unique_modern": [
+      "Michelin-starred street food",
+      "Endangered dai pai dong preservation",
+      "Cha chaan teng cultural heritage status",
+      "Bamboo pressing noodle techniques",
+      "Hybrid colonial-Cantonese identity"
+    ]
+  },
+  "wikipedia_search_term": "Hong_Kong",
+  "keywords_for_image": [
+    "Hong Kong dai pai dong",
+    "cha chaan teng",
+    "wonton noodles",
+    "milk tea silk stocking",
+    "Victoria Harbour",
+    "char siu BBQ pork",
+    "dim sum pushcart",
+    "neon signs",
+    "street food stall",
+    "wok hei cooking"
+  ],
+  "coordinates": {
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hong+Kong+🇨🇳/@22.3193,114.1694,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong"
+  },
+  "location_id": 33
+}

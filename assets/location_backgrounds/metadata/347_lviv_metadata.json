@@ -1,0 +1,94 @@
+{
+  "name": "Lviv",
+  "country": "Ukraine",
+  "fun_fact": "Fun fact: A Lviv native named Yuriy Kulchytsky opened the first coffeehouse in Vienna in 1683 after stealing Turkish coffee supplies during the siege. A century later, when Lviv joined the Austrian Empire, Viennese returned the favor by opening Lviv's first coffee shops. Today, Lviv has the world's only 'coffee mine' where you wear a helmet and 'extract' coffee beans like coal",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ukrainian Borscht",
+        "description": "Ukraine's soul in a bowl - deep crimson beet soup with beef broth, cabbage, potatoes, and a generous dollop of sour cream. Served with pampushky (garlic bread rolls) and sometimes in a hollowed-out bread bowl",
+        "origin_story": "Every Ukrainian grandmother insists her borscht recipe is the only authentic one. Some add prune and lemon zest (Trapezna Idey's version), others swear by rosehip broth (36Po), and purists demand only beef and beets. The debate has raged for centuries. What's certain: good borscht takes 3+ hours and can't be rushed",
+        "where_to_find": "Trapezna Idey (18a Valova St - with prune and lemon, basement of old monastery), Zashkvarka (with brioche and bacon), Kryjivka (14 Rynok Square - need password to enter), Medivnia (with medovuha tasting)"
+      },
+      {
+        "name": "Varenyky (Ukrainian Dumplings)",
+        "description": "Pillowy boiled dumplings stuffed with potatoes and cheese, sauerkraut, mushrooms, cherries, or even pike and rabbit. Topped with caramelized onions, sour cream, or butter",
+        "origin_story": "The Eastern European cousin of pierogi, ravioli, and gyoza - but Ukrainians will fight you if you call them anything but varenyky. Traditionally made by hand on Sundays by entire families. Sweet cherry varenyky are summer dessert, savory ones are winter comfort food",
+        "where_to_find": "Zashkvarka (halva filling!), 36Po (potatoes/mushrooms, pike, or rabbit), Amadeus (7 Katedralna Square - fancy versions), Kumpel (6 Vynnychenka St - fried varenyky)"
+      },
+      {
+        "name": "Salo (Cured Pork Fat)",
+        "description": "Thick slices of cured pork fatback, often with garlic and paprika, eaten on dark rye bread or straight up with vodka. It's pure white fat that melts on your tongue",
+        "origin_story": "Ukraine's most misunderstood delicacy. Salo sustained Ukrainian peasants through brutal winters - pure fat is calorie-dense and keeps forever when cured. It's a symbol of Ukrainian resilience. Proper salo should be firm but yielding, never rubbery. Eating it with vodka is tradition, not optional",
+        "where_to_find": "Zashkvarka (served with borscht), Kryjivka (Ukrainian Insurgent Army theme), Baczewski Restaurant (8 Shevska St - with 45 infused vodkas)"
+      },
+      {
+        "name": "Galician Cuisine Fusion",
+        "description": "Lviv's unique blend of Polish, Ukrainian, Jewish, and Austrian influences - think Wiener schnitzel meets varenyky, Galician sausages with Ukrainian pickles",
+        "origin_story": "Lviv was part of 8 different states throughout history (Polish-Lithuanian Commonwealth, Austrian Empire, Poland, USSR, now Ukraine). Each left culinary fingerprints. Galician cuisine is the sum of these occupations - neither purely Ukrainian nor Polish nor Austrian, but something uniquely Lviv",
+        "where_to_find": "Baczewski Restaurant (Galician cuisine with modern twist), Kumpel (Wiener schnitzel and sausages with own brewery beer), Trapezna Idey (lesser-known Galician dishes)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lviv Coffee",
+        "description": "Thick, strong Turkish-style coffee made in a copper cezve (turka), often with spices like cardamom or cinnamon. Lviv has hundreds of unique coffee recipes",
+        "how_locals_drink_it": "Never rush. Sit in baroque cafes for hours, order coffee with a shot of infused vodka (yes, really). Visit the Coffee Mining Company where you 'extract' coffee beans wearing a miner's helmet. The annual Lviv Coffee Festival draws 100,000 people. Coffee culture here rivals Vienna"
+      },
+      {
+        "name": "Medovuha (Honey Liqueur) and Infused Vodkas",
+        "description": "Medovuha is ancient Slavic honey wine, smooth and sweet. Infused vodkas come in 45+ flavors at Baczewski - horseradish, chili, herbs, fruits",
+        "how_locals_drink_it": "Medovuha served at Medivnia with live music. Infused vodkas are for tasting flights - try 5-6 varieties with salo and pickles. Baczewski family founded their vodka distillery in 1782. Always serve ice-cold, always with food, never shots without toasts"
+      }
+    ],
+    "food_culture_notes": [
+      "Kryjivka restaurant requires a password to enter - it's a recreated Ukrainian Insurgent Army hideout, most visited restaurant in Europe pre-Covid/war",
+      "Lviv printed the first Ukrainian book, built Ukraine's first railroad, and invented the kerosene lamp",
+      "Leopold von Sacher-Masoch (yes, 'masochism') was born here - the city has a complicated relationship with this fact",
+      "Despite ongoing war, Lviv maintains calm atmosphere and continues welcoming visitors with coffee culture and resilient spirit"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Rynok Square (Market Square) with colorful Renaissance townhouses",
+      "Lviv Opera House",
+      "High Castle hill viewpoint",
+      "Latin Cathedral and Armenian Cathedral"
+    ],
+    "atmosphere": [
+      "narrow cobblestone streets",
+      "coffee aroma wafting from every corner",
+      "live jazz from basements and courtyards",
+      "baroque and Renaissance architecture"
+    ],
+    "colors": [
+      "deep crimson (borscht)",
+      "golden yellow (historic buildings)",
+      "dark espresso brown",
+      "white sour cream swirls"
+    ],
+    "unique_modern": [
+      "Coffee Mining Company (only place to 'mine' coffee beans)",
+      "Annual Lviv Coffee Festival (100,000+ attendees)",
+      "Leopolis Jazz Fest each summer",
+      "City resilience during ongoing war in 2025"
+    ]
+  },
+  "wikipedia_search_term": "Lviv",
+  "keywords_for_image": [
+    "Lviv Market Square Ukraine",
+    "Ukrainian borscht sour cream",
+    "Lviv coffee culture",
+    "varenyky Ukrainian dumplings",
+    "Lviv Opera House"
+  ],
+  "coordinates": {
+    "lat": 49.8397,
+    "lng": 24.0297
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lviv+🇺🇦/@49.8397,24.0297,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lviv"
+  },
+  "location_id": 347
+}

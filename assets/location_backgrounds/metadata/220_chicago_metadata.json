@@ -1,0 +1,94 @@
+{
+  "name": "Chicago",
+  "country": "USA",
+  "fun_fact": "Fun fact: Putting ketchup on a Chicago-style hot dog is considered a sin so serious that locals will actually glare at you—the city takes its mustard-only rule more seriously than some people take their religion.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Deep Dish Pizza at Lou Malnati's",
+        "description": "Thick, buttery crust filled with layers of mozzarella, toppings, and chunky tomato sauce on top—a pizza that requires a fork and knife",
+        "origin_story": "Lou Malnati's has been making butter-crust deep dish since 1971 using a family recipe. The Malnati family actually invented deep dish at Pizzeria Uno in 1943, making this pizza royalty. The signature butter crust adds richness that regular dough can't match",
+        "where_to_find": "Lou Malnati's (multiple locations), Gino's East (graffiti-covered walls since 1966), or Pequod's (caramelized cheese edges)"
+      },
+      {
+        "name": "Italian Beef at Al's Italian Beef",
+        "description": "Thinly sliced seasoned roast beef piled on an Italian roll, dipped in meat juices, topped with giardiniera or sweet peppers",
+        "origin_story": "Born in an Italian butcher shop on the South Side in the 1930s, based on the French Dip. Al's has been the king of Italian beef since 1938, perfecting the 'dipped' technique where the entire sandwich gets dunked in au jus",
+        "where_to_find": "Al's Italian Beef (multiple locations) or Portillo's (the iconic fast-food empire that started as a hot dog trailer in 1963)"
+      },
+      {
+        "name": "Chicago-Style Hot Dog at Superdawg",
+        "description": "All-beef hot dog on a poppy seed bun with mustard, raw onions, neon green relish, tomato slices, pickle spear, sport peppers, and celery salt—no ketchup allowed",
+        "origin_story": "Superdawg's giant hot dog mascots have stood on the roof since 1948, serving carhops in retro uniforms. The dog comes in a box decorated with Maurie and Flaurie, the mascot couple. This is Chicago food nostalgia at its purest",
+        "where_to_find": "Superdawg (Northwest Side drive-in since 1948) or Redhot Ranch for minimalist authenticity"
+      },
+      {
+        "name": "Italian Beef Deep Dish Pizza (Lou Malnati's x Portillo's)",
+        "description": "The ultimate Chicago mash-up: Lou Malnati's deep dish crust filled with Portillo's Italian beef, giardiniera, and mozzarella",
+        "origin_story": "In 2024, two Chicago icons teamed up for Italian Beef Week, creating a pizza that combines both legendary dishes. It's excessive, ridiculous, and perfectly Chicago",
+        "where_to_find": "Lou Malnati's during special collaborations (check for Italian Beef Week in May)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Old Style Beer",
+        "description": "Chicago's working-class lager—crisp, clean, and inseparable from Cubs games and neighborhood bars",
+        "how_locals_drink_it": "Ice-cold at Wrigleyville bars during Cubs games, or with Italian beef at corner taverns. The Old Style sign is as iconic as the Chicago skyline"
+      },
+      {
+        "name": "Malört",
+        "description": "Bitter Swedish wormwood liqueur that tastes like gasoline and regret—a Chicago rite of passage",
+        "how_locals_drink_it": "Shot form, usually as a dare or hazing ritual. The face you make after drinking Malört is a Chicago tradition. Locals claim it 'separates tourists from residents'"
+      }
+    ],
+    "food_culture_notes": [
+      "Chicago takes food rivalries seriously—Lou's vs. Giordano's debates can end friendships",
+      "The ketchup-on-hot-dogs ban is real; even Obama got flak for suggesting it in 2009",
+      "Italian beef should be ordered 'dipped' (whole sandwich dunked) or 'wet' (extra au jus), never dry",
+      "Deep dish isn't everyday food for locals—thin-crust tavern-style pizza is what Chicagoans actually eat weekly"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Willis Tower and downtown skyline",
+      "Navy Pier on Lake Michigan",
+      "Wrigley Field ivy-covered walls",
+      "The Bean (Cloud Gate) in Millennium Park"
+    ],
+    "atmosphere": [
+      "classic red brick and neon signs",
+      "steamy Italian beef counters",
+      "graffiti-covered pizza joints",
+      "lakefront winds and deep winter snow"
+    ],
+    "colors": [
+      "deep red tomato sauce",
+      "neon green relish",
+      "golden deep-dish crust",
+      "Chicago flag blue and red"
+    ],
+    "unique_modern": [
+      "2024 Lou Malnati's x Portillo's pizza collaboration",
+      "Chicago-style hot dog poppy seed bun becoming a meme",
+      "Malört shot challenges going viral on TikTok",
+      "Pequod's caramelized cheese crust technique"
+    ]
+  },
+  "wikipedia_search_term": "Chicago",
+  "keywords_for_image": [
+    "Chicago deep dish pizza",
+    "Italian beef sandwich giardiniera",
+    "Chicago hot dog neon relish",
+    "Willis Tower skyline",
+    "Wrigley Field"
+  ],
+  "coordinates": {
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Chicago+🇺🇸/@41.8781,-87.6298,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  "location_id": 220
+}

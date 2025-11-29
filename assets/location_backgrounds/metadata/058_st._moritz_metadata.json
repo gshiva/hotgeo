@@ -1,0 +1,46 @@
+{
+  "name": "St. Moritz",
+  "country": "🇨🇭",
+  "coordinates": {
+    "lat": 46.4979,
+    "lng": 9.8355
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/St.+Moritz+🇨🇭/@46.4979,9.8355,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/St._Moritz"
+  },
+  "fun_fact": "Fun fact: St. Moritz awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local St. Moritz cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of St. Moritz"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Moritz landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 58
+}

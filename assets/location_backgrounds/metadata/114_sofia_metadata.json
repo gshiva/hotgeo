@@ -1,0 +1,119 @@
+{
+  "name": "Sofia",
+  "country": "Bulgaria",
+  "region": "Sofia City Province",
+  "fun_fact": "Sofia is home to the stunning Alexander Nevsky Cathedral, one of the largest Orthodox churches in the world with 12 bells (the heaviest weighing 12 tons) all created in Moscow. Bulgaria produces 70-85% of the world's rose oil, with buyers paying upwards of $7,000 per pound. The shopska salad's colors match the Bulgarian flag: white (cheese), green (cucumber), and red (tomato)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Banitsa",
+        "description": "Traditional flaky pastry filled with eggs, white cheese (sirene), and butter, baked until golden and crispy",
+        "origin_story": "The quintessential Bulgarian breakfast - when you ask a Bulgarian what they eat for breakfast, many will answer 'banitsa'. The first banitsas come out of the oven as early as 5 AM.",
+        "where_to_find": "Domashna Banista Bakery near Eagle's Bridge (everything homemade), Rainbow Factory (exceptional homemade banitsa, both savory and sweet seasonal fruit versions), Izbata Tavern, Made in Home"
+      },
+      {
+        "name": "Shopska Salad",
+        "description": "Cold salad made with tomatoes, cucumbers, onions, and grated sirene cheese - colors resemble the Bulgarian flag (white, green, red)",
+        "origin_story": "The Bulgarian national dish and perfect starter. Created to showcase Bulgarian produce and now served at every restaurant in Bulgaria.",
+        "where_to_find": "Shtastlivetsa, The Little Things, Divaka, Rakia Raketa Bar, The Hadjidragana Tavern, Manastirska Magernitsa Restaurant, Moma Bulgarian Food and Wine"
+      },
+      {
+        "name": "Kebapche",
+        "description": "Grilled minced meat sausages (usually pork and beef) seasoned with cumin and other spices",
+        "origin_story": "Beloved Bulgarian street food and tavern staple - often served with shopska salad and a cold beer",
+        "where_to_find": "Izbata Tavern, street vendors throughout Sofia, Central Market Hall"
+      },
+      {
+        "name": "Sarmi",
+        "description": "Cabbage or grape leaves stuffed with rice and minced meat, slowly cooked",
+        "origin_story": "Traditional Bulgarian dish with Ottoman influences, a staple at family gatherings and monastery canteens",
+        "where_to_find": "Manastirska Magernitsa (Monastery Canteen - sourced from monasteries across Bulgaria)"
+      },
+      {
+        "name": "Moussaka (Bulgarian-style)",
+        "description": "Layers of potatoes and minced meat with yogurt topping - different from Greek version",
+        "origin_story": "Bulgarian moussaka uses potatoes instead of eggplant and is topped with yogurt mixture",
+        "where_to_find": "Made in Home (creative reimagining), traditional taverns throughout Sofia"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakia",
+        "description": "Fruit brandy (usually grape or plum) that's Bulgaria's national spirit",
+        "how_locals_drink_it": "Drunk as an aperitif with shopska salad to begin a meal. Often homemade and very strong (40%+ alcohol). Sipped, not shot."
+      },
+      {
+        "name": "Boza",
+        "description": "Thick, slightly fermented drink made from wheat or millet with a sweet-sour taste",
+        "how_locals_drink_it": "The traditional pairing with banitsa for breakfast - 'banitsa and boza' is considered the classic start to a Bulgarian day"
+      },
+      {
+        "name": "Ayran",
+        "description": "Salted yogurt drink, cold and refreshing",
+        "how_locals_drink_it": "Perfect with kebapche and other grilled meats, especially in summer"
+      }
+    ],
+    "food_culture_notes": [
+      "Banitsa is eaten for breakfast - buy it steaming fresh in the morning for the crispy outer layer",
+      "Every food venue in Bulgaria serves shopska salad - it's the universal starter",
+      "Central Market Hall (Tsentralni Hali) is the best place to buy quality Bulgarian cheese directly from producers",
+      "Monastery recipes: Manastirska Magernitsa serves curated recipes from monasteries across Bulgaria, including wild boar and rabbit braised in Bulgarian wine",
+      "Bulgarian cuisine shows strong Ottoman and Balkan influences",
+      "Rose oil and rose products are everywhere - Bulgaria is the world's largest producer"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Alexander Nevsky Cathedral (gold-plated dome, 45m high, can hold 5,000 worshipers)",
+      "Saint Sofia Church",
+      "Vitosha Boulevard (main shopping street)",
+      "Central Market Hall (Tsentralni Hali)",
+      "National Palace of Culture",
+      "Vitosha Mountain (visible from the city)"
+    ],
+    "atmosphere": [
+      "Orthodox cathedral bells ringing",
+      "Central European cafe culture",
+      "Mountain backdrop of Vitosha",
+      "Street vendors selling banitsa in the morning",
+      "Traditional taverns with rustic decor",
+      "Rose oil shops and markets"
+    ],
+    "colors": [
+      "Gold-plated domes of Alexander Nevsky",
+      "White, green, red of shopska salad (Bulgarian flag colors)",
+      "Pink roses from Rose Valley",
+      "Yellow-golden banitsa pastry",
+      "Green Vitosha Mountain backdrop"
+    ],
+    "unique_modern": [
+      "Made in Home's creative takes on traditional dishes",
+      "Contemporary Bulgarian wine culture",
+      "Rooftop bars and modern restaurants",
+      "Craft beer scene emerging",
+      "Fusion of traditional recipes with modern presentation"
+    ]
+  },
+  "wikipedia_search_term": "Sofia",
+  "keywords_for_image": [
+    "alexander nevsky cathedral sofia",
+    "banitsa bulgarian pastry",
+    "shopska salad",
+    "sofia bulgaria",
+    "bulgarian food",
+    "sirene cheese",
+    "kebapche",
+    "vitosha mountain sofia",
+    "bulgarian rose oil",
+    "rakia"
+  ],
+  "coordinates": {
+    "lat": 42.6977,
+    "lng": 23.3219
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Sofia+🇧🇬/@42.6977,23.3219,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia"
+  },
+  "location_id": 114
+}

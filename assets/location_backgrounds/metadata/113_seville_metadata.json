@@ -1,0 +1,126 @@
+{
+  "name": "Seville",
+  "country": "Spain",
+  "region": "Andalusia",
+  "fun_fact": "Seville is the birthplace of tapas! The word 'tapa' means 'lid' - small plates were originally used to cover wine glasses to keep out flies. The city has over 31,000 orange trees producing 4 million kilos of oranges annually, and the spring air smells like orange blossoms. Plus, the Royal Alcázar is still in use by the Spanish royal family!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tapas",
+        "description": "Small plates of various dishes meant for sharing - from jamón ibérico to tortilla de camarones (shrimp fritters) to salmorejo",
+        "origin_story": "Invented in Andalusia, possibly by King Alfonso XIII who required food with drinks due to illness, or from placing bread and ham on glass lids to keep out insects. Seville transformed this into a cherished dining tradition as the capital of the region.",
+        "where_to_find": "El Rinconcillo (founded 1670, Seville's oldest bar), Las Teresas 1870 (in Santa Cruz neighborhood), Casa Morales (traditional bodega since 1850), Las Golondrinas (in Triana)"
+      },
+      {
+        "name": "Salmorejo",
+        "description": "Cold tomato soup thicker than gazpacho, topped with hard-boiled egg and jamón serrano",
+        "origin_story": "A traditional Andalusian dish that's heartier than gazpacho, perfect for hot Seville summers",
+        "where_to_find": "Every authentic tapas bar serves this - especially good at El Rinconcillo"
+      },
+      {
+        "name": "Solomillo al Whisky",
+        "description": "Succulent pork tenderloin in tangy whisky-garlic sauce, often served with crispy potatoes",
+        "origin_story": "A popular Sevillian specialty found in practically every tapas bar - the whisky sauce is distinctive to Seville",
+        "where_to_find": "Widespread in local tapas bars throughout the city"
+      },
+      {
+        "name": "Espinacas con Garbanzos",
+        "description": "Spinach and chickpeas stewed with garlic, cumin, and paprika",
+        "origin_story": "Classic Andalusian tapa with Moorish influences from centuries of Islamic rule",
+        "where_to_find": "El Rinconcillo specializes in this traditional dish"
+      },
+      {
+        "name": "Cola de Toro",
+        "description": "Braised oxtail in rich red wine sauce",
+        "origin_story": "Reflects Seville's bullfighting heritage - using every part of the bull in traditional cooking",
+        "where_to_find": "Found at traditional tapas bars and restaurants throughout Seville"
+      },
+      {
+        "name": "Tortilla de Camarones",
+        "description": "Crispy, lacy fritters made with tiny shrimp, parsley, and onion",
+        "origin_story": "A specialty of Cádiz province but beloved throughout Andalusia",
+        "where_to_find": "Most authentic tapas bars serve these crispy delights"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Fino Sherry",
+        "description": "Dry, pale fortified wine from nearby Jerez",
+        "how_locals_drink_it": "Served cold in small copitas (glasses) as the perfect aperitif with tapas, especially jamón and olives"
+      },
+      {
+        "name": "Tinto de Verano",
+        "description": "Red wine mixed with lemon soda or gaseosa",
+        "how_locals_drink_it": "The locals' summer refresher - lighter and more popular than sangria (which is touristy)"
+      },
+      {
+        "name": "Rebujito",
+        "description": "Manzanilla sherry mixed with lemon-lime soda",
+        "how_locals_drink_it": "The drink of Feria de Abril (April Fair) - refreshing and dangerously easy to drink"
+      }
+    ],
+    "food_culture_notes": [
+      "Dinner starts late - locals don't sit down until 9:00-10:00 PM, tapas bars fill up around 8:30 PM",
+      "Seville is one of Spain's most affordable foodie cities - full tapas meal with drinks under €10 at many spots",
+      "El Rinconcillo (1670) writes your bill in chalk on the wooden bar - centuries-old tradition",
+      "The Patio de los Naranjos (orange tree courtyard) was originally the mosque's ablution courtyard",
+      "Sevillanas is a unique musical style combining flamenco with line dancing",
+      "Spring in Seville smells like orange blossoms from 31,000+ trees throughout the city"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "La Giralda tower (104m bell tower, former minaret with 34 ramps instead of stairs)",
+      "Seville Cathedral (world's largest Gothic church, houses Columbus's remains)",
+      "Royal Alcázar (UNESCO site, still used by royal family)",
+      "Plaza de España (appeared in Star Wars Episode II)",
+      "Triana neighborhood (birthplace of soleá de Triana flamenco style)",
+      "Orange tree-lined streets throughout the city"
+    ],
+    "atmosphere": [
+      "Orange blossoms perfuming the air in spring",
+      "Flamenco rhythms in Triana",
+      "Moorish-influenced architecture",
+      "Over 300 days of sunshine annually",
+      "Late-night tapas culture",
+      "Hanging jamón legs in traditional bars"
+    ],
+    "colors": [
+      "Orange trees and their bright fruit",
+      "White-washed buildings",
+      "Colorful ceramic tiles (azulejos)",
+      "Deep reds and golds of flamenco dresses",
+      "Golden sandstone of the Alcázar",
+      "Blue Andalusian skies"
+    ],
+    "unique_modern": [
+      "Contemporary flamenco fusion shows",
+      "Modern tapas interpretations",
+      "Rooftop bars overlooking historic monuments",
+      "UNESCO recognition of flamenco as cultural heritage",
+      "Las Setas (Metropol Parasol) modern architecture"
+    ]
+  },
+  "wikipedia_search_term": "Seville",
+  "keywords_for_image": [
+    "seville tapas",
+    "la giralda seville",
+    "seville orange trees",
+    "alcazar seville",
+    "flamenco seville",
+    "plaza de españa seville",
+    "salmorejo",
+    "andalusian tapas",
+    "seville cathedral",
+    "triana seville"
+  ],
+  "coordinates": {
+    "lat": 37.3891,
+    "lng": -5.9845
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Seville+🇪🇸/@37.3891,-5.9845,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seville"
+  },
+  "location_id": 113
+}

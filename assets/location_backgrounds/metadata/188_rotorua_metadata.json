@@ -1,0 +1,94 @@
+{
+  "name": "Rotorua",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: Rotorua sits on one of the world's most active geothermal zones - Māori have cooked using underground steam vents (hāngi) for over 700 years, and you can still see natural hot pools where locals boil eggs and corn right beside the sidewalk!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hāngi",
+        "description": "Traditional Māori feast cooked underground using geothermally heated rocks - meat and vegetables steam for hours wrapped in flax leaves",
+        "origin_story": "700+ years of tradition. In Rotorua, natural geothermal heat provides the cooking energy. The food absorbs earthy, smoky flavors from the ground",
+        "where_to_find": "Te Puia, Tamaki Māori Village, Whakarewarewa The Living Māori Village, Mitai Māori Village"
+      },
+      {
+        "name": "Rewena Bread",
+        "description": "Māori sourdough bread made with a potato-based starter (bug)",
+        "origin_story": "Pre-European Māori adapted bread-making using potatoes for the starter. Slightly sweet and dense",
+        "where_to_find": "Māori cultural experiences, local bakeries, farmers markets"
+      },
+      {
+        "name": "Geothermal Corn and Eggs",
+        "description": "Corn and eggs cooked in natural hot spring water",
+        "origin_story": "Locals use the natural hot pools as cooking pots - you can see this happening at Kuirau Park in the city center",
+        "where_to_find": "Kuirau Park hot springs, Hell's Gate, Whakarewarewa village"
+      },
+      {
+        "name": "Kaimoana (Seafood)",
+        "description": "Fresh New Zealand seafood including green-lipped mussels, crayfish, and paua",
+        "origin_story": "Though inland, Rotorua restaurants source excellent seafood from nearby coasts",
+        "where_to_find": "Stratosfare Restaurant (with gondola views), Capers Epicurean, Pig & Whistle"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "L&P",
+        "description": "Lemon & Paeroa - 'World Famous in New Zealand' soft drink",
+        "how_locals_drink_it": "The quintessential Kiwi drink, often with fish and chips"
+      },
+      {
+        "name": "Manuka Honey Drinks",
+        "description": "Hot drinks and cocktails featuring local Manuka honey",
+        "how_locals_drink_it": "In tea, or in craft cocktails at local bars"
+      }
+    ],
+    "food_culture_notes": [
+      "Rotorua is the best place in NZ to experience authentic Māori food culture",
+      "The sulfur smell is strong but you get used to it - locals call it 'Sulphur City'",
+      "Night hāngi experiences combine feast with cultural performance",
+      "Local trout fishing is excellent - restaurants cook your catch"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Te Puia geysers",
+      "Whakarewarewa geothermal valley",
+      "Government Gardens",
+      "Lake Rotorua"
+    ],
+    "atmosphere": [
+      "steam rising everywhere",
+      "Māori cultural sites",
+      "bubbling mud pools",
+      "sulfur smell"
+    ],
+    "colors": [
+      "geothermal white",
+      "mud pool grey",
+      "silica terrace orange",
+      "fern green"
+    ],
+    "unique_modern": [
+      "adventure tourism capital",
+      "mountain biking trails",
+      "zorbing origin"
+    ]
+  },
+  "wikipedia_search_term": "Rotorua",
+  "keywords_for_image": [
+    "hāngi earth oven",
+    "geothermal steam",
+    "Māori carving",
+    "hot springs",
+    "mud pools",
+    "geysers"
+  ],
+  "coordinates": {
+    "lat": -38.1368,
+    "lng": 176.2497
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rotorua+🇳🇿/@-38.1368,176.2497,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rotorua"
+  },
+  "location_id": 188
+}

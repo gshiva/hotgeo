@@ -1,0 +1,94 @@
+{
+  "name": "Toulouse",
+  "country": "France",
+  "fun_fact": "Fun fact: Toulouse holds an annual World Cassoulet Championship where chefs compete for the title of Best Cassoulet—in 2024, 27-year-old chef Jean-Baptiste Marty from century-old Chez Marty beat dozens of competitors, proving that family recipes passed down through generations still reign supreme.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cassoulet at Le Genty Magre",
+        "description": "White beans slow-cooked with duck confit, Toulouse sausage, and pork, baked in a clay pot until crusty on top—rich, hearty, soul-warming",
+        "origin_story": "Le Genty Magre won Best Cassoulet in the World at the 2023 Toulouse Championship. Their version includes duck confit, véritable saucisse de Toulouse, and saucisse de couenne. Cassoulet is Toulouse's signature dish, cooked for hours until the beans absorb all the meat fat",
+        "where_to_find": "Le Genty Magre (2023 World Champion), Restaurant Chez Marty (2024 World Champion), Le Colombier (since 1873), or Restaurant Émile (since 1947)"
+      },
+      {
+        "name": "Cassoulet at Restaurant Émile",
+        "description": "Buttery Tarbais beans with tender pork sausage and lamb, slow-cooked in the traditional way",
+        "origin_story": "Restaurant Émile has been on vibrant Place Saint George since 1947, serving traditional French fare. Their cassoulet features the prized Tarbais beans cooked to perfection, with the most tender lok lak lamb in Toulouse",
+        "where_to_find": "Restaurant Émile (Place Saint George—since 1947), Le Colombier (goose confit version from Castelnaudary)"
+      },
+      {
+        "name": "Saucisse de Toulouse",
+        "description": "Fresh pork sausage seasoned with white wine, salt, and pepper—the essential ingredient in cassoulet and grilled on its own",
+        "origin_story": "Maison Garcia won the 2024 Public Award for Best Cassoulet and specializes in authentic Toulousain charcuterie. Their véritable saucisse de Toulouse is the real thing: high-quality pork in natural casings. Find them at Victor Hugo Market or Carmes Market",
+        "where_to_find": "Maison Garcia (Victor Hugo Market or Carmes Market), Le Gascon (behind the Capitole), or butchers in the Carmes quarter"
+      },
+      {
+        "name": "Duck Confit",
+        "description": "Duck leg slowly cooked in its own fat until the meat falls off the bone, skin crispy—southwest France's greatest technique",
+        "origin_story": "L'Os à Moëlle has been serving traditional Toulouse cuisine since 1986. Their duck farandole showcases the duck confit technique: curing in salt, then cooking slowly in duck fat for hours until impossibly tender",
+        "where_to_find": "L'Os à Moëlle (since 1986—all-you-can-eat semi-cooked foie gras), Le Gascon, or traditional southwest French restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Floc de Gascogne",
+        "description": "Sweet fortified wine made from Armagnac and grape juice—floral, fruity, perfect as an aperitif",
+        "how_locals_drink_it": "Served chilled before meals in the southwest. The Armagnac adds strength while the grape juice keeps it fruity. Locals pair it with foie gras"
+      },
+      {
+        "name": "Armagnac",
+        "description": "Brandy from Gascony, older than cognac and more rustic—amber, complex, warming",
+        "how_locals_drink_it": "Served as a digestif after heavy cassoulet meals. Armagnac is distilled once (vs. cognac's twice), making it more rustic and flavorful. Swirl it in a snifter and sip slowly"
+      }
+    ],
+    "food_culture_notes": [
+      "The Toulouse World Cassoulet Championship crowns the best cassoulet annually—2024 winner was Chez Marty",
+      "Authentic cassoulet must include Tarbais beans, Toulouse sausage, and duck or goose confit",
+      "Maison Garcia's sausages are the gold standard—their charcuterie appears in championship cassoulets",
+      "Le Colombier uses goose confit (Castelnaudary style) instead of duck, honoring the original recipe from 1873"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Capitole de Toulouse (city hall)",
+      "Basilica of Saint-Sernin",
+      "Garonne River and Pont Neuf",
+      "Place du Capitole square"
+    ],
+    "atmosphere": [
+      "terracotta pink brick buildings (La Ville Rose)",
+      "bubbling cassoulet pots",
+      "sausages hanging in charcuteries",
+      "lively market halls"
+    ],
+    "colors": [
+      "pink terracotta bricks",
+      "white Tarbais beans",
+      "golden duck confit",
+      "dark cassoulet crust"
+    ],
+    "unique_modern": [
+      "Annual World Cassoulet Championship (Chez Marty won 2024)",
+      "Maison Garcia's 2024 Public Award for cassoulet",
+      "Le Genty Magre's 2023 World Champion title",
+      "Century-old family recipes competing against modern chefs"
+    ]
+  },
+  "wikipedia_search_term": "Toulouse",
+  "keywords_for_image": [
+    "Toulouse pink city La Ville Rose",
+    "cassoulet white beans duck",
+    "saucisse de Toulouse sausage",
+    "Capitole Toulouse square",
+    "Garonne River France"
+  ],
+  "coordinates": {
+    "lat": 43.6047,
+    "lng": 1.4442
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Toulouse+🇫🇷/@43.6047,1.4442,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toulouse"
+  },
+  "location_id": 235
+}

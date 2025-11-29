@@ -1,0 +1,106 @@
+{
+  "name": "Genoa",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Genoa is the birthplace of both Christopher Columbus AND pesto! The city's Genovese basil has DOP protection - only basil grown in Genoa's specific soil and climate can be used in authentic pesto alla genovese. The city also has 42 UNESCO-listed Renaissance palaces that once hosted state guests on rotation!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pesto alla Genovese",
+        "description": "The original pesto, DOP-protected and made with 7 specific ingredients: PDO Genovese basil, Ligurian extra virgin olive oil, PDO Parmigiano Reggiano, PDO Pecorino Sardo, pine nuts, garlic, and salt",
+        "origin_story": "First written recipe appeared in 1852 in 'La Cuciniera Genovese' by Emanuele Rossi. The name comes from 'pestâ' (to pound) - traditionally made in a marble mortar with wooden pestle. The Genovese basil's unique flavor is impossible to replicate elsewhere due to Genoa's specific soil and climate. Working toward UNESCO recognition alongside Neapolitan pizza!",
+        "where_to_find": "Traditionally served with mandilli de sæa ('silk handkerchiefs'), trofie, or trenette pasta throughout Genoa. Watch for the World Championship of Pesto with Mortar held annually since 2007"
+      },
+      {
+        "name": "Focaccia di Recco",
+        "description": "Ultra-thin, yeast-free focaccia filled with stracchino cheese, awarded IGP (Protected Geographical Indication) status. Two impossibly thin sheets of dough with oozing melted cheese",
+        "origin_story": "Dates to 12th century, mentioned in documents about food Ligurian crusaders brought to the Holy Land. Legend says it originated when locals fled Saracen pirates inland and made this 'poor food' with what they found. Only officially made in 4 towns: Recco, Avegno, Camogli, and Sori",
+        "where_to_find": "Manuelina in Recco - considered the birthplace and most authentic version. An anomaly among Ligurian focaccias due to absence of yeast"
+      },
+      {
+        "name": "Farinata",
+        "description": "Giant chickpea flour pancake baked in copper pans in wood-fired ovens, made with just chickpea flour, water, olive oil, and salt",
+        "origin_story": "Dates to 1447 when a Republic of Genoa decree regulated oil quality for farinata. Spread to South America - called 'fainà' in Argentina, just like the Genoese dialect. Best eaten at traditional sciamadde (old shops with wood ovens, white tile walls, marble counters)",
+        "where_to_find": "Antica Sciamadda in Genoa - renowned for perfectly baked farinata served hot from wood ovens. Look for authentic sciamadde throughout the city"
+      },
+      {
+        "name": "Corzetti (Croxetti) Pasta",
+        "description": "Unique round pasta stamped with designs, dating to Middle Ages when noble families stamped their coats of arms onto the pasta",
+        "origin_story": "Medieval tradition from eastern Liguria around Genoa and La Spezia, using unique wooden stamps to create decorative patterns",
+        "where_to_find": "Traditional restaurants in Genoa's historic center, often served with walnut sauce"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ligurian Wine",
+        "description": "Local wines from the Ligurian Riviera coastal vineyards",
+        "how_locals_drink_it": "Paired with pesto and seafood dishes at traditional Genoese restaurants"
+      },
+      {
+        "name": "Italian Espresso",
+        "description": "Strong, traditionally prepared espresso in Genoa's historic cafés",
+        "how_locals_drink_it": "Quick at the bar, standing, as locals do throughout Italy"
+      }
+    ],
+    "food_culture_notes": [
+      "Pesto alla Genovese has DOP protection - strict ingredient requirements enforced",
+      "The Pesto Genovese Consortium protects the official recipe and traditions",
+      "Genoa has one of Europe's largest and densest medieval centers (113 hectares)",
+      "During Rolli Days (bi-annual festival), 42 UNESCO palazzi open to the public",
+      "Traditional sciamadde shops maintain wood-fired ovens for authentic farinata",
+      "Recco is also famous for pansotti pasta with walnut sauce and trofiette with pesto"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Palazzi dei Rolli (42 UNESCO-listed Renaissance palaces)",
+      "Via Garibaldi (Strade Nuove) - first European planned urban development",
+      "Christopher Columbus House (18th-century reconstruction)",
+      "Medieval caruggi (narrow alleys opening to small squares)",
+      "Palazzo Rosso, Palazzo Bianco, Palazzo Doria-Tursi museums",
+      "Ligurian Riviera coastline"
+    ],
+    "atmosphere": [
+      "Largest medieval center in Europe",
+      "Maze of narrow caruggi alleys",
+      "Renaissance and Baroque palace architecture",
+      "Birthplace of Christopher Columbus, Paganini, Mazzini, Renzo Piano",
+      "Gateway to Italian Riviera",
+      "3-4 story palaces with spectacular staircases, courtyards, gardens"
+    ],
+    "colors": [
+      "Green pesto basil",
+      "Golden focaccia tones",
+      "Terracotta and ochre palace facades",
+      "Mediterranean azure blue",
+      "Marble white and gold interiors",
+      "Dark green Ligurian olive oil"
+    ],
+    "unique_modern": [
+      "World Championship of Pesto with Mortar (since 2007)",
+      "Pesto seeking UNESCO cultural heritage status",
+      "Home to architect Renzo Piano",
+      "Rolli Days festival (bi-annual palace openings)",
+      "Il Cannone - Paganini's famous violin at Palazzo Doria-Tursi"
+    ]
+  },
+  "wikipedia_search_term": "Genoa",
+  "keywords_for_image": [
+    "genoa pesto basil",
+    "focaccia di recco cheese",
+    "palazzi dei rolli genoa",
+    "ligurian riviera",
+    "farinata chickpea",
+    "medieval caruggi alleys",
+    "christopher columbus genoa",
+    "italian renaissance palaces"
+  ],
+  "coordinates": {
+    "lat": 44.4056,
+    "lng": 8.9463
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Genoa+🇮🇹/@44.4056,8.9463,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genoa"
+  },
+  "location_id": 77
+}

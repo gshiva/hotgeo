@@ -1,0 +1,123 @@
+{
+  "name": "Tiruppur",
+  "country": "India (Tamil Nadu)",
+  "fun_fact": "Fun fact: Tiruppur is the 'Knitwear Capital of India' - Nike, Adidas, and Reebok all import textiles from this city, which became the first textile cluster in India to achieve zero liquid discharge. Migrant entrepreneurs have embraced local culture so deeply they speak fluent Tamil, savor filter coffee, and lounge in crisp white veshtis (dhotis).",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Idly and Vada with Sambar",
+        "description": "Steamed rice cakes (idly) and fried lentil fritters (vada) served with spicy sambar and coconut chutney - the quintessential Tamil breakfast",
+        "origin_story": "Tiruppur's idlies are known to be incredibly soft, and locals consider the chutney and sambar here to be the best combinations. This is the foundation of Tamil Nadu's breakfast culture",
+        "where_to_find": "Countless breakfast joints across Tiruppur serve these fresh and hot every morning - locals insist on fresh, never frozen ingredients"
+      },
+      {
+        "name": "Pongal",
+        "description": "Savory rice and lentil dish cooked with pure ghee, black pepper, cumin, and cashews",
+        "origin_story": "Named after the four-day harvest festival, pongal represents Tamil Nadu's agricultural heritage. The dish is made with freshly harvested rice and symbolizes abundance and prosperity",
+        "where_to_find": "Special breakfast item at traditional South Indian restaurants throughout Tiruppur"
+      },
+      {
+        "name": "Masala Dosa",
+        "description": "Crispy rice and lentil crepe filled with spiced potato masala, served with sambar and multiple chutneys",
+        "origin_story": "The king of South Indian breakfast, with endless variations - from Rava Dosa to Ghee Roast, each crispy and flavorful",
+        "where_to_find": "Ubiquitous at breakfast spots and street food stalls across the city"
+      },
+      {
+        "name": "Mutton Thalai Curry and Kudal Fry",
+        "description": "Mutton head curry and fried intestines - bold, spicy non-vegetarian specialties",
+        "origin_story": "CM Hotel, which opened in 1964, serves classic, flavorful non-vegetarian fare that reflects Tamil Nadu's love of robust meat dishes prepared with complex spice blends",
+        "where_to_find": "CM Hotel and traditional non-vegetarian restaurants specializing in full selection of lamb, poultry, and seafood"
+      },
+      {
+        "name": "Biryani",
+        "description": "Fragrant layered rice dish with meat or vegetables, aromatic spices, and caramelized onions",
+        "origin_story": "Tamil Nadu biryani has its own distinctive style with seeraga samba rice and unique spice blends, distinct from Hyderabadi or Lucknowi varieties",
+        "where_to_find": "Street food vendors and restaurants throughout Tiruppur serve steaming hot biryani, often considered among the city's best street food"
+      },
+      {
+        "name": "Kuzhi Paniyaram",
+        "description": "Round dumplings made from fermented rice and lentil batter, cooked in a special pan with multiple indentations",
+        "origin_story": "A special breakfast item unique to Tamil cuisine, utilizing leftover dosa/idly batter in a creative way",
+        "where_to_find": "Traditional South Indian breakfast restaurants and home-style eateries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Filter Coffee (Kaapi)",
+        "description": "Strong South Indian coffee brewed with a traditional metal filter, mixed with hot milk and served in a steel tumbler and dabara (saucer)",
+        "how_locals_drink_it": "Poured back and forth between tumbler and dabara to cool it and create froth. Sipped slowly while reading the newspaper or chatting with friends. So central to culture that migrant entrepreneurs prove their integration by savoring filter coffee like locals"
+      },
+      {
+        "name": "Buttermilk (Mor/Neer Moru)",
+        "description": "Thin yogurt drink seasoned with curry leaves, green chilies, ginger, and salt - refreshing and digestive",
+        "how_locals_drink_it": "Consumed after spicy meals to cool the palate and aid digestion, especially during hot afternoons"
+      },
+      {
+        "name": "Fresh Sugarcane Juice",
+        "description": "Sweet juice extracted from sugarcane stalks, often mixed with lime and ginger",
+        "how_locals_drink_it": "Served chilled from street vendors as a refreshing drink during Tiruppur's warm days"
+      }
+    ],
+    "food_culture_notes": [
+      "People in Tiruppur prefer fresh, healthy foods and never use frozen ingredients - freshness is paramount",
+      "Amazing food varieties available at very affordable prices compared to major metros",
+      "Vegetarian food dominates but non-vegetarian specialties are bold and flavorful",
+      "18+ restaurants with 15 different cuisines and 22 traditional dishes",
+      "Filter coffee culture is so important it's a marker of cultural integration for newcomers",
+      "Street food scene is vibrant with mouthwatering idli, vada, dosas, and biryani",
+      "Growing cafe scene catering to digital nomads and remote workers in the textile industry"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Textile factories and dyeing units",
+      "Noyyal River banks",
+      "Ancient temples - Sukreeswarar Temple, Avinashilingeshwarar temple",
+      "Sivanmalai and Konganagiri hills",
+      "Modern textile showrooms and markets"
+    ],
+    "atmosphere": [
+      "Bustling industrial city energy",
+      "Textile trade and commerce",
+      "Mix of traditional Tamil culture and modern industry",
+      "Street food vendors everywhere",
+      "Colorful fabric markets"
+    ],
+    "colors": [
+      "Vibrant textile colors - blues, reds, yellows in fabric displays",
+      "Earth tones of Tamil Nadu landscape",
+      "Rich brown of filter coffee",
+      "White of cotton textiles",
+      "Golden turmeric and spices in food"
+    ],
+    "unique_modern": [
+      "Textile export hub with global brands",
+      "Zero liquid discharge textile cluster (environmental innovation)",
+      "Billionaire textile magnates' modern offices",
+      "Growing digital nomad cafe scene",
+      "Blend of Bihari migrants and Tamil locals creating unique cultural fusion"
+    ]
+  },
+  "wikipedia_search_term": "Tiruppur",
+  "keywords_for_image": [
+    "Tiruppur Tamil Nadu",
+    "knitwear capital India",
+    "South Indian idli dosa",
+    "Tamil filter coffee",
+    "textile city India",
+    "Noyyal river Tiruppur",
+    "Tamil Nadu street food",
+    "Coimbatore region",
+    "South Indian breakfast culture",
+    "textile market India"
+  ],
+  "coordinates": {
+    "lat": 11.1075,
+    "lng": 77.3398
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tiruppur+🇮🇳/@11.1075,77.3398,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiruppur"
+  },
+  "location_id": 52
+}

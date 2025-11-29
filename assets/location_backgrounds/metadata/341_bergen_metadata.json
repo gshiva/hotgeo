@@ -1,0 +1,94 @@
+{
+  "name": "Bergen",
+  "country": "Norway",
+  "fun_fact": "Fun fact: Bergen was Europe's largest wooden city in the 19th century and is the site of Norway's most profound unsolved mystery - the Isdal Woman case from 1970, where an unidentified woman was found dead with fake passports and encrypted notes",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fiskesuppe (Bergen Fish Soup)",
+        "description": "A rich, creamy soup loaded with chunks of fresh cod, salmon, and shellfish, swimming in a white wine-spiked broth with carrots and leeks",
+        "origin_story": "Born from Bergen's 900-year history as Norway's seafood capital and historic Hanseatic trading port. The fish market has operated continuously since the 1200s, and this soup represents the city's maritime soul",
+        "where_to_find": "Bryggeloftet & Stuene at Bryggen 11 (their signature dish), Bergen Fish Market waterfront stalls"
+      },
+      {
+        "name": "Raspeballer (Komle)",
+        "description": "Massive potato dumplings the size of softballs, traditionally served with salted pork belly, crispy bacon bits, and mashed rutabaga",
+        "origin_story": "A working-class staple from Bergen's fishing and trading era - designed to fuel dock workers through 12-hour shifts in the rain. The name 'komle' comes from the round, compact shape",
+        "where_to_find": "Pingvinen (the laid-back pub serving generous portions), Bryggen Tracteursted"
+      },
+      {
+        "name": "Fiskegrateng",
+        "description": "Baked fish gratin with macaroni, topped with golden breadcrumbs and melted cheese - Norwegian comfort food at its finest",
+        "origin_story": "A post-war dish that became a Bergen household staple, combining abundant local fish with imported pasta. Every Bergen grandmother has her own secret recipe",
+        "where_to_find": "Pingvinen (known for authentic home-style Norwegian cooking), local cafes throughout Bryggen district"
+      },
+      {
+        "name": "Gin-Cured Reindeer",
+        "description": "Paper-thin slices of wild reindeer, cured with Norwegian gin and juniper berries, served with cloudberry jam and crispy flatbread",
+        "origin_story": "A modern New Nordic interpretation of ancient Sami preservation techniques, now a signature dish at Bergen's Michelin-starred restaurants",
+        "where_to_find": "Lysverket (one Michelin star, inside KODE 4 art museum), Gaptrast (newly Michelin-starred)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Akevitt (Norwegian Aquavit)",
+        "description": "Caraway and dill-flavored spirit aged in oak barrels, traditionally served ice-cold in small glasses",
+        "how_locals_drink_it": "Always chilled, never sipped slowly - knock it back in one go with seafood or fatty pork dishes. Bergen locals prefer Linie Aquavit, which crosses the equator twice in oak barrels on cargo ships"
+      },
+      {
+        "name": "Bergen Craft Beer",
+        "description": "Local microbrews from Bergen's booming craft scene, often incorporating Norwegian ingredients like spruce tips and sea buckthorn",
+        "how_locals_drink_it": "Enjoyed at cozy pubs to escape the rain - Bergen gets 231 rainy days per year. Pair with fiskeballer (fish balls) at Pingvinen or any traditional pub"
+      }
+    ],
+    "food_culture_notes": [
+      "Bergen's Fish Market has operated continuously for over 800 years - locals still shop there daily for dinner",
+      "The Hanseatic influence means German surnames (Friele, Mowinckel) still appear on restaurant signs and coffee roasters",
+      "Whale carpaccio appears on menus at traditional spots like Pingvinen - controversial but historically eaten in Norway",
+      "New Nordic cuisine dominates fine dining, with Michelin restaurants like Lysverket and Gaptrast showcasing hyper-local ingredients"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bryggen's colorful wooden Hanseatic buildings (UNESCO World Heritage)",
+      "Bergen Fish Market waterfront with white canopy stalls",
+      "Mount Fløyen funicular railway and mountain viewpoint",
+      "St. Mary's Church (Mariakirken) - Bergen's oldest building from 12th century"
+    ],
+    "atmosphere": [
+      "misty mountain backdrop (city of seven mountains)",
+      "rain-soaked cobblestones",
+      "cozy amber-lit pub interiors",
+      "historic wooden architecture"
+    ],
+    "colors": [
+      "deep ocean blue",
+      "ochre yellow and red (Bryggen buildings)",
+      "moss green (surrounding mountains)",
+      "weathered wood brown"
+    ],
+    "unique_modern": [
+      "Norway's only functioning trolleybus system",
+      "KODE art museums housing Munch paintings",
+      "Michelin-starred New Nordic restaurants in historic buildings",
+      "Craft beer scene in 18th-century wine cellars"
+    ]
+  },
+  "wikipedia_search_term": "Bergen",
+  "keywords_for_image": [
+    "Bergen Norway Bryggen wharf",
+    "Norwegian fish soup fiskesuppe",
+    "Bergen Fish Market",
+    "Mount Floyen Bergen",
+    "Nordic seafood cuisine"
+  ],
+  "coordinates": {
+    "lat": 60.3913,
+    "lng": 5.3221
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bergen+🇳🇴/@60.3913,5.3221,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bergen"
+  },
+  "location_id": 341
+}

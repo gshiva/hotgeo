@@ -1,0 +1,102 @@
+{
+  "name": "Valletta",
+  "country": "Malta",
+  "fun_fact": "Fun fact: Valletta is Europe's smallest capital, packing monumental baroque architecture into just 0.8 km². Built by the Knights of Malta after the Great Siege of 1565, this UNESCO fortress city was designed so every building served a strategic purpose. The traditional ftira bread was so important to Maltese culture that the art of baking it was recognized by UNESCO in 2020!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pastizzi",
+        "description": "Small puff pastry parcels, crispy outside and soft inside, traditionally filled with ricotta cheese or mashed peas (piżelli)",
+        "origin_story": "The most famous snack in Malta, loved by locals and visitors alike. The ricotta filling reflects Arabic influence on the island, while the pea filling came from British colonial rule. These humble pastries cost less than €1 and are eaten morning, noon, and night.",
+        "where_to_find": "Jeff's Pastizzeria (most recommended in Valletta), neighborhood pastizzerias, bars, and kiosks throughout the city. Modern versions include chicken, spinach, or meat fillings."
+      },
+      {
+        "name": "Ftira",
+        "description": "Flat, ring-shaped bread with crunchy crust and dense crumb, stuffed with tuna, capers, sun-dried tomatoes, onions, olives, sometimes potatoes or boiled eggs",
+        "origin_story": "UNESCO Intangible Cultural Heritage (2020). With roots in the Middle East, ftira was traditionally baked in stone ovens. It's so tied to Maltese tradition that the entire art of baking it is now protected heritage.",
+        "where_to_find": "Grano (fantastic Valletta café with chunky sandwiches on freshly made ftira), Nenu the Baker (rustic restaurant where you can book sessions to learn to bake your own ftira). Average price €3."
+      },
+      {
+        "name": "Aljotta (Fish Soup)",
+        "description": "Traditional Maltese fish soup, often served with an impressive puff pastry lid",
+        "origin_story": "Reflects Malta's island heritage and Mediterranean fishing traditions, showcasing fresh local catch with aromatic herbs.",
+        "where_to_find": "Nenu the Baker (highly recommended for their presentation with puff pastry lid)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kinnie",
+        "description": "Malta's national soft drink - a bittersweet carbonated beverage brewed from bitter oranges and extracts of wormwood, first introduced in 1952",
+        "how_locals_drink_it": "Distinctly bitter and challenging compared to sweet imported sodas, Kinnie is Malta's favorite non-alcoholic beverage. Locals enjoy it straight or in cocktails like a 'local negroni with a dash of Kinnie' or 'The Maltese Falcon' (the national cocktail with vodka, bajtra prickly pear syrup, orange juice, and Kinnie)."
+      },
+      {
+        "name": "Cisk Lager",
+        "description": "Malta's national beer brand (pronounced 'Chisk') - a golden bottom-fermented lager with distinctive well-balanced character, rich hop aroma, and pleasant bitterness since 1929",
+        "how_locals_drink_it": "Produced by Farsons brewery on the outskirts of Valletta since 1928. The beer has remained faithful to its 1929 recipe. Locals enjoy it at waterfront cafes overlooking Grand Harbour, often paired with pastizzi or ftira."
+      }
+    ],
+    "food_culture_notes": [
+      "Dining in Malta is a social affair - Mediterranean approach to lazy lunches and long dinners, preferably in sun-dappled squares or waterfront locales",
+      "Many dishes are served in large portions and best shared with family and friends",
+      "It's customary to begin most mealtimes with crusty Maltese bread",
+      "Lunch typically served between noon and 2:30 PM, dinner from 7 PM (locals often dine 8-9 PM)",
+      "Malta's cuisine showcases a fusion of Italian and Arabic influences with fresh local ingredients",
+      "Budget-friendly: croissants and espresso for €1.50 each, beer under €3, ftira around €3",
+      "The iconic wooden enclosed balconies (gallarija) became common during British rule in the 19th-20th centuries"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. John's Co-Cathedral (plain limestone exterior, jaw-dropping baroque interior)",
+      "Grand Harbour and Marsamxett natural harbors",
+      "16th-18th century bastions and fortifications",
+      "Valletta Waterfront with 18th-century converted warehouses",
+      "Wooden enclosed balconies (gallarija) painted in bright colors",
+      "Neoclassical arcaded buildings along the waterfront"
+    ],
+    "atmosphere": [
+      "Compact, walkable baroque fortress city on rocky peninsula",
+      "Golden limestone walls rising from Mediterranean harbors",
+      "Narrow streets between honey-gold buildings",
+      "Waterfront promenades with harbor views",
+      "Strategic military architecture mixed with ornate baroque churches",
+      "Warm Mediterranean sunlight on ancient stone"
+    ],
+    "colors": [
+      "Honey-gold limestone (signature Malta color)",
+      "Bright blue Mediterranean sea",
+      "Colorful wooden gallarija balconies (green, red, blue)",
+      "Warm ochre and cream building facades",
+      "Azure sky contrasting with golden stone"
+    ],
+    "unique_modern": [
+      "Europe's smallest capital with outsized historical importance",
+      "Converted warehouse restaurants along waterfront",
+      "Traditional pastizzeria culture thriving alongside modern cafes",
+      "UNESCO World Heritage Site blending 16th-century military planning with baroque elegance",
+      "Michelin-starred restaurants like Guzé mixing tradition with innovation",
+      "Historic Caffè Cordina running since 1837"
+    ]
+  },
+  "wikipedia_search_term": "Valletta",
+  "keywords_for_image": [
+    "Valletta Malta",
+    "Grand Harbour",
+    "Maltese pastizzi",
+    "ftira bread",
+    "limestone bastions Malta",
+    "Kinnie Malta",
+    "gallarija balconies",
+    "Knights of Malta",
+    "St John's Co-Cathedral"
+  ],
+  "coordinates": {
+    "lat": 35.8989,
+    "lng": 14.5146
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Valletta+🇲🇹/@35.8989,14.5146,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valletta"
+  },
+  "location_id": 128
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Košice",
+  "country": "Slovakia",
+  "fun_fact": "Fun fact: Košice was the first settlement in Europe to be granted its own coat of arms, and it's home to Slovakia's oldest marathon - the Košice Peace Marathon, the oldest of its kind in Europe (second oldest in the world), held every October since 1924.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bryndzové Halušky",
+        "description": "Gnocchi-like potato dumplings served with bryndza (tangy sheep's cheese) and topped with crispy bacon or fried onions",
+        "origin_story": "Slovakia's national dish dates back to the 14th century when Wallachian shepherds from Romania brought sheep cheese-making to the mountainous regions. The dish was a staple for hardy shepherds surviving harsh winters, and in Košice specifically, families would make it in late spring when fresh bryndza arrived from sheep-herding relatives in the Spiš region.",
+        "where_to_find": "Republika Východu ('Welcome to the Eastern Republic') celebrates Eastern Slovak culture with authentic halušky, and Pivovar Hostinec (dating to 1542) pairs their signature brew with delectable dumplings"
+      },
+      {
+        "name": "Parenica and Oštiepok",
+        "description": "Traditional steamed sheep's cheeses - Parenica woven into snail-like 'S' shapes, Oštiepok smoked into decorative egg or pine cone shapes",
+        "origin_story": "These handcrafted cheeses trace back to 14th-century Valachian shepherds who settled in Slovakia's mountains. The hot cheese (80-90°C) is pulled into threads and plaited or molded by hand, then lightly smoked. Each piece is a work of edible art, often decorated with traditional symbols or animals.",
+        "where_to_find": "Local markets on Dominikanske Namestie offer fresh varieties, and traditional restaurants like 12 Apoštolov (serving since 1910) feature them as appetizers"
+      },
+      {
+        "name": "Lángos",
+        "description": "Slovakian/Hungarian deep-fried flatbread, crispy outside and fluffy inside, traditionally topped with garlic, cheese, or sour cream",
+        "origin_story": "Though originally Hungarian, lángos became the most popular street food in Slovakia during the Communist era. It was an affordable, filling meal for steel workers when Košice transformed into an industrial hub after the 1950s steelworks opened.",
+        "where_to_find": "Street vendors throughout the historic center and farmers' market on Dominikanske Namestie"
+      },
+      {
+        "name": "Štrúdľa (Slovak Strudel)",
+        "description": "Flaky pastry strudel filled with various fruits, apples, cherries, or sweet cheese",
+        "origin_story": "The most popular local sweet in Košice, reflecting the city's Central European heritage where Austrian, Hungarian, and Slovak culinary traditions blend. Each family guards their own recipe, passed down through generations.",
+        "where_to_find": "Gourmet cafes in the preserved historic center and traditional restaurants like Med Malina & Villa Regia"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kofola",
+        "description": "A unique Slovak soft drink with anise, lemon, and subtle coffee notes - distinctly different from Coca-Cola",
+        "how_locals_drink_it": "Created in 1959 during the Communist era as an alternative to Western soft drinks, Kofola declined after 1989 but has made a triumphant comeback. Košice locals drink it ice-cold with meals, and it's considered the unofficial drink of the city alongside beer."
+      },
+      {
+        "name": "Tokaj Wine",
+        "description": "Sweet, fruity Muscat dessert wine from the Tokaj region that straddles Hungary and Slovakia",
+        "how_locals_drink_it": "The Tokaj wine region is only an hour's drive from Košice. Locals visit wineries like Macik Winery to taste not just the famous sweet Tokaj, but also excellent dry whites from the Slovak side. In September, fresh burčák (bubbly semi-fermented white wine) celebrates the harvest."
+      },
+      {
+        "name": "Hostinka 12 Beer",
+        "description": "Signature brew from Pivovar Hostinec, Košice's historic brewery dating to 1542",
+        "how_locals_drink_it": "Drunk at one of Slovakia's oldest dining establishments in the Gothic Levocsky dom building, paired with traditional dumplings or fried cheese at surprisingly affordable prices despite the prime location"
+      },
+      {
+        "name": "Borovička and Slivovica",
+        "description": "Traditional spirits - Borovička (juniper-flavored, 40-70% alcohol) and Slivovica (noble plum distillate)",
+        "how_locals_drink_it": "Sipped as digestifs after hearty meals. Locals say Slovaks will 'gladly make alcohol from any fruit,' but these two are the most revered traditional spirits."
+      }
+    ],
+    "food_culture_notes": [
+      "Košice is one of the cheapest cities in Europe for dining - main meals start at €4 at places like Golem Brewery",
+      "The farmers' market on Dominikanske Namestie is where locals shop for picnic items and fresh produce",
+      "Traditional bodegón-style restaurants serve massive portions of hearty Slovak classics",
+      "Košice transformed from an impoverished town to an industrial hub after Soviet steelworks opened in 1960, and worker-friendly food culture reflects this",
+      "The city's strategic location created a melting pot of Polish (Mazurka), Czech, Hungarian, and Austrian culinary influences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cathedral of St. Elizabeth (easternmost Gothic cathedral in Europe with 58.5m tower)",
+      "Hlavná ulica (Main Street) - largest preserved historic center among Slovak towns",
+      "U.S. Steel Košice - massive steelworks that dominates the skyline",
+      "Slovak Technical Museum in 18th century Baroque mansion",
+      "Singing Fountain on Main Street"
+    ],
+    "atmosphere": [
+      "Gothic and Baroque architecture mixed with Soviet-era industrial heritage",
+      "Steel city turned cultural destination (2013 European Capital of Culture)",
+      "Affordable, working-class dining culture with no pretense",
+      "Eastern Slovak folklore traditions still alive in music and costumes",
+      "Cosmopolitan border city near Hungary and Ukraine"
+    ],
+    "colors": [
+      "Gothic stone gray",
+      "Red brick industrial warehouses",
+      "Golden wheat fields of Eastern Slovakia",
+      "Deep amber of Tokaj wine",
+      "Rust orange of autumn pumpkins and peppers"
+    ],
+    "unique_modern": [
+      "Former Communist town that quintupled in population after 1950s steelworks",
+      "Oldest municipal transit system in Slovakia (1891 horse-car, electrified 1914)",
+      "Birthplace region of Andy Warhol's parents",
+      "Košice Peace Marathon - oldest marathon in Europe, held every first Sunday in October"
+    ]
+  },
+  "wikipedia_search_term": "Košice",
+  "keywords_for_image": [
+    "kosice slovakia cathedral",
+    "slovak halusky dumplings bryndza",
+    "slovak cheese parenica ostiepok",
+    "eastern slovakia architecture",
+    "kosice main street gothic"
+  ],
+  "coordinates": {
+    "lat": 48.7164,
+    "lng": 21.2611
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kosice+🇸🇰/@48.7164,21.2611,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Košice"
+  },
+  "location_id": 21
+}

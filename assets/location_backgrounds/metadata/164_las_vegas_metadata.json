@@ -1,0 +1,123 @@
+{
+  "name": "Las Vegas",
+  "country": "United States",
+  "fun_fact": "Fun fact: Las Vegas has transformed from 99-cent shrimp cocktails and all-you-can-eat buffets into one of America's premier culinary destinations! With over 50 celebrity chef restaurants among 2,300 total restaurants, Sin City now boasts Michelin stars and world-renowned chefs. The famous Las Vegas Strip isn't even in Las Vegas city limits - it's in unincorporated Paradise and Winchester to dodge city taxes!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Celebrity Chef Creations",
+        "description": "Las Vegas is unique - the hero dishes aren't traditional local foods but rather the signature creations of world-famous chefs. From Gordon Ramsay's Beef Wellington to José Andrés' avant-garde Spanish cuisine, Giada's Italian-Californian fusion, and Bobby Flay's Mediterranean flavors.",
+        "origin_story": "Vegas reinvented itself in the 2000s-2010s, attracting celebrity chefs to open flagship restaurants. What started as a gimmick became a culinary revolution. Now Vegas is where chefs showcase their best work in spectacular settings. The city's 24/7 culture and tourist dollars created the perfect environment for high-end experimental dining.",
+        "where_to_find": "Gordon Ramsay's Kitchen (Harrah's), Hell's Kitchen (Caesars Palace); José Andrés' é by José Andrés (Cosmopolitan - omakase experience), Jaleo, Bazaar Meat; Giada (The Cromwell) with Bellagio fountain views; Amalfi by Bobby Flay (Caesars Palace); Emeril's New Orleans (MGM Grand); Chica by Lorena Garcia (Venetian - Latin fusion); Best Friend by Roy Choi (Park MGM - Korean-Mexican fusion)."
+      },
+      {
+        "name": "Las Vegas Buffets (Evolved)",
+        "description": "The legendary Vegas buffet has evolved from quantity-focused all-you-can-eat to quality-focused culinary showcases. Modern buffets feature crab legs, prime rib, international stations, and even celebrity chef partnerships.",
+        "origin_story": "Vegas buffets started in the 1940s-50s as loss leaders to keep gamblers in casinos. The '$1.99 All You Can Eat' concept drew crowds. Today's buffets like Bacchanal (Caesars Palace) and Wicked Spoon (Cosmopolitan) feature 500+ items including upscale offerings.",
+        "where_to_find": "Bacchanal Buffet (Caesars Palace) - widely considered the best; Wicked Spoon (Cosmopolitan); The Buffet at Wynn; Studio B (M Resort). Expect to pay $50-100 for dinner buffets at premium properties."
+      },
+      {
+        "name": "Late Night Dining",
+        "description": "Vegas does late-night food like nowhere else - 24/7 restaurants, celebrity chef options at 3am, everything from tacos to steakhouses. The city that never sleeps needs food that never stops.",
+        "origin_story": "Casino culture created demand for quality food at all hours. Shift workers, gamblers, and partiers need to eat at 4am. Vegas responded with everything from gourmet to comfort food available round-the-clock.",
+        "where_to_find": "Many casino restaurants stay open 24/7 or very late. Hash House A Go Go, Peppermill, Mr. Lucky's, and numerous casino coffee shops and diners."
+      },
+      {
+        "name": "Shrimp Cocktail (Nostalgic Classic)",
+        "description": "The nostalgic Vegas icon: the 99-cent shrimp cocktail. While rare at that price now, it represents old Vegas charm before the celebrity chef era.",
+        "origin_story": "Golden Gate Casino popularized the 50-cent shrimp cocktail in 1959 as a promotional draw. It became synonymous with Vegas value. Over 25 million shrimp cocktails sold at Golden Gate alone before they finally raised the price.",
+        "where_to_find": "Golden Gate Casino downtown still serves them (now $3.99). Old-school Vegas joints keep the tradition alive."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Casino Cocktails (Comped for Gamblers)",
+        "description": "The legendary free drinks while gambling! Cocktail waitresses circulate the casino floor serving everything from well drinks to premium cocktails to active gamblers.",
+        "how_locals_drink_it": "Tourists get excited about free drinks; locals know to tip well ($1-2 per drink) and understand the drinks slow down if you're not gambling enough. The free drinks are designed to keep you gambling longer. Locals might nurse one drink while playing low-stakes video poker strategically."
+      },
+      {
+        "name": "Craft Cocktails at High-End Bars",
+        "description": "Vegas has world-class cocktail bars serving innovative drinks. Places like The Chandelier (Cosmopolitan) with its three-story bar, Vesper Bar, and speakeasy-style spots.",
+        "how_locals_drink_it": "Locals hit happy hours (3-6pm typically) for deals. They know the non-Strip neighborhoods (Fremont East, Arts District) have better prices and less tourist crowds. Pre-gaming before hitting the Strip is common to avoid $18 cocktails."
+      },
+      {
+        "name": "Frozen Yard Drinks",
+        "description": "Massive frozen cocktails served in yard-long glasses on the Strip - daiquiris, margaritas, and sugary concoctions. Pure tourist fun.",
+        "how_locals_drink_it": "Locals mostly avoid these (too expensive, too sweet, screams tourist). But everyone has done it once for the experience. The cups make great souvenirs. Found at places like Señor Frog's, Fat Tuesday, and Strip sidewalk bars."
+      }
+    ],
+    "food_culture_notes": [
+      "Over 50 celebrity chef restaurants feed Vegas's ravenous crowds from 2,300+ total restaurants",
+      "The Venetian Resort alone hosts Thomas Keller, Tetsuya Wakuda, Wolfgang Puck, Buddy Valastro, Eyal Shani, Lorena Garcia, and Emeril Lagasse",
+      "Vegas dining operates 24/7 - you can get Michelin-quality food at 3am, which is insane",
+      "The Strip (Paradise/Winchester unincorporated towns) exists outside Vegas city limits to avoid taxes - saves casinos millions yearly",
+      "Each major casino pumps signature scents through vents - Bellagio uses 'Blue Ice,' Mandalay Bay uses 'Coconut Spice' - all engineered to relax you and keep you gambling",
+      "Casinos keep temperatures at exactly 73°F (research shows it's the perfect temp to make you relax and spend money)",
+      "The culinary diversity is staggering: South American, Pacific Rim, coastal Italy, Shanghai, Louisiana Creole, Mediterranean, Korean-Mexican fusion, Latin, and more",
+      "José Andrés' é by José Andrés offers an avant-garde omakase experience unlike anything else - highly exclusive",
+      "Locals eat off-Strip for better value - chains, local favorites, ethnic restaurants in neighborhoods",
+      "The transformation from buffet capital to celebrity chef mecca happened in the 2000s-2010s as Vegas shed its family-friendly image"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bellagio Fountains (8.5 acres, 1,200 water-emitting devices, streams up to 460 feet high)",
+      "Las Vegas Strip at night with neon lights",
+      "Fremont Street Experience (old Vegas downtown)",
+      "Neon Museum Boneyard (250+ historic signs dating to 1930s)",
+      "The Sphere entertainment venue",
+      "Iconic casino architecture (Caesars Palace, Venetian, MGM Grand, Luxor pyramid)",
+      "Welcome to Fabulous Las Vegas sign"
+    ],
+    "atmosphere": [
+      "Bellagio fountains dancing to music every 30 minutes",
+      "24/7 casino action with cocktail waitresses circulating",
+      "Open kitchens at celebrity chef restaurants",
+      "Buffet lines and endless food stations",
+      "Neon lights reflecting off everything at night",
+      "Crowds of tourists with yard drinks on the Strip",
+      "Hidden speakeasy bars and craft cocktail lounges",
+      "The hum of slot machines and clinking chips"
+    ],
+    "colors": [
+      "Neon everything - pinks, blues, greens, purples",
+      "Blue water of Bellagio fountains",
+      "Golden lights of casino interiors",
+      "Bright frozen cocktails in yard glasses",
+      "Desert sunset oranges and reds",
+      "The sparkle of chandeliers and LED screens"
+    ],
+    "unique_modern": [
+      "The Batcave - hidden cavern beneath Bellagio fountains where 30-person team (all scuba-certified) maintains the fountain system",
+      "Bellagio's rooftop herb garden providing fresh herbs to restaurants",
+      "Bobby's Room at Bellagio - exclusive poker room requiring $20,000 minimum buy-in",
+      "Dale Chihuly's Fiori di Como in Bellagio lobby - world's largest glass sculpture",
+      "Signature scent pumping through each casino (engineered psychology)",
+      "73°F temperature control in all casinos (optimal for spending)",
+      "Modern celebrity chefs bringing Instagram-worthy plating and molecular gastronomy",
+      "Contrast between old Vegas (Fremont Street, Golden Gate) and ultra-modern Strip"
+    ]
+  },
+  "wikipedia_search_term": "Las_Vegas",
+  "keywords_for_image": [
+    "Las Vegas Strip night",
+    "Bellagio fountains",
+    "celebrity chef restaurant",
+    "Vegas neon lights",
+    "casino interior",
+    "Las Vegas buffet",
+    "Nevada desert city",
+    "Fremont Street",
+    "Vegas cocktails",
+    "luxury dining Vegas"
+  ],
+  "coordinates": {
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Las+Vegas+🇺🇸/@36.1699,-115.1398,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Las_Vegas"
+  },
+  "location_id": 164
+}

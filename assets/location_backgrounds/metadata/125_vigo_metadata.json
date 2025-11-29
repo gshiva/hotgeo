@@ -1,0 +1,111 @@
+{
+  "name": "Vigo",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Vigo has one of the finest natural ports in the world and is Spain's seafood capital! The Cíes Islands offshore were called 'the islands of the gods' by Romans, and Rodas Beach was named 'The best beach in the world' by The Guardian in 2007!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pulpo a Feira (Pulpo a la Gallega)",
+        "description": "The undeniable star of Galician cuisine - boiled octopus dressed with olive oil and pimentón (paprika), served with boiled potatoes. A relatively simple dish that showcases the exceptional quality of Galician octopus.",
+        "origin_story": "Also known as 'octopus Galician-style' or 'pulpo a la feria,' this dish represents Galicia's mastery of preparing octopus. The coastal upwelling phenomenon makes Vigo's waters exceptionally rich in nutrients, producing unequalled seafood quality.",
+        "where_to_find": "Restaurante Casa Marco (famous for Galician-style octopus), Restaurante Casa Vella (family-run, exceptional pulpo a la gallega), Taberna Eligio (perfectly tender pulpo à feira), Restaurant O Porton on Rua da Ostras/Fisherman's Street (pulpo for 16 euros)"
+      },
+      {
+        "name": "Fresh Galician Seafood",
+        "description": "Life revolves around the sea in Vigo - mussels, scallops, bay scallops, clams, velvet crab, spider crab, Norway lobster, lobster, and the prized barnacles (percebes) when in season. Many say it's the best seafood on earth.",
+        "origin_story": "The exceptionally high quality is due to coastal upwelling phenomenon making the waters extremely rich in nutrients. Seafood caught in the estuaries near Vigo is unequalled in Spain in terms of quality, appearance, and flavor.",
+        "where_to_find": "Bitadorna (traditional seafood: lobster, red prawns, octopus), Casco Vello and O Berbés neighborhoods (oysters from A Pedra, velvet crabs, spider crab, gooseneck barnacles)"
+      },
+      {
+        "name": "Oysters from Rúa da Pescadería",
+        "description": "Fresh oysters shucked by local vendors right from the Vigo estuary, served with a slice of lemon and a glass of Albariño wine.",
+        "origin_story": "Rúa da Pescadería (also called Oyster Street) represents Vigo's seafood culture at its most authentic - vendors shuck oysters fresh and pair them with local wine.",
+        "where_to_find": "Rúa da Pescadería (Oyster Street) - local vendors throughout the street"
+      },
+      {
+        "name": "Caldo Gallego",
+        "description": "A hearty Galician soup made with greens, chorizo, and beans - warming comfort food from the region.",
+        "origin_story": "Traditional Galician soup that reflects the region's rustic, hearty approach to food.",
+        "where_to_find": "Traditional Galician restaurants throughout Vigo, especially in older neighborhoods"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Albariño Wine",
+        "description": "Crisp white wine produced from Albariño grapes with subtle hints of citrus and fruit, making it perfect for pairing with fish and seafood.",
+        "how_locals_drink_it": "Served chilled with fresh oysters on Oyster Street, or paired with pulpo a feira and other seafood dishes. Locals drink it throughout meals at seafood restaurants."
+      }
+    ],
+    "food_culture_notes": [
+      "Vigo's port is one of the finest natural ports in the world, exploited since Roman times",
+      "The coastal upwelling phenomenon creates waters exceptionally rich in nutrients",
+      "Good eating is one of the pillars of Galician culture",
+      "Vigo has 2 Michelin-starred restaurants in 2025: Maruja Limón and Silabario",
+      "Octopus is prepared 'a feira' (with potatoes, paprika, and olive oil) or fried (especially tentacles)",
+      "Barnacles (percebes) are delicious when in season - a Galician delicacy",
+      "The city is the most populous in Galicia (295,523 in 2024) and 14th in Spain"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cíes Islands - 'islands of the gods' with Rodas Beach (best beach in the world 2007)",
+      "Atlantic Islands of Galicia National Park - only national park in Galicia",
+      "Monte Faro - highest point on Cíes Islands with 360° panorama views",
+      "Ria de Vigo - stunning Atlantic Ocean inlet",
+      "Mounts of A Madroa and A Guía - magnificent viewpoints over the city",
+      "Galician Museum of the Sea at Punta do Muiño",
+      "Rúa da Pescadería (Oyster Street) in city center"
+    ],
+    "atmosphere": [
+      "Atlantic Ocean gateway city",
+      "Maritime heritage from Roman times",
+      "Transatlantic harbor with fishing and canning industries",
+      "Paradise beaches with white sand and crystalline waters",
+      "Pirates' former hideout at Cíes Islands",
+      "World's largest colony of Yellow-legged Gulls",
+      "Diving with arroaces (native small dolphins) in the estuary"
+    ],
+    "colors": [
+      "Deep blue Atlantic Ocean waters",
+      "White sand of Rodas Beach ('Caribbean beach' of Galicia)",
+      "Green rolling sand dunes of the Cíes Islands",
+      "Red paprika (pimentón) on octopus",
+      "Silvery fresh seafood on ice",
+      "Golden Albariño wine",
+      "Sunset oranges and pinks over the Ria de Vigo"
+    ],
+    "unique_modern": [
+      "Vigo name derives from Latin 'vicus spacorum' meaning 'small village'",
+      "Nicknamed 'cidade olívica' (city of olives) - only olive tree in Galicia that couldn't be uprooted",
+      "Population of 295,523 makes it most populous in Galicia",
+      "The Cíes have been a nature reserve since 1980",
+      "Rodas Beach connects two islands: Monte Agudo and O Faro",
+      "Cíes Islands were attractive to Barbary and English pirates who forced out monks",
+      "400 pairs of Iberian guillemots (almost extinct species) nest on the islands",
+      "Nearby Baiona celebrates La Arribada festival in March - Columbus' return to Europe after discovering Americas",
+      "The Cíes are home to pelicans, woodpeckers, and birds of prey"
+    ]
+  },
+  "wikipedia_search_term": "Vigo",
+  "keywords_for_image": [
+    "Vigo Galicia Spain",
+    "Cies Islands Rodas Beach",
+    "pulpo a feira octopus",
+    "Galician seafood",
+    "Atlantic Ocean Spain",
+    "Ria de Vigo",
+    "Spanish oysters Albariño",
+    "Galicia white sand beach",
+    "maritime port Spain",
+    "Spanish Atlantic coast"
+  ],
+  "coordinates": {
+    "lat": 42.2406,
+    "lng": -8.7207
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Vigo+🇪🇸/@42.2406,-8.7207,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vigo"
+  },
+  "location_id": 125
+}

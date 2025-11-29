@@ -1,0 +1,94 @@
+{
+  "name": "Nicosia",
+  "country": "Cyprus",
+  "fun_fact": "Fun fact: Nicosia is the world's last divided capital city, split between Greek and Turkish Cyprus - and on the Greek side, you can still buy traditional halloumi through a rotating wooden shelf from cloistered nuns who have made it for centuries!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Meze",
+        "description": "20-30 small dishes served over hours - olives, tahini, hummus, grilled halloumi, sheftalia sausages, kleftiko lamb",
+        "origin_story": "Ultimate expression of Cypriot hospitality, designed for hours of sharing",
+        "where_to_find": "Zanettos (since 1938), traditional tavernas in old town"
+      },
+      {
+        "name": "Halloumi",
+        "description": "Semi-hard cheese from goat and sheep milk, grilled until squeaky",
+        "origin_story": "National cheese of Cyprus, Protected Designation of Origin product",
+        "where_to_find": "Every restaurant, famously served with watermelon in summer"
+      },
+      {
+        "name": "Kleftiko",
+        "description": "Slow-cooked lamb baked in sealed clay oven until fall-apart tender",
+        "origin_story": "Traditionally cooked in underground ovens by shepherds",
+        "where_to_find": "Matheos Restaurant on Onasagorou Street"
+      },
+      {
+        "name": "Sheftalia",
+        "description": "Grilled pork sausages wrapped in caul fat",
+        "origin_story": "Classic Cypriot meze item",
+        "where_to_find": "Every meze spread, street food stalls"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Brandy Sour",
+        "description": "Cyprus's national cocktail - brandy, lemon squash, Angostura bitters, soda",
+        "how_locals_drink_it": "The quintessential sundowner drink"
+      },
+      {
+        "name": "Cypriot Coffee",
+        "description": "Finely ground coffee brewed in copper briki with kaimaki foam",
+        "how_locals_drink_it": "Slowly sipped, reading fortunes in the grounds"
+      }
+    ],
+    "food_culture_notes": [
+      "Meze meals can last 3-4 hours with endless courses",
+      "Zanettos has been serving authentic meze since 1938",
+      "Spoon sweets (preserved fruits) served with cold water",
+      "Loukoumades (mini doughnuts with honey) are beloved street dessert"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Venetian walls",
+      "Ledra Street crossing",
+      "Selimiye Mosque (formerly cathedral)",
+      "old town narrow streets"
+    ],
+    "atmosphere": [
+      "divided city Green Line",
+      "Ottoman and Venetian architecture mix",
+      "outdoor taverna dining",
+      "copper coffee pots"
+    ],
+    "colors": [
+      "sandstone beige",
+      "Mediterranean blue",
+      "terracotta",
+      "olive green"
+    ],
+    "unique_modern": [
+      "world's last divided capital",
+      "UN buffer zone",
+      "cross-border pedestrian crossings"
+    ]
+  },
+  "wikipedia_search_term": "Nicosia",
+  "keywords_for_image": [
+    "halloumi grilling",
+    "meze spread",
+    "Cypriot coffee in briki",
+    "Venetian walls",
+    "narrow old town streets",
+    "outdoor taverna"
+  ],
+  "coordinates": {
+    "lat": 35.1856,
+    "lng": 33.3823
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nicosia+🇨🇾/@35.1856,33.3823,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicosia"
+  },
+  "location_id": 7
+}

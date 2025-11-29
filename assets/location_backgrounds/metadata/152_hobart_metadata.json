@@ -1,0 +1,130 @@
+{
+  "name": "Hobart",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Hobart is Tasmania's culinary capital and the epicenter of Australian whisky production, with world-class distilleries like Lark creating award-winning single malts that rival Scotland's finest.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bruny Island Oysters",
+        "description": "Plump, slightly salty Pacific oysters with a fresh ocean taste that captures the pristine cool southern waters",
+        "origin_story": "Farmed on Bruny Island just south of Hobart, these oysters have become legendary among seafood lovers. Ma Bruny Oysters offers the ultimate farm-to-plate experience, freshly shucked at Salamanca Market every Saturday morning",
+        "where_to_find": "Salamanca Market (Saturdays), Rockwall Bar and Grill (Salamanca Place), and directly on Bruny Island"
+      },
+      {
+        "name": "Wallaby Wings",
+        "description": "Native game meat prepared izakaya-style, showcasing Tasmania's unique indigenous ingredients",
+        "origin_story": "Bar Wa Izakaya fuses top-notch Tasmanian produce with Japanese izakaya traditions, creating dishes that honor both cultures",
+        "where_to_find": "Bar Wa Izakaya (Hobart)"
+      },
+      {
+        "name": "Scottish-Tasmanian Fusion",
+        "description": "Seven-course lunch menu featuring Bangor lamb, Boomer Bay oysters, and dishes inspired by Scottish culinary traditions",
+        "origin_story": "OIRTHIR restaurant (pronounced 'Or-chir') in Bream Creek blends Scottish heritage with Tasmanian ingredients, run by chefs Bob Piechniczek and Jillian McInnes who have Scottish roots and French training",
+        "where_to_find": "OIRTHIR (Bream Creek, 45 minutes from Hobart)"
+      },
+      {
+        "name": "Handmade Italian Pasta",
+        "description": "Weekly-changing six-course set menu featuring handmade pasta and vegetable dishes from local growers",
+        "origin_story": "Templo, a tiny 25-seat Italian eatery, celebrates the simplicity and quality of Tasmanian produce through traditional pasta-making techniques",
+        "where_to_find": "Templo (Hobart)"
+      },
+      {
+        "name": "Asado Grilled Meats",
+        "description": "Premium seasonal Tasmanian produce grilled over sherry, bourbon, and port casks for smoky depth",
+        "origin_story": "Landscape Restaurant & Grill channels Tasmania's wild beauty with an Asado Grill technique, framed by John Glover's evocative artworks",
+        "where_to_find": "Landscape Restaurant & Grill (Hobart waterfront)"
+      },
+      {
+        "name": "16-Course Kaiseki",
+        "description": "Meticulous Japanese tasting menu using Tasmanian ingredients, served on antique Japanese and local ceramics",
+        "origin_story": "Omotenashi, hidden inside a Lexus showroom, is one of Australia's most unique dining experiences - a 10-seat kaiseki restaurant run by Lachlan Colwill and Sophie Pope",
+        "where_to_find": "Omotenashi (inside Lexus showroom, Hobart)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lark Tasmanian Single Malt Whisky",
+        "description": "Australia's No.1 luxury single malt whisky, with local and Scottish whiskies playing starring roles",
+        "how_locals_drink_it": "Sipped neat or with a splash of water at The Still whisky bar on Argyle Street, or experienced through tasting flights at the Lark Cellar Door. Locals also enjoy whisky-based cocktails like the Yuzu Whisky Sour"
+      },
+      {
+        "name": "Cascade Beer",
+        "description": "Craft beer from Australia's oldest brewery, established in South Hobart",
+        "how_locals_drink_it": "Enjoyed fresh at the historic Cascade Brewery or at pubs like New Sydney Hotel which offers 18 beers on tap"
+      },
+      {
+        "name": "Tasmanian Gin",
+        "description": "Locally-produced gin featuring native Tasmanian botanicals",
+        "how_locals_drink_it": "Explored through gin flights at The Still or mixed into creative cocktails at Bar Wa Izakaya"
+      },
+      {
+        "name": "Australian and French Wines",
+        "description": "Carefully curated wine selections featuring cool-climate Tasmanian wines alongside French classics",
+        "how_locals_drink_it": "Paired with seven-course meals at OIRTHIR or enjoyed at fine dining establishments throughout Hobart"
+      }
+    ],
+    "food_culture_notes": [
+      "Farm Gate Market (Sundays) follows a simple philosophy: if you can't eat it, drink it, grow it, or meet the producer, it won't be here",
+      "Salamanca Market has run every Saturday for over 50 years (celebrating its 50th anniversary in 2022) with 300+ stalls featuring local producers",
+      "Tasmania is the epicenter of Australian whisky production, with around 200 whiskies available at venues like New Sydney Hotel",
+      "Hobart's restaurant scene features world-class Tasmanian produce: locally-made cheeses, fresh seafood, free-range pork and beef, indigenous botanicals, and native game",
+      "Six Russell Bistro opened in early 2025 from chef Kobi Ruzicka, celebrating Tasmanian produce with fun and flair",
+      "The city blends international influences (Scottish, Japanese, Italian, Irish) with hyper-local Tasmanian ingredients",
+      "Leatherwood honey from Salamanca Market is a unique Tasmanian specialty found nowhere else in the world"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Salamanca Place historic Georgian sandstone warehouses",
+      "Mount Wellington backdrop",
+      "Hobart waterfront and harbor",
+      "Salamanca Market's Saturday morning atmosphere",
+      "Historic Cascade Brewery buildings",
+      "The Still whisky bar in old Mercury newspaper print room"
+    ],
+    "atmosphere": [
+      "Cool southern island air and pristine waters",
+      "Artisan market culture with direct farmer-to-consumer connections",
+      "Sophisticated whisky and gin tasting rooms",
+      "Fresh seafood straight from the boat",
+      "Intimate fine dining experiences in historic buildings",
+      "Wild Tasmanian landscape reflected in rustic-refined cuisine"
+    ],
+    "colors": [
+      "Ocean blues and seafoam greens",
+      "Golden whisky ambers",
+      "Fresh oyster shell silver-grey",
+      "Sandstone warehouse warm browns",
+      "Native Tasmanian wilderness greens",
+      "Market produce vibrant colors"
+    ],
+    "unique_modern": [
+      "Kaiseki dining inside a Lexus showroom",
+      "Whisky cellars in converted historic buildings",
+      "Izakaya-style native game dishes",
+      "Scottish-Tasmanian culinary fusion",
+      "Farm-to-table philosophy with producer transparency",
+      "Award-winning Australian whiskies rivaling Scottish distilleries"
+    ]
+  },
+  "wikipedia_search_term": "Hobart",
+  "keywords_for_image": [
+    "Hobart Salamanca Market waterfront",
+    "Bruny Island oysters Tasmania",
+    "Tasmanian whisky Lark distillery",
+    "Mount Wellington Hobart backdrop",
+    "Tasmania farm fresh produce",
+    "Hobart historic warehouses dining",
+    "pristine Tasmanian waters seafood",
+    "Australian craft whisky"
+  ],
+  "coordinates": {
+    "lat": -42.8821,
+    "lng": 147.3272
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hobart+🇦🇺/@-42.8821,147.3272,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hobart"
+  },
+  "location_id": 152
+}

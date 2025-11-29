@@ -1,0 +1,111 @@
+{
+  "name": "Nairobi",
+  "country": "Kenya",
+  "fun_fact": "Fun fact: Nairobi is the ONLY capital city in the world with a national park inside its city limits! Nairobi National Park is just 10km from the CBD and is home to lions, rhinos, giraffes, and zebras grazing with skyscrapers in the background. The city is also home to the Giraffe Centre, which saved the Rothschild's giraffe from extinction - these unique giraffes have THREE horns instead of two!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nyama Choma",
+        "description": "Kenya's most famous dish - slow-roasted meat (usually goat, but also beef or chicken) over open fire until tender and smoky, served on communal platters",
+        "origin_story": "The name means 'roasted meat' in Swahili. Traditionally eaten on special occasions like weekend family gatherings. In Kenya, it's generally the men who do the outdoor grilling. Best paired with ugali and kachumbari, encouraging sharing and conversation",
+        "where_to_find": "Njuguna's Place (Waiyaki Way, Westlands - top-three mention by locals), Kenyatta Market (lunchtime stalls with goat and chicken), Nerkwo Restaurant (South B, off Mombasa Road - designated weekend spot for stressed workers). Pair with Tusker beer!"
+      },
+      {
+        "name": "Ugali",
+        "description": "The heart of Kenyan cuisine - dense, dough-like staple made from maize flour and water, served as a side to nearly every meal",
+        "origin_story": "Deeply satisfying and symbolizes home cooking and togetherness. Eaten with your hands by breaking off small pieces, forming balls, and using them to scoop stew or vegetables. Though simple, it's the foundation of Kenyan meals",
+        "where_to_find": "Served everywhere from roadside eateries to high-end restaurants. Always accompanies nyama choma and sukuma wiki"
+      },
+      {
+        "name": "Githeri",
+        "description": "Traditional hearty mix of boiled maize (corn) and beans, simple yet nutritious, seasoned with salt and sometimes vegetables",
+        "origin_story": "Originated from the Kikuyu community (Kenya's largest ethnic group), now a national favorite representing home-cooked comfort food",
+        "where_to_find": "Local eateries and home-style restaurants throughout Nairobi"
+      },
+      {
+        "name": "Kachumbari",
+        "description": "Fresh, zingy salad of chopped onions, tomatoes, cilantro, chili, and lemon juice - the go-to side for grilled meats",
+        "origin_story": "This uncooked relish balances rich, fatty foods with bright acidity and crunch. Essential with nyama choma, pilau, and samosas",
+        "where_to_find": "Accompanies nyama choma at all the major spots - automatically served with grilled meats"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dawa Cocktail",
+        "description": "Kenya's de facto national cocktail - vodka, white rum, honey, and lime juice served over ice with a wooden Dawa stick for stirring",
+        "how_locals_drink_it": "Created in the 1980s at The Carnivore restaurant in Nairobi. 'Dawa' means 'medicine' in Swahili - a rejuvenating tonic in hot weather. Inspired by Brazilian caipirinha but featuring honey (fitting for a country with long beekeeping traditions). The signature wooden stick is used to add honey and stir. There's also a non-alcoholic version (hot water, honey, lemon, ginger) used as a cold/flu remedy"
+      },
+      {
+        "name": "Kenyan Chai",
+        "description": "Sweet, milky tea prepared with milk, water, sugar, and tea leaves - an essential start to every Kenyan day",
+        "how_locals_drink_it": "Kenyans start their day with chai, accompanied by bread, cake, pancakes, sweet potatoes, or arrowroots"
+      },
+      {
+        "name": "Tusker Beer",
+        "description": "Kenya's iconic lager, tailored to Kenyan preferences and part of the country's brewing traditions",
+        "how_locals_drink_it": "The perfect pairing with nyama choma. Also popular: White Cap and Pilsner lagers"
+      }
+    ],
+    "food_culture_notes": [
+      "Nyama choma is best on weekends as a social gathering ritual",
+      "Ugali is eaten with hands - this is traditional and expected",
+      "Most dishes are designed for communal sharing and conversation",
+      "Kenya has a sizable Indian population, so chapati and mandazi show Indian influence",
+      "Sukuma Wiki means 'to push the week' - helps stretch meals through tough times",
+      "Tilapia from Lake Victoria is deep-fried whole for special occasions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Nairobi National Park (only wildlife capital in the world)",
+      "Giraffe Centre (Rothschild's giraffe sanctuary with famous 'kiss of life')",
+      "Skyscrapers with wildlife in foreground",
+      "Kenyatta Market",
+      "The Carnivore restaurant (birthplace of Dawa)"
+    ],
+    "atmosphere": [
+      "Wildlife and urban life coexisting uniquely",
+      "Open-air nyama choma grilling spots",
+      "Vibrant market culture",
+      "Social weekend gatherings around communal food",
+      "Over 400 bird species in national park",
+      "Traditional beekeeping heritage"
+    ],
+    "colors": [
+      "Golden savannah grasslands",
+      "Green acacia woodlands",
+      "Red/orange open fire coals",
+      "Bright kachumbari vegetables",
+      "Amber Tusker beer",
+      "Wildlife earth tones with city greys"
+    ],
+    "unique_modern": [
+      "Lions and giraffes with skyscraper backdrop",
+      "Rothschild's giraffes with three horns (unique to species)",
+      "50,000+ Kenyan students visit Giraffe Centre annually for free education",
+      "Successful rhino sanctuary in urban national park",
+      "Dawa cocktail created 1980s, now national drink",
+      "The Carnivore restaurant as cultural institution"
+    ]
+  },
+  "wikipedia_search_term": "Nairobi",
+  "keywords_for_image": [
+    "nairobi national park wildlife",
+    "nyama choma grilled meat",
+    "rothschild giraffe three horns",
+    "kenya ugali kachumbari",
+    "tusker beer kenya",
+    "dawa cocktail",
+    "savannah skyscrapers nairobi",
+    "kenyan chai tea"
+  ],
+  "coordinates": {
+    "lat": -1.2921,
+    "lng": 36.8219
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nairobi+🇰🇪/@-1.2921,36.8219,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nairobi"
+  },
+  "location_id": 78
+}

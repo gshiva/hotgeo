@@ -1,0 +1,94 @@
+{
+  "name": "Mysore",
+  "country": "India",
+  "fun_fact": "Fun fact: Mysore Pak was invented by accident in the royal kitchens of the Mysore Palace in the early 1900s—when the chef Kakasura Madappa created a concoction of ghee, sugar, and chickpea flour, the king loved it so much he named it 'Mysore Pak' (Mysore sweet), and his descendants still make it using the original recipe.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Mysore Masala Dosa at Vinayaka Mylari Hotel",
+        "description": "Thick, soft, fluffy dosa with crispy edges, smeared with spicy red garlic chutney and filled with potato masala—not the thin crispy version, but Mysore's unique style",
+        "origin_story": "Vinayaka Mylari Hotel is 80 years old and serves only idli, dosa, and masala dosa. Their Mysore benne (butter) masala dosa is smaller and thicker than elsewhere, soft inside and crisp outside. Locals line up for this specific dosa",
+        "where_to_find": "Vinayaka Mylari Hotel (Nazarbad Main Road—two original locations near each other), Gayathri Tiffin Room, or Hotel Nalpak"
+      },
+      {
+        "name": "Mysore Pak at Guru Sweet Mart",
+        "description": "Crumbly, melt-in-your-mouth sweet made from chickpea flour, ghee, and sugar—rich, buttery, and impossibly decadent",
+        "origin_story": "Over 100 years ago, chef Kakasura Madappa created Mysore Pak in the royal kitchens. His descendants still operate Guru Sweet Mart on Sayyaji Road, using the exact same recipe. This is the ONLY authentic Mysore Pak—accept no substitutes",
+        "where_to_find": "Guru Sweet Mart (Sayyaji Road—owned by Kakasura Madappa's descendants, original recipe since 1900s)"
+      },
+      {
+        "name": "Mutton Pulao at Hotel Hanumanthu Original 1930",
+        "description": "Fragrant rice cooked with tender mutton, spices, and herbs—the favorite breakfast for Mysore locals",
+        "origin_story": "Hotel Hanumanthu serves mutton pulao for breakfast, which sounds insane until you try it. This 1930s institution is where hardcore meat-lovers start their day. It's become a Mysore tradition",
+        "where_to_find": "Hotel Hanumanthu Original 1930 (near Ballal Circle—meat for breakfast since 1930)"
+      },
+      {
+        "name": "Bisi Bele Bath",
+        "description": "Spicy rice and lentil dish cooked with vegetables, tamarind, and a special spice blend—Karnataka's comfort food",
+        "origin_story": "A tiny restaurant near Ballal Circle (one of Mysore's oldest hotels) serves the best bisi bele bath. This is Karnataka's answer to khichdi—one-pot comfort food with heat, tang, and richness",
+        "where_to_find": "Old hotel near Ballal Circle, or any traditional South Indian restaurant in Mysore"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "South Indian Filter Coffee",
+        "description": "Strong, frothy coffee made with dark-roasted beans, mixed with hot milk and sugar—served in a steel tumbler and davara (saucer)",
+        "how_locals_drink_it": "Coffee in Mysore is an art form. It's poured back and forth between tumbler and saucer to cool it and create froth. Locals drink it throughout the day at tiny coffee stalls"
+      },
+      {
+        "name": "Buttermilk (Majjige)",
+        "description": "Spiced, salted yogurt drink tempered with curry leaves and mustard seeds—cooling and digestive",
+        "how_locals_drink_it": "Served cold with meals, especially after spicy dishes. The salt and spices aid digestion and cool you down in Mysore's heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Authentic Mysore dosa is NOT thin and crispy—it's thick, soft, and fluffy with crisp edges",
+      "Guru Sweet Mart's Mysore Pak is the only real thing—the recipe hasn't changed in over 100 years",
+      "Mutton pulao for breakfast might shock tourists, but locals swear by it at Hotel Hanumanthu",
+      "Mysore's food culture is deeply South Indian with its own unique twists (thicker dosas, royal sweets)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mysore Palace with golden domes",
+      "Chamundi Hills and temple",
+      "Devaraja Market flower stalls",
+      "Brindavan Gardens with fountains"
+    ],
+    "atmosphere": [
+      "steaming idli and dosa plates",
+      "fragrant filter coffee",
+      "sizzling tava griddles",
+      "marigold garlands at temples"
+    ],
+    "colors": [
+      "golden Mysore Pak",
+      "red garlic chutney",
+      "white coconut chutney",
+      "orange marigold flowers"
+    ],
+    "unique_modern": [
+      "Guru Sweet Mart preserving 100+-year-old royal recipe",
+      "Vinayaka Mylari's 80-year-old dosa technique (thick not thin)",
+      "Hotel Hanumanthu's breakfast mutton pulao since 1930",
+      "Mysore as UNESCO City of Yoga (but food is equally important)"
+    ]
+  },
+  "wikipedia_search_term": "Mysore",
+  "keywords_for_image": [
+    "Mysore Palace golden domes",
+    "Mysore Pak sweet ghee",
+    "masala dosa South India",
+    "filter coffee steel tumbler",
+    "Chamundi Hills temple"
+  ],
+  "coordinates": {
+    "lat": 12.2958,
+    "lng": 76.6394
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mysore+🇮🇳/@12.2958,76.6394,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mysore"
+  },
+  "location_id": 229
+}

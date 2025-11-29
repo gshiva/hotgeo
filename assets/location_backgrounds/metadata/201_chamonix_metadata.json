@@ -1,0 +1,94 @@
+{
+  "name": "Chamonix",
+  "country": "France",
+  "fun_fact": "Fun fact: Chamonix hosted the first-ever Winter Olympics in 1924, and Mont Blanc (4,808m) on its doorstep is Western Europe's highest peak - climbers have been attempting the summit since 1786, with a 100-person daily limit today!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tartiflette",
+        "description": "Scalloped potatoes with lardons, onions, and Reblochon cheese melted on top",
+        "origin_story": "Created in the 1980s by the Reblochon cheese union to boost sales - now the signature dish of the Savoie Alps",
+        "where_to_find": "La Calèche, Le Bartavel, mountain refuge restaurants"
+      },
+      {
+        "name": "Fondue Savoyarde",
+        "description": "Melted Comté, Beaufort, and Emmental cheeses with white wine and kirsch",
+        "origin_story": "The Alpine classic - three local cheeses blended perfectly for dipping bread",
+        "where_to_find": "Le Brévent, Refuge de La Flégère, après-ski restaurants"
+      },
+      {
+        "name": "Raclette",
+        "description": "Melted cheese scraped onto potatoes, charcuterie, and pickles",
+        "origin_story": "Traditional Swiss-French mountain dish - the wheel is heated and the melty part scraped off",
+        "where_to_find": "Chez Constant, La Maison Carrier, most mountain restaurants"
+      },
+      {
+        "name": "Croziflette",
+        "description": "Like tartiflette but with crozets (small buckwheat pasta squares) instead of potatoes",
+        "origin_story": "A Savoie specialty using local crozets pasta",
+        "where_to_find": "Mountain restaurants, traditional Savoyard bistros"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vin Chaud",
+        "description": "Hot mulled wine with cinnamon, cloves, and orange - essential après-ski",
+        "how_locals_drink_it": "On ski slopes at mountain refuges, or in town after a day on the mountain"
+      },
+      {
+        "name": "Génépi",
+        "description": "Alpine herbal liqueur made from mountain wormwood",
+        "how_locals_drink_it": "As digestif after heavy mountain meals - bright green and aromatic"
+      }
+    ],
+    "food_culture_notes": [
+      "Après-ski culture is serious - cheese and wine fuel recovery",
+      "Mountain refuges serve excellent traditional food",
+      "Summer means hiking and lighter mountain fare",
+      "Aiguille du Midi cable car restaurant has incredible views"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mont Blanc",
+      "Aiguille du Midi",
+      "Mer de Glace glacier",
+      "Chamonix valley"
+    ],
+    "atmosphere": [
+      "alpine village charm",
+      "serious mountaineering",
+      "ski resort buzz",
+      "glacier views"
+    ],
+    "colors": [
+      "snow white",
+      "granite grey",
+      "alpine green",
+      "winter sky blue"
+    ],
+    "unique_modern": [
+      "first Winter Olympics venue",
+      "extreme sports capital",
+      "tunnel to Italy"
+    ]
+  },
+  "wikipedia_search_term": "Chamonix",
+  "keywords_for_image": [
+    "tartiflette cheese",
+    "Mont Blanc view",
+    "alpine chalet",
+    "fondue",
+    "ski resort",
+    "Aiguille du Midi"
+  ],
+  "coordinates": {
+    "lat": 45.9237,
+    "lng": 6.8694
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Chamonix+🇫🇷/@45.9237,6.8694,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chamonix"
+  },
+  "location_id": 201
+}

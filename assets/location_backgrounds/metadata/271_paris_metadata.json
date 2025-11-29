@@ -1,0 +1,94 @@
+{
+  "name": "Paris",
+  "country": "France",
+  "fun_fact": "Fun fact: Parisian bistros traditionally had zinc-topped bars because zinc was believed to neutralize impurities in wine - these 'zincs' became so iconic that Parisians still say 'au zinc' when meeting for drinks, even though most modern bars use stainless steel.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Escargots de Bourgogne",
+        "description": "Burgundy snails baked in their shells with garlic-parsley butter, white wine, and shallots. The butter is so delicious you'll want to soak bread in it.",
+        "origin_story": "While snails have been eaten in France since Roman times, the modern preparation was perfected in 19th-century Burgundy. Parisian bistros adopted it as a signature starter, and it became synonymous with French gastronomy worldwide.",
+        "where_to_find": "Chez Fernand (escargot 'as good as in Burgundy'), Auberge Bressane, La Poule au Pot"
+      },
+      {
+        "name": "Boeuf Bourguignon",
+        "description": "Slow-braised beef in red Burgundy wine with pearl onions, mushrooms, and bacon lardons. The meat becomes fork-tender after hours of simmering.",
+        "origin_story": "Originally a peasant dish from Burgundy where tough cuts of beef were transformed through long, slow cooking in local wine. Auguste Escoffier codified the recipe in the early 1900s, and Julia Child made it famous to Americans.",
+        "where_to_find": "Chez Michel Puech (2024 opening with grandmother-style recipes), Chez Fernand, L'Assiette"
+      },
+      {
+        "name": "Steak Frites with Pepper Sauce",
+        "description": "Perfectly grilled steak with crispy golden fries and rich green-pepper cream sauce. Simplicity executed to perfection.",
+        "origin_story": "The ultimate bistro dish that defines Parisian casual dining. Bistrot Paul Bert is legendary for their version, using the finest beef and making their sauce from scratch daily. It's the dish every bistro is judged by.",
+        "where_to_find": "Bistrot Paul Bert (phenomenal peppered steak, described as 'the ultimate Parisian bistrot')"
+      },
+      {
+        "name": "Coq au Vin",
+        "description": "Chicken braised in red wine with mushrooms, bacon, pearl onions, and herbs. The wine sauce is deep, complex, and utterly French.",
+        "origin_story": "Another Burgundian classic that became a Parisian bistro staple. Traditionally made with rooster (coq), the dish transforms humble poultry into something extraordinary through technique and time.",
+        "where_to_find": "Auberge Bressane, Le Baratin (run by same chef since the 1980s), Chez Michel Puech"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Natural Wine",
+        "description": "Organic, biodynamic wines made with minimal intervention - no added sulfites, unfiltered, often cloudy or funky in the best way.",
+        "how_locals_drink_it": "The Parisian natural wine movement is huge. Locals seek out small producers and obscure grape varieties, drinking natural wines at neighborhood caves à vin. It's less about prestige and more about authenticity and terroir."
+      },
+      {
+        "name": "Pastis",
+        "description": "Anise-flavored spirit that turns milky when mixed with water. Refreshing, herbal, quintessentially French aperitif.",
+        "how_locals_drink_it": "The classic pre-dinner drink at Parisian cafes, especially in warm weather. Always mixed with cold water (5 parts water to 1 part pastis) and served with ice. Ricard and Pernod are the classic brands."
+      }
+    ],
+    "food_culture_notes": [
+      "True Parisian bistros have zinc bars, checkered floors, handwritten chalkboard menus, and no-nonsense service",
+      "The best bistros are in residential neighborhoods, not tourist areas - locals avoid the Latin Quarter for dining",
+      "Prix fixe lunch menus (formule) are where you find value - three courses for €20-30 at places charging double for dinner",
+      "Parisians take coffee culture seriously - espresso after lunch, never cappuccino, and absolutely never coffee with food"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Eiffel Tower",
+      "Notre-Dame Cathedral",
+      "Arc de Triomphe",
+      "Sacré-Cœur Basilica"
+    ],
+    "atmosphere": [
+      "zinc-topped bistro bars",
+      "Belle Époque brasseries",
+      "tree-lined boulevards",
+      "Seine riverside bouquinistes"
+    ],
+    "colors": [
+      "Haussmann cream facades",
+      "bistro burgundy awnings",
+      "café au lait",
+      "zinc bar silver"
+    ],
+    "unique_modern": [
+      "natural wine caves",
+      "Marais cocktail bars",
+      "contemporary bistronomy",
+      "covered market food halls"
+    ]
+  },
+  "wikipedia_search_term": "Paris",
+  "keywords_for_image": [
+    "bistro",
+    "Eiffel Tower",
+    "escargots",
+    "zinc bar",
+    "boeuf bourguignon"
+  ],
+  "coordinates": {
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Paris+🇫🇷/@48.8566,2.3522,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris"
+  },
+  "location_id": 271
+}

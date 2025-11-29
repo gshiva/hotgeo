@@ -1,0 +1,95 @@
+{
+  "name": "Rovaniemi",
+  "country": "Finland",
+  "fun_fact": "Fun fact: Rovaniemi is the official hometown of Santa Claus - you can visit Santa Claus Village right on the Arctic Circle, where Santa receives over 500,000 letters per year from children worldwide, and you can cross the magical Arctic Circle line any day of the year!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Poronkäristys",
+        "description": "Sautéed reindeer served with mashed potatoes and lingonberries",
+        "origin_story": "The signature dish of Lapland - reindeer herding is central to Sami culture. The meat is thinly sliced and cooked in butter",
+        "where_to_find": "Arctic Boulevard, Nili Restaurant, Gustav Kitchen & Bar"
+      },
+      {
+        "name": "Kalakukko",
+        "description": "Fish baked inside a rye bread loaf - the bread becomes the container",
+        "origin_story": "Originally Finnish miners' lunch - the bread kept the fish fresh and edible for days",
+        "where_to_find": "Traditional Finnish restaurants, local markets"
+      },
+      {
+        "name": "Lohikeitto",
+        "description": "Creamy salmon soup with potatoes, carrots, and dill",
+        "origin_story": "Finland's quintessential comfort food - perfect for warming up after time in the Arctic cold",
+        "where_to_find": "Nearly every restaurant serves this Finnish classic"
+      },
+      {
+        "name": "Arctic Berries",
+        "description": "Wild cloudberries, lingonberries, and bilberries foraged from the Arctic wilderness",
+        "origin_story": "The midnight sun produces incredibly sweet berries - cloudberries (lakka) are Arctic gold",
+        "where_to_find": "On desserts throughout Rovaniemi, or forage yourself in season"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Finnish Coffee",
+        "description": "Finland drinks the most coffee per capita in the world - light roast, filter-brewed",
+        "how_locals_drink_it": "Multiple times daily during coffee breaks, often with pulla (cardamom bread)"
+      },
+      {
+        "name": "Glögi",
+        "description": "Finnish mulled wine with almonds and raisins",
+        "how_locals_drink_it": "Essential at Christmas markets and during the long, dark winter months"
+      }
+    ],
+    "food_culture_notes": [
+      "Santa Claus Village restaurant serves reindeer dishes year-round",
+      "Aurora hunting packages include wilderness dinners",
+      "Arktikum museum has excellent café with Lapland specialties",
+      "Local Sami culture influences ingredients and traditions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Santa Claus Village",
+      "Arktikum Arctic Science Centre",
+      "Arctic Circle line",
+      "Lumberjack's Candle Bridge"
+    ],
+    "atmosphere": [
+      "Arctic winter wonderland",
+      "Northern Lights",
+      "midnight sun in summer",
+      "snowy forests"
+    ],
+    "colors": [
+      "aurora green",
+      "snow white",
+      "polar night blue",
+      "Christmas red"
+    ],
+    "unique_modern": [
+      "official hometown of Santa",
+      "glass igloo hotels",
+      "husky and reindeer safaris",
+      "Arctic Circle crossing"
+    ]
+  },
+  "wikipedia_search_term": "Rovaniemi",
+  "keywords_for_image": [
+    "reindeer dish",
+    "Santa Claus Village",
+    "Northern Lights",
+    "Arctic winter",
+    "snowy Lapland",
+    "log cabin"
+  ],
+  "coordinates": {
+    "lat": 66.5039,
+    "lng": 25.7294
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rovaniemi+🇫🇮/@66.5039,25.7294,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rovaniemi"
+  },
+  "location_id": 200
+}

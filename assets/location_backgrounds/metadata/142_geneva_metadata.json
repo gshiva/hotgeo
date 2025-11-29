@@ -1,0 +1,93 @@
+{
+  "name": "Geneva",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Geneva is Switzerland's most international city and earned the title of European Region of Gastronomy in 2019. With 13 Michelin-starred establishments and proximity to France and Italy, Geneva offers an 'amazing culinary world tour' from haute cuisine to authentic mountain chalets - all while being home to major international organizations.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fondue (Gruyère Cheese Fondue)",
+        "description": "Melted cheese (traditionally half Gruyère, half Vacherin or 100% Gruyère) combined with white wine, garlic, and a touch of kirsch, served in a communal pot (caquelon) with bread cubes for dipping. The ultimate Alpine comfort food.",
+        "origin_story": "A centuries-old Swiss tradition of melting cheese during cold mountain winters. In Geneva, fondue is sacred - Le Café du Soleil has been serving its legendary fondue since becoming the city's oldest bistro, using Gruyère cheese straight from La Roche village in the Gruyère district.",
+        "where_to_find": "Le Café du Soleil (oldest bistro, unrivalled fondue, near airport), Auberge de Savièse (Les Pâquis, chalet-style, 8+ fondue varieties), La Cave Valaisanne (institution since 1960), L'Edelweiss (mountain atmosphere), La Buvette des Bains (lakeside, exceptional value but book ahead)"
+      },
+      {
+        "name": "Raclette",
+        "description": "Semi-hard cheese melted and scraped onto boiled potatoes, served with pickled onions, cornichons, and charcuterie. The cheese is heated until bubbling and served immediately.",
+        "origin_story": "Traditional Alpine dish where shepherds would melt cheese by the fire. The name comes from the French 'racler' (to scrape). Geneva's restaurants maintain this rustic tradition in cozy chalet settings.",
+        "where_to_find": "Auberge de Savièse, L'Edelweiss Restaurant, La Cave Valaisanne (all specialize in traditional Swiss Alpine dishes)"
+      },
+      {
+        "name": "Filets de Perche (Lake Perch Fillets)",
+        "description": "Fresh perch fillets from Lake Geneva, lightly breaded and pan-fried, typically served with frites and lemon. A local specialty showcasing Geneva's lakeside location.",
+        "origin_story": "Taking advantage of Geneva's position on Lake Geneva (Lac Léman), this dish represents the city's connection to its waters and sustainable local fishing traditions.",
+        "where_to_find": "Lakefront restaurants and traditional Swiss establishments throughout Geneva"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swiss White Wine (Geneva Region)",
+        "description": "Local wines from Geneva's vineyards, particularly Chasselas whites. Geneva has a strong 'locavore' wine culture with wines from Geneva or French-speaking Switzerland.",
+        "how_locals_drink_it": "Paired with fondue (white wine is traditional) or enjoyed with lake perch. Many restaurants feature local Geneva wines as part of the 'field to plate' movement."
+      }
+    ],
+    "food_culture_notes": [
+      "Fondue is seasonal - typically not served May to October (too warm!)",
+      "Reservations are nearly impossible without booking ahead, especially for evening fondue at popular spots like La Buvette des Bains",
+      "Geneva's cuisine is a 'harmonious blend of Swiss traditions, French finesse, and international diversity'",
+      "Strong focus on quality ingredients, sustainability, and seasonality - part of the 'locavore' movement",
+      "The city offers culinary world tours: Mexican, Peruvian, Japanese, Chinese, Lebanese, Indian, Moroccan cuisine all highly accessible",
+      "Rösti (Swiss potato pancake) and croûte au fromage (cheese toast) are other staples at traditional restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lake Geneva (Lac Léman) waterfront",
+      "Jet d'Eau fountain",
+      "Old Town cobblestone streets",
+      "Bains des Pâquis (1930s public baths)",
+      "Wooden chalet-style restaurant interiors",
+      "Alpine mountain backdrops"
+    ],
+    "atmosphere": [
+      "Mountain chalet décor with wood paneling",
+      "Elegant lakeside terraces",
+      "International sophistication meets Alpine tradition",
+      "Cozy communal fondue pots (caquelons)",
+      "Upscale yet accessible dining culture"
+    ],
+    "colors": [
+      "Golden melted cheese",
+      "Deep blue lake waters",
+      "Rich wood browns (chalet interiors)",
+      "Swiss flag red and white",
+      "Alpine green meadows"
+    ],
+    "unique_modern": [
+      "Michelin-starred haute cuisine alongside rustic fondues",
+      "Locavore farm-to-table restaurants",
+      "Colonial villa dining (Les Jardins de La Carambole)",
+      "Contemporary interpretations of traditional Swiss dishes",
+      "International fusion respecting local traditions"
+    ]
+  },
+  "wikipedia_search_term": "Geneva",
+  "keywords_for_image": [
+    "geneva fondue cheese",
+    "swiss raclette",
+    "lake geneva perch",
+    "gruyere cheese melting",
+    "alpine chalet restaurant",
+    "lac leman switzerland",
+    "geneva old town",
+    "swiss cheese caquelon"
+  ],
+  "coordinates": {
+    "lat": 46.2044,
+    "lng": 6.1432
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Geneva+🇨🇭/@46.2044,6.1432,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geneva"
+  },
+  "location_id": 142
+}

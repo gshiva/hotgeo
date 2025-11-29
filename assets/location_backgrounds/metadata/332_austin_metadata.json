@@ -1,0 +1,94 @@
+{
+  "name": "Austin",
+  "country": "USA",
+  "fun_fact": "Fun fact: Austin has over 1,000 mobile food trucks serving everything from tacos to gourmet cupcakes - more food trucks per capita than almost any US city. In 2024, Austin's Paprika taco truck made the New York Times' list of 26 best dishes eaten across the entire United States.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Breakfast Tacos",
+        "description": "Flour tortillas filled with scrambled eggs, cheese, chorizo, bacon, potatoes, and salsa - Austin's sacred morning ritual",
+        "origin_story": "While San Antonio may have invented them, Austin elevated breakfast tacos to an art form and cultural identity. The city stops for breakfast tacos - tech workers, musicians, and politicians all line up at taco trucks at 7AM. Austin vs San Antonio breakfast taco rivalry is real. Order 'migas' (eggs with tortilla strips) to signal you're a local.",
+        "where_to_find": "Every corner taqueria (Austinites guard their favorites fiercely), Veracruz All Natural, Tacodeli, or food trucks throughout the city"
+      },
+      {
+        "name": "Central Texas Barbecue",
+        "description": "Brisket smoked 12-18 hours over oak wood, seasoned only with salt and pepper - served by the pound with white bread and pickles",
+        "origin_story": "German and Czech immigrants brought meat-smoking traditions to Central Texas. Austin's style uses minimal seasoning - just salt and pepper - letting oak smoke and time create the flavor. Lines form hours before opening at legendary spots. The 'bark' (crusty exterior) and 'smoke ring' (pink layer under bark) are marks of mastery.",
+        "where_to_find": "Franklin Barbecue (lines start 6AM, sells out by noon), La Barbecue, Micklethwait Craft Meats, or InterStellar BBQ"
+      },
+      {
+        "name": "Fusion Tacos",
+        "description": "Innovative tacos blending cuisines - Korean BBQ tacos, duck confit tacos, bone marrow tacos - Austin's 'New Tejano movement'",
+        "origin_story": "Austin's creative spirit and immigrant diversity sparked a taco renaissance. Texas Monthly's taco editor calls it the 'New Tejano movement' - taquerias crafting nostalgic dishes from blended cultures with native Texas ingredients. Nixta Taqueria's enchilada potosina taco (tortillas with guajillo chile paste) ranked #10 in Texas Monthly's 50 Best Tacos.",
+        "where_to_find": "Nixta Taqueria (No. 10 in Texas Monthly's best tacos), Paprika (suadero taco on NY Times best dishes 2024), Yellow Bell Tacos (smoked meats in house-made tortillas), or Suerte"
+      },
+      {
+        "name": "Queso",
+        "description": "Melted cheese dip with green chiles, tomatoes, and spices - served with tortilla chips as mandatory appetizer",
+        "origin_story": "Texas invented queso (cheese dip), and Austin perfected it. Every Tex-Mex restaurant serves their version. Debates rage over whether to add ground beef, black beans, or guacamole. Ordering margaritas without queso is considered suspicious behavior. It's liquid cheese happiness.",
+        "where_to_find": "Matt's El Rancho (since 1952), Torchy's Tacos (USA Today's best fast casual 2024), or Chuy's"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Margarita (on the rocks)",
+        "description": "Tequila, lime juice, Cointreau, served over ice with salt rim - Austin's official drink",
+        "how_locals_drink_it": "Austinites drink margaritas on patios year-round (it's sunny 300 days/year). Order 'on the rocks' not frozen. Happy hour margarita specials are serious business - locals plan their week around them. Always paired with queso. The stronger the margarita, the better the live music sounds on Sixth Street."
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "Austin's booming craft brewery scene - IPAs, lagers, and experimental brews",
+        "how_locals_drink_it": "Austin has dozens of local breweries - Live Oak, Austin Beerworks, Jester King. Locals drink beer at food truck parks, on Barton Springs pool lawns, or at outdoor brewery taprooms. The unofficial motto is 'Keep Austin Weird' and the beer scene delivers - sour ales, barrel-aged stouts, and chili-infused lagers."
+      }
+    ],
+    "food_culture_notes": [
+      "Food truck culture is massive - over 1,000 mobile eateries creating an entrepreneurial food ecosystem",
+      "'Keep Austin Weird' philosophy extends to food - expect unexpected taco fillings and fusion experiments",
+      "Breakfast taco loyalty is tribal - never insult someone's taco spot",
+      "BBQ lines are a badge of honor - showing up hours early for brisket is normal Austin behavior"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Texas State Capitol - pink granite dome taller than US Capitol",
+      "Sixth Street - live music district (200+ venues, 'Live Music Capital of the World')",
+      "Barton Springs Pool - natural spring-fed pool in Zilker Park (68-70°F year-round)",
+      "Congress Avenue Bridge - 1.5 million bats emerge at sunset March-October"
+    ],
+    "atmosphere": [
+      "'Keep Austin Weird' - unofficial motto celebrating eclectic, creative culture",
+      "Live music everywhere - Austin City Limits, SXSW, 250+ live music venues",
+      "Tech hub nicknamed 'Silicon Hills' - blend of tech workers and artists",
+      "300 days of sunshine annually with hot summers (100°F+ common)"
+    ],
+    "colors": [
+      "burnt orange (University of Texas)",
+      "golden brisket bark from oak smoke",
+      "vibrant street art murals",
+      "turquoise Barton Springs water"
+    ],
+    "unique_modern": [
+      "Mum Foods Smokehouse named to USA Today's first 'Restaurants of the Year' 2024 list",
+      "SXSW (South by Southwest) festival - massive music, film, and tech conference every March",
+      "Formula 1 Circuit of the Americas - only US F1 track",
+      "Home to Whole Foods Market global headquarters - natural foods movement epicenter"
+    ]
+  },
+  "wikipedia_search_term": "Austin,_Texas",
+  "keywords_for_image": [
+    "austin breakfast tacos",
+    "franklin barbecue brisket",
+    "barton springs pool",
+    "sixth street live music",
+    "congress avenue bats"
+  ],
+  "coordinates": {
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Austin+🇺🇸/@30.2672,-97.7431,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin,_Texas"
+  },
+  "location_id": 332
+}

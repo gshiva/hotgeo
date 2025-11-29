@@ -1,0 +1,99 @@
+{
+  "name": "Jaipur",
+  "country": "India",
+  "fun_fact": "Fun fact: Jaipur is called the 'Pink City' because in 1876, the entire city was painted terracotta pink to welcome the Prince of Wales - a color traditionally associated with hospitality in Rajput culture. This tradition continues today with laws requiring historic Old City buildings to maintain their rosy hue.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dal Baati Churma",
+        "description": "The most famous dish of Jaipur - baked wheat balls (baati) served with spicy lentils (dal) and sweet crumbled wheat (churma) drizzled with ghee. This hearty Rajasthani meal dates back centuries and was originally created for warriors and travelers due to its long shelf life.",
+        "origin_story": "Created by desert warriors who needed food that could last for days without refrigeration. The baati were baked in sand and served with portable dal, making it perfect for nomadic Rajasthani lifestyle.",
+        "where_to_find": "Laxmi Mishthan Bhandar (LMB) in Johari Bazaar has served this dish since 1727. Chokhi Dhani offers an immersive village experience with unlimited dal baati churma. For budget-friendly options, try Rawat Mishthan Bhandar (since 1974) or the dedicated Dal Baati Churma Restaurant in Bani Park."
+      },
+      {
+        "name": "Laal Maas",
+        "description": "A fiery mutton curry prepared on a wood-fired chulha with aromatic spices and red chillies. This royal dish dates to the 10th century and is known for its intense heat and distinctive red color.",
+        "origin_story": "Originally prepared by Rajput warriors during royal hunting expeditions using wild boar, rabbit, or deer meat. Today it's made with goat meat due to hunting bans, but maintains its legendary spiciness and royal heritage.",
+        "where_to_find": "Spice Court (decorated with vintage polo game photos), Suvarna Mahal at Rambagh Palace (with live classical music and Victorian interiors), Handi Restaurant (with rooftop city views), and Mughal Rasoi (known for authentic dum pukht biryani alongside laal maas)."
+      },
+      {
+        "name": "Pyaaz Kachori",
+        "description": "Deep-fried pastry stuffed with spiced onions - a beloved street snack that's crispy outside and flavorful inside, typically served with tangy tamarind chutney.",
+        "origin_story": "A Rajasthani breakfast and snack staple that evolved from the need for vegetarian street food in the Hindu-majority region. Each family shop guards their secret spice blend.",
+        "where_to_find": "Rawat Mishthan Bhandar is famous for their pyaaz kachori (their specialty since 1974). Also found at street vendors throughout Johari Bazaar and near major landmarks."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai",
+        "description": "Strong black tea brewed with milk, sugar, and aromatic spices like cardamom, ginger, and cinnamon. Served steaming hot in small clay cups (kulhads) that add an earthy flavor.",
+        "how_locals_drink_it": "Consumed multiple times daily, especially in the morning and during late afternoon tea breaks. Street vendors serve it in disposable kulhad cups that you smash on the ground after drinking (they're biodegradable clay). Often paired with kachori or samosa for breakfast."
+      },
+      {
+        "name": "Lassi",
+        "description": "Thick, creamy yogurt-based drink served sweet or salted. The sweet version often includes cardamom, saffron, or rose water, while salted lassi is topped with roasted cumin and mint.",
+        "how_locals_drink_it": "Consumed during hot afternoons to cool down and aid digestion after heavy meals. Often served in large steel glasses or earthen pots. Sweet lassi is a dessert drink, while salted lassi accompanies spicy meals."
+      }
+    ],
+    "food_culture_notes": [
+      "Jaipur cuisine reflects the harsh desert climate - ghee, dried lentils, and preserved foods dominate due to limited fresh produce historically",
+      "Street food culture thrives in bazaars like Johari Bazaar and Bapu Bazaar, where vendors have operated family stalls for generations",
+      "Royal Rajasthani cuisine emphasizes rich, elaborate preparations with heavy use of ghee, dried fruits, and expensive spices - a display of maharaja wealth",
+      "Food is traditionally eaten with the right hand from a thali (large metal platter) with small bowls arranged around it",
+      "Chokhi Dhani offers the complete Rajasthani dining experience - unlimited traditional thali served while sitting on the ground in a recreated village setting with folk performances"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hawa Mahal (Palace of Winds) - 5-story pink sandstone palace with 953 intricately carved jharokha windows, built in 1799",
+      "Amber Fort - 16th-century hilltop UNESCO World Heritage fort with Sheesh Mahal (Palace of Mirrors) featuring stunning mirror work",
+      "City Palace - blend of Mughal and Rajasthani architecture with courtyards and museums",
+      "Jantar Mantar - UNESCO astronomical observatory with massive sundials and instruments",
+      "Nahargarh Fort - hilltop fort offering panoramic city views, especially stunning at sunset"
+    ],
+    "atmosphere": [
+      "Bustling bazaars filled with textile merchants, jewelry shops, and spice vendors calling out their wares",
+      "Pink and terracotta buildings creating a cohesive rosy cityscape throughout Old City",
+      "Auto-rickshaws and cycle rickshaws navigating narrow bazaar streets",
+      "Street vendors serving steaming chai in clay cups",
+      "Colorful turbans, saris, and traditional Rajasthani dress in markets",
+      "Sounds of temple bells, bazaar negotiations, and traditional Rajasthani folk music"
+    ],
+    "colors": [
+      "Terracotta pink (signature city color mandated by law in Old City)",
+      "Deep red sandstone of forts and palaces",
+      "Bright textiles - fuchsia, saffron yellow, peacock blue, emerald green",
+      "Gold and silver from jewelry shops in Johari Bazaar",
+      "Warm desert tones - ochre, burnt orange, sand"
+    ],
+    "unique_modern": [
+      "India's first planned city (founded 1727) based on Vastu Shastra and incorporating Western astronomical texts",
+      "UNESCO World Heritage recognition (2019) for urban planning excellence",
+      "Thriving handicraft economy - block printing, blue pottery, gemstone cutting, lac bangles",
+      "Film location for numerous Bollywood productions due to palatial architecture",
+      "Glove puppetry and folk theater traditions still performed at cultural venues like Chokhi Dhani"
+    ]
+  },
+  "wikipedia_search_term": "Jaipur",
+  "keywords_for_image": [
+    "Hawa Mahal pink palace",
+    "Jaipur Pink City architecture",
+    "Amber Fort India",
+    "Rajasthani bazaar",
+    "dal baati churma",
+    "Indian palace mirrors",
+    "Rajasthan street food",
+    "Jaipur City Palace",
+    "pink sandstone buildings",
+    "Rajasthani turban colorful"
+  ],
+  "coordinates": {
+    "lat": 26.9124,
+    "lng": 75.7873
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Jaipur+🇮🇳/@26.9124,75.7873,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaipur"
+  },
+  "location_id": 146
+}

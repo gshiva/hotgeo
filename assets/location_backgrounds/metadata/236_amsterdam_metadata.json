@@ -1,0 +1,94 @@
+{
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Amsterdam has more bicycles (881,000) than people (872,000), and more canals than Venice! The city is built on wooden poles driven into marshy ground - the Royal Palace alone sits on 13,659 wooden piles.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bitterballen",
+        "description": "Crispy deep-fried meatballs with creamy ragout inside, served with mustard",
+        "origin_story": "The quintessential Dutch bar snack - served everywhere from brown cafés to Michelin restaurants",
+        "where_to_find": "Café 't Smalle, De Drie Graefjes, any brown café (bruine kroeg)"
+      },
+      {
+        "name": "Stroopwafel",
+        "description": "Two thin waffle layers with caramel syrup filling - best fresh from the market",
+        "origin_story": "Invented in Gouda in the late 1700s by a baker using leftover breadcrumbs - now the Dutch national cookie",
+        "where_to_find": "Albert Cuyp Market (fresh), Lanskroon bakery, anywhere fresh-pressed"
+      },
+      {
+        "name": "Haring (Dutch Herring)",
+        "description": "Raw herring eaten with onions and pickles, head tilted back",
+        "origin_story": "The Dutch Golden Age was built on herring trade - 'Hollandse Nieuwe' is the first catch of the season in June",
+        "where_to_find": "Frens Haringhandel, Stubbe's Haring, any haringkar (herring cart)"
+      },
+      {
+        "name": "Stamppot",
+        "description": "Mashed potatoes with vegetables (kale, sauerkraut, carrots) and smoked sausage",
+        "origin_story": "Traditional Dutch winter comfort food - stamppot boerenkool (with kale) is the classic",
+        "where_to_find": "Moeders, D'Vijff Vlieghen, traditional Dutch restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jenever",
+        "description": "Dutch gin, the original precursor to English gin - malty and smooth",
+        "how_locals_drink_it": "At a proeflokaal (tasting house), sipped from a tulip glass filled to the brim - lean down to sip!"
+      },
+      {
+        "name": "Heineken/Amstel",
+        "description": "Amsterdam's world-famous pilsners",
+        "how_locals_drink_it": "In brown cafés (bruine kroegen) - a 'vaasje' is a small draft beer"
+      }
+    ],
+    "food_culture_notes": [
+      "Albert Cuyp Market is the largest street market for local food",
+      "Brown cafés (bruine kroegen) are cozy traditional pubs with dark wood interiors",
+      "Foodhallen in De Hallen has excellent international street food",
+      "Indonesian food is huge due to colonial history - rijsttafel is essential"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Canal houses",
+      "Anne Frank House",
+      "Rijksmuseum",
+      "Vondelpark"
+    ],
+    "atmosphere": [
+      "canal city",
+      "bicycle culture",
+      "liberal tolerance",
+      "Dutch Golden Age legacy"
+    ],
+    "colors": [
+      "red brick canal houses",
+      "tulip rainbow",
+      "orange national color",
+      "museum golden"
+    ],
+    "unique_modern": [
+      "coffee shops",
+      "NDSM art wharf",
+      "Instagrammable canals",
+      "sustainability pioneer"
+    ]
+  },
+  "wikipedia_search_term": "Amsterdam",
+  "keywords_for_image": [
+    "Amsterdam canals",
+    "stroopwafel",
+    "Dutch herring",
+    "canal houses bicycles",
+    "brown cafe"
+  ],
+  "coordinates": {
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Amsterdam+🇳🇱/@52.3676,4.9041,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amsterdam"
+  },
+  "location_id": 236
+}

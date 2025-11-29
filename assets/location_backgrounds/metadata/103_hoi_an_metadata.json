@@ -1,0 +1,109 @@
+{
+  "name": "Hoi An",
+  "country": "Vietnam",
+  "fun_fact": "Fun fact: Only ONE family makes the authentic White Rose dumplings for the entire city - they've held this secret recipe for 130 years since their Chinese ancestors settled here. No matter where you eat White Rose in Hoi An, it all comes from the same kitchen! Similarly, true Cao Lau can only be made in Hoi An using water from the ancient Ba Le well.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cao Lau",
+        "description": "Hoi An's most mysterious dish - thick rice noodles with sliced pork, crispy pork rinds, rice crackers, peanuts, and local herbs. The secret: it MUST use water from the 9th-century Ba Le Cham well to treat the noodles.",
+        "origin_story": "This dish cannot be replicated outside Hoi An because authentic Cao Lau uses water from a specific ancient well and ash from local trees. Rumor has it only one local lady knows the exact recipe. Restaurants buy the noodles daily from the market.",
+        "where_to_find": "Street food stalls throughout Hoi An Ancient Town, Morning Glory Restaurant, local markets"
+      },
+      {
+        "name": "White Rose Dumplings (Bánh Bao Vạc)",
+        "description": "Delicate shrimp dumplings shaped like white roses - steamed translucent rice paper filled with shrimp and spices. French colonials named them for their resemblance to white roses.",
+        "origin_story": "A Chinese family brought this recipe to Hoi An 130 years ago. Their descendants are the ONLY people who make these dumplings - every restaurant in Hoi An gets them from this one family! Like Cao Lau, the water must come from Ba Le well.",
+        "where_to_find": "White Rose Restaurant (533 Hai Ba Trung - the original family restaurant), Morning Glory, or anywhere in Hoi An (all from the same source!)"
+      },
+      {
+        "name": "Mi Quang",
+        "description": "Turmeric-infused rice noodles with light broth, fresh herbs, and meat or shrimp. The yellow color and complex spicing reflect Hoi An's spice trade history.",
+        "origin_story": "Born from Hoi An's multicultural trading past - turmeric from India, noodle techniques from China, herbs from Vietnam. Each element tells the story of the ancient port.",
+        "where_to_find": "Street food vendors, Morning Glory Restaurant, local markets"
+      },
+      {
+        "name": "Com Ga Hoi An (Chicken Rice)",
+        "description": "Shredded chicken with turmeric rice and fresh herbs - Hoi An's comfort food that showcases the town's love of turmeric and aromatic herbs.",
+        "origin_story": "Influenced by the Chinese Hainanese chicken rice but made distinctly Vietnamese with local herbs and turmeric from the spice trade routes.",
+        "where_to_find": "Com Ga Ba Buoi (famous chicken rice stall), street vendors in Ancient Town"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cà Phê Sữa Đá (Vietnamese Iced Coffee)",
+        "description": "Bold, intense coffee (made with robusta beans containing double the caffeine of arabica) slowly dripped through a metal filter into sweetened condensed milk and ice. Rich, sweet, and incredibly strong.",
+        "how_locals_drink_it": "Slowly, at sidewalk cafés, watching the world go by. The ritual is as important as the drink. Let the coffee drip completely before stirring - don't rush it."
+      },
+      {
+        "name": "Bia Hoi (Fresh Beer)",
+        "description": "Light, crisp beer brewed daily without preservatives. Served from metal casks at roadside stalls for about 15 cents a glass.",
+        "how_locals_drink_it": "At plastic tables on the street, especially across the river with views of the old town. It's a social experience - Bia Hoi is about community, not just drinking. Hoi An is famous for having loads of bia hoi spots."
+      },
+      {
+        "name": "Cà Phê Trứng (Egg Coffee)",
+        "description": "Rich, creamy coffee topped with frothy egg yolk mixture - decadent and dessert-like.",
+        "how_locals_drink_it": "As a special treat, sipped slowly to savor the silky egg cream floating on strong coffee"
+      }
+    ],
+    "food_culture_notes": [
+      "Hoi An was Southeast Asia's most important trading port from 15th-19th centuries",
+      "The cuisine blends Chinese, Japanese, Vietnamese, and European influences from centuries of trade",
+      "The Ancient Town is a UNESCO World Heritage Site with preserved 16th-18th century architecture",
+      "The monthly Lantern Festival (14th lunar day) transforms the town - electric lights go off and colorful lanterns light everything",
+      "Locals release paper lanterns on the Hoai River during full moons",
+      "The Japanese Covered Bridge (built 1593) is on the 20,000 VND note and connects old Japanese and Chinese quarters",
+      "Traditional wooden houses, assembly halls, and pagodas line the streets",
+      "Vietnam is the world's second-largest coffee exporter - coffee culture is a source of national pride"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Japanese Covered Bridge (1593)",
+      "Colorful lanterns along the river",
+      "Ancient wooden shophouses",
+      "Assembly halls",
+      "Hoai River at night"
+    ],
+    "atmosphere": [
+      "Lanterns glowing on water",
+      "Narrow lanes of old town",
+      "Traditional boats on river",
+      "Street food vendors",
+      "French colonial architecture mixed with Vietnamese"
+    ],
+    "colors": [
+      "Golden yellow (lanterns)",
+      "Mustard yellow (turmeric in Mi Quang)",
+      "Deep green (herbs and vegetables)",
+      "Rich brown (Vietnamese coffee)",
+      "White and translucent (White Rose dumplings)"
+    ],
+    "unique_modern": [
+      "Monthly lantern festivals",
+      "Thriving tailor shops (custom clothes in 24 hours)",
+      "Coffee culture blending tradition and Instagram aesthetics",
+      "Sustainable tourism preserving ancient architecture"
+    ]
+  },
+  "wikipedia_search_term": "Hoi_An",
+  "keywords_for_image": [
+    "Hoi An lanterns",
+    "Japanese Bridge Hoi An",
+    "White Rose dumplings",
+    "Cao Lau noodles",
+    "Vietnamese coffee drip",
+    "ancient trading port",
+    "Hoi An night market",
+    "traditional Vietnamese architecture"
+  ],
+  "coordinates": {
+    "lat": 15.8801,
+    "lng": 108.338
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hoi+An+🇻🇳/@15.8801,108.338,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoi_An"
+  },
+  "location_id": 103
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Darjeeling",
+  "country": "India",
+  "fun_fact": "Fun fact: Darjeeling's famous muscatel-flavored tea gets its distinctive taste from controlled insect attacks - tea leaves are specifically harvested after being bitten by leafhoppers and camellia tortrix moths, turning pest damage into the world's most prized flavor.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Jhol Momos",
+        "description": "Steamed dumplings filled with spiced minced pork, chicken, or vegetables, served swimming in a spicy, tangy tomato-based soup",
+        "origin_story": "While momos originated in Tibet, Darjeeling's Tibetan refugee community transformed them into a local obsession. Jhol momos (soup momos) were invented to combat the Himalayan cold - the hot broth warms you from the inside out at 2,000 meters altitude.",
+        "where_to_find": "Kunga Restaurant on Gandhi Road (run by Tibetan family, over 20 years old), Dekevas Restaurant (adjacent to Kunga, part of Hotel Dekeling), Noryang Tibetan Kitchen, or Hot Stimulating Cafe run by local lady Lily for vegetarian versions"
+      },
+      {
+        "name": "Thukpa",
+        "description": "Hearty Tibetan noodle soup with vegetables, meat (usually beef or pork), and aromatic spices in a rich, warming broth",
+        "origin_story": "Brought to Darjeeling by Tibetan refugees fleeing to India in 1959, thukpa became the ultimate comfort food for tea estate workers returning from high-altitude gardens. Each family has their secret spice blend passed down through generations.",
+        "where_to_find": "Kunga Restaurant (authentic beef thukpa), Dekevas Restaurant, Noryang Tibetan Kitchen, Kathmandu Kitchen, or Penang Restaurant (serving since 1972)"
+      },
+      {
+        "name": "Shaphalay",
+        "description": "Crispy Tibetan meat pie - half-moon shaped bread stuffed with seasoned minced beef or pork, pan-fried until golden and crunchy",
+        "origin_story": "A Tibetan street food that became Darjeeling's favorite snack, shaphalay was traditionally made by nomadic herders who needed portable, filling food. The name means 'meat bread' in Tibetan, and the crispy exterior holds juicy, spiced meat inside.",
+        "where_to_find": "Kunga Restaurant (a specialty), Chopstix (formerly Royal Restaurant since 1958), or street vendors in Chowk Bazaar"
+      },
+      {
+        "name": "Alu Dum with Sel Roti",
+        "description": "Spicy potato curry served with crispy, ring-shaped rice flour bread - the ultimate Nepali street food combination",
+        "origin_story": "Darjeeling's large Nepali population brought this beloved pairing from Nepal. Sel roti is traditionally made during Tihar festival, but became so popular in Darjeeling that vendors sell it year-round, especially at morning markets where tea garden workers grab breakfast.",
+        "where_to_find": "Penang Restaurant in Chowk Bazaar (serving since 1972), Kathmandu Kitchen, or street vendors near the Mall Road and Chowrasta"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Darjeeling First Flush Tea",
+        "description": "Light, floral, delicate black tea harvested in March-April, known as the 'Champagne of Teas' with bright golden color",
+        "how_locals_drink_it": "Locals drink it plain or with minimal milk to appreciate the subtle muscatel notes. Tea garden workers have their first cup at dawn before heading to the estates. The best leaves are often exported, but locals know which small estates sell directly to avoid tourist markup."
+      },
+      {
+        "name": "Po Cha (Tibetan Butter Tea)",
+        "description": "Salty tea made with black tea, yak butter, and salt - an acquired taste that's thick, creamy, and sustaining",
+        "how_locals_drink_it": "The Tibetan community drinks po cha throughout the day, especially in cold weather. It's not sweet - the salt and butter provide calories and warmth at high altitude. Visitors are often shocked by the savory taste, but locals swear by its energy-boosting properties."
+      }
+    ],
+    "food_culture_notes": [
+      "Darjeeling's cuisine reflects its diverse population: Tibetan refugees, Nepali workers, Bengali settlers, and British colonial influence",
+      "The toy train (UNESCO Heritage Site since 1999) once transported precious Darjeeling tea from estates to markets",
+      "Chowk Bazaar is the authentic food hub where locals eat - avoid touristy Mall Road for real deals",
+      "Tea estate workers have their own canteen culture, eating dal-bhat with pickled vegetables before dawn shifts in the gardens"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Darjeeling Himalayan Railway 'Toy Train' - UNESCO World Heritage steam locomotive since 1881",
+      "Tiger Hill viewpoint for sunrise over Kanchenjunga (world's third-highest peak)",
+      "87 licensed tea estates producing 10,000 tons annually",
+      "Buddhist monasteries and prayer flags across hillsides"
+    ],
+    "atmosphere": [
+      "Nestled at 2,000 meters in the Himalayan foothills with year-round mist",
+      "Tea garden workers in traditional dress hand-plucking leaves on terraced slopes",
+      "Tibetan Buddhist culture mixed with Nepali and Bengali influences",
+      "Victorian-era hill station architecture from British colonial days"
+    ],
+    "colors": [
+      "emerald green tea gardens on terraced hills",
+      "prayer flag colors (blue, white, red, green, yellow)",
+      "golden sunrise over Himalayan peaks",
+      "colonial-era pastel buildings"
+    ],
+    "unique_modern": [
+      "First Indian product to receive Geographic Indication (GI) tag in 2004-05",
+      "Makaibari estate - first organic certified tea estate in India (1988)",
+      "Tea tourism with estate stays and tasting tours",
+      "Name means 'Land of Thunderbolt' from Buddhist monks watching monsoon storms approach"
+    ]
+  },
+  "wikipedia_search_term": "Darjeeling",
+  "keywords_for_image": [
+    "darjeeling tea gardens terraced",
+    "momos tibetan dumplings",
+    "toy train darjeeling railway",
+    "kanchenjunga mountain view",
+    "himalayan prayer flags"
+  ],
+  "coordinates": {
+    "lat": 27.036,
+    "lng": 88.2627
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Darjeeling+🇮🇳/@27.036,88.2627,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darjeeling"
+  },
+  "location_id": 318
+}

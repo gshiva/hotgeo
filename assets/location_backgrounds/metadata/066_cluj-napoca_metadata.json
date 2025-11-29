@@ -1,0 +1,46 @@
+{
+  "name": "Cluj-Napoca",
+  "country": "🇷🇴",
+  "coordinates": {
+    "lat": 46.7712,
+    "lng": 23.6236
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cluj-Napoca+🇷🇴/@46.7712,23.6236,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cluj-Napoca"
+  },
+  "fun_fact": "Fun fact: Cluj-Napoca awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Cluj-Napoca cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Cluj-Napoca"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cluj-Napoca landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 66
+}

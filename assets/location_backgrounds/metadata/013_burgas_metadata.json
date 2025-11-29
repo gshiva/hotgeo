@@ -1,0 +1,99 @@
+{
+  "name": "Burgas",
+  "country": "Bulgaria",
+  "fun_fact": "Fun fact: Zlatna Kotva (Golden Anchor) restaurant has been serving seafood in Burgas since 1927 - nearly 100 years of Black Sea mussels, making it one of the oldest continuously operating restaurants in Bulgaria!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Black Sea Mussels",
+        "description": "Fresh steamed mussels in aromatic white wine and garlic broth",
+        "origin_story": "Burgas's coastal location ensures incredibly fresh Black Sea seafood",
+        "where_to_find": "Ethno restaurant, Neptune restaurant near Sea Garden"
+      },
+      {
+        "name": "Shopska Salata",
+        "description": "Bulgaria's national dish - tomato, cucumber, onion, peppers topped with grated sirene cheese",
+        "origin_story": "Named after Shopi people of western Bulgaria, now a national symbol",
+        "where_to_find": "Every restaurant - it's the essential starter"
+      },
+      {
+        "name": "Tsatsa",
+        "description": "Typical local fried small fish from the Black Sea",
+        "origin_story": "Traditional coastal fishing catch prepared simply",
+        "where_to_find": "Seafood restaurants along the waterfront"
+      },
+      {
+        "name": "Kavarma",
+        "description": "Hearty pork stew with onions, peppers, tomatoes, paprika",
+        "origin_story": "Traditional Bulgarian comfort food from inland cuisine",
+        "where_to_find": "Traditional mehana (taverns) throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakia",
+        "description": "Grape or plum brandy - Bulgaria's national spirit",
+        "how_locals_drink_it": "Chilled as aperitif with shopska salata"
+      },
+      {
+        "name": "Ayran",
+        "description": "Cold yogurt drink with water and salt",
+        "how_locals_drink_it": "Refreshing accompaniment to meals, especially in summer"
+      },
+      {
+        "name": "Bulgarian Wine (Mavrud)",
+        "description": "Native red grape variety producing rich wines",
+        "how_locals_drink_it": "With grilled meats and local cuisine"
+      }
+    ],
+    "food_culture_notes": [
+      "Bulgarian yogurt (kiselo mlyako) has unique bacterial strains found only here",
+      "Banitsa (filo pastry with cheese) is breakfast staple",
+      "Kebapche (grilled meat rolls) at every mehana",
+      "Ethno restaurant decorated in blue and white honoring Greek heritage of Burgas"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sea Garden park",
+      "Black Sea beach",
+      "St. Cyril and Methodius Cathedral",
+      "Burgas Lakes"
+    ],
+    "atmosphere": [
+      "seaside promenade",
+      "fishing boats",
+      "outdoor cafes",
+      "summer resort vibes"
+    ],
+    "colors": [
+      "Black Sea blue",
+      "beach sand",
+      "cathedral gold",
+      "sunset orange"
+    ],
+    "unique_modern": [
+      "sand sculptures festival",
+      "Spirit of Burgas music festival",
+      "nature reserves"
+    ]
+  },
+  "wikipedia_search_term": "Burgas",
+  "keywords_for_image": [
+    "mussels in white wine",
+    "shopska salata",
+    "Black Sea view",
+    "Sea Garden",
+    "seaside promenade",
+    "Bulgarian wine"
+  ],
+  "coordinates": {
+    "lat": 42.5048,
+    "lng": 27.4626
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Burgas+🇧🇬/@42.5048,27.4626,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burgas"
+  },
+  "location_id": 13
+}

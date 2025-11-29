@@ -1,0 +1,103 @@
+{
+  "name": "Shimla",
+  "country": "India",
+  "region": "Himachal Pradesh",
+  "fun_fact": "Fun fact: Shimla was the summer capital of British India, and its cuisine reflects a unique blend of British colonial, Punjabi, Tibetan, and indigenous Himachali traditions. The city sits at 2,200m elevation in the Himalayan foothills!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Himachali Dham",
+        "description": "The crown jewel feast featuring 15-20 dishes served on traditional brass plates lined with pattal (leaf plates). Includes Madhara, Mah Ki Dal, Kaddu Ka Khatta, and more. All cooked in brass over woodfire.",
+        "origin_story": "This elaborate ceremonial feast is prepared by special chefs called 'botis' using ancient techniques. Begins with a sweet dish and progresses through numerous preparations, all with distinctive smoky flavor from wood-fire cooking.",
+        "where_to_find": "Himachali Rasoi on Mall Road Middle Bazaar for authentic Pahadi thali; traditionally served at festivals and special occasions throughout Shimla"
+      },
+      {
+        "name": "Chha Gosht",
+        "description": "Robust mutton curry slow-cooked with yogurt and a secret blend of mountain herbs. Rich, aromatic, and particularly popular during winter.",
+        "origin_story": "A highlander specialty from the narrow lanes of Lower Bazaar, this dish has become synonymous with Shimla's food culture, warming residents through harsh Himalayan winters.",
+        "where_to_find": "Vendors in Lower Bazaar; traditional highland restaurants throughout Shimla, especially in winter months"
+      },
+      {
+        "name": "Siddu",
+        "description": "Steamed wheat bread with poppy seed filling, requiring precise fermentation timing. Served with generous ghee and spicy green chutney.",
+        "origin_story": "Represents the ingenuity of Himachali cuisine - a skillfully fermented bread that showcases the region's wheat and the delicate balance required in mountain cooking.",
+        "where_to_find": "Himachali Rasoi for classic preparations; local highland restaurants specializing in authentic Pahadi cuisine"
+      },
+      {
+        "name": "Momos (Tibetan Influence)",
+        "description": "Dumplings with various fillings from classic vegetables to innovative potato-cheese combinations, including special Himachali momos with local spices.",
+        "origin_story": "Shimla is an important Tibetan colony, and momos have become integral to street food culture, adapted with Himachali spicing.",
+        "where_to_find": "Best spots along Mall Road, particularly near Scandal Point area; street vendors throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai with Herbs",
+        "description": "Traditional masala tea with aromatic herbs and spices - cardamom, cinnamon, ginger - brewed with black tea, milk, and sugar.",
+        "how_locals_drink_it": "Served at Honey Hut cafe where it's made with honey; Indian Coffee House (since 1957) for classic masala chai; essential morning and afternoon beverage throughout the hill station"
+      },
+      {
+        "name": "Apple Cider and Fruit Wines",
+        "description": "Locally produced apple cider and fruit wines from Himachal Pradesh, India's fruit bowl. Made from apples, plums, apricots, and peaches.",
+        "how_locals_drink_it": "HPMC (Himachal Pradesh Horticultural Produce Marketing Corporation) produces high-quality apple cider from Shimla district apples. Look for locally made fruit wines - surprisingly good quality from the fertile mountain region"
+      }
+    ],
+    "food_culture_notes": [
+      "Cuisine is homely yet rich and intense, using lentils, rice, pulses, wheat bread, and predominantly red meat",
+      "British colonial influence blends with Punjabi, Tibetan, and indigenous Himachali practices",
+      "Being an important Tibetan colony, regional food is highly inspired by Tibetan culture",
+      "Special chefs called 'botis' prepare traditional Dham feasts",
+      "All Dham dishes cooked in brass utensils over woodfire for smoky flavor",
+      "Shimla sits in India's fruit bowl with excellent apple production"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Colonial architecture and churches",
+      "Mall Road with shops and restaurants",
+      "Himalayan foothill vistas",
+      "Sacred temples",
+      "Scandal Point area",
+      "Lower Bazaar narrow lanes"
+    ],
+    "atmosphere": [
+      "Queen of Hill Stations elegance",
+      "British Raj colonial charm",
+      "Mountain mist and cool climate",
+      "Bustling bazaars with street food",
+      "Buddhist and Hindu temple culture",
+      "Terraced hillside architecture"
+    ],
+    "colors": [
+      "Deep saffron and turmeric yellows",
+      "Rich brown mountain herbs",
+      "Green valley landscapes",
+      "Red brick colonial buildings",
+      "Colorful prayer flags (Tibetan influence)"
+    ],
+    "unique_modern": [
+      "Blend of four culinary cultures in one city",
+      "Government fruit processing innovation (HPMC)",
+      "Hill station cafe culture with Himalayan views",
+      "Tibetan colony preserving authentic traditions"
+    ]
+  },
+  "wikipedia_search_term": "Shimla",
+  "keywords_for_image": [
+    "Shimla India hill station",
+    "Himachali Dham feast brass plates",
+    "Shimla Mall Road colonial architecture",
+    "Himachal Pradesh mountain food",
+    "Shimla Tibetan momos",
+    "Indian Himalayan cuisine"
+  ],
+  "coordinates": {
+    "lat": 31.1048,
+    "lng": 77.1734
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Shimla+🇮🇳/@31.1048,77.1734,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shimla"
+  },
+  "location_id": 84
+}

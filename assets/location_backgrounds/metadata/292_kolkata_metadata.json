@@ -1,0 +1,94 @@
+{
+  "name": "Kolkata",
+  "country": "India",
+  "fun_fact": "Fun fact: Kolkata is the birthplace of the kathi roll - invented in the 1930s when a street vendor wrapped kabobs in paratha bread for British office workers who couldn't eat with their hands. This accidental invention became one of India's most beloved street foods.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Puchka",
+        "description": "Crispy hollow spheres filled with spicy tamarind water, mashed potatoes, and chickpeas - Kolkata's version is distinctly different from Mumbai's pani puri and Delhi's gol gappa",
+        "origin_story": "If there's one street food that defines Kolkata, it's puchka. The city's version uses a tangier tamarind water and softer filling, reflecting Bengali tastes for bold, complex flavors with a balance of sweet, sour, and spicy",
+        "where_to_find": "Dacres Lane (James Hicky Sarani), Park Street puchka stalls, Vardaan Market area"
+      },
+      {
+        "name": "Kathi Roll",
+        "description": "Spiced chicken or egg kabobs wrapped in flaky paratha bread - Kolkata's original fast food",
+        "origin_story": "Created at Nizam's Restaurant in the 1930s for British sahibs who needed to eat kabobs without getting their hands dirty. The name 'kathi' comes from the skewers (kathi) used to grill the meat",
+        "where_to_find": "Nizam's Restaurant (New Market - the original since 1932), Hot Kathi Roll (Park Street)"
+      },
+      {
+        "name": "Luchi and Alur Dom",
+        "description": "Deep-fried puffed bread paired with spicy potato curry - the breakfast of champions for Kolkata's working class",
+        "origin_story": "This is the most consumed street food in Kolkata, preferred by daily workers for its combination of good taste, filling portions, and speed. It represents the democratic soul of the city's food culture",
+        "where_to_find": "Mohan Bhandhar (visited by Amitabh Bachchan), Decker's Lane in BBD Bagh, countless street stalls in North Kolkata"
+      },
+      {
+        "name": "Jhalmuri",
+        "description": "Spicy puffed rice mixed with peanuts, sev, chopped vegetables, and mustard oil - served in a paper cone",
+        "origin_story": "This quintessential Bengali snack is the city's answer to fast food - vendors expertly toss ingredients together on street corners, creating a fresh, crunchy, spicy miracle in seconds",
+        "where_to_find": "Street vendors throughout the city, especially near Victoria Memorial and College Street"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cha (Tea)",
+        "description": "Strong, sweet milk tea brewed in clay cups (kulhad) or served in glasses",
+        "how_locals_drink_it": "Kolkatans are serious about their cha - it's consumed multiple times daily at street stalls where locals stand, sip, and engage in 'adda' (intellectual conversation). The tea at Indian Coffee House on College Street has fueled decades of artistic and political discourse"
+      },
+      {
+        "name": "Fresh Sugarcane Juice",
+        "description": "Sweet, refreshing juice pressed from sugarcane stalks, often mixed with ginger and lime",
+        "how_locals_drink_it": "Found at juice shops opposite New Empire cinema near Vardaan Market - locals drink it immediately after it's pressed for maximum freshness and cooling effect in Kolkata's intense heat"
+      }
+    ],
+    "food_culture_notes": [
+      "North Kolkata has comparatively more street food stalls than South Kolkata, with legendary vendors operating since the 1990s",
+      "Surya Sen Street, Sealdah, Bidhan Sarani, and Shyambazar are famous street food destinations",
+      "Bengali cuisine emphasizes mustard oil, which gives many dishes their distinctive pungent flavor",
+      "Adda (lengthy, informal conversation) is central to Kolkata's food culture - eating is a social, leisurely experience"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Victoria Memorial",
+      "Howrah Bridge",
+      "Indian Coffee House College Street",
+      "New Market colonial architecture"
+    ],
+    "atmosphere": [
+      "bustling street vendors with smoke rising",
+      "yellow Ambassador taxis",
+      "hand-painted movie posters",
+      "crowds gathering around puchka stalls"
+    ],
+    "colors": [
+      "vibrant turmeric yellow",
+      "deep mustard oil amber",
+      "bright chili red",
+      "terracotta clay cups"
+    ],
+    "unique_modern": [
+      "street food culture mixing with tech startups in College Street",
+      "traditional kulhad chai served in co-working spaces",
+      "heritage tram system still running through food districts",
+      "rooftop restaurants overlooking Howrah Bridge"
+    ]
+  },
+  "wikipedia_search_term": "Kolkata",
+  "keywords_for_image": [
+    "Kolkata street food",
+    "puchka vendor",
+    "Howrah Bridge",
+    "Indian Coffee House",
+    "Bengali cuisine"
+  ],
+  "coordinates": {
+    "lat": 22.5726,
+    "lng": 88.3639
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kolkata+🇮🇳/@22.5726,88.3639,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kolkata"
+  },
+  "location_id": 292
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Nice",
+  "country": "France",
+  "fun_fact": "Fun fact: Nice has its own protected culinary heritage! The 'Cuisine Nissarde' quality mark recognizes only 30 restaurants (as of 2023) that use authentic, traditional Nice recipes - a badge of honor from the Nice Tourist Office!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Socca",
+        "description": "A thin, crispy galette made from chickpea flour, water, olive oil, and salt, cooked over a wood fire. Served hot with a bit of pepper, socca is eaten with the fingers.",
+        "origin_story": "This Niçoise specialty embodies the warm spirit of the Mediterranean. The wood-fired cooking gives it a unique crispy texture and smoky taste that defines the street food culture of Nice.",
+        "where_to_find": "La Socca d'Or - Fréderic Parola makes what is surely the best socca on the Côte d'Azur. Chez Pipo has been serving authentic socca for almost 100 years around a central oven. Chez Thérésa is a stand at Cours Saleya market since the 1920s, a true institution."
+      },
+      {
+        "name": "Pan Bagnat",
+        "description": "The perfect beach sandwich - round bread 'bathed' in olive oil (pan bagnat means 'wet bread'), filled with tuna, tomatoes, hard-boiled eggs, spring onions, green peppers, artichoke, olives, and anchovies.",
+        "origin_story": "This iconic sandwich is the portable version of salade niçoise, created for workers and beachgoers who needed a satisfying meal on the go. The olive oil-soaked bread stays fresh and flavorful.",
+        "where_to_find": "La Socca d'Or makes pan bagnat with homemade bread. Lou Balico (20 Avenue Saint-Jean-Baptiste) is a famous address beloved by Niçois. Kiosque Chez Tintin (3 Place du Général de Gaulle) has offered traditional pans bagnats for over thirty years under Daniel Pellegrino."
+      },
+      {
+        "name": "Salade Niçoise",
+        "description": "A colorful composition of tomatoes, tuna, hard-boiled eggs, red onions, Niçoise olives, and peppers on a bed of greens, dressed with olive oil, vinegar, salt, pepper, and fresh herbs like basil.",
+        "origin_story": "This world-famous salad originated in Nice and represents the essence of Provençal cuisine - fresh vegetables, quality olive oil, and the bounty of the Mediterranean.",
+        "where_to_find": "Chez Acchiardo (38 rue Droite in Old Town) serves salade niçoise among the best in the city with very affordable prices and generous portions. La Socca d'Or also offers an authentic version."
+      },
+      {
+        "name": "Pissaladière",
+        "description": "A flatbread topped with caramelized onions, anchovies, and Niçoise olives - Nice's answer to pizza, but distinctly different.",
+        "origin_story": "This traditional Niçoise tart reflects the region's historical connections to both French and Italian cuisine, with sweet onions, salty anchovies, and local olives.",
+        "where_to_find": "Chez Pipo serves pissaladière alongside their famous socca. La Socca d'Or also features it on their menu of traditional specialties."
+      },
+      {
+        "name": "Raviolis Niçois",
+        "description": "Traditional Nice-style ravioli with unique local fillings and preparation.",
+        "origin_story": "Nice's ravioli reflects the city's position on the French-Italian border, with its own distinct style.",
+        "where_to_find": "Chez Acchiardo serves some of the best raviolis niçois in the city."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Local Provençal Wines",
+        "description": "Wines from the surrounding Provence region, including rosés and whites that pair perfectly with Mediterranean cuisine.",
+        "how_locals_drink_it": "Enjoyed chilled with seafood and salads at outdoor cafés, especially during long Mediterranean lunches."
+      }
+    ],
+    "food_culture_notes": [
+      "Vieux Nice (Old Nice) is the heart of traditional Niçoise cuisine, with narrow streets lined with authentic restaurants",
+      "Cours Saleya market is the epicenter of local food culture, with stands like Chez Thérésa serving socca since the 1920s",
+      "The 'Cuisine Nissarde' quality mark ensures authentic recipes and quality - only 30 restaurants earned this honor in 2023",
+      "Chez Pipo features wooden tables arranged around a central oven where socca is made, creating a communal dining experience",
+      "Chez Acchiardo (38 rue Droite) is known for best value for money in the city with succulent traditional dishes",
+      "Farcis (stuffed Provençal vegetables) are another unmissable specialty alongside socca and pissaladière",
+      "Many dishes are eaten with fingers (socca) or designed as street food (pan bagnat), reflecting Nice's casual Mediterranean food culture",
+      "The olive oil used in Nice cuisine is crucial - it should be high-quality Provençal olive oil that's practically soaked into the bread of pan bagnat"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cours Saleya flower and food market",
+      "Vieux Nice (Old Town) with narrow ochre-colored streets",
+      "Promenade des Anglais along the Mediterranean",
+      "Colorful building facades in shades of yellow, orange, and terracotta",
+      "Beach pebbles and azure Mediterranean waters",
+      "Castle Hill (Colline du Château) overlooking the city"
+    ],
+    "atmosphere": [
+      "Bustling outdoor markets with colorful produce",
+      "Café tables spilling onto narrow Old Town streets",
+      "Wood-fired ovens cooking socca in traditional restaurants",
+      "Mediterranean sunshine and sea breeze",
+      "Casual, fingers-friendly street food culture",
+      "Provençal joie de vivre with outdoor dining year-round"
+    ],
+    "colors": [
+      "Golden-brown crispy socca fresh from the oven",
+      "Vibrant colors of salade niçoise (red tomatoes, green peppers, purple olives)",
+      "Ochre and terracotta building facades of Vieux Nice",
+      "Azure blue Mediterranean Sea",
+      "Deep green of local olive oil",
+      "Bright yellows and oranges of Cours Saleya market"
+    ],
+    "unique_modern": [
+      "The 'Cuisine Nissarde' certification system protecting authentic recipes",
+      "Century-old establishments (Chez Pipo, Chez Thérésa) still thriving alongside modern restaurants",
+      "Nice's unique position between French and Italian culinary traditions",
+      "Street food culture that's been formalized into protected heritage",
+      "The contrast between elegant Promenade des Anglais and rustic Old Town trattorias"
+    ]
+  },
+  "wikipedia_search_term": "Nice",
+  "keywords_for_image": [
+    "Nice France socca",
+    "Vieux Nice Old Town",
+    "Cours Saleya market Nice",
+    "pan bagnat Nice",
+    "salade niçoise",
+    "Promenade des Anglais",
+    "Niçoise cuisine",
+    "Nice Mediterranean food",
+    "French Riviera cuisine",
+    "Côte d'Azur food"
+  ],
+  "coordinates": {
+    "lat": 43.7102,
+    "lng": 7.262
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nice+🇫🇷/@43.7102,7.262,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nice"
+  },
+  "location_id": 119
+}

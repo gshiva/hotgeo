@@ -1,0 +1,94 @@
+{
+  "name": "Maputo",
+  "country": "Mozambique",
+  "fun_fact": "Fun fact: Maputo is the only capital city in the world that features a building designed by Gustave Eiffel (the 'Iron House'), and its Museum of Natural History houses a rare collection of elephant embryos showing every stage of fetal development - the only comprehensive display of its kind.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Peri-Peri Prawns (LM Prawns)",
+        "description": "Giant prawns grilled to perfection, slathered in spicy peri-peri sauce made from African bird's eye chilies, garlic, lemon, and oil",
+        "origin_story": "Named 'LM Prawns' after Maputo's colonial name Lourenço Marques, these prawns are caught fresh from the Mozambique Channel - one of the richest marine ecosystems in the world. Portuguese settlers combined local prawns with African peri-peri chilies to create this legendary dish. Many claim these are the best prawns in the world.",
+        "where_to_find": "Costa do Sol Restaurant (beachfront icon since 1930s serving LM Prawns), Zambi Restaurant (overlooking the bay, legendary grilled prawns), Mar na Brasa (seafood specialists), or the Fish Market where you buy fresh catch by weight and have nearby restaurants cook it"
+      },
+      {
+        "name": "Matapa",
+        "description": "Cassava leaves stewed with ground peanuts, coconut milk, garlic, and often prawns or crab - served with rice or xima (stiff maize porridge)",
+        "origin_story": "This traditional dish shows Mozambique's blend of African and coastal influences. The cassava leaves are pounded and cooked for hours until tender, creating a rich, nutty stew. It's labor-intensive comfort food that grandmothers make for Sunday family gatherings.",
+        "where_to_find": "Piri Piri Restaurant (Av. 24 de Julho 14, famous crab matapa), Txhapo Txhapo (masters of Mozambican comfort food), or Mamma Mia in Parque dos Continuadores"
+      },
+      {
+        "name": "Piri-Piri Chicken",
+        "description": "Whole chicken marinated in peri-peri sauce, grilled over charcoal until the skin is crispy and charred, meat juicy inside",
+        "origin_story": "Piri-piri (also peri-peri) sauce originated right here in Mozambique from African bird's eye chilies. During the civil war, Piri Piri Restaurant kept grilling chickens through the conflict, becoming a symbol of resilience. The sauce is deceptively simple - chilies, garlic, lemon, oil - but balancing the heat is an art.",
+        "where_to_find": "Piri Piri Restaurant (the landmark that served through the civil war, Av. 24 de Julho 14), Txhapo Txhapo (grilled chicken with authentic piri-piri)"
+      },
+      {
+        "name": "Chamussas",
+        "description": "Triangular deep-fried pastries filled with spiced meat, prawns, or vegetables - Mozambique's take on samosas from Indian influence",
+        "origin_story": "Mozambique's Indian Ocean trade routes brought Indian traders who settled and intermarried, creating a unique Afro-Indian fusion cuisine. Chamussas became street food staples, sold at markets and bus stations. The Mozambican version tends to be spicier and often includes local prawns.",
+        "where_to_find": "Street vendors at the Fish Market, Parque dos Continuadores craft market area, or Txhapo Txhapo"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Type R Rum",
+        "description": "Mozambique's legendary rum, smooth and potent, made from locally grown sugarcane",
+        "how_locals_drink_it": "Type R (pronounced 'Tipo Erre') is mixed with Coca-Cola or Sprite for 'R&C' or sipped neat by old-timers remembering the colonial days. It's cheaper than imported spirits and flows freely at beach bars along the Indian Ocean. Locals say you haven't experienced Maputo nightlife until you've had too much Type R."
+      },
+      {
+        "name": "2M or Laurentina Beer",
+        "description": "Mozambique's local lagers - light, crisp beers perfect for tropical heat",
+        "how_locals_drink_it": "Always served ice-cold in large bottles (550ml or 1L) to share. Locals drink these beers at beach bars, with prawns at seafood restaurants, or at sidewalk cafes watching the city go by. The rivalry between 2M and Laurentina fans is fierce - choosing sides is a serious social statement."
+      }
+    ],
+    "food_culture_notes": [
+      "The Fish Market is Maputo's culinary heart - buy fresh catch by weight, then have nearby restaurants cook it in your preferred sauce",
+      "Mozambican cuisine blends African, Portuguese, Arab, and Indian influences from centuries of Indian Ocean trade",
+      "Peri-peri sauce originated in Mozambique and spread globally (Nando's popularized it internationally)",
+      "Eating prawns with your hands is expected - bibs are provided and finger bowls brought tableside"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Iron House (Casa de Ferro) designed by Gustave Eiffel",
+      "Maputo Railway Station with ornate copper dome, called 'one of the world's most beautiful stations'",
+      "Fortaleza da Nossa Senhora da Conceição fortress from 1787",
+      "Costa do Sol beachfront - iconic restaurant district since 1930s"
+    ],
+    "atmosphere": [
+      "Portuguese colonial architecture mixed with Art Deco and modern high-rises",
+      "Indian Ocean breezes and palm-lined boulevards",
+      "Marrabenta music (local fusion genre) playing from bars and markets",
+      "Young population (44% under 15 years old) creating vibrant, energetic city"
+    ],
+    "colors": [
+      "turquoise Indian Ocean waters",
+      "terracotta and pastel colonial buildings",
+      "vibrant market textiles",
+      "golden sunset over Maputo Bay"
+    ],
+    "unique_modern": [
+      "Only country with a firearm (AK-47) on its national flag",
+      "Only one-word country name containing all five vowels",
+      "Chapel of Nossa Senhora de Baluarte (1522) - oldest European building in southern hemisphere on Mozambique Island",
+      "Museum of Natural History with unique elephant embryo collection and millions-year-old petrified wood"
+    ]
+  },
+  "wikipedia_search_term": "Maputo",
+  "keywords_for_image": [
+    "peri peri prawns mozambique",
+    "maputo railway station dome",
+    "costa do sol beach restaurant",
+    "iron house eiffel maputo",
+    "matapa cassava stew"
+  ],
+  "coordinates": {
+    "lat": -25.9655,
+    "lng": 32.5832
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Maputo+🇲🇿/@-25.9655,32.5832,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maputo"
+  },
+  "location_id": 320
+}

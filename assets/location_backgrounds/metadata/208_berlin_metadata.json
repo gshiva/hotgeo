@@ -1,0 +1,95 @@
+{
+  "name": "Berlin",
+  "country": "Germany",
+  "fun_fact": "Fun fact: The Currywurst was invented in Berlin in 1949 by Herta Heuwer, who mixed ketchup with curry powder she got from British soldiers - now 800 MILLION currywursts are eaten in Germany annually, and Berlin even has a Currywurst Museum!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Currywurst",
+        "description": "Sliced pork sausage covered in curry ketchup sauce, served with fries or bread roll",
+        "origin_story": "Invented 1949 by Herta Heuwer in Charlottenburg. She kept the sauce recipe secret until her death. A bronze plaque marks her original stand",
+        "where_to_find": "Curry 36, Konnopke's Imbiss (since 1930), Witty's, street stands citywide"
+      },
+      {
+        "name": "Döner Kebab",
+        "description": "Meat carved from vertical rotisserie in flatbread with salad and sauce",
+        "origin_story": "Though Turkish, the Berlin döner format was invented here in the 1970s by Turkish immigrants. Berlin has 1,600+ döner shops",
+        "where_to_find": "Mustafa's Gemüse Kebap (famous queue), Imren Grill, Rüyam Gemüse Kebab"
+      },
+      {
+        "name": "Berliner Pfannkuchen",
+        "description": "Jelly-filled doughnut, confusingly called 'Berliner' everywhere except Berlin (where it's just 'Pfannkuchen')",
+        "origin_story": "A Berlin tradition since the 17th century, especially popular at New Year's Eve and Karneval",
+        "where_to_find": "Bakeries throughout Berlin, especially at New Year"
+      },
+      {
+        "name": "Eisbein",
+        "description": "Pickled and boiled pork knuckle, a traditional Berlin dish",
+        "origin_story": "Old Berlin comfort food, served with sauerkraut and pea purée. Named for the bone's resemblance to an ice skate blade",
+        "where_to_find": "Max und Moritz, traditional German restaurants in Mitte"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Berliner Weiße",
+        "description": "Sour wheat beer served with woodruff (green) or raspberry (red) syrup",
+        "how_locals_drink_it": "In summer from bowl-shaped glasses - the syrup cuts the sourness"
+      },
+      {
+        "name": "Club Mate",
+        "description": "Caffeinated yerba mate soda, the fuel of Berlin's startup and club scene",
+        "how_locals_drink_it": "All night at clubs, all day at startup offices"
+      }
+    ],
+    "food_culture_notes": [
+      "World's most multicultural German city - incredible international food",
+      "Markthalle Neun Thursday Street Food is legendary",
+      "Late-night döner after clubbing is Berlin ritual",
+      "Former East Berlin has unique food heritage"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Brandenburg Gate",
+      "Berlin Wall East Side Gallery",
+      "Reichstag",
+      "TV Tower (Fernsehturm)"
+    ],
+    "atmosphere": [
+      "alternative culture",
+      "street art everywhere",
+      "nightlife capital",
+      "history at every corner"
+    ],
+    "colors": [
+      "graffiti rainbow",
+      "Wall grey",
+      "Prussian yellow",
+      "techno black"
+    ],
+    "unique_modern": [
+      "24/7 nightlife",
+      "startup hub",
+      "reunification symbol",
+      "Berghain club"
+    ]
+  },
+  "wikipedia_search_term": "Berlin",
+  "keywords_for_image": [
+    "currywurst stand",
+    "döner kebab",
+    "Brandenburg Gate",
+    "Berlin Wall",
+    "street food",
+    "TV Tower"
+  ],
+  "coordinates": {
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Berlin+🇩🇪/@52.52,13.405,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Berlin"
+  },
+  "location_id": 208
+}

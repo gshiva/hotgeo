@@ -1,0 +1,102 @@
+{
+  "name": "Lecce",
+  "country": "Italy",
+  "region": "Puglia (Salento)",
+  "fun_fact": "Fun fact: Lecce is called the 'Florence of the South' for its stunning baroque architecture, but locals insist it's unique - the 'Barocco Leccese' style features intricate, lace-like carvings made possible by the soft local limestone (pietra leccese). The Basilica di Santa Croce has more ornate carvings than all the churches of Florence combined!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pasticciotto",
+        "description": "Puglia's iconic breakfast pastry - crumbly shortcrust filled with silky custard cream and often a sour cherry",
+        "origin_story": "Invented in 1745 by pastry chef Andrea Ascalone in Galatina, a small town near Lecce. This humble pastry has become the symbol of Salento's sweet tradition, enjoyed warm from the oven every morning by locals.",
+        "where_to_find": "Bar Martinucci, Caffè Alvino (timeless classic), Pasticceria L'Incontro, Pasticceria Natale. Always fresh from the oven, best eaten warm."
+      },
+      {
+        "name": "Rustico Leccese",
+        "description": "Savory puff pastry packed with creamy béchamel, tangy tomato, and melting mozzarella - best when warm and melty",
+        "origin_story": "The local favorite street food, perfected in Lecce's bars and bakeries. It represents Puglia's mastery of simple ingredients transformed into addictive comfort food.",
+        "where_to_find": "Caffè Alvino (some of the best in town), L'angolino di via Matteotti (highly recommended), Bar Martinucci. Available at nearly every bar and pastry shop."
+      },
+      {
+        "name": "Puccia Leccese",
+        "description": "Soft bread roll filled with various savory ingredients - a traditional street food of Salento",
+        "origin_story": "Part of Lecce's vibrant street food culture, puccia reflects the region's 'cucina povera' (food of the poor) - rural families using fresh produce and simple ingredients.",
+        "where_to_find": "Pasticceria Natale, street vendors throughout Lecce's historic center"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Caffè Leccese (Caffè in Ghiaccio con Latte di Mandorla)",
+        "description": "Traditional iced espresso with almond syrup - beautifully layered, bitter coffee kick morphing into sweet almond smoothness",
+        "how_locals_drink_it": "Invented right in Lecce, now a symbol of the city. Locals sip this throughout the day from outdoor terraces overlooking baroque piazzas. Made with espresso coffee, ice, and almond milk - the three ingredients have become inseparable from Lecce's identity."
+      },
+      {
+        "name": "Aperitivo at Sunset",
+        "description": "Pre-dinner ritual of cocktails and snacks enjoyed as the sun sets over baroque architecture",
+        "how_locals_drink_it": "As a vibrant university city, Lecce's aperitivo culture is lively and social. Locals gather at outdoor cafes in Piazza Sant'Oronzo and along Via Matteotti, sipping refined cocktails while admiring the honey-colored stone buildings glowing in evening light."
+      }
+    ],
+    "food_culture_notes": [
+      "Lecce is made for lingering over coffee or aperitivo - embodying la dolce vita",
+      "As a university city, Lecce has a vibrant, youthful energy while preserving ancient traditions",
+      "The tradition of 'cucina povera' (food of the poor) is celebrated at restaurants like Corte dei Pandolfi and La Cucina di Mamma Elvira",
+      "Baroque architecture creates a stunning backdrop for outdoor dining and people-watching",
+      "Honey-colored pietra leccese buildings glow against the blue sky, creating an almost magical atmosphere",
+      "The city transforms at sunset into a social hub - perfect for experiencing aperitivo culture"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Basilica di Santa Croce with incredibly ornate facade",
+      "Piazza del Duomo with baroque cathedral (dating from 1670)",
+      "Roman amphitheater in Piazza Sant'Oronzo",
+      "16th century city walls",
+      "Statue of St. Oronzo",
+      "Balconies carved with gargoyles and gremlins on gilded buildings"
+    ],
+    "atmosphere": [
+      "Honey-colored limestone buildings glowing at sunset",
+      "Lace-like baroque architectural details",
+      "Outdoor cafe terraces in historic squares",
+      "University students mingling with tourists",
+      "Warm Mediterranean light",
+      "Leisurely pace of southern Italy"
+    ],
+    "colors": [
+      "Honey-gold pietra leccese (local limestone)",
+      "Warm amber and cream building facades",
+      "Brilliant blue sky",
+      "Green shutters and window boxes",
+      "Golden sunset glow on baroque facades"
+    ],
+    "unique_modern": [
+      "Vibrant university city energy",
+      "Stylish bars mixing traditional and modern design",
+      "Rooftop restaurants above historic markets",
+      "Contemporary art galleries in baroque buildings",
+      "Instagram-worthy baroque architecture at every corner",
+      "Fusion of old-world elegance and youthful nightlife"
+    ]
+  },
+  "wikipedia_search_term": "Lecce",
+  "keywords_for_image": [
+    "Lecce Italy",
+    "Barocco Leccese",
+    "pasticciotto Lecce",
+    "Basilica Santa Croce",
+    "Puglia baroque architecture",
+    "caffè leccese",
+    "pietra leccese",
+    "Salento Italy",
+    "Florence of the South"
+  ],
+  "coordinates": {
+    "lat": 40.3515,
+    "lng": 18.175
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lecce+🇮🇹/@40.3515,18.175,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lecce"
+  },
+  "location_id": 127
+}

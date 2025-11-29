@@ -1,0 +1,94 @@
+{
+  "name": "Kampala",
+  "country": "Uganda",
+  "fun_fact": "Fun fact: Kampala is built on seven hills (like Rome), and its name comes from 'Kasozi Kampala' meaning 'hill of antelopes' - British colonial officers used to hunt impalas on these hills in the 1890s.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Rolex",
+        "description": "A rolled chapati stuffed with fluffy fried egg omelet and fresh crunchy vegetables - Uganda's ultimate street food",
+        "origin_story": "The name is a playful twist on 'rolled eggs.' Born at Makerere University in Kampala, it spread from a single chapati-maker in eastern Busoga. Now sold everywhere from street corners to bus windows - it's the convenient, affordable meal that defines Ugandan street food culture.",
+        "where_to_find": "The Rolex Guy (famous street vendor), rolex stands throughout Kampala streets, Makerere University area, any market or bus station"
+      },
+      {
+        "name": "Matoke",
+        "description": "Savory steamed or mashed green plantains, often served with rich groundnut sauce, beans, or beef stew",
+        "origin_story": "Matoke (cooking bananas) is Uganda's staple food and national dish. The Buganda people have cultivated these specific plantains for centuries. Unlike sweet bananas, matoke must be cooked and takes on the flavors of whatever sauce accompanies it.",
+        "where_to_find": "2K Restaurant (Bukesa/Hoima Road - generous portions of luwombo, pilau, and matoke), Ndere Centre (Ntinda - served with cultural performances), The Roots Restaurant (heart of Kampala), St. Anthony Restaurant"
+      },
+      {
+        "name": "Luwombo",
+        "description": "Chicken, beef, or groundnuts steamed in banana leaves, creating an incredibly rich and aromatic dish",
+        "origin_story": "This royal Buganda dish was traditionally prepared for the Kabaka (king). Wrapping food in banana leaves and steaming creates a unique flavor that can't be replicated by other cooking methods. Each leaf-wrapped parcel is a personal serving.",
+        "where_to_find": "2K Restaurant (specially good traditional preparation), Ndere Centre (served during cultural shows), The Roots Restaurant, Kati Kati Restaurant (Lugogo Bypass - garden setting)"
+      },
+      {
+        "name": "Freshwater Tilapia",
+        "description": "Grilled whole fish from Lake Victoria, served with vegetables and posho or matoke",
+        "origin_story": "Lake Victoria provides fresh tilapia daily to Kampala's markets. Grilling whole fish over charcoal is the traditional preparation, creating crispy skin and tender meat. It represents Uganda's connection to Africa's largest lake.",
+        "where_to_find": "The Roots Restaurant (perfectly grilled tilapia), 2K Restaurant, local markets and lakeside restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ugandan Coffee",
+        "description": "Rich, full-bodied Arabica and Robusta coffee from the slopes of Mount Elgon",
+        "how_locals_drink_it": "Uganda is one of Africa's top coffee exporters. Locals drink it strong and often with milk. Coffee ceremonies in traditional settings involve roasting, grinding, and brewing fresh beans."
+      },
+      {
+        "name": "Bell Lager",
+        "description": "Uganda's most popular lager, light and refreshing in the equatorial heat",
+        "how_locals_drink_it": "Served cold at outdoor bars and restaurants, often with nyama choma (grilled meat) or as accompaniment to spicy dishes. Sharing drinks is a social ritual in Kampala."
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture is huge in Kampala - the rolex is so popular that vendors serve them through bus windows to travelers",
+      "Most meals cost 500-800 Ugandan Shillings ($7-11 USD) for two people, making dining incredibly affordable",
+      "Groundnut (peanut) sauce is ubiquitous - it's protein-rich and traditionally served with matoke, posho, or sweet potatoes",
+      "Banana leaves aren't just wrapping - they're an essential ingredient that imparts subtle flavor to steamed dishes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kasubi Tombs",
+      "Uganda National Mosque",
+      "Ndere Cultural Centre",
+      "Nakasero Market"
+    ],
+    "atmosphere": [
+      "bustling markets",
+      "boda-boda motorcycles",
+      "seven hills",
+      "Lake Victoria breezes"
+    ],
+    "colors": [
+      "vibrant textiles",
+      "tropical green",
+      "red earth",
+      "banana leaf green"
+    ],
+    "unique_modern": [
+      "Growing tech hub scene",
+      "Craft beer revolution",
+      "Contemporary art galleries",
+      "Rooftop bars overlooking the hills"
+    ]
+  },
+  "wikipedia_search_term": "Kampala",
+  "keywords_for_image": [
+    "Kampala Uganda",
+    "rolex street food",
+    "matoke plantains",
+    "Lake Victoria",
+    "bustling African market"
+  ],
+  "coordinates": {
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kampala+🇺🇬/@0.3476,32.5825,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kampala"
+  },
+  "location_id": 245
+}

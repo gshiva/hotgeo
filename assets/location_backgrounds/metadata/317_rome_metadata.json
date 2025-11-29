@@ -1,0 +1,94 @@
+{
+  "name": "Rome",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Archaeologists estimate that around 70% of ancient Rome still remains buried beneath the modern city - entire temples, homes, and streets lie hidden under your feet as you walk through the Italian capital.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cacio e Pepe",
+        "description": "Tonnarelli pasta tossed with pecorino Romano cheese and black pepper - deceptively simple with only three ingredients but notoriously difficult to perfect",
+        "origin_story": "Born in the pastures outside Rome, shepherds created this dish with ingredients that wouldn't spoil: dried pasta, aged cheese, and pepper. The name literally means 'cheese and pepper,' but achieving the creamy sauce without clumping requires serious skill.",
+        "where_to_find": "Felice in Testaccio (Via Mastro Giorgio 29, mixed tableside), Roscioli near Campo de' Fiori, or Roma Sparita (Piazza di Santa Cecilia 24) served in a crispy cheese bowl as featured on Anthony Bourdain's show"
+      },
+      {
+        "name": "Carbonara",
+        "description": "Rigatoni or spaghetti with guanciale (cured pork cheek), egg yolks, pecorino Romano, and black pepper - no cream, ever",
+        "origin_story": "Despite its name suggesting charcoal workers, carbonara's true origins are debated. Some say it was invented in 1944 when American GIs shared their bacon and eggs rations with Roman cooks. The authentic version uses guanciale, not bacon, and absolutely no cream.",
+        "where_to_find": "Da Enzo al 29 (Via dei Vascellari 29), Flavio al Velavevodetto (Via di Monte Testaccio 97), Bistro Baccano (Chef Nabil's specialty), or Hostaria Romana"
+      },
+      {
+        "name": "Amatriciana",
+        "description": "Bucatini pasta with tomato sauce, guanciale, pecorino Romano, and white wine - a perfect balance of sweet tomato and salty pork",
+        "origin_story": "Originally from the town of Amatrice in the mountains northeast of Rome, this dish arrived in the capital with shepherds who migrated seasonally. After the devastating 2016 earthquake in Amatrice, Roman restaurants rallied to donate proceeds from amatriciana sales to rebuild the town.",
+        "where_to_find": "Grappolo d'Oro (Piazza della Cancelleria), Osteria del Sostegno, or Romanè behind the Vatican (Michelin guide listed)"
+      },
+      {
+        "name": "Coda alla Vaccinara",
+        "description": "Braised oxtail stew with tomato, celery, and cocoa - rich, tender meat that falls off the bone",
+        "origin_story": "This dish comes from the 'vaccinari' (cattle butchers) of the Testaccio neighborhood, who cooked the 'quinto quarto' (fifth quarter - offal and leftover cuts) into extraordinary meals. It's cucina povera (peasant cooking) elevated to art.",
+        "where_to_find": "Checchino dal 1887 in Testaccio (open since 1887), Perilli a Testaccio (since 1911), or Cesare al Casaletto"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Espresso",
+        "description": "Short, strong coffee shot served in a demitasse cup - the foundation of Roman cafe culture",
+        "how_locals_drink_it": "Romans drink espresso standing at the bar, never sitting (sitting costs extra). Order 'un caffè' (never 'espresso'), gulp it in 2-3 sips, exchange news with the barista, and leave. Cappuccino is strictly a morning drink before 11am - ordering it after lunch marks you as a tourist."
+      },
+      {
+        "name": "Amaro",
+        "description": "Bitter herbal digestif served chilled or at room temperature, often with a twist of lemon",
+        "how_locals_drink_it": "After a heavy meal of cacio e pepe and carbonara, Romans order an amaro to aid digestion. Each bar has its preferred brand - Averna, Montenegro, or local Roman varieties. It's sipped slowly while debating football or politics."
+      }
+    ],
+    "food_culture_notes": [
+      "All four classic Roman pastas (carbonara, cacio e pepe, amatriciana, gricia) share the same foundation: guanciale and pecorino Romano cheese",
+      "Testaccio neighborhood is the epicenter of authentic Roman cuisine, historically home to the city's slaughterhouse and butchers",
+      "Authentic restaurants have small menus (Italian + English only), no photos, prices €8-14 for pasta, and no staff outside recruiting customers",
+      "Romans take their pasta seriously - each shape pairs with specific sauces (tonnarelli for cacio e pepe, rigatoni for carbonara, bucatini for amatriciana)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Colosseum - ancient amphitheater where gladiators performed (though most survived, contrary to movies)",
+      "Vatican City - world's only independent country located entirely within another city",
+      "Trajan's Market - world's first shopping mall built 107-110 AD",
+      "Over 2,000 fountains including 'nasone' (big nose) drinking fountains throughout the city"
+    ],
+    "atmosphere": [
+      "Cats roam freely with legal protection as part of cultural heritage",
+      "Over 900 churches making it the city with most churches worldwide",
+      "70% of ancient Rome buried beneath modern streets",
+      "Holy Year 2025 celebration bringing millions of pilgrims (Dec 2024 - Jan 2026)"
+    ],
+    "colors": [
+      "terracotta and ochre of ancient ruins",
+      "travertine marble white",
+      "burnt sienna Roman brick",
+      "papal gold and red"
+    ],
+    "unique_modern": [
+      "13 Egyptian obelisks decorate the city - more than in all of Egypt",
+      "First city in history to reach 1 million population",
+      "Rome's calendar legacy: July named for Julius Caesar, August for Augustus",
+      "Free drinking water from thousands of nasone fountains throughout the city"
+    ]
+  },
+  "wikipedia_search_term": "Rome",
+  "keywords_for_image": [
+    "cacio e pepe pasta rome",
+    "colosseum ancient rome",
+    "testaccio neighborhood market",
+    "roman fountain nasone",
+    "carbonara guanciale pecorino"
+  ],
+  "coordinates": {
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rome+🇮🇹/@41.9028,12.4964,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rome"
+  },
+  "location_id": 317
+}

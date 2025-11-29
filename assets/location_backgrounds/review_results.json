@@ -1,0 +1,634 @@
+{
+  "approved": [
+    {
+      "location_id": 1,
+      "name": "Dar es Salaam",
+      "country": "\ud83c\uddf9\ud83c\uddff",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/001_dar_es_salaam.png",
+      "expected_foods": [
+        "local Dar es Salaam cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Dar es Salaam landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Dar es Salaam \ud83c\uddf9\ud83c\uddff,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Dar es Salaam landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 100,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:43:05.652973",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:44:36.707197"
+      }
+    },
+    {
+      "location_id": 2,
+      "name": "Phnom Penh",
+      "country": "\ud83c\uddf0\ud83c\udded",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/002_phnom_penh.png",
+      "expected_foods": [
+        "local Phnom Penh cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Phnom Penh landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Phnom Penh \ud83c\uddf0\ud83c\udded,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Phnom Penh landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 311,
+      "attempt": 2,
+      "added_at": "2025-11-27T17:45:04.140285",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:45:35.362775"
+      }
+    },
+    {
+      "location_id": 3,
+      "name": "Malacca",
+      "country": "\ud83c\uddf2\ud83c\uddfe",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/003_malacca.png",
+      "expected_foods": [
+        "local Malacca cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Malacca landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Malacca \ud83c\uddf2\ud83c\uddfe,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Malacca landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 411,
+      "attempt": 2,
+      "added_at": "2025-11-27T17:45:58.870690",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:46:15.452684"
+      }
+    },
+    {
+      "location_id": 5,
+      "name": "Rotterdam",
+      "country": "\ud83c\uddf3\ud83c\uddf1",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/005_rotterdam.png",
+      "expected_foods": [
+        "local Rotterdam cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Rotterdam landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Rotterdam \ud83c\uddf3\ud83c\uddf1,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Rotterdam landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 500,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:50:42.816381",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.797510"
+      }
+    },
+    {
+      "location_id": 6,
+      "name": "Washington DC",
+      "country": "\ud83c\uddfa\ud83c\uddf8",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/006_washington_dc.png",
+      "expected_foods": [
+        "local Washington DC cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Washington DC landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Washington DC \ud83c\uddfa\ud83c\uddf8,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Washington DC landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 600,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:51:15.153855",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.811651"
+      }
+    },
+    {
+      "location_id": 7,
+      "name": "Nicosia",
+      "country": "\ud83c\udde8\ud83c\uddfe",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/007_nicosia.png",
+      "expected_foods": [
+        "local Nicosia cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Nicosia landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Nicosia \ud83c\udde8\ud83c\uddfe,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Nicosia landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 700,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:51:44.446547",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.825525"
+      }
+    },
+    {
+      "location_id": 8,
+      "name": "Los Angeles",
+      "country": "\ud83c\uddfa\ud83c\uddf8",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/008_los_angeles.png",
+      "expected_foods": [
+        "local Los Angeles cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Los Angeles landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Los Angeles \ud83c\uddfa\ud83c\uddf8,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Los Angeles landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 800,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:52:16.740388",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.838375"
+      }
+    },
+    {
+      "location_id": 10,
+      "name": "College Park",
+      "country": "\ud83c\uddfa\ud83c\uddf8",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/010_college_park.png",
+      "expected_foods": [
+        "local College Park cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "College Park landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of College Park \ud83c\uddfa\ud83c\uddf8,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic College Park landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1000,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:53:15.528710",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.851012"
+      }
+    },
+    {
+      "location_id": 11,
+      "name": "New York",
+      "country": "\ud83c\uddfa\ud83c\uddf8",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/011_new_york.png",
+      "expected_foods": [
+        "local New York cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "New York landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of New York \ud83c\uddfa\ud83c\uddf8,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic New York landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1100,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:53:43.122707",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.862778"
+      }
+    },
+    {
+      "location_id": 12,
+      "name": "Rishikesh",
+      "country": "\ud83c\uddee\ud83c\uddf3",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/012_rishikesh.png",
+      "expected_foods": [
+        "local Rishikesh cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Rishikesh landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Rishikesh \ud83c\uddee\ud83c\uddf3,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Rishikesh landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1200,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:54:16.845454",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.874701"
+      }
+    },
+    {
+      "location_id": 13,
+      "name": "Burgas",
+      "country": "\ud83c\udde7\ud83c\uddec",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/013_burgas.png",
+      "expected_foods": [
+        "local Burgas cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Burgas landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Burgas \ud83c\udde7\ud83c\uddec,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Burgas landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1300,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:55:39.911963",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.887261"
+      }
+    },
+    {
+      "location_id": 14,
+      "name": "Naples",
+      "country": "\ud83c\uddee\ud83c\uddf9",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/014_naples.png",
+      "expected_foods": [
+        "local Naples cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Naples landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Naples \ud83c\uddee\ud83c\uddf9,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Naples landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1400,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:56:10.667383",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.898223"
+      }
+    },
+    {
+      "location_id": 15,
+      "name": "Toronto",
+      "country": "\ud83c\udde8\ud83c\udde6",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/015_toronto.png",
+      "expected_foods": [
+        "local Toronto cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Toronto landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Toronto \ud83c\udde8\ud83c\udde6,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Toronto landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 1500,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:56:40.198001",
+      "review": {
+        "status": "approved",
+        "scores": {
+          "food_prominence": 80,
+          "local_authenticity": 80,
+          "emotional_warmth": 80,
+          "landmark_recognition": 80,
+          "artistic_style": 80
+        },
+        "feedback": "Approved by Claude",
+        "what_works": [
+          "Reviewed and approved by Claude"
+        ],
+        "reviewed_at": "2025-11-27T17:57:29.908235"
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "location_id": 2,
+      "name": "Phnom Penh",
+      "country": "\ud83c\uddf0\ud83c\udded",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/002_phnom_penh.png",
+      "expected_foods": [
+        "local Phnom Penh cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Phnom Penh landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Phnom Penh \ud83c\uddf0\ud83c\udded,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Phnom Penh landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 200,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:43:36.801615",
+      "review": {
+        "status": "rejected",
+        "scores": {
+          "food_prominence": 50,
+          "local_authenticity": 50,
+          "emotional_warmth": 50,
+          "landmark_recognition": 50,
+          "artistic_style": 50
+        },
+        "feedback": "Faces visible, generic Asian food not Cambodian (needs fish amok, lok lak), landmarks not distinctly Cambodian",
+        "problems": [
+          "Faces visible, generic Asian food not Cambodian (needs fish amok, lok lak), landmarks not distinctly Cambodian"
+        ],
+        "suggestions": [
+          "Regenerate with different seed"
+        ],
+        "reviewed_at": "2025-11-27T17:44:43.898438"
+      }
+    },
+    {
+      "location_id": 3,
+      "name": "Malacca",
+      "country": "\ud83c\uddf2\ud83c\uddfe",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/003_malacca.png",
+      "expected_foods": [
+        "local Malacca cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Malacca landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Malacca \ud83c\uddf2\ud83c\uddfe,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Malacca landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 300,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:44:08.407426",
+      "review": {
+        "status": "rejected",
+        "scores": {
+          "food_prominence": 50,
+          "local_authenticity": 50,
+          "emotional_warmth": 50,
+          "landmark_recognition": 50,
+          "artistic_style": 50
+        },
+        "feedback": "Faces visible, missing Malacca icons (red Dutch buildings, Christ Church, Jonker Street), food should be chicken rice balls, cendol, satay celup",
+        "problems": [
+          "Faces visible, missing Malacca icons (red Dutch buildings, Christ Church, Jonker Street), food should be chicken rice balls, cendol, satay celup"
+        ],
+        "suggestions": [
+          "Regenerate with different seed"
+        ],
+        "reviewed_at": "2025-11-27T17:44:49.505931"
+      }
+    },
+    {
+      "location_id": 3,
+      "name": "Malacca",
+      "country": "\ud83c\uddf2\ud83c\uddfe",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/003_malacca.png",
+      "expected_foods": [
+        "local Malacca cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Malacca landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Malacca \ud83c\uddf2\ud83c\uddfe,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Malacca landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 300,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:45:13.775522",
+      "review": {
+        "status": "rejected",
+        "scores": {
+          "food_prominence": 50,
+          "local_authenticity": 50,
+          "emotional_warmth": 50,
+          "landmark_recognition": 50,
+          "artistic_style": 50
+        },
+        "feedback": "Same image as before - faces visible, need different seed, missing Malacca red colonial architecture",
+        "problems": [
+          "Same image as before - faces visible, need different seed, missing Malacca red colonial architecture"
+        ],
+        "suggestions": [
+          "Regenerate with different seed"
+        ],
+        "reviewed_at": "2025-11-27T17:45:41.853811"
+      }
+    },
+    {
+      "location_id": 4,
+      "name": "Toledo",
+      "country": "\ud83c\uddea\ud83c\uddf8",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/004_toledo.png",
+      "expected_foods": [
+        "local Toledo cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Toledo landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Toledo \ud83c\uddea\ud83c\uddf8,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Toledo landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 400,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:50:15.315607",
+      "review": {
+        "status": "rejected",
+        "scores": {
+          "food_prominence": 50,
+          "local_authenticity": 50,
+          "emotional_warmth": 50,
+          "landmark_recognition": 50,
+          "artistic_style": 50
+        },
+        "feedback": "Face visible on left side",
+        "problems": [
+          "Face visible on left side"
+        ],
+        "suggestions": [
+          "Regenerate with different seed"
+        ],
+        "reviewed_at": "2025-11-27T17:57:37.751700"
+      }
+    },
+    {
+      "location_id": 9,
+      "name": "Wellington",
+      "country": "\ud83c\uddf3\ud83c\uddff",
+      "image_path": "/Users/10381054/code/personal/hotgeo/assets/location_backgrounds/009_wellington.png",
+      "expected_foods": [
+        "local Wellington cuisine"
+      ],
+      "expected_drinks": [
+        "local beverages"
+      ],
+      "expected_landmarks": [
+        "Wellington landmarks"
+      ],
+      "prompt_used": "A Studio Ghibli inspired travel illustration of Wellington \ud83c\uddf3\ud83c\uddff,\nFOREGROUND with authentic local street food and traditional dishes beautifully arranged steaming and appetizing on a table or market stall,\nlocal drinks and beverages in traditional glasses or cups,\nMIDGROUND with silhouettes of local people enjoying food at a market or street cafe seen from behind,\nBACKGROUND with iconic Wellington landmarks and architecture and city skyline,\nlocal atmosphere with market stalls and street vendors and traditional decorations,\nNO hands NO feet NO fingers NO faces NO close-up body parts,\nsoft watercolor textures with visible brushstrokes,\ndreamy golden hour to evening lighting,\nwarm nostalgic atmosphere that evokes memories for locals and tourists,\nMiyazaki Ghibli environmental detail,\n16x9 cinematic composition",
+      "seed_used": 900,
+      "attempt": 1,
+      "added_at": "2025-11-27T17:52:42.918672",
+      "review": {
+        "status": "rejected",
+        "scores": {
+          "food_prominence": 50,
+          "local_authenticity": 50,
+          "emotional_warmth": 50,
+          "landmark_recognition": 50,
+          "artistic_style": 50
+        },
+        "feedback": "Face visible on left side",
+        "problems": [
+          "Face visible on left side"
+        ],
+        "suggestions": [
+          "Regenerate with different seed"
+        ],
+        "reviewed_at": "2025-11-27T17:57:38.308581"
+      }
+    }
+  ],
+  "last_reviewed": "2025-11-27T17:57:38.308586"
+}

@@ -4,12 +4,25 @@ import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
+import 'firebase_options.dart';
 import 'dart:math';
 import 'dart:convert';
 import 'dart:html' as html show window, Navigator;
+// ignore: deprecated_member_use
 import 'dart:js_util' as js_util;
 
-void main() => runApp(const HotGeoApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+  runApp(const HotGeoApp());
+}
 
 class HotGeoApp extends StatelessWidget {
   const HotGeoApp({super.key});
@@ -120,6 +133,147 @@ class GameResult {
   }
 }
 
+// Model for location metadata (fun facts, food, visual elements)
+class LocationMetadata {
+  final String name;
+  final String country;
+  final String funFact;
+  final FoodAndDrink? foodAndDrink;
+  final VisualElements? visualElements;
+  final int locationId;
+
+  LocationMetadata({
+    required this.name,
+    required this.country,
+    required this.funFact,
+    this.foodAndDrink,
+    this.visualElements,
+    required this.locationId,
+  });
+
+  factory LocationMetadata.fromJson(Map<String, dynamic> json) {
+    return LocationMetadata(
+      name: json['name'] as String? ?? '',
+      country: json['country'] as String? ?? '',
+      funFact: json['fun_fact'] as String? ?? '',
+      foodAndDrink: json['food_and_drink'] != null
+          ? FoodAndDrink.fromJson(json['food_and_drink'])
+          : null,
+      visualElements: json['visual_elements'] != null
+          ? VisualElements.fromJson(json['visual_elements'])
+          : null,
+      locationId: json['location_id'] as int? ?? 0,
+    );
+  }
+}
+
+class FoodAndDrink {
+  final List<HeroDish> heroDishes;
+  final List<SignatureDrink> signatureDrinks;
+  final List<String> foodCultureNotes;
+
+  FoodAndDrink({
+    required this.heroDishes,
+    required this.signatureDrinks,
+    required this.foodCultureNotes,
+  });
+
+  factory FoodAndDrink.fromJson(Map<String, dynamic> json) {
+    return FoodAndDrink(
+      heroDishes: (json['hero_dishes'] as List<dynamic>?)
+              ?.map((d) => HeroDish.fromJson(d))
+              .toList() ??
+          [],
+      signatureDrinks: (json['signature_drinks'] as List<dynamic>?)
+              ?.map((d) => SignatureDrink.fromJson(d))
+              .toList() ??
+          [],
+      foodCultureNotes: (json['food_culture_notes'] as List<dynamic>?)
+              ?.map((n) => n.toString())
+              .toList() ??
+          [],
+    );
+  }
+}
+
+class HeroDish {
+  final String name;
+  final String description;
+  final String? originStory;
+  final String? whereToFind;
+
+  HeroDish({
+    required this.name,
+    required this.description,
+    this.originStory,
+    this.whereToFind,
+  });
+
+  factory HeroDish.fromJson(Map<String, dynamic> json) {
+    return HeroDish(
+      name: json['name'] as String? ?? '',
+      description: json['description'] as String? ?? '',
+      originStory: json['origin_story'] as String?,
+      whereToFind: json['where_to_find'] as String?,
+    );
+  }
+}
+
+class SignatureDrink {
+  final String name;
+  final String description;
+  final String? howLocalsDrinkIt;
+
+  SignatureDrink({
+    required this.name,
+    required this.description,
+    this.howLocalsDrinkIt,
+  });
+
+  factory SignatureDrink.fromJson(Map<String, dynamic> json) {
+    return SignatureDrink(
+      name: json['name'] as String? ?? '',
+      description: json['description'] as String? ?? '',
+      howLocalsDrinkIt: json['how_locals_drink_it'] as String?,
+    );
+  }
+}
+
+class VisualElements {
+  final List<String> landmarks;
+  final List<String> atmosphere;
+  final List<String> colors;
+  final List<String> uniqueModern;
+
+  VisualElements({
+    required this.landmarks,
+    required this.atmosphere,
+    required this.colors,
+    required this.uniqueModern,
+  });
+
+  factory VisualElements.fromJson(Map<String, dynamic> json) {
+    return VisualElements(
+      landmarks: (json['landmarks'] as List<dynamic>?)
+              ?.map((l) => l.toString())
+              .toList() ??
+          [],
+      atmosphere: (json['atmosphere'] as List<dynamic>?)
+              ?.map((a) => a.toString())
+              .toList() ??
+          [],
+      colors: (json['colors'] as List<dynamic>?)
+              ?.map((c) => c.toString())
+              .toList() ??
+          [],
+      uniqueModern: (json['unique_modern'] as List<dynamic>?)
+              ?.map((u) => u.toString())
+              .toList() ??
+          [],
+    );
+  }
+}
+
 class _GameScreenState extends State<GameScreen> {
   List<LocationChallenge>? _allChallenges; // Loaded from JSON
   LocationChallenge? _challenge; // Current challenge
@@ -141,6 +295,11 @@ class _GameScreenState extends State<GameScreen> {
 
   // Location progression tracking
   int _currentLocationId = 1; // Current location in progression (1-365)
+
+  // Location metadata for discovery card
+  LocationMetadata? _locationMetadata;
+  bool _showDiscoveryCard = false;
+  int _discoveryCardPage = 0; // 0 = fun fact, 1 = food, 2 = drinks
 
   @override
   void initState() {
@@ -337,6 +496,72 @@ class _GameScreenState extends State<GameScreen> {
     return _getCurrentChallenge();
   }
 
+  // Load metadata for the current location (for discovery card)
+  Future<void> _loadLocationMetadata() async {
+    if (_challenge == null) return;
+
+    try {
+      // Build the metadata file path based on location ID and name
+      final locationId = _challenge!.id.toString().padLeft(3, '0');
+      final locationName = _challenge!.name.toLowerCase()
+          .replaceAll(' ', '_')
+          .replaceAll("'", '')
+          .replaceAll(',', '')
+          .replaceAll('.', '');
+
+      // Try multiple filename patterns
+      final patterns = [
+        'assets/location_backgrounds/metadata/${locationId}_${locationName}_metadata.json',
+        'assets/location_backgrounds/metadata/${locationId}_${_challenge!.name.toLowerCase().replaceAll(' ', '_')}_metadata.json',
+      ];
+
+      String? jsonString;
+      for (final pattern in patterns) {
+        try {
+          jsonString = await rootBundle.loadString(pattern);
+          break;
+        } catch (_) {
+          // Try next pattern
+        }
+      }
+
+      if (jsonString != null) {
+        final Map<String, dynamic> jsonData = json.decode(jsonString);
+        setState(() {
+          _locationMetadata = LocationMetadata.fromJson(jsonData);
+        });
+      } else {
+        if (kDebugMode) {
+          print('No metadata found for location: ${_challenge!.name}');
+        }
+        setState(() {
+          _locationMetadata = null;
+        });
+      }
+    } catch (e) {
+      if (kDebugMode) {
+        print('Error loading location metadata: $e');
+      }
+      setState(() {
+        _locationMetadata = null;
+      });
+    }
+  }
+
+  // Get background image path for current location
+  String? _getBackgroundImagePath() {
+    if (_challenge == null) return null;
+
+    final locationId = _challenge!.id.toString().padLeft(3, '0');
+    final locationName = _challenge!.name.toLowerCase()
+        .replaceAll(' ', '_')
+        .replaceAll("'", '')
+        .replaceAll(',', '')
+        .replaceAll('.', '');
+
+    return 'assets/location_backgrounds/${locationId}_$locationName.png';
+  }
+
   Future<void> _loadSessionStats() async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -480,6 +705,10 @@ class _GameScreenState extends State<GameScreen> {
 
         // Draggable bottom sheet for feedback
         _buildBottomSheet(),
+
+        // Discovery card overlay (shown when player wins)
+        if (_showDiscoveryCard)
+          _buildDiscoveryCard(),
       ],
     );
   }
@@ -502,6 +731,10 @@ class _GameScreenState extends State<GameScreen> {
 
         // Draggable bottom sheet for feedback (wider on desktop)
         _buildBottomSheet(),
+
+        // Discovery card overlay (shown when player wins)
+        if (_showDiscoveryCard)
+          _buildDiscoveryCard(),
       ],
     );
   }
@@ -1115,6 +1348,29 @@ class _GameScreenState extends State<GameScreen> {
 
         if (gameEnded) const SizedBox(height: 12),
 
+        // Discover button (only show when player WON)
+        if (gameEnded && _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm)
+          ElevatedButton.icon(
+            onPressed: _showLocationDiscoveryCard,
+            icon: const Icon(Icons.explore),
+            label: const Text('Discover'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFF9800),
+              foregroundColor: Colors.white,
+              padding: EdgeInsets.symmetric(
+                horizontal: isMobile ? 20 : 24,
+                vertical: isMobile ? 12 : 16,
+              ),
+              textStyle: TextStyle(
+                fontSize: isMobile ? 16 : 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+
+        if (gameEnded && _lastDistance != null && _lastDistance! < _challenge!.winThresholdKm)
+          const SizedBox(height: 12),
+
         // Share button (only show when game ended)
         if (gameEnded)
           ElevatedButton.icon(
@@ -1385,19 +1641,31 @@ class _GameScreenState extends State<GameScreen> {
     if (_attemptsLeft <= 0) return;
     if (_lastDistance != null && _lastDistance! < _challenge!.winThresholdKm) return;
 
+    final distance = _calculateDistance(point, _challenge!.coordinates);
+    final isWin = distance < _challenge!.winThresholdKm;
+
     setState(() {
       _guesses.add(point);
       _attemptsLeft--;
-      _lastDistance = _calculateDistance(point, _challenge!.coordinates);
+      _lastDistance = distance;
       _feedback = _generateFeedback(_lastDistance!);
 
-      if (_lastDistance! < _challenge!.winThresholdKm) { // WIN!
+      if (isWin) { // WIN!
         _feedback = "🎉 YOU FOUND IT!\nDistance: ${_lastDistance!.toStringAsFixed(0)}km";
       } else if (_attemptsLeft == 0) {
         _feedback = "💀 Game Over!\nThe location is now revealed on the map.";
       }
     });
     _saveState(); // Save progress after each guess
+
+    // Show discovery card on win (after a short delay for dramatic effect)
+    if (isWin) {
+      Future.delayed(const Duration(milliseconds: 800), () {
+        if (mounted) {
+          _showLocationDiscoveryCard();
+        }
+      });
+    }
   }
 
   double _calculateDistance(LatLng p1, LatLng p2) {
@@ -1896,6 +2164,852 @@ class _GameScreenState extends State<GameScreen> {
     return const Color(0xFFF44336); // Red for hard
   }
 
+  // Show the discovery card when player wins
+  void _showLocationDiscoveryCard() {
+    _loadLocationMetadata();
+    setState(() {
+      _showDiscoveryCard = true;
+      _discoveryCardPage = 0;
+    });
+  }
+
+  // Build the discovery card overlay
+  Widget _buildDiscoveryCard() {
+    final isMobile = MediaQuery.of(context).size.width < 600;
+    final screenHeight = MediaQuery.of(context).size.height;
+    final screenWidth = MediaQuery.of(context).size.width;
+
+    return GestureDetector(
+      onTap: () {
+        setState(() {
+          _showDiscoveryCard = false;
+        });
+      },
+      child: Container(
+        color: Colors.black.withOpacity(0.7),
+        child: Center(
+          child: GestureDetector(
+            onTap: () {}, // Prevent tap-through
+            child: Container(
+              width: isMobile ? screenWidth * 0.95 : min(500.0, screenWidth * 0.8),
+              height: isMobile ? screenHeight * 0.85 : screenHeight * 0.8,
+              margin: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(20),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.3),
+                    blurRadius: 20,
+                    offset: const Offset(0, 10),
+                  ),
+                ],
+              ),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(20),
+                child: Stack(
+                  children: [
+                    // Background image
+                    _buildBackgroundImage(),
+
+                    // Gradient overlay for readability (lighter to let image show through)
+                    Container(
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          begin: Alignment.topCenter,
+                          end: Alignment.bottomCenter,
+                          colors: [
+                            Colors.black.withOpacity(0.2),
+                            Colors.black.withOpacity(0.0),
+                            Colors.black.withOpacity(0.3),
+                            Colors.black.withOpacity(0.6),
+                          ],
+                          stops: const [0.0, 0.3, 0.6, 1.0],
+                        ),
+                      ),
+                    ),
+
+                    // Content
+                    Column(
+                      children: [
+                        // Close button and header
+                        _buildCardHeader(isMobile),
+
+                        // Main scrollable content
+                        Expanded(
+                          child: _buildCardContent(isMobile),
+                        ),
+
+                        // Page indicator dots
+                        _buildPageIndicator(isMobile),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildBackgroundImage() {
+    final imagePath = _getBackgroundImagePath();
+
+    return Positioned.fill(
+      child: imagePath != null
+          ? Image.asset(
+              imagePath,
+              fit: BoxFit.cover,
+              errorBuilder: (context, error, stackTrace) {
+                return Container(
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        const Color(0xFF1D428A),
+                        const Color(0xFF3D5A9B),
+                        const Color(0xFF5C7FB8),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            )
+          : Container(
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                  colors: [
+                    const Color(0xFF1D428A),
+                    const Color(0xFF3D5A9B),
+                    const Color(0xFF5C7FB8),
+                  ],
+                ),
+              ),
+            ),
+    );
+  }
+
+  Widget _buildCardHeader(bool isMobile) {
+    return Container(
+      padding: EdgeInsets.all(isMobile ? 16 : 20),
+      child: Row(
+        children: [
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'YOU FOUND IT!',
+                  style: TextStyle(
+                    fontSize: isMobile ? 14 : 16,
+                    fontWeight: FontWeight.w600,
+                    color: Colors.white.withOpacity(0.9),
+                    letterSpacing: 2,
+                  ),
+                ),
+                const SizedBox(height: 4),
+                Text(
+                  _challenge?.name ?? '',
+                  style: TextStyle(
+                    fontSize: isMobile ? 28 : 36,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 10,
+                      ),
+                    ],
+                  ),
+                ),
+                if (_locationMetadata != null)
+                  Text(
+                    _locationMetadata!.country,
+                    style: TextStyle(
+                      fontSize: isMobile ? 16 : 20,
+                      color: Colors.white.withOpacity(0.9),
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+              ],
+            ),
+          ),
+          // Close button
+          IconButton(
+            onPressed: () {
+              setState(() {
+                _showDiscoveryCard = false;
+              });
+            },
+            icon: Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.2),
+                shape: BoxShape.circle,
+              ),
+              child: const Icon(
+                Icons.close,
+                color: Colors.white,
+                size: 24,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildCardContent(bool isMobile) {
+    return PageView(
+      onPageChanged: (index) {
+        setState(() {
+          _discoveryCardPage = index;
+        });
+      },
+      children: [
+        // Page 1: Fun Fact
+        _buildFunFactPage(isMobile),
+
+        // Page 2: Places to See (Landmarks & Atmosphere)
+        if (_locationMetadata?.visualElements != null &&
+            (_locationMetadata!.visualElements!.landmarks.isNotEmpty ||
+             _locationMetadata!.visualElements!.uniqueModern.isNotEmpty))
+          _buildPlacesPage(isMobile),
+
+        // Page 3: Food & Dishes
+        if (_locationMetadata?.foodAndDrink != null &&
+            _locationMetadata!.foodAndDrink!.heroDishes.isNotEmpty)
+          _buildFoodPage(isMobile),
+
+        // Page 4: Drinks & Culture
+        if (_locationMetadata?.foodAndDrink != null &&
+            (_locationMetadata!.foodAndDrink!.signatureDrinks.isNotEmpty ||
+             _locationMetadata!.foodAndDrink!.foodCultureNotes.isNotEmpty))
+          _buildDrinksPage(isMobile),
+      ],
+    );
+  }
+
+  Widget _buildFunFactPage(bool isMobile) {
+    final funFact = _locationMetadata?.funFact ?? 'No fun fact available for this location yet.';
+
+    return SingleChildScrollView(
+      padding: EdgeInsets.all(isMobile ? 20 : 24),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Fun fact card
+          Container(
+            padding: EdgeInsets.all(isMobile ? 20 : 24),
+            decoration: BoxDecoration(
+              color: Colors.white.withOpacity(0.75),
+              borderRadius: BorderRadius.circular(16),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.15),
+                  blurRadius: 10,
+                  offset: const Offset(0, 4),
+                ),
+              ],
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF1D428A).withOpacity(0.1),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: const Icon(
+                        Icons.lightbulb,
+                        color: Color(0xFFFFB300),
+                        size: 24,
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Text(
+                      'Did You Know?',
+                      style: TextStyle(
+                        fontSize: isMobile ? 18 : 22,
+                        fontWeight: FontWeight.bold,
+                        color: const Color(0xFF1D428A),
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  funFact,
+                  style: TextStyle(
+                    fontSize: isMobile ? 16 : 18,
+                    height: 1.6,
+                    color: Colors.grey[800],
+                  ),
+                ),
+              ],
+            ),
+          ),
+
+          const SizedBox(height: 20),
+
+          // Game stats
+          _buildGameStats(isMobile),
+
+          const SizedBox(height: 16),
+
+          // Swipe hint
+          Center(
+            child: Text(
+              'Swipe for more',
+              style: TextStyle(
+                fontSize: isMobile ? 12 : 14,
+                color: Colors.white.withOpacity(0.7),
+                fontStyle: FontStyle.italic,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildPlacesPage(bool isMobile) {
+    final landmarks = _locationMetadata?.visualElements?.landmarks ?? [];
+    final atmosphere = _locationMetadata?.visualElements?.atmosphere ?? [];
+    final uniqueModern = _locationMetadata?.visualElements?.uniqueModern ?? [];
+
+    return SingleChildScrollView(
+      padding: EdgeInsets.all(isMobile ? 20 : 24),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Landmarks section
+          if (landmarks.isNotEmpty) ...[
+            Row(
+              children: [
+                const Icon(
+                  Icons.location_city,
+                  color: Colors.white,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                Text(
+                  'Must-See Places',
+                  style: TextStyle(
+                    fontSize: isMobile ? 22 : 26,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 8,
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            ...landmarks.map((landmark) => _buildPlaceItem(landmark, Icons.place, isMobile)).toList(),
+          ],
+
+          // Unique/Modern attractions
+          if (uniqueModern.isNotEmpty) ...[
+            const SizedBox(height: 24),
+            Row(
+              children: [
+                const Icon(
+                  Icons.auto_awesome,
+                  color: Colors.white,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                Text(
+                  'Don\'t Miss',
+                  style: TextStyle(
+                    fontSize: isMobile ? 22 : 26,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 8,
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            ...uniqueModern.map((item) => _buildPlaceItem(item, Icons.star, isMobile)).toList(),
+          ],
+
+          // Atmosphere section
+          if (atmosphere.isNotEmpty) ...[
+            const SizedBox(height: 24),
+            Row(
+              children: [
+                const Icon(
+                  Icons.mood,
+                  color: Colors.white,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                Text(
+                  'The Vibe',
+                  style: TextStyle(
+                    fontSize: isMobile ? 22 : 26,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 8,
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: EdgeInsets.all(isMobile ? 16 : 20),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.75),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: atmosphere.map((vibe) => Padding(
+                  padding: const EdgeInsets.only(bottom: 10),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Icon(
+                        Icons.lens,
+                        size: 8,
+                        color: const Color(0xFF1D428A),
+                      ),
+                      const SizedBox(width: 10),
+                      Expanded(
+                        child: Text(
+                          vibe,
+                          style: TextStyle(
+                            fontSize: isMobile ? 14 : 16,
+                            color: Colors.grey[700],
+                            height: 1.4,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                )).toList(),
+              ),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildPlaceItem(String text, IconData icon, bool isMobile) {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 12),
+      padding: EdgeInsets.all(isMobile ? 14 : 18),
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(0.75),
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Icon(
+            icon,
+            size: isMobile ? 20 : 24,
+            color: const Color(0xFF1D428A),
+          ),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Text(
+              text,
+              style: TextStyle(
+                fontSize: isMobile ? 14 : 16,
+                color: Colors.grey[800],
+                height: 1.4,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildGameStats(bool isMobile) {
+    final attempts = 6 - _attemptsLeft;
+    final distance = _lastDistance?.toStringAsFixed(0) ?? '?';
+
+    return Container(
+      padding: EdgeInsets.all(isMobile ? 16 : 20),
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(0.15),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(
+          color: Colors.white.withOpacity(0.3),
+          width: 1,
+        ),
+      ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceAround,
+        children: [
+          _buildStatItem('Attempts', '$attempts/6', Icons.touch_app, isMobile),
+          Container(
+            width: 1,
+            height: 40,
+            color: Colors.white.withOpacity(0.3),
+          ),
+          _buildStatItem('Distance', '${distance}km', Icons.place, isMobile),
+          if (_winStreak > 1) ...[
+            Container(
+              width: 1,
+              height: 40,
+              color: Colors.white.withOpacity(0.3),
+            ),
+            _buildStatItem('Streak', '$_winStreak', Icons.local_fire_department, isMobile),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildStatItem(String label, String value, IconData icon, bool isMobile) {
+    return Column(
+      children: [
+        Icon(
+          icon,
+          color: Colors.white.withOpacity(0.9),
+          size: isMobile ? 20 : 24,
+        ),
+        const SizedBox(height: 4),
+        Text(
+          value,
+          style: TextStyle(
+            fontSize: isMobile ? 16 : 18,
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+          ),
+        ),
+        Text(
+          label,
+          style: TextStyle(
+            fontSize: isMobile ? 11 : 13,
+            color: Colors.white.withOpacity(0.7),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildFoodPage(bool isMobile) {
+    final dishes = _locationMetadata?.foodAndDrink?.heroDishes ?? [];
+
+    return SingleChildScrollView(
+      padding: EdgeInsets.all(isMobile ? 20 : 24),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Section header
+          Row(
+            children: [
+              const Icon(
+                Icons.restaurant,
+                color: Colors.white,
+                size: 28,
+              ),
+              const SizedBox(width: 12),
+              Text(
+                'Local Cuisine',
+                style: TextStyle(
+                  fontSize: isMobile ? 22 : 26,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                  shadows: [
+                    Shadow(
+                      color: Colors.black.withOpacity(0.5),
+                      blurRadius: 8,
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 20),
+
+          // Dish cards
+          ...dishes.map((dish) => _buildDishCard(dish, isMobile)).toList(),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildDishCard(HeroDish dish, bool isMobile) {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 16),
+      padding: EdgeInsets.all(isMobile ? 16 : 20),
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(0.75),
+        borderRadius: BorderRadius.circular(12),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 8,
+            offset: const Offset(0, 3),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            dish.name,
+            style: TextStyle(
+              fontSize: isMobile ? 18 : 20,
+              fontWeight: FontWeight.bold,
+              color: const Color(0xFF1D428A),
+            ),
+          ),
+          const SizedBox(height: 8),
+          Text(
+            dish.description,
+            style: TextStyle(
+              fontSize: isMobile ? 14 : 16,
+              color: Colors.grey[700],
+              height: 1.4,
+            ),
+          ),
+          if (dish.whereToFind != null) ...[
+            const SizedBox(height: 12),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Icon(
+                  Icons.place_outlined,
+                  size: isMobile ? 16 : 18,
+                  color: Colors.grey[600],
+                ),
+                const SizedBox(width: 6),
+                Expanded(
+                  child: Text(
+                    dish.whereToFind!,
+                    style: TextStyle(
+                      fontSize: isMobile ? 12 : 14,
+                      color: Colors.grey[600],
+                      fontStyle: FontStyle.italic,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildDrinksPage(bool isMobile) {
+    final drinks = _locationMetadata?.foodAndDrink?.signatureDrinks ?? [];
+    final cultureNotes = _locationMetadata?.foodAndDrink?.foodCultureNotes ?? [];
+
+    return SingleChildScrollView(
+      padding: EdgeInsets.all(isMobile ? 20 : 24),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Drinks section
+          if (drinks.isNotEmpty) ...[
+            Row(
+              children: [
+                const Icon(
+                  Icons.local_bar,
+                  color: Colors.white,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                Text(
+                  'Signature Drinks',
+                  style: TextStyle(
+                    fontSize: isMobile ? 22 : 26,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 8,
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            ...drinks.map((drink) => _buildDrinkCard(drink, isMobile)).toList(),
+          ],
+
+          // Culture notes section
+          if (cultureNotes.isNotEmpty) ...[
+            const SizedBox(height: 24),
+            Row(
+              children: [
+                const Icon(
+                  Icons.auto_stories,
+                  color: Colors.white,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                Text(
+                  'Food Culture',
+                  style: TextStyle(
+                    fontSize: isMobile ? 22 : 26,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        color: Colors.black.withOpacity(0.5),
+                        blurRadius: 8,
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: EdgeInsets.all(isMobile ? 16 : 20),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.75),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: cultureNotes.map((note) => Padding(
+                  padding: const EdgeInsets.only(bottom: 12),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        '•',
+                        style: TextStyle(
+                          fontSize: isMobile ? 16 : 18,
+                          color: const Color(0xFF1D428A),
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: Text(
+                          note,
+                          style: TextStyle(
+                            fontSize: isMobile ? 14 : 16,
+                            color: Colors.grey[700],
+                            height: 1.4,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                )).toList(),
+              ),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildDrinkCard(SignatureDrink drink, bool isMobile) {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 12),
+      padding: EdgeInsets.all(isMobile ? 14 : 18),
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(0.75),
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            drink.name,
+            style: TextStyle(
+              fontSize: isMobile ? 16 : 18,
+              fontWeight: FontWeight.bold,
+              color: const Color(0xFF1D428A),
+            ),
+          ),
+          const SizedBox(height: 6),
+          Text(
+            drink.description,
+            style: TextStyle(
+              fontSize: isMobile ? 13 : 15,
+              color: Colors.grey[700],
+            ),
+          ),
+          if (drink.howLocalsDrinkIt != null) ...[
+            const SizedBox(height: 8),
+            Text(
+              drink.howLocalsDrinkIt!,
+              style: TextStyle(
+                fontSize: isMobile ? 12 : 14,
+                color: Colors.grey[600],
+                fontStyle: FontStyle.italic,
+              ),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildPageIndicator(bool isMobile) {
+    // Calculate total pages
+    int totalPages = 1; // Fun fact is always there
+    if (_locationMetadata?.visualElements != null) {
+      if (_locationMetadata!.visualElements!.landmarks.isNotEmpty ||
+          _locationMetadata!.visualElements!.uniqueModern.isNotEmpty) totalPages++;
+    }
+    if (_locationMetadata?.foodAndDrink != null) {
+      if (_locationMetadata!.foodAndDrink!.heroDishes.isNotEmpty) totalPages++;
+      if (_locationMetadata!.foodAndDrink!.signatureDrinks.isNotEmpty ||
+          _locationMetadata!.foodAndDrink!.foodCultureNotes.isNotEmpty) totalPages++;
+    }
+
+    if (totalPages <= 1) return const SizedBox.shrink();
+
+    return Container(
+      padding: EdgeInsets.all(isMobile ? 16 : 20),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: List.generate(totalPages, (index) {
+          final isActive = index == _discoveryCardPage;
+          return Container(
+            margin: const EdgeInsets.symmetric(horizontal: 4),
+            width: isActive ? 24 : 8,
+            height: 8,
+            decoration: BoxDecoration(
+              color: isActive ? Colors.white : Colors.white.withOpacity(0.4),
+              borderRadius: BorderRadius.circular(4),
+            ),
+          );
+        }),
+      ),
+    );
+  }
+
   void _resetGame() {
     // Record the result of the just-finished game if not already recorded
     if (_challenge != null && _guesses.isNotEmpty) {
@@ -1922,6 +3036,9 @@ class _GameScreenState extends State<GameScreen> {
         _hintUsed = false;
         _showRadiusHint = false;
         _guessHistoryExpanded = false;
+        _showDiscoveryCard = false;
+        _locationMetadata = null;
+        _discoveryCardPage = 0;
         _mapController.move(_getRandomOffsetStart(), _challenge!.initialZoom);
       });
     });

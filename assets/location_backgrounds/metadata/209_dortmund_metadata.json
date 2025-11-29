@@ -1,0 +1,93 @@
+{
+  "name": "Dortmund",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Dortmund produces more beer than any other German city - it has 8 breweries producing over 6 million hectoliters annually, and the city once had over 100 breweries making it the beer capital of Germany!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pfefferpotthast",
+        "description": "Peppered beef stew with onions, cloves, and bay leaves - Dortmund's signature dish",
+        "origin_story": "A medieval dish from Westphalia - 'potthast' means pot roast. The pepper was once a luxury spice",
+        "where_to_find": "Zum Alten Markt, Pfefferkorn, traditional Westphalian restaurants"
+      },
+      {
+        "name": "Westfälischer Pickert",
+        "description": "Thick potato pancake made with yeast, sometimes with raisins",
+        "origin_story": "Westphalian specialty - thicker and yeastier than regular potato pancakes",
+        "where_to_find": "Traditional restaurants, especially at Christmas markets"
+      },
+      {
+        "name": "Pumpernickel",
+        "description": "Dense, dark rye bread baked for 16-24 hours - Westphalia's famous export",
+        "origin_story": "The name allegedly comes from Napoleon's horse 'Nickel' - 'good for Nickel'. Westphalia has made it for centuries",
+        "where_to_find": "Bakeries throughout Dortmund, specialty bread shops"
+      },
+      {
+        "name": "Currywurst and Pommes",
+        "description": "Dortmund's take on the German classic, often from imbiss stands near the stadium",
+        "origin_story": "Essential football food - Signal Iduna Park (BVB stadium) is one of Europe's largest",
+        "where_to_find": "Imbiss stands near Signal Iduna Park, especially on match days"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dortmunder Export",
+        "description": "Pale lager that's the city's signature beer style - less hoppy than Pilsner",
+        "how_locals_drink_it": "From breweries like DAB, Kronen, Stifts - the Export style was invented here"
+      },
+      {
+        "name": "Stößchen",
+        "description": "Small beer glass unique to Dortmund - 0.1 liter",
+        "how_locals_drink_it": "Quick small beers to taste different varieties"
+      }
+    ],
+    "food_culture_notes": [
+      "BVB (Borussia Dortmund) football culture dominates - 81,000 capacity stadium",
+      "Industrial heritage reflected in hearty workers' food",
+      "Christmas market is one of Germany's largest",
+      "Brewery tours are major tourist attraction"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Signal Iduna Park (BVB stadium)",
+      "Dortmunder U (art center)",
+      "Old Town Hall",
+      "Westfalenpark"
+    ],
+    "atmosphere": [
+      "industrial heritage",
+      "football passion",
+      "beer culture",
+      "Ruhr Valley identity"
+    ],
+    "colors": [
+      "BVB yellow and black",
+      "beer golden",
+      "industrial grey",
+      "steel blue"
+    ],
+    "unique_modern": [
+      "largest football stadium in Germany",
+      "reinvented industrial city",
+      "beer tourism"
+    ]
+  },
+  "wikipedia_search_term": "Dortmund",
+  "keywords_for_image": [
+    "Dortmund beer",
+    "BVB stadium",
+    "pfefferpotthast stew",
+    "industrial heritage",
+    "German brewery"
+  ],
+  "coordinates": {
+    "lat": 51.5136,
+    "lng": 7.4653
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dortmund+🇩🇪/@51.5136,7.4653,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dortmund"
+  },
+  "location_id": 209
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Siena",
+  "country": "Italy",
+  "region": "Tuscany",
+  "fun_fact": "Fun fact: Siena hosts the legendary Palio di Siena, a bareback horse race held twice yearly (July 2 and August 16) in the shell-shaped Piazza del Campo. Dating back to the 17th century, 10 riders representing the city's contrade (medieval wards) compete in a tradition so fierce that a 2025 update now requires random drug and alcohol testing. The most recent winner was l'Oca (the Goose) on July 3, 2025!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pici all'Aglione",
+        "description": "Thick, hand-rolled pasta made from just flour and water (no eggs), served with 'aglione' - a mildly pungent sauce from local garlic variety, tomato, and olive oil",
+        "origin_story": "A staple of Sienese cuisine at its simplest and best. Pici embodies the rustic, peasant roots of Tuscan cooking. It's often paired with ragout from local wild boar, showcasing the region's hunting traditions.",
+        "where_to_find": "Antica Trattoria Papei (in Siena's historic center), Nonna Gina (unpretentious mother-daughter cooking at Via Pian dei Mantellini 2), Osteria Le Logge"
+      },
+      {
+        "name": "Cinta Senese Pork",
+        "description": "Heritage breed pig native to Siena with distinctly flavorful, marbled meat - succulent and aromatic with notes of hazelnuts and acorns",
+        "origin_story": "This ancient medium-sized pig breed was immortalized in 1337 by Ambrogio Lorenzetti in his famous 'Buon Governo' fresco. The pigs are black with a characteristic light 'cinta' (belt) over their shoulders. The meat reflects the pigs' diet of acorns and chestnuts in Tuscan forests.",
+        "where_to_find": "Il Carrocco (Via Casato di sotto 32), Grotta di Santa Caterina da Bagoga (run by ex-Palio jockey at Via della Galluzza 26). Try it as sausages (salsicce) or in traditional preparations."
+      },
+      {
+        "name": "Panforte",
+        "description": "Dense, spiced fruitcake dating to the 13th century - chewy texture with flour, nuts, candied fruits, almonds, sugar, honey, and strong spices",
+        "origin_story": "A Sienese invention from the 1200s, first known as 'Panpepato' or 'peppered bread' because of the intense spices. This medieval sweet has survived centuries unchanged, representing Siena's preservation of ancient culinary traditions.",
+        "where_to_find": "Traditional pastry shops throughout Siena's historic center, especially near Piazza del Campo"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Brunello di Montalcino",
+        "description": "Tuscany's fullest, richest, long-aging wine made exclusively from Sangiovese grapes grown in the Montalcino region near Siena - has its own separate classification from Chianti",
+        "how_locals_drink_it": "Considered the motherland wine of Montalcino, a stunning medieval hilltop town in Siena province. Locals enjoy tastings in underground medieval aqueducts and wine caves dating to Etruscan times (600 BC). Brunello pairs perfectly with Cinta Senese pork and wild boar ragù."
+      },
+      {
+        "name": "Chianti Classico",
+        "description": "Iconic Tuscan red wine from the rolling hills between Siena and Florence - full of classic Italian tradition and culture",
+        "how_locals_drink_it": "Historic vineyards in medieval villages run by families for generations. Locals enjoy Chianti with pici pasta, ribollita soup, and bistecca fiorentina. Wine tourism is integral to Siena's culture, with short drives to world-renowned vineyards."
+      }
+    ],
+    "food_culture_notes": [
+      "Siena's well-preserved medieval architecture creates a unique atmosphere that transports you back in time",
+      "Located near Tuscany's top wine regions including Chianti and Brunello di Montalcino",
+      "The city is divided into 17 contrade (wards), each with fierce loyalty and their own museums displaying Palio banners, costumes, and sacred artifacts",
+      "The Palio horse race is not just a tourist event but a living tradition that defines Sienese identity",
+      "Traditional restaurants have been cooking 'with considerably more success' for decades - like Grotta di Santa Caterina since 1973 and Osteria Le Logge since 1977",
+      "The shell-shaped Piazza del Campo is considered one of Europe's greatest medieval squares",
+      "Nonna Gina is famous for 'the best salsicce (sausages) in town' and Pici alla Dado"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Piazza del Campo (shell-shaped medieval square, site of Palio race)",
+      "Torre del Mangia (medieval tower)",
+      "Siena Cathedral (Gothic masterpiece)",
+      "Palazzo Pubblico with Ambrogio Lorenzetti's 1337 'Buon Governo' fresco (featuring Cinta Senese pigs)",
+      "17 contrade neighborhoods with their own symbols and flags",
+      "Medieval streets and brick buildings"
+    ],
+    "atmosphere": [
+      "Medieval hill town perfectly preserved",
+      "Rolling Tuscan hills surrounding the city",
+      "Vineyard landscapes of Chianti and Montalcino nearby",
+      "Intense contrade rivalry and pride",
+      "Narrow medieval streets with terra cotta roofs",
+      "Historic wine cellars and underground aqueducts"
+    ],
+    "colors": [
+      "Burnt sienna (the color is named after this city)",
+      "Terra cotta red roof tiles",
+      "Warm ochre and amber building facades",
+      "Deep red Brunello wine",
+      "Green and gold Tuscan countryside",
+      "Colorful contrade flags and banners"
+    ],
+    "unique_modern": [
+      "Living medieval traditions (Palio still fiercely contested)",
+      "Wine tourism to world-class vineyards",
+      "Underground wine tastings in Etruscan caves and medieval aqueducts",
+      "Contemporary drug testing protocols for ancient horse race (2025 update)",
+      "University city blending students with medieval architecture",
+      "Gastronomy celebrating centuries-old recipes (panforte from 1200s, recipes from 1337 frescoes)"
+    ]
+  },
+  "wikipedia_search_term": "Siena",
+  "keywords_for_image": [
+    "Siena Italy",
+    "Palio di Siena",
+    "Piazza del Campo",
+    "Tuscan medieval city",
+    "pici pasta",
+    "Brunello di Montalcino",
+    "Cinta Senese pig",
+    "Siena Cathedral",
+    "contrade Siena"
+  ],
+  "coordinates": {
+    "lat": 43.3188,
+    "lng": 11.3308
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Siena+🇮🇹/@43.3188,11.3308,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siena"
+  },
+  "location_id": 129
+}

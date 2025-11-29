@@ -1,0 +1,94 @@
+{
+  "name": "Pokhara",
+  "country": "Nepal",
+  "fun_fact": "Fun fact: Pokhara is home to the Thakali people, whose dal bhat is considered the gold standard in Nepal - their unique preparation uses buckwheat, mountain herbs, and yak butter, creating a version so legendary that even Nepalis travel to Pokhara specifically to eat at Thakali Kitchen.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dal Bhat Tarkari",
+        "description": "Nepal's national meal: steamed rice (bhat), lentil soup (dal), vegetable curry (tarkari), leafy greens, pickles, and sometimes meat. Unlimited refills are standard.",
+        "origin_story": "Consumed twice daily by most Nepalis, dal bhat is more than food - it's cultural identity. The Thakali people of the Annapurna region perfected a version using local ingredients like buckwheat and mountain herbs that's considered the best in Nepal.",
+        "where_to_find": "Pokhara Thakali Kitchen (locals' favorite, husband's top choice), Moondance Restaurant (Newari-style), Rosemary Kitchen"
+      },
+      {
+        "name": "Momos",
+        "description": "Nepali dumplings filled with vegetables, chicken, or buffalo meat, served with spicy tomato-based dipping sauce (chutney).",
+        "origin_story": "While originally from Tibet, momos have become quintessentially Nepali. In Pokhara's tourist hub Lakeside, momo shops compete for the best recipe, with variations from traditional steamed to fried and even tandoori styles.",
+        "where_to_find": "OR2K (favorite hangout for momos and veggie dishes), Moondance Restaurant, Almond's Cafe"
+      },
+      {
+        "name": "Thakali Set",
+        "description": "Traditional Thakali meal served on a round metal plate with rice, dal, meat curry, vegetable curries, pickles, and papad. Everything is arranged in small bowls around the rice.",
+        "origin_story": "The Thakali people developed this cuisine in the harsh Himalayan environment of the Kali Gandaki valley. Their unique use of buckwheat, local spices, and dried meat created a distinctive regional cuisine now celebrated throughout Nepal.",
+        "where_to_find": "Pokhara Thakali Kitchen (authentic Thakali preparation)"
+      },
+      {
+        "name": "Newari Cuisine",
+        "description": "Dishes from the Newari ethnic group including choila (spiced grilled meat), bara (lentil pancakes), and buffalo meat specialties.",
+        "origin_story": "Newari food represents Nepal's most complex culinary tradition, with dishes developed over centuries in the Kathmandu Valley. Pokhara's growing Newari community brought these sophisticated flavors to the lakeside city.",
+        "where_to_find": "Moondance Restaurant (excellent Newari food and dal bhat, owned by Lama Tamang family, serves up to 200 people)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai",
+        "description": "Spiced milk tea brewed with cardamom, ginger, cinnamon, and black pepper. Sweet, warming, and aromatic.",
+        "how_locals_drink_it": "Consumed throughout the day, especially in the morning and during afternoon breaks. In Pokhara's cooler lakeside climate, chai is served hot and strong, often accompanying momos or snacks."
+      },
+      {
+        "name": "Local Raksi",
+        "description": "Traditional Nepali distilled spirit made from millet or rice, similar to sake but stronger.",
+        "how_locals_drink_it": "Drunk warm in the mountains, room temperature in the valleys. Often homemade and varies in strength (some reach 40% alcohol). Consumed during celebrations and cold evenings."
+      }
+    ],
+    "food_culture_notes": [
+      "Food service is slow in Pokhara (30-45 minutes) because everything is made fresh to order in homestyle kitchens - patience is essential",
+      "Central Lakeside is more commercialized while North Lakeside offers more bohemian, authentic dining experiences",
+      "Dal bhat unlimited refills are traditional - locals eat massive portions and it's perfectly acceptable to ask for more",
+      "Many restaurants cater to trekkers with hearty portions and high-calorie meals to fuel Annapurna Circuit adventures"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Phewa Lake",
+      "Peace Pagoda",
+      "Sarangkot viewpoint",
+      "Devi's Fall"
+    ],
+    "atmosphere": [
+      "lakeside mountain reflections",
+      "paragliders in the sky",
+      "Annapurna range backdrop",
+      "peaceful Buddhist stupas"
+    ],
+    "colors": [
+      "Phewa Lake blue",
+      "Himalayan snow white",
+      "prayer flag colors",
+      "lush green hills"
+    ],
+    "unique_modern": [
+      "lakeside cafes",
+      "adventure tourism hub",
+      "yoga retreats",
+      "trekking gear shops"
+    ]
+  },
+  "wikipedia_search_term": "Pokhara",
+  "keywords_for_image": [
+    "dal bhat",
+    "Phewa Lake",
+    "Annapurna mountains",
+    "paragliding",
+    "Himalayan cuisine"
+  ],
+  "coordinates": {
+    "lat": 28.2096,
+    "lng": 83.9856
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pokhara+🇳🇵/@28.2096,83.9856,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pokhara"
+  },
+  "location_id": 276
+}

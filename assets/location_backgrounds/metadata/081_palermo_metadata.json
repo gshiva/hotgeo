@@ -1,0 +1,92 @@
+{
+  "name": "Palermo",
+  "country": "Italy",
+  "region": "Sicily",
+  "fun_fact": "Fun fact: Palermo is considered the street food capital of Italy, with a culinary tradition dating back to Arab rule in the 9th century. The city's markets have been serving fried street food for over a millennium!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Arancine",
+        "description": "Golden, crispy rice balls filled with risotto, ragu, and sometimes mozzarella. Shaped like oranges, reflecting Sicily's citrus heritage.",
+        "origin_story": "Named after their orange-like shape, arancine have been eaten for a millennium. Arabs introduced rice to Sicily, while Normans introduced breading as a preservation method for travelers.",
+        "where_to_find": "Che Palle on Via Maqueda 270 for creative varieties like porcini mushroom; Forno Storico Pietro Marino in Ballarò market for traditional versions; look for places that fry to order for extra crispy results"
+      },
+      {
+        "name": "Panelle",
+        "description": "Chickpea flour fritters, crispy on the outside and creamy inside, served in sesame-seeded buns often paired with crocchè (potato croquettes).",
+        "origin_story": "Arabs first brought chickpea milling to Sicily, creating 'chickpea polenta' as food for the poor. Today it's beloved street food enjoyed by all.",
+        "where_to_find": "Mercato di Capo for traditional market stands; Nni Franco U Vastiddaru at Via Vittorio Emanuele 102; the husband-wife-son team at Piazza Ballarò who drop panelle fresh into bubbling oil"
+      },
+      {
+        "name": "Sfincione",
+        "description": "Thick, fluffy Sicilian pizza with a focaccia-like crust, topped with tomato sauce, onions, anchovies, oregano, and caciocavallo cheese. The name derives from Latin/Greek for 'sponge'.",
+        "origin_story": "This traditional Sicilian pizza evolved as a hearty, filling street food with its thick dough left to rise for hours, creating an airy, sponge-like texture.",
+        "where_to_find": "Panificio Graziano near Statua della Libertà (local favorite); Panificio Pietro Bonaccorso in Vucciria market (made fresh 3x daily); Antica Focacceria San Francesco for a classic version"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Marsala Wine",
+        "description": "Italy's oldest DOC fortified wine made from Grillo, Inzolia, Catarratto grapes. Ranges from dry to sweet with ~18% alcohol.",
+        "how_locals_drink_it": "Originally served as an aperitif in the 1700s-1800s, now often used in cooking. Visit CiCala for incredible traditional Marsala selection, or Taverna Azzurra in Vucciria for €1 marsala"
+      },
+      {
+        "name": "Sicilian Blood Orange Juice",
+        "description": "Fresh-squeezed juice from Sicily's famous blood oranges and lemons, sold at market stands.",
+        "how_locals_drink_it": "Grab a fresh juice at Succhi Freschi Ballarò market stand for an authentic refreshing break while exploring the markets"
+      }
+    ],
+    "food_culture_notes": [
+      "Best time to eat street food is mid-morning or lunch",
+      "Ballarò is the largest and oldest food market; Vucciria is touristy but transforms into nightlife district",
+      "Look for friggitorie (fried food shops) where food is fried fresh to order",
+      "Markets like Capo and Ballarò are where locals actually shop",
+      "Street food reflects Sicily's multicultural history: Arab, Norman, Greek influences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ballarò market with colorful fruit stalls",
+      "Vucciria market streets",
+      "Arab-Norman architecture",
+      "Street vendors with charcoal grills"
+    ],
+    "atmosphere": [
+      "Bustling outdoor markets",
+      "Vendors calling out",
+      "Sizzling fried food",
+      "Baroque churches mixed with Arab influences",
+      "Lively piazzas"
+    ],
+    "colors": [
+      "Golden-brown arancine",
+      "Deep red tomato sauce on sfincione",
+      "Orange citrus fruits",
+      "Terracotta buildings",
+      "Blue ceramic tiles"
+    ],
+    "unique_modern": [
+      "Street food vendors with modern food carts",
+      "Wine bars like Ferramenta with outdoor terraces",
+      "Markets that transform into nightlife spots"
+    ]
+  },
+  "wikipedia_search_term": "Palermo",
+  "keywords_for_image": [
+    "Palermo street food arancine",
+    "Sicily Ballarò market",
+    "Sicilian panelle fritters",
+    "Palermo sfincione",
+    "Arab-Norman architecture Palermo",
+    "Sicilian street market vendors"
+  ],
+  "coordinates": {
+    "lat": 38.1157,
+    "lng": 13.3615
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Palermo+🇮🇹/@38.1157,13.3615,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palermo"
+  },
+  "location_id": 81
+}

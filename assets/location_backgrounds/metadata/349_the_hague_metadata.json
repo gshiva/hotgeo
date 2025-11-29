@@ -1,0 +1,94 @@
+{
+  "name": "The Hague",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: The Peace Palace houses the International Court of Justice (UN's World Court) in a building filled with international gifts - including a 3.2-tonne vase from Russia, wrought-iron fences from Germany, and wall carpets from Japan. It was built with a donation from Andrew Carnegie, and former UN Secretary-General called The Hague 'the legal capital of the world'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hollandse Nieuwe (Dutch New Herring)",
+        "description": "Raw herring caught in late May/early June, cured with salt, served whole with chopped onions and pickles. You hold the fish by the tail, tip your head back, and eat it in bites - or go full Dutch and swallow it whole",
+        "origin_story": "Scheveningen beach in The Hague celebrates Vlaggetjesdag (Flag Day) every year marking the arrival of the first catch of new herring. The tradition dates to the 14th century. Locals line up at herring stands (haringhandels) by the beach, and seagulls will absolutely steal your fish if you're not careful",
+        "where_to_find": "Herring stands in Scheveningen beach area, haringhandels throughout The Hague city center, outdoor markets"
+      },
+      {
+        "name": "Kibbeling (Fried Fish Bites)",
+        "description": "Chunks of white fish (usually cod or pollack) coated in crispy batter, deep-fried golden and served with garlic mayo or tartar sauce",
+        "origin_story": "Originally made from leftover fish scraps, kibbeling became a beloved Dutch street food. The name might come from 'cabilliau' (old Dutch for cod) or 'kabeljauw' (modern Dutch for cod). Now it's premium fish, not scraps. Best enjoyed at the beach with the North Sea breeze",
+        "where_to_find": "Scheveningen beach stalls (hugely popular), outdoor markets, Christmas markets at Lange Voorhout"
+      },
+      {
+        "name": "Stroopwafels (Syrup Waffles)",
+        "description": "Two thin crispy waffle cookies sandwiched with gooey caramel syrup. Best eaten warm from street vendors - place it on top of your coffee cup to soften the caramel",
+        "origin_story": "Invented 200 years ago in Gouda (near The Hague) by a baker who sweetened leftover cookie crumbs with syrup. The key is the paper-thin waffle layers and the sticky caramel center that oozes when warm. Factory-made ones don't compare to fresh market stroopwafels",
+        "where_to_find": "Fresh at The Hague Christmas markets (Royal Christmas Fair at Lange Voorhout, Dec 4-23, 2025), street market vendors, local bakeries"
+      },
+      {
+        "name": "Bitterballen",
+        "description": "Deep-fried crispy balls filled with creamy beef ragout - the ultimate Dutch pub snack. Served piping hot with mustard for dipping",
+        "origin_story": "The croquette's little sister, bitterballen are essential drinking food. The name comes from 'bitters' (jenever/gin), not the taste. The ritual: order with drinks, dip in mustard, blow on it to cool down (or burn your mouth), enjoy. Every Dutch person has childhood scars from impatient biting",
+        "where_to_find": "Every brown café (bruine kroeg) in The Hague, traditional Dutch pubs, Royal Christmas Fair at Lange Voorhout"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jenever (Dutch Gin)",
+        "description": "Juniper-flavored spirit that predates English gin. Oude (old) jenever is malty and smooth, jonge (young) is lighter and cleaner. Served in tulip-shaped glasses filled to the brim",
+        "how_locals_drink_it": "The traditional way: lean over the bar and sip the first sip without touching the glass (it's filled so full it would spill). Then pick it up. Always serve ice-cold. Pair with bitterballen. Jenever is what gave English gin its name when Dutch William of Orange became King of England"
+      },
+      {
+        "name": "Heineken and Dutch Craft Beer",
+        "description": "Heineken is from nearby Amsterdam, but The Hague has its own craft beer scene. Served in proper glasses, never bottles",
+        "how_locals_drink_it": "Order a 'vaasje' (small glass) in traditional brown cafés. Dutch beer culture is relaxed - sit for hours nursing one beer while playing cards or board games. Heineken Experience tours are tourist traps, locals drink it without fanfare"
+      }
+    ],
+    "food_culture_notes": [
+      "Scheveningen beach is where locals go for fresh herring and kibbeling - beware of aggressive seagulls",
+      "The Royal Christmas Fair at Lange Voorhout (Dec 4-23, 2025) celebrates its 10th anniversary with oliebollen, stroopwafels, and other Dutch treats",
+      "The Peace Palace was built 1907-1913 with Andrew Carnegie's money and houses the World Court",
+      "The Hague is the seat of Dutch government even though Amsterdam is the capital - a unique arrangement"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Peace Palace with 80-meter clock tower",
+      "Scheveningen beach and pier",
+      "Binnenhof (Parliament buildings around courtyard)",
+      "Mauritshuis museum (Girl with a Pearl Earring)"
+    ],
+    "atmosphere": [
+      "North Sea wind and seagulls",
+      "diplomatic gravitas",
+      "cozy brown café interiors",
+      "bicycle-filled streets"
+    ],
+    "colors": [
+      "silvery grey herring",
+      "golden fried kibbeling batter",
+      "caramel brown stroopwafel",
+      "orange (Dutch royal color)"
+    ],
+    "unique_modern": [
+      "Legal capital of the world (UN World Court)",
+      "Peace Flame monument with stones from 196 countries",
+      "Royal Christmas Fair 10th anniversary (2025)",
+      "Only principal UN organ outside New York City"
+    ]
+  },
+  "wikipedia_search_term": "The_Hague",
+  "keywords_for_image": [
+    "Peace Palace The Hague",
+    "Dutch herring Scheveningen",
+    "stroopwafel Netherlands",
+    "Binnenhof Parliament Hague",
+    "bitterballen Dutch snack"
+  ],
+  "coordinates": {
+    "lat": 52.0705,
+    "lng": 4.3007
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/The+Hague+🇳🇱/@52.0705,4.3007,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Hague"
+  },
+  "location_id": 349
+}

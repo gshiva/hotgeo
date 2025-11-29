@@ -1,0 +1,106 @@
+{
+  "name": "Sibiu",
+  "country": "Romania",
+  "fun_fact": "Fun fact: Sibiu was named European Region of Gastronomy in 2019 and is a delightful blend of Romanian, Hungarian, and German (Saxon) influences. This medieval Transylvanian fortress city has transformed into a dynamic food destination while preserving traditional recipes passed down through generations in a region famous for Dracula legends.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sarmale (Cabbage Rolls)",
+        "description": "Romania's national dish - tender cabbage leaves stuffed with minced pork, rice, and herbs, slow-cooked in rich tomato sauce. Traditionally served with mămăligă (polenta), sour cream, and hot peppers.",
+        "origin_story": "Often considered the soul of Romanian cuisine, sarmale represents the country's agricultural heritage and slow-cooking traditions. Each family has their own recipe variation passed down through generations.",
+        "where_to_find": "Crama Sibiul Vechi (wine cellar setting with traditional décor), Hunul din Tulghes (hearty plates, near Astra Folk Museum Gate 2)"
+      },
+      {
+        "name": "Balmoș",
+        "description": "The ultimate Transylvanian comfort food - a rich, creamy variation of polenta made with butter, sour cream, and generous amounts of local cheese. Much richer and creamier than standard mămăligă.",
+        "origin_story": "This traditional dish hails specifically from Transylvania, representing the region's dairy-rich mountain cuisine. It's the Saxon-influenced upgrade to simple polenta, showcasing local cheese-making traditions.",
+        "where_to_find": "Crama Sibiul Vechi (cozy cave restaurant, traditional setting), Hochmeister delikat'essen ('New-Old Transylvanian Cuisine')"
+      },
+      {
+        "name": "Ciorbă de Burtă (Tripe Soup)",
+        "description": "A beloved Romanian staple - creamy, sour tripe soup with rich flavor, served with vinegar and hot peppers. The sour tang comes from fermented wheat bran or vinegar.",
+        "origin_story": "This soup represents Romania's resourceful peasant cuisine, using every part of the animal. It's considered a hangover cure and comfort food, deeply embedded in Romanian food culture.",
+        "where_to_find": "Traditional 'hanuri' (inns) and 'crame' (wine cellars) throughout Sibiu's old town"
+      },
+      {
+        "name": "Kürtőskalács (Chimney Cake)",
+        "description": "Sweet, spiral-shaped pastry cooked on a rotating spit over charcoal, creating a crispy caramelized exterior. Served warm, dusted with cinnamon sugar, nuts, coconut, or sprinkles.",
+        "origin_story": "A Hungarian-Transylvanian specialty popular throughout the region. These are street food staples in Sibiu, warm and fluffy, sold by vendors in the medieval squares.",
+        "where_to_find": "Street vendors in Piața Mare (Big Square) and Piața Mică (Small Square)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Țuică (Romanian Plum Brandy)",
+        "description": "Traditional Romanian fruit brandy made from plums, typically 40-55% alcohol. A stronger double-distilled version is called pălincă.",
+        "how_locals_drink_it": "Served as a digestif after heavy meals or as a welcome drink. Often homemade by families in Transylvania and drunk in small shot glasses."
+      },
+      {
+        "name": "Local Transylvanian Wine",
+        "description": "Romania has ancient winemaking traditions. Wine cellars ('crame') in Sibiu offer local wines alongside traditional fare.",
+        "how_locals_drink_it": "Paired with hearty Transylvanian dishes like sarmale and balmoș. Red wines complement the rich, meaty stews."
+      }
+    ],
+    "food_culture_notes": [
+      "Sibiu's cuisine reflects its Saxon (German) stronghold history - robust, flavorful dishes with locally sourced ingredients",
+      "The city embraces 'New-Old Transylvanian Cuisine' - traditional grandparents' recipes with influences from 11 peoples",
+      "Dining in historical buildings ('hanuri' inns, 'crame' wine cellars) offers immersive atmosphere",
+      "2025 prices: casual meals 30-60 RON (€6-12), mid-range 70-120 RON (€14-24), fine dining 150-300+ RON (€30-60+)",
+      "Reservations highly recommended for Friday/Saturday evenings and during Sibiu Christmas Market",
+      "Tipping around 10% is customary for good service",
+      "Strong focus on fresh, local ingredients from ecological farms reflecting agricultural heritage"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Medieval Saxon fortifications",
+      "Piața Mare (Big Square) and Piața Mică (Small Square)",
+      "Bridge of Lies (Podul Minciunilor)",
+      "Evangelical Cathedral tower views",
+      "Astra Folk Museum (open-air village)",
+      "Buildings with 'eyes' (roof windows)"
+    ],
+    "atmosphere": [
+      "Medieval cobblestone streets",
+      "Wine cellar restaurants with vaulted ceilings",
+      "Traditional Romanian towels, plates, and jugs décor",
+      "Open-air patios in historic squares",
+      "Saxon Baroque architecture",
+      "Cozy, intimate dining spaces"
+    ],
+    "colors": [
+      "Terracotta roof tiles (orange-red)",
+      "Cream and ochre building facades",
+      "Deep burgundy (wine culture)",
+      "Forest green (Transylvanian mountains)",
+      "Golden chimney cake caramel"
+    ],
+    "unique_modern": [
+      "'New-Old Transylvanian Cuisine' concept restaurants",
+      "Seasonal farm-to-table with ecological ingredients",
+      "Contemporary plating of traditional recipes",
+      "Restored Baroque buildings as modern eateries",
+      "Street food elevated (kürtőskalács vendors in medieval squares)"
+    ]
+  },
+  "wikipedia_search_term": "Sibiu",
+  "keywords_for_image": [
+    "sibiu romania transylvania",
+    "romanian sarmale cabbage rolls",
+    "chimney cake kurtoskalacs",
+    "sibiu medieval square",
+    "transylvanian food culture",
+    "romanian wine cellar",
+    "balmos polenta cheese",
+    "sibiu big square piata mare"
+  ],
+  "coordinates": {
+    "lat": 45.7983,
+    "lng": 24.1256
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Sibiu+🇷🇴/@45.7983,24.1256,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sibiu"
+  },
+  "location_id": 144
+}

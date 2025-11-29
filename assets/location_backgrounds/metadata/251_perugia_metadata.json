@@ -1,0 +1,94 @@
+{
+  "name": "Perugia",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Perugia is home to Italy's largest chocolate festival (Eurochocolate) and the ancient chocolate brand Perugina (makers of Baci chocolates) - but locals are equally proud of their black and white truffles that rival Alba's.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fresh Truffle Pasta",
+        "description": "Handmade pasta (often strangozzi or tagliatelle) with shaved white or black truffles, butter, and Parmigiano",
+        "origin_story": "Umbria's forests hide both precious black truffles (October-March) and the rare white 'king of truffles' (October-December). Perugia chefs treat truffles with reverence - simple butter sauces let the earthy, aromatic truffle dominate. The tradition of truffle hunting with trained dogs goes back centuries.",
+        "where_to_find": "Osteria a Priori (all-Umbrian food eatery on Via dei Priori - fresh truffles year-round), Al Tartufo (truffle-focused restaurant on Via Ulisse Rocchi), Ristorante da Cesarino (Piazza IV Novembre - since 1973)"
+      },
+      {
+        "name": "Porchetta",
+        "description": "Whole roasted pork seasoned with wild fennel, garlic, and rosemary - crispy skin, tender meat",
+        "origin_story": "This ancient Roman dish became Umbrian soul food. A whole pig is deboned, stuffed with herbs, rolled, and slow-roasted. The result is legendary - crispy crackling outside, moist aromatic meat inside. Often served in thick slices on crusty bread.",
+        "where_to_find": "Locanda del Morlacchi (behind Morlacchi Theatre - traditional Umbrian cuisine), local markets and food festivals"
+      },
+      {
+        "name": "Umbrian Lentils from Castelluccio",
+        "description": "Tiny, flavorful lentils from the high plains of Castelluccio, often in soups or with sausage",
+        "origin_story": "Castelluccio di Norcia's lentils grow at 4,500 feet elevation in Umbria's mountains. The IGP-protected lentils are smaller than common varieties with thinner skins and nuttier flavor. They've fed Umbrians since ancient times - Romans prized them too.",
+        "where_to_find": "Osteria i Birbi (historic center steps of Sant'Ercolano - traditional Umbrian and Tuscan dishes), Civico 25 (over 600 wine labels with traditional specialties)"
+      },
+      {
+        "name": "Strangozzi with Lamb Ragù",
+        "description": "Thick, hand-rolled pasta with slow-cooked lamb sauce, often made with stone-ground flour",
+        "origin_story": "Strangozzi (also called stringozzi) is Umbria's signature pasta - thick, irregular, and rough to grab sauce. Made with just flour and water (no eggs), it's peasant food elevated to art. Paired with lamb ragù, it showcases Umbria's pastoral heritage.",
+        "where_to_find": "Civico 25 (strangozzi with stone-ground flour and lamb ragout), Osteria a Priori (modern interpretations of traditional preparations)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sagrantino di Montefalco",
+        "description": "Powerful red wine from indigenous Sagrantino grapes, one of Italy's most tannic wines",
+        "how_locals_drink_it": "This Umbrian wine is so tannic it needs years of aging. Locals pair it with rich truffle dishes, wild boar, or aged cheeses. The sweet passito version is served with chocolate desserts. It's Umbria's pride - bold and unapologetic."
+      },
+      {
+        "name": "Vin Santo",
+        "description": "Sweet dessert wine made from dried grapes, amber-colored and complex",
+        "how_locals_drink_it": "Traditionally served with cantucci (almond biscotti) for dipping. The cookies soften in the sweet wine - a classic ending to Umbrian meals. Often homemade by families who age it in small barrels."
+      }
+    ],
+    "food_culture_notes": [
+      "Truffles are seasonal - black from October-March, white October-December. Prices vary wildly based on harvest quality",
+      "Umbrian cuisine emphasizes ingredients over technique - the quality of olive oil, truffles, and lentils matters more than complex preparation",
+      "Perugia's medieval streets hide family trattorias where recipes haven't changed in generations",
+      "The city's university (founded 1308) brings international students who fall in love with Umbrian simplicity"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Fontana Maggiore",
+      "Palazzo dei Priori",
+      "Rocca Paolina fortress",
+      "Etruscan Arch"
+    ],
+    "atmosphere": [
+      "hilltop medieval city",
+      "narrow stone streets",
+      "university energy",
+      "truffle hunting grounds"
+    ],
+    "colors": [
+      "Umbrian green hills",
+      "black truffle",
+      "white truffle",
+      "terracotta roofs"
+    ],
+    "unique_modern": [
+      "Umbria Jazz Festival",
+      "Eurochocolate Festival",
+      "Contemporary art exhibits",
+      "International student culture"
+    ]
+  },
+  "wikipedia_search_term": "Perugia",
+  "keywords_for_image": [
+    "Perugia hilltop Umbria",
+    "white truffle pasta",
+    "Italian medieval city",
+    "Umbrian countryside",
+    "truffle hunting"
+  ],
+  "coordinates": {
+    "lat": 43.1107,
+    "lng": 12.3908
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Perugia+🇮🇹/@43.1107,12.3908,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perugia"
+  },
+  "location_id": 251
+}

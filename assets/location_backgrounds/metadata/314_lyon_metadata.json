@@ -1,0 +1,94 @@
+{
+  "name": "Lyon",
+  "country": "France",
+  "fun_fact": "Fun fact: Lyon is considered the gastronomic capital of France (yes, even more than Paris), and its traditional bouchon restaurants began in the 17th century feeding silk workers - today, you need to look for the Gnafron marionette sticker on the door to know you've found an authentic bouchon certified by the city.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Quenelles de Brochet",
+        "description": "Delicate pike fish dumplings, often swimming in buttery crayfish Nantua sauce - light, elegant, and quintessentially Lyonnais",
+        "origin_story": "These ethereal dumplings are Lyon's answer to fine dining. The pike is ground into a mousse, formed into ovals, and poached until tender. The Nantua sauce, made with crayfish, is the crowning glory",
+        "where_to_find": "Certified bouchons throughout Lyon, Bouchon Léa (serving since 1943), La Meunière (nearly 100 years old)"
+      },
+      {
+        "name": "Tablier de Sapeur",
+        "description": "Beef tripe marinated overnight in white wine, lemon, and mustard, then breaded and fried until crispy, served with gribiche sauce",
+        "origin_story": "Named after the leather aprons worn by sappers (military engineers), this dish represents Lyon's commitment to nose-to-tail eating. It's an acquired taste that bouchon lovers swear by",
+        "where_to_find": "Certified bouchons, Daniel et Denise (chef Joseph Viola, Meilleur Ouvrier de France)"
+      },
+      {
+        "name": "Salade Lyonnaise",
+        "description": "Frisée lettuce with crispy bacon lardons, croutons, and a perfectly poached egg - simple but exquisite",
+        "origin_story": "This salad epitomizes Lyonnaise cuisine - taking humble ingredients and elevating them through technique. The runny egg yolk becomes the dressing when broken",
+        "where_to_find": "Every certified bouchon, Les Fines Gueules (run by Joël Salzi who trained under Paul Bocuse)"
+      },
+      {
+        "name": "Cervelle de Canut",
+        "description": "Fresh cheese mixed with olive oil, garlic, herbs, vinegar, shallots, salt, and pepper - literally 'silk worker's brain' but actually a creamy cheese spread",
+        "origin_story": "Named mockingly after the canuts (silk workers) who couldn't afford expensive food, this humble cheese spread is now a point of pride in every bouchon",
+        "where_to_find": "Café du Jura (genuine family institution), certified bouchons as an appetizer"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Beaujolais Wine",
+        "description": "Light, fruity red wine from the Beaujolais region just north of Lyon - meant to be drunk young and slightly chilled",
+        "how_locals_drink_it": "Served in pot Lyonnais (thick-bottomed wine carafes) at bouchons. Beaujolais is Lyon's house wine, consumed liberally with every meal"
+      },
+      {
+        "name": "Côtes du Rhône",
+        "description": "Rich red wines from the Rhône Valley - fuller-bodied than Beaujolais",
+        "how_locals_drink_it": "Paired with richer dishes like andouillette and tablier de sapeur. Lyon sits at the confluence of the Rhône and Saône rivers, with great wine regions in every direction"
+      }
+    ],
+    "food_culture_notes": [
+      "Look for the Gnafron marionette sticker - the 'Les Bouchons Lyonnais' certification created in 2013 for authentic bouchons",
+      "Daniel et Denise is owned by chef Joseph Viola, winner of Meilleur Ouvrier de France award",
+      "Bouchons are concentrated in La Croix-Rousse and Presqu'Île (between the Rhône and Saône rivers)",
+      "Tarte aux Pralines (pink praline tart) dates back to the 17th century and is fundamental to Lyon's culinary heritage"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Basilica of Notre-Dame de Fourvière on hilltop",
+      "Vieux Lyon Renaissance traboules",
+      "Presqu'île between rivers",
+      "Roman amphitheater"
+    ],
+    "atmosphere": [
+      "red-checkered tablecloths in bouchons",
+      "wooden tables close together",
+      "pot Lyonnais wine carafes",
+      "convivial family atmosphere"
+    ],
+    "colors": [
+      "deep red Beaujolais wine",
+      "bright pink praline tart",
+      "golden fried tablier de sapeur",
+      "warm bouchon lighting"
+    ],
+    "unique_modern": [
+      "gastronomic capital of France",
+      "Paul Bocuse's legacy everywhere",
+      "silk worker culture preserved in food",
+      "traboules (secret passages) connecting bouchons"
+    ]
+  },
+  "wikipedia_search_term": "Lyon",
+  "keywords_for_image": [
+    "Lyon France",
+    "Fourviere Basilica",
+    "quenelles de brochet",
+    "bouchon restaurant",
+    "Presqu'ile Lyon"
+  ],
+  "coordinates": {
+    "lat": 45.764,
+    "lng": 4.8357
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lyon+🇫🇷/@45.764,4.8357,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyon"
+  },
+  "location_id": 314
+}

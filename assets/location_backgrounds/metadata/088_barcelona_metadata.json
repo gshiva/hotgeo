@@ -1,0 +1,118 @@
+{
+  "name": "Barcelona",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Vermouth was first produced in Spain right here in Barcelona in 1860, making Catalonia the birthplace of Spanish vermouth! An Italian named Perucchi imported the fortified wine, but Barcelona perfected 'la hora del vermut' (vermouth hour)—a beloved Catalan tradition where friends meet at bars for vermouth served 'al grifo' (on tap from small barrels) with a slice of orange, an olive, and lots of conversation. The tradition is so popular that Catalans say 'anar a fer el vermut' (go have a vermouth), which evokes the entire ritual of aperitif time.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pa amb Tomàquet",
+        "description": "Toasted Catalan country bread scraped with garlic (optional), lightly coated with the flesh of fresh tomatoes, finished with olive oil and sea salt. The quintessential Catalan dish.",
+        "origin_story": "This simple preparation dates back centuries and is the foundation of Catalan cuisine. It's eaten as an accompaniment to every meal or as a base for traditional cured meats. Despite its simplicity—just bread, tomato, oil, and salt—it's a matter of intense regional pride and is served everywhere from humble taverns to Michelin-starred restaurants.",
+        "where_to_find": "Literally everywhere in Barcelona—La Boqueria Market, El Xampanyet, Can Culleretes (Barcelona's oldest restaurant), Cal Pep"
+      },
+      {
+        "name": "Escalivada",
+        "description": "Roasted vegetables (eggplants, red peppers, onions, tomatoes) grilled until tender and charred, peeled and cut into strips, drizzled with olive oil and salt.",
+        "origin_story": "The name comes from 'escalivar' meaning 'to cook in ashes.' This ancient Catalan technique of roasting vegetables over coals imparts a distinctive smoky flavor. It's served as a side dish, on bread, or as part of larger meals.",
+        "where_to_find": "Can Ramonet, Rasoterra (vegetarian-focused), traditional Catalan restaurants in Gràcia"
+      },
+      {
+        "name": "Botifarra amb Mongetes",
+        "description": "Fat, spiced Catalan pork sausage (made according to Roman-era recipes) grilled and served with white beans sautéed with garlic and herbs. There are over 15 types of botifarra.",
+        "origin_story": "This hearty dish harks back to Roman times and is a cornerstone of Catalan cuisine. Unlike other Spanish sausages, botifarra contains no paprika, making it distinctly Catalan. The combination with white beans is a classic pairing found at Sunday family meals and traditional restaurants.",
+        "where_to_find": "Restaurante Portolés, Restaurante Cal Boter (family restaurant in Gràcia), Fonda Pepa"
+      },
+      {
+        "name": "Catalan Dishes with Fish and Meat Combined",
+        "description": "A notable characteristic of Catalan cuisine is combining fish and meat in the same dish—reflecting centuries of coastal-inland trade and creativity.",
+        "origin_story": "This unique practice distinguishes Catalan cooking from other Spanish regions. It reflects the geography where mountain meets Mediterranean, and the cultural openness to combining ingredients others keep separate.",
+        "where_to_find": "High-end Catalan restaurants, Els 4Gats (historic café where Picasso exhibited), traditional spots in Barceloneta"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vermouth (Vermut)",
+        "description": "Fortified wine steeped in herbs (sage, coriander, cinnamon, vanilla, rose, sandalwood, lemon, bitter orange peel). Barcelona invented Spanish vermouth in 1860.",
+        "how_locals_drink_it": "Served 'al grifo' (on tap from small barrels) in a small tumbler over a large ice cube with a slice of orange and an olive. 'La hora del vermut' is a well-established tradition—groups of friends meet at bars for the 'vermuteo,' especially before Sunday lunch. Many vermouths are house-made in small bars across Catalonia. The city of Reus in southern Catalonia has particularly strong vermouth traditions."
+      },
+      {
+        "name": "Cava",
+        "description": "Catalonia's sparkling wine, made in the same method as Champagne. First produced in 1872 when Barcelona experimented with the Champagne fermentation method.",
+        "how_locals_drink_it": "Cava is THE most popular drink for locals—it plays a central role in all special celebrations, family meals, and casual drinks with friends. Catalans drink cava with or without food. Brut Nature (extra dry, no added sugar) is preferred by most Catalans. Barcelona's proximity to Sant Sadurní d'Anoia and Vilafranca del Penedès—centers of cava production—means it's easy to get fresh cava casually."
+      },
+      {
+        "name": "Catalan Wine",
+        "description": "Spain is the 3rd-largest wine producer in the world. Popular Catalan wine regions: Penedès, Empordà, Montsant, and Priorat (both red and white).",
+        "how_locals_drink_it": "Often mixed with soda water from a siphon for an aperitif—a long-standing Catalan tradition of lightening wine."
+      },
+      {
+        "name": "Moritz Beer",
+        "description": "Barcelona's beer par excellence, first made in the early 19th century by a native of Alsace.",
+        "how_locals_drink_it": "While cava and vermouth dominate, Moritz is the local beer of choice at tapas bars and casual eateries."
+      }
+    ],
+    "food_culture_notes": [
+      "Catalan cuisine is NOT the same as Spanish cuisine—it has distinct traditions, ingredients, and techniques",
+      "Paella is Valencian, NOT Catalan—don't expect it at authentic Catalan restaurants!",
+      "Key Catalan characteristics: garlic in sauces, roasting vegetables for smoky flavor, pork sausages without paprika (fuet, butifarra)",
+      "Combining fish and meat in one dish is uniquely Catalan",
+      "Pa amb tomàquet appears at every meal as the foundation of Catalan eating",
+      "Vermouth hour (la hora del vermut) is a sacred social ritual, especially on Sundays",
+      "Cava is drunk casually and frequently—not just for special occasions",
+      "Barcelona's food scene mixes ancient Roman recipes (botifarra) with medieval traditions and modern creativity",
+      "The Gràcia neighborhood is particularly rich in authentic family-run Catalan restaurants",
+      "La Boqueria Market is the heart of Barcelona's fresh ingredient culture"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "La Boqueria Market's colorful stalls",
+      "Gràcia's narrow cobblestone streets",
+      "La Barceloneta waterfront",
+      "Historic taverns and cafés",
+      "Els 4Gats café (Picasso's hangout)",
+      "Gothic Quarter's medieval architecture"
+    ],
+    "atmosphere": [
+      "Small tumblers of vermouth with orange slices",
+      "Cava glasses at outdoor terraces",
+      "Grilled vegetables with char marks",
+      "Rustic bread and tomatoes at every table",
+      "Bustling tapas bars in narrow streets",
+      "Sunday vermuteo gatherings"
+    ],
+    "colors": [
+      "Deep red vermouth",
+      "Golden cava bubbles",
+      "Charred purple eggplant (escalivada)",
+      "Red tomato flesh on golden bread",
+      "Green olive oil",
+      "Bright orange slices in vermouth"
+    ],
+    "unique_modern": [
+      "Rasoterra's contemporary vegetarian Catalan cuisine",
+      "Fonda Pepa's exquisite reinterpretation of classics in Gràcia",
+      "Can Paixano's nostalgic old tavern atmosphere in Barceloneta",
+      "Modern cava bars with Sant Sadurní selections"
+    ]
+  },
+  "wikipedia_search_term": "Barcelona",
+  "keywords_for_image": [
+    "Barcelona La Boqueria market",
+    "Pa amb tomàquet",
+    "Catalan vermouth",
+    "Cava sparkling wine",
+    "Escalivada roasted vegetables",
+    "Gothic Quarter Barcelona",
+    "Mediterranean tapas"
+  ],
+  "coordinates": {
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Barcelona+🇪🇸/@41.3851,2.1734,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barcelona"
+  },
+  "location_id": 88
+}

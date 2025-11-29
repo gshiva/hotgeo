@@ -1,0 +1,94 @@
+{
+  "name": "Cairns",
+  "country": "Australia",
+  "region": "Queensland",
+  "fun_fact": "Fun fact: Cairns is the gateway to the Great Barrier Reef and has a thriving craft beer scene with breweries creating 'tropical ales' specifically designed to be refreshing in the humid climate. Some breweries even donate profits to reef conservation!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Barramundi and Reef Fish",
+        "description": "Fresh local barramundi and reef fish, flame-grilled or pan-seared, showcasing Queensland's pristine waters. Often served with tropical fruit salsas.",
+        "origin_story": "Barramundi is a prized Australian native fish, and Cairns' proximity to both the reef and tropical waters means access to the freshest catch.",
+        "where_to_find": "Dundee's on the Waterfront for fresh local seafood and flame-grilled specialties; Ochre Restaurant for modern Australian preparations with native ingredients"
+      },
+      {
+        "name": "Modern Australian Bushfood",
+        "description": "Innovative dishes using native Australian ingredients like kangaroo, crocodile, and Gulf of Carpentaria bugs, prepared with modern techniques.",
+        "origin_story": "Chef Craig Squire at Ochre pioneered modern Australian cuisine in Cairns since 1994, introducing bushfood to fine dining.",
+        "where_to_find": "Ochre Restaurant for kangaroo satays in macadamia sauce, octopus with lemon myrtle chimichurri, or bugs with papaya coconut salsa; Dundee's for kangaroo and crocodile specialties"
+      },
+      {
+        "name": "Atherton Tablelands Beef",
+        "description": "Premium steaks sourced from Cairns' backyard cattle stations on the fertile Atherton Tablelands, served with grilled bone marrow.",
+        "origin_story": "The Atherton Tablelands' rich volcanic soil and ideal climate produce some of Australia's finest beef, right in Cairns' backyard.",
+        "where_to_find": "CC's Bar and Grill (award-winning, famous for steak); NOA for innovative preparations using Tablelands produce"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Tropical Craft Beer",
+        "description": "Locally brewed ales and lagers designed for drinking in the tropics - crisp, refreshing, unfiltered and preservative-free.",
+        "how_locals_drink_it": "Head to Coral Sea Brewing Co. for their Tropic Ale or Tropic Lager (available throughout Cairns); Hemingway's Brewery for '7th Heaven' pale ale (profits support Great Barrier Reef conservation); Macalister Brewing in Smithfield for unpasteurised, naturally conditioned beers"
+      },
+      {
+        "name": "Tropical Gin",
+        "description": "Award-winning gins crafted with tropical botanicals like mango, finger lime, lemon myrtle, and macadamia from the region.",
+        "how_locals_drink_it": "Try Wolf Lane Distillery's Tropical Gin with 13 local botanicals; Narrow Tracks Distillery's signature Dry Gin made with Queensland sugarcane; Mt Uncle Distillery for native botanical spirits"
+      }
+    ],
+    "food_culture_notes": [
+      "Cairns showcases the best of reef-to-table seafood and rainforest-to-plate produce",
+      "Many restaurants champion Tablelands-grown fruit, dairy, and Outback cattle station beef",
+      "Native Australian ingredients like kangaroo, emu, crocodile are menu staples, not tourist gimmicks",
+      "The craft beer scene emphasizes sustainability and tropical refreshment",
+      "Multicultural influences from British colonial, Asian, and indigenous Australian cultures"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cairns Esplanade with ocean views",
+      "Great Barrier Reef access points",
+      "Rainforest backdrop",
+      "Waterfront dining venues",
+      "Atherton Tablelands vistas"
+    ],
+    "atmosphere": [
+      "Tropical humidity and lush greenery",
+      "Laid-back waterfront dining",
+      "Brewery taprooms with outdoor seating",
+      "Reef and rainforest gateway energy",
+      "Year-round ideal drinking weather"
+    ],
+    "colors": [
+      "Turquoise reef waters",
+      "Deep green rainforest",
+      "Golden tropical sunset",
+      "Red-orange barramundi",
+      "Amber craft beer"
+    ],
+    "unique_modern": [
+      "Breweries supporting reef conservation",
+      "Farm-to-table Tablelands produce movement",
+      "Native Australian ingredient innovation",
+      "Sustainable seafood focus"
+    ]
+  },
+  "wikipedia_search_term": "Cairns,_Queensland",
+  "keywords_for_image": [
+    "Cairns Australia tropical dining",
+    "Great Barrier Reef Cairns",
+    "Australian barramundi seafood",
+    "Cairns craft beer brewery",
+    "Atherton Tablelands Queensland",
+    "Tropical North Queensland cuisine"
+  ],
+  "coordinates": {
+    "lat": -16.9186,
+    "lng": 145.7781
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cairns+🇦🇺/@-16.9186,145.7781,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cairns,_Queensland"
+  },
+  "location_id": 82
+}

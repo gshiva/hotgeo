@@ -1,0 +1,94 @@
+{
+  "name": "Riga",
+  "country": "Latvia",
+  "fun_fact": "Fun fact: Riga's Central Market operates in five repurposed German Zeppelin hangars from World War I, making it one of the largest and most architecturally unique markets in Europe - and it's a UNESCO World Heritage Site alongside the Old Town.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pelēkie Zirņi ar Speķi (Grey Peas with Bacon)",
+        "description": "Latvia's national dish made with dried grey peas (similar to chickpeas in texture), crispy bacon, and caramelized onions. The peas are stewed until creamy and topped with crunchy speck.",
+        "origin_story": "Traditionally served at Christmas, this hearty peasant dish has been a Latvian staple for centuries. Grey peas are a heritage crop unique to the Baltic region, completely different from common green peas.",
+        "where_to_find": "Folkklubs Ala Pagrabs (in an old wine cellar), Old Traditions Restaurant (Vecās Tradīcijas), LIDO Vērmanītis"
+      },
+      {
+        "name": "Rupjmaize (Dark Rye Bread)",
+        "description": "Dense, slightly sweet dark rye bread with a deep, complex flavor. Often served with butter, local cheese, or honey.",
+        "origin_story": "Rye bread is sacred in Latvian culture, with traditions dating back over 1,000 years. The bread is made with a sourdough starter that families pass down through generations, and there's even a dessert version called rye bread pudding.",
+        "where_to_find": "Folkklubs Ala Pagrabs (famous for rye bread pudding), Riga Central Market bakery stalls"
+      },
+      {
+        "name": "Sklandrausis",
+        "description": "Traditional Latvian rye pastry filled with a sweet mixture of mashed carrots and potatoes, seasoned with caraway seeds.",
+        "origin_story": "This ancient recipe from the Kurzeme region is so culturally significant that it's on Latvia's protected cultural heritage list. The unusual carrot-potato filling reflects the resourcefulness of Latvian peasants.",
+        "where_to_find": "LIDO restaurants, Riga Central Market, Rozengrais"
+      },
+      {
+        "name": "Karbonāde (Latvian Pork Schnitzel)",
+        "description": "Breaded pork cutlet served with creamy mushroom sauce, typically accompanied by boiled potatoes and pickled vegetables.",
+        "origin_story": "A Soviet-era adaptation of the Austrian schnitzel that became distinctly Latvian through the addition of local forest mushroom sauce and traditional preparation methods.",
+        "where_to_find": "Milda (Michelin Bib Gourmand), Baltā Kaza (White Goat), Old Traditions Restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Riga Black Balsam",
+        "description": "A 45% alcohol herbal liqueur with a complex, bittersweet flavor made from 24 different herbs, roots, and berries.",
+        "how_locals_drink_it": "Traditionally consumed as a shot or mixed with blackcurrant juice or coffee. Locals swear by it as a cure for colds and digestive issues. Often served at room temperature or warm in winter."
+      },
+      {
+        "name": "Kvass",
+        "description": "Fermented rye bread drink with a slightly sour, malty taste and very low alcohol content.",
+        "how_locals_drink_it": "A popular summer refreshment sold from street vendors. Locals drink it ice-cold, straight from the tap at markets and festivals."
+      }
+    ],
+    "food_culture_notes": [
+      "Latvian cuisine emphasizes preserved foods - pickles, smoked fish, and fermented products are essential",
+      "Foraging culture is strong; mushrooms, berries, and wild herbs feature prominently in traditional dishes",
+      "The Soviet era influenced Latvian cuisine significantly, creating fusion dishes that are now considered traditional",
+      "Riga's Central Market is the beating heart of food culture - locals shop there daily for fresh, seasonal ingredients"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Art Nouveau district",
+      "House of the Blackheads",
+      "Riga Cathedral",
+      "Freedom Monument"
+    ],
+    "atmosphere": [
+      "cobblestone Old Town streets",
+      "medieval guild halls",
+      "Jugendstil facades",
+      "riverside promenades"
+    ],
+    "colors": [
+      "Baltic amber gold",
+      "terracotta red roofs",
+      "pastel building facades",
+      "deep forest green"
+    ],
+    "unique_modern": [
+      "Zeppelin hangar markets",
+      "converted wine cellar restaurants",
+      "rooftop bars in Old Town",
+      "contemporary Baltic cuisine movement"
+    ]
+  },
+  "wikipedia_search_term": "Riga",
+  "keywords_for_image": [
+    "Art Nouveau architecture",
+    "Baltic cuisine",
+    "medieval Old Town",
+    "grey peas",
+    "Riga Balsam"
+  ],
+  "coordinates": {
+    "lat": 56.9496,
+    "lng": 24.1052
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Riga+🇱🇻/@56.9496,24.1052,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riga"
+  },
+  "location_id": 267
+}

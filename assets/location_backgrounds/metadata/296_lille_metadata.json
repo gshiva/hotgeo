@@ -1,0 +1,94 @@
+{
+  "name": "Lille",
+  "country": "France",
+  "fun_fact": "Fun fact: Lille was the capital of Flanders for centuries, which is why its cuisine is more Belgian than French - you'll find more beer-based stews and waffles here than anywhere else in France, creating a delicious cultural identity crisis on every plate.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Carbonade Flamande",
+        "description": "Beef slow-cooked with lard, onions, herbs, and a sauce made with beer, sugar, mustard, and vinegar - served with homemade bread for soaking up the rich gravy",
+        "origin_story": "This Flemish beer stew is Lille's answer to French beef bourguignon, but using Belgian beer instead of wine. It reflects Lille's unique position as a French city with a Flemish soul",
+        "where_to_find": "Estaminet Aux Vieux de la Vielle, A Taaable, La Houblonnière"
+      },
+      {
+        "name": "Le Welsh",
+        "description": "Beer and cheese boiled together, poured over toast and ham, baked until golden brown, and topped with a fried egg",
+        "origin_story": "Lille's version of Welsh rarebit adds ham and beer, making it distinctly Flemish. It's the ultimate hangover cure and a test of how much rich food you can handle in one sitting",
+        "where_to_find": "Estaminet La Pate Brisee (10 minutes north of city center), traditional estaminets"
+      },
+      {
+        "name": "Potjevleesch (Le Potch)",
+        "description": "Various meats (pork, beef, veal, rabbit, or chicken) marinated and cooked together in beer or white wine with spices, served cold in vinegar gelatin",
+        "origin_story": "Translating to 'pot of meat', this dish represents Flemish resourcefulness - using whatever meats are available and preserving them in gelatin. It's an acquired taste that locals swear by",
+        "where_to_find": "L'Estaminet Le Rijsel, Le Barbue d'Anvers, Les Compagnons de la Grappe"
+      },
+      {
+        "name": "Gaufre Lilloise",
+        "description": "Thin, soft waffles filled with creamy vanilla or vergeoise (brown sugar) butter filling - delicate and subtly sweet",
+        "origin_story": "Created in the 18th century at Maison Meert, these waffles became famous when General de Gaulle (who was from Lille) had them shipped to Paris regularly. They're nothing like thick Belgian waffles",
+        "where_to_find": "Maison Meert (historic patisserie - the original since 1761)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Flemish Beer",
+        "description": "Belgian-style beers ranging from blonde ales to dark abbey beers, many brewed locally",
+        "how_locals_drink_it": "Beer is used in cooking and drinking equally in Lille. Locals pair specific beers with different dishes at estaminets, and debate beer choices as seriously as Parisians debate wine"
+      },
+      {
+        "name": "Chicory Coffee",
+        "description": "Coffee blended with roasted chicory root - slightly bitter and earthy",
+        "how_locals_drink_it": "Chicory coffee has been a Lille tradition since the Napoleonic blockade when coffee was scarce. Some traditionalists still prefer it to pure coffee"
+      }
+    ],
+    "food_culture_notes": [
+      "Estaminets are traditional Flemish restaurants with warm interiors, old objects on walls, and hop garlands hanging from ceilings",
+      "Lille's cuisine is predominantly Flemish, sharing more with Belgian and Dutch food than with Paris",
+      "The city has a thriving friteries culture - small fast-food spots where the specialty is perfectly crispy fries",
+      "Maroilles cheese from the region is so pungent it's banned on public transportation, but locals love it in tarts"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grand Place with Flemish architecture",
+      "Vieille Bourse old stock exchange",
+      "Citadel of Lille",
+      "Palais des Beaux-Arts"
+    ],
+    "atmosphere": [
+      "Flemish brick buildings",
+      "cobblestone streets in Vieux Lille",
+      "bustling market squares",
+      "cozy estaminet interiors with bric-a-brac"
+    ],
+    "colors": [
+      "red Flemish brick",
+      "warm amber beer",
+      "golden waffle filling",
+      "deep brown carbonade sauce"
+    ],
+    "unique_modern": [
+      "transformed industrial areas like Euralille",
+      "high-speed rail connecting to Brussels and Paris",
+      "thriving student population",
+      "annual Grande Braderie flea market"
+    ]
+  },
+  "wikipedia_search_term": "Lille",
+  "keywords_for_image": [
+    "Lille France",
+    "Grand Place Lille",
+    "Flemish architecture",
+    "carbonade flamande",
+    "estaminet"
+  ],
+  "coordinates": {
+    "lat": 50.6292,
+    "lng": 3.0573
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lille+🇫🇷/@50.6292,3.0573,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lille"
+  },
+  "location_id": 296
+}

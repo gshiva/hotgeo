@@ -1,0 +1,94 @@
+{
+  "name": "Chennai",
+  "country": "India",
+  "fun_fact": "Fun fact: Chennai (formerly Madras) is the birthplace of the modern Indian film industry - the first Indian feature film was made here in 1912, and the city produces more films annually than Bollywood. It's also home to Marina Beach, the second longest urban beach in the world!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Idli-Sambar-Chutney",
+        "description": "Fluffy fermented rice cakes with spiced lentil soup and coconut chutney",
+        "origin_story": "The holy trinity of South Indian breakfast - Chennai's idlis are legendarily soft. Murugan Idli Kadai is famous for serving nothing else",
+        "where_to_find": "Murugan Idli Kadai, Saravana Bhavan, Ratna Café (since 1948)"
+      },
+      {
+        "name": "Dosa (and its variations)",
+        "description": "Crispy fermented crepe - masala dosa stuffed with potato, paper dosa giant and thin, rava dosa with semolina",
+        "origin_story": "Chennai's dosa culture is serious - hotel tiffin (breakfast) is a daily ritual. Each restaurant has signature versions",
+        "where_to_find": "Saravana Bhavan, Hotel Saravana Bhavan (different!), Vasanta Bhavan"
+      },
+      {
+        "name": "Chettinad Chicken",
+        "description": "Fiery curry from the Chettinad region with 20+ spices, pepper-forward heat",
+        "origin_story": "From the Chettiar merchant community of Tamil Nadu - their spice trading history created this complex cuisine",
+        "where_to_find": "Ponnusamy Hotel, Anjappar (chain), Karaikudi restaurants"
+      },
+      {
+        "name": "Filter Kaapi",
+        "description": "Strong South Indian coffee brewed through a metal filter, mixed with hot milk and served in steel tumbler-davara",
+        "origin_story": "Chennai runs on filter coffee - the ritual of 'pulling' coffee between vessels creates froth and cools it",
+        "where_to_find": "Everywhere - Indian Coffee House, Madras Coffee House, every street corner"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Filter Coffee",
+        "description": "Strong decoction coffee with boiled milk, sweetened to taste",
+        "how_locals_drink_it": "Multiple times daily - the tumbler-davara pour is performance art"
+      },
+      {
+        "name": "Nannari Sherbet",
+        "description": "Sweet drink made from sarsaparilla root, pink and refreshing",
+        "how_locals_drink_it": "From street vendors in summer - essential Chennai heat relief"
+      }
+    ],
+    "food_culture_notes": [
+      "Vegetarian food dominates - Chennai is one of India's most vegetarian cities",
+      "Meals (rice with multiple curries on banana leaf) are the traditional lunch",
+      "Sowcarpet is the street food paradise - chaat, sundal, snacks galore",
+      "Saravana Bhavan started here and conquered the world (90+ countries)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Marina Beach",
+      "Kapaleeshwarar Temple",
+      "San Thome Basilica",
+      "Fort St. George"
+    ],
+    "atmosphere": [
+      "temple gopurams",
+      "beach promenade",
+      "film city buzz",
+      "classical arts hub"
+    ],
+    "colors": [
+      "temple tower colors",
+      "kolam chalk patterns",
+      "silk sari gold",
+      "beach sunrise orange"
+    ],
+    "unique_modern": [
+      "IT corridor",
+      "automobile hub",
+      "Kollywood film industry",
+      "classical music December season"
+    ]
+  },
+  "wikipedia_search_term": "Chennai",
+  "keywords_for_image": [
+    "idli sambar South Indian",
+    "Marina Beach Chennai",
+    "Kapaleeshwarar Temple",
+    "filter coffee",
+    "dosa crispy"
+  ],
+  "coordinates": {
+    "lat": 13.0827,
+    "lng": 80.2707
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Chennai+🇮🇳/@13.0827,80.2707,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chennai"
+  },
+  "location_id": 360
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Maastricht",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Maastricht is home to the oldest bookstore in the world that's still in business - Dominicanen, located inside a stunning 13th-century Gothic church, where you can browse books surrounded by soaring vaulted ceilings and original frescoes.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Zuurvlees",
+        "description": "Despite its name meaning 'sour meat', this isn't actually sour - it's a slow-cooked beef stew with a delightfully sweet and tangy flavor from a marinade using vinegar and apple butter, served with thick-cut fries",
+        "origin_story": "This iconic Limburg dish reflects the region's unique position at the crossroads of Dutch, Belgian, and German culinary traditions, with the apple butter technique dating back centuries to when fruit preservation was essential",
+        "where_to_find": "Café de Bóbbel, De Gouverneur"
+      },
+      {
+        "name": "Konijn op z'n Limburgs",
+        "description": "Rabbit cooked Limburg-style - slowly braised with prunes, gingerbread, and apple syrup creating a rich, savory-sweet masterpiece",
+        "origin_story": "This classic preparation showcases the Limburg tradition of combining savory meats with sweet fruit preserves and spiced bread, a culinary practice that goes back to medieval times when monasteries dominated the region",
+        "where_to_find": "Bistrot-Bar 't Wycker Cabinet, traditional Limburg restaurants"
+      },
+      {
+        "name": "Limburgse Vlaai",
+        "description": "A delicate shortcrust pie with various fruit fillings like cherry, apricot, or plum - the pride of Limburg's pastry tradition",
+        "origin_story": "Vlaai has been baked in Limburg for over 800 years, with each village developing its own signature filling. It's so important to local culture that it's traditionally served at every celebration",
+        "where_to_find": "Local bakeries throughout Maastricht, Café Sjiek"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Belgian Specialty Beers",
+        "description": "Over 300 varieties of Belgian beers ranging from Trappist ales to lambics",
+        "how_locals_drink_it": "At De Gouverneur, housed in a former brewery, locals settle in for long evenings sampling rare Belgian beers paired with cheese and charcuterie"
+      },
+      {
+        "name": "Koffie met Vlaai",
+        "description": "Strong Dutch coffee paired with a slice of Limburgse Vlaai",
+        "how_locals_drink_it": "This is the quintessential Maastricht afternoon ritual - locals take their time over coffee and pie, especially on weekends at traditional cafés"
+      }
+    ],
+    "food_culture_notes": [
+      "Maastricht's location at the Belgian-German border creates a unique tri-cultural cuisine",
+      "The city has a strong café culture where locals gather for gezelligheid (coziness)",
+      "Limburg cuisine emphasizes sweet-savory combinations more than the rest of the Netherlands",
+      "The city hosts one of Europe's finest food markets, the Vrijthof Market, on Wednesdays and Fridays"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Dominicanen bookstore in Gothic church",
+      "Sint Servaasbrug medieval bridge",
+      "Vrijthof square with cafés",
+      "Basilica of Saint Servatius"
+    ],
+    "atmosphere": [
+      "cobblestone streets with café terraces",
+      "medieval architecture with modern boutiques",
+      "canal-side dining",
+      "church bells and university energy"
+    ],
+    "colors": [
+      "warm amber streetlights",
+      "red brick Gothic architecture",
+      "deep burgundy Limburg flags",
+      "golden autumn leaves"
+    ],
+    "unique_modern": [
+      "bookstore in a church combining sacred and secular",
+      "thriving art galleries in historic buildings",
+      "Michelin-starred restaurants in former monasteries",
+      "underground Roman fortifications accessible for tours"
+    ]
+  },
+  "wikipedia_search_term": "Maastricht",
+  "keywords_for_image": [
+    "Maastricht Netherlands",
+    "Vrijthof square",
+    "Dominicanen bookstore",
+    "Limburgse vlaai",
+    "medieval Dutch architecture"
+  ],
+  "coordinates": {
+    "lat": 50.8514,
+    "lng": 5.6909
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Maastricht+🇳🇱/@50.8514,5.6909,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maastricht"
+  },
+  "location_id": 291
+}

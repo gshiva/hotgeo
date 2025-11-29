@@ -1,0 +1,94 @@
+{
+  "name": "Toronto",
+  "country": "Canada",
+  "fun_fact": "Fun fact: Toronto was nicknamed 'Hogtown' over 100 years ago due to its booming pork industry, and its signature Peameal Bacon Sandwich at St. Lawrence Market has been made the same way since the 1960s - fried peameal ends on a kaiser with honey mustard!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Peameal Bacon Sandwich",
+        "description": "Toronto's official dish - cornmeal-crusted pork loin on kaiser roll with honey mustard",
+        "origin_story": "Invented at St. Lawrence Market in the 1960s using butcher's peameal loin ends",
+        "where_to_find": "Carousel Bakery at St. Lawrence Market (the original), Paddington's Pump"
+      },
+      {
+        "name": "Chinese Dim Sum",
+        "description": "Steamed dumplings, bao buns, and small plates",
+        "origin_story": "Toronto has one of North America's largest Chinatowns",
+        "where_to_find": "Rol San, dim sum houses in Chinatown and Markham"
+      },
+      {
+        "name": "Jamaican Jerk Chicken",
+        "description": "Spicy marinated grilled chicken with Caribbean spices",
+        "origin_story": "Large Caribbean community brought authentic jerk culture",
+        "where_to_find": "Chris Jerk, Caribbean restaurants across the city"
+      },
+      {
+        "name": "Sushi Pizza",
+        "description": "Crispy rice base topped with salmon, tuna, and sushi toppings",
+        "origin_story": "Toronto fusion invention combining Japanese and Italian",
+        "where_to_find": "Japanese restaurants throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Caesar Cocktail",
+        "description": "Canada's national cocktail - vodka, Clamato, Worcestershire, hot sauce",
+        "how_locals_drink_it": "Brunch staple, often with elaborate garnishes"
+      },
+      {
+        "name": "Canadian Craft Beer",
+        "description": "Thriving local brewery scene",
+        "how_locals_drink_it": "At brewpubs and patios"
+      }
+    ],
+    "food_culture_notes": [
+      "St. Lawrence Market (since 1803) is the food heart of Toronto",
+      "200+ ethnic groups make Toronto one of world's most diverse food cities",
+      "Kensington Market for eclectic international food vendors",
+      "Distillery District for upscale dining in historic setting"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "CN Tower",
+      "St. Lawrence Market",
+      "Toronto skyline",
+      "Distillery District"
+    ],
+    "atmosphere": [
+      "multicultural neighborhoods",
+      "waterfront",
+      "historic brick buildings",
+      "food markets"
+    ],
+    "colors": [
+      "CN Tower gray",
+      "autumn maple red",
+      "brick red",
+      "lake blue"
+    ],
+    "unique_modern": [
+      "food halls",
+      "multicultural street festivals",
+      "patio culture"
+    ]
+  },
+  "wikipedia_search_term": "Toronto",
+  "keywords_for_image": [
+    "peameal bacon sandwich",
+    "dim sum",
+    "CN Tower",
+    "St. Lawrence Market",
+    "multicultural food scene",
+    "waterfront skyline"
+  ],
+  "coordinates": {
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Toronto+🇨🇦/@43.6532,-79.3832,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toronto"
+  },
+  "location_id": 15
+}

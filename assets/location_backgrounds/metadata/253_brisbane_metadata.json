@@ -1,0 +1,94 @@
+{
+  "name": "Brisbane",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Brisbane will host the 2032 Summer Olympics, and the city is already transforming its food scene from being Sydney and Melbourne's 'little brother' to a world-class culinary destination with its own identity.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Moreton Bay Bugs",
+        "description": "Sweet, succulent local lobster-like crustaceans from Moreton Bay, grilled or in garlic butter",
+        "origin_story": "These flat, bug-like creatures from Moreton Bay (right off Brisbane) are Queensland's seafood treasure. Despite the unappealing name, the tail meat is sweeter than lobster. They're so prized that they appear on fine dining menus across Australia, but eating them in Brisbane means they came from the water that morning.",
+        "where_to_find": "E'cco Bistro (Newstead - innovative modern Australian), The Fifty Six (CBD - vibrant Cantonese by Singapore-born chef Gerald Ong), Brisbane seafood restaurants"
+      },
+      {
+        "name": "Barramundi",
+        "description": "Australian native fish with firm, white flesh and buttery flavor, often grilled or pan-fried",
+        "origin_story": "Barramundi (meaning 'large-scaled river fish' in Aboriginal language) is Australia's iconic fish. It swims between fresh and salt water, giving it unique flavor. Queensland's warm waters produce excellent barra, and Brisbane chefs showcase it simply to let quality shine.",
+        "where_to_find": "Newstead area restaurants, Brisbane River dining spots, contemporary Australian restaurants"
+      },
+      {
+        "name": "Lamington",
+        "description": "Sponge cake squares dipped in chocolate, rolled in desiccated coconut - Australia's beloved tea cake",
+        "origin_story": "Queensland claims to have invented the lamington (though states argue about it). Named after Lord Lamington, a Queensland governor, or possibly his wife. These simple squares are Australian childhood nostalgia - found at every bake sale, school fete, and morning tea across the country.",
+        "where_to_find": "Local bakeries, cafes throughout Brisbane, Bonnie Doon Public House (serves Aussie classics with modern twist)"
+      },
+      {
+        "name": "Modern Australian Fusion",
+        "description": "Contemporary dishes blending Asian techniques with Australian ingredients - reflects Brisbane's Pacific location",
+        "origin_story": "Brisbane's food scene is building its own identity separate from Sydney and Melbourne. The city's proximity to Asia and abundance of local seafood create a unique style - think Cantonese techniques with Moreton Bay seafood, or Japanese precision with Australian beef.",
+        "where_to_find": "The Fifty Six (CBD - punchy Cantonese cuisine by chef from Hong Kong's Chairman restaurant), Marlowe (feels like stepping into 1938 home), Stilts Dining (Queensland's first bridge restaurant)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Australian Craft Beer",
+        "description": "Brisbane's emerging craft beer scene with tropical fruit-forward flavors",
+        "how_locals_drink_it": "Enjoyed ice-cold in Queensland's subtropical heat, often at riverside bars or rooftop venues. Brisbane's craft breweries experiment with local ingredients like finger limes and tropical fruits."
+      },
+      {
+        "name": "Flat White",
+        "description": "Australia's contribution to coffee culture - espresso with velvety microfoam milk",
+        "how_locals_drink_it": "Brisbane takes coffee seriously. Flat whites are the default morning order - smaller than a latte, stronger, with perfectly textured milk. Locals are particular about their favorite cafes and baristas."
+      }
+    ],
+    "food_culture_notes": [
+      "Brisbane's food scene is rapidly evolving toward 2032 Olympics - new restaurants like Stilts Dining (on a bridge!) and The Summit (million-dollar views) show ambition",
+      "Subtropical climate means outdoor dining year-round - riverside and rooftop venues are Brisbane's signature",
+      "The city celebrates 'Bush Tucker' - native Australian ingredients like finger limes, wattleseed, and macadamia nuts",
+      "Pavlova (meringue dessert) and lamington create friendly rivalry between Australian states about who invented them"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Story Bridge",
+      "South Bank Parklands",
+      "Brisbane River",
+      "Lone Pine Koala Sanctuary"
+    ],
+    "atmosphere": [
+      "subtropical warmth",
+      "river city lifestyle",
+      "outdoor dining culture",
+      "laid-back Queensland vibe"
+    ],
+    "colors": [
+      "jacaranda purple",
+      "Brisbane River brown",
+      "tropical green",
+      "sunburnt country gold"
+    ],
+    "unique_modern": [
+      "2032 Olympics host city",
+      "Stilts Dining on a bridge",
+      "Contemporary art scene",
+      "Rooftop bar culture"
+    ]
+  },
+  "wikipedia_search_term": "Brisbane",
+  "keywords_for_image": [
+    "Brisbane Story Bridge",
+    "Moreton Bay bugs seafood",
+    "Australian lamington",
+    "Brisbane River cityscape",
+    "Queensland subtropical"
+  ],
+  "coordinates": {
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Brisbane+🇦🇺/@-27.4698,153.0251,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brisbane"
+  },
+  "location_id": 253
+}

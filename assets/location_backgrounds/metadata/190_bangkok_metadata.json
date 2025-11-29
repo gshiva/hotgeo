@@ -1,0 +1,95 @@
+{
+  "name": "Bangkok",
+  "country": "Thailand",
+  "fun_fact": "Fun fact: Bangkok has the longest city name in the world - its ceremonial name in Thai has 169 letters! Thais call it 'Krung Thep' meaning 'City of Angels', and its street food scene was so celebrated that a $5 street stall won a Michelin star (Jay Fai, the legendary Ratchawong crab omelette lady)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pad Thai",
+        "description": "Stir-fried rice noodles with shrimp, tofu, egg, tamarind, fish sauce, and peanuts",
+        "origin_story": "Created in the 1930s-40s as a nation-building dish to promote Thai identity. Now the most famous Thai dish globally, but locals prefer other noodles",
+        "where_to_find": "Thip Samai (legendary, since 1966), Pad Thai Mae Am, street vendors on Khao San Road"
+      },
+      {
+        "name": "Tom Yum Goong",
+        "description": "Hot and sour soup with shrimp, lemongrass, galangal, kaffir lime, and chilies",
+        "origin_story": "The essential Thai flavor profile - sour, spicy, salty, sweet all at once. The creamy version adds coconut milk",
+        "where_to_find": "PE Aor (famous tom yum), Krua Apsorn, most restaurants"
+      },
+      {
+        "name": "Som Tam",
+        "description": "Green papaya salad pounded in a mortar with chili, lime, fish sauce, and tomatoes",
+        "origin_story": "Originally from Isaan (northeastern Thailand), now ubiquitous. The pounding in a mortar is key - the sound fills streets",
+        "where_to_find": "Som Tam Nua, street vendors everywhere, Isaan restaurants"
+      },
+      {
+        "name": "Khao Pad",
+        "description": "Thai fried rice with egg, vegetables, and your choice of meat",
+        "origin_story": "The everyday Thai meal - simple, quick, and satisfying. Often eaten for breakfast",
+        "where_to_find": "Every street vendor and restaurant - it's the default order"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Thai Iced Tea (Cha Yen)",
+        "description": "Strong black tea with condensed milk and evaporated milk over ice, bright orange color",
+        "how_locals_drink_it": "From street vendors in plastic bags with straws, or in tall glasses at restaurants"
+      },
+      {
+        "name": "Chang/Singha/Leo Beer",
+        "description": "Thailand's big three beers - light lagers perfect for spicy food",
+        "how_locals_drink_it": "Ice cold with ice cubes IN the beer - essential in Bangkok heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food is disappearing from some areas but Chinatown (Yaowarat) is still incredible",
+      "Thais eat 4-5 small meals daily rather than 3 big ones",
+      "Fish sauce (nam pla) is in everything - the signature Thai umami",
+      "Michelin-starred street food exists - Jay Fai, Raan Jay Fai"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grand Palace",
+      "Wat Arun",
+      "Wat Pho (Reclining Buddha)",
+      "Chatuchak Market"
+    ],
+    "atmosphere": [
+      "temple spires",
+      "night markets",
+      "tuk-tuks",
+      "street food smoke"
+    ],
+    "colors": [
+      "temple gold",
+      "saffron robes",
+      "chili red",
+      "Thai iced tea orange"
+    ],
+    "unique_modern": [
+      "floating markets",
+      "rooftop bars",
+      "mega malls",
+      "BTS skytrain"
+    ]
+  },
+  "wikipedia_search_term": "Bangkok",
+  "keywords_for_image": [
+    "pad thai street food",
+    "tom yum soup",
+    "Thai temple",
+    "street vendor wok",
+    "Grand Palace",
+    "night market"
+  ],
+  "coordinates": {
+    "lat": 13.7563,
+    "lng": 100.5018
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bangkok+🇹🇭/@13.7563,100.5018,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bangkok"
+  },
+  "location_id": 190
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Zadar",
+  "country": "Croatia",
+  "region": "Dalmatia",
+  "fun_fact": "Fun fact: Zadar is home to one of only two Sea Organs in the world (the other is in San Francisco) - marble steps that create music from wave action. Alfred Hitchcock declared Zadar's sunset 'the most beautiful in the world.' The city also invented Maraschino liqueur in 1759, earning royal endorsement from Queen Victoria in 1871 and making Zadar known as 'the city of liqueurs' by the 1800s.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dalmatian Peka",
+        "description": "Octopus or veal with potatoes slow-cooked under a bell-shaped iron lid covered in embers, creating tender, smoky perfection",
+        "origin_story": "This cooking method extends back at least 3,000 years to the late Bronze Age. Traditionally, Dalmatian families have special outdoor ovens for peka. The bell-shaped lid (peka) is buried in embers, cooking food with radiant heat and wood smoke - a technique unchanged for millennia.",
+        "where_to_find": "Konoba Rafaelo (signature dish), traditional konobas throughout Old Town. Must be ordered hours in advance as it cooks for 2-3 hours."
+      },
+      {
+        "name": "Pašticada",
+        "description": "Slow-cooked beef in sweet and sour sauce served with homemade gnocchi - Dalmatia's celebratory dish",
+        "origin_story": "Reserved for weddings, Christmas, and special events, pašticada is marinated in lemony vinaigrette then cooked slowly with vegetables for 4-6 hours. Every Dalmatian grandmother has her own secret recipe passed down through generations. The vegetables are blended into a thick, rich sauce.",
+        "where_to_find": "Konoba Dalmacija (located on Roman temple foundations), Foša restaurant (modern interpretation), family-run konobas"
+      },
+      {
+        "name": "Janje na Ražnju (Lamb on Spit)",
+        "description": "Whole lamb slow-roasted on a rotisserie over open fire, seasoned simply with salt and herbs",
+        "origin_story": "This method has been used for thousands of years in Dalmatia. What makes it exceptional is the quality of Pag island lamb - sheep graze on rocky terrain with wild herbs and sea salt spray, giving the meat a unique, gamey flavor that needs no sauce.",
+        "where_to_find": "Rural konobas, restaurants near Pag island, traditional Dalmatian celebrations"
+      },
+      {
+        "name": "Crni Rižot (Black Risotto)",
+        "description": "Creamy risotto made jet-black with cuttlefish ink, flavored with garlic, white wine, and Adriatic seafood",
+        "origin_story": "A signature Dalmatian dish showcasing the region's fishing heritage. The dramatic black color comes from cuttlefish ink sacs, which also add a subtle briny sweetness. It's messy to eat (you'll have black teeth) but locals consider this part of the experience.",
+        "where_to_find": "Foša (modern fine dining version), Konoba Trata (traditional), waterfront fish restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Maraschino Liqueur",
+        "description": "Clear cherry liqueur made from indigenous Marasca cherries, following a 16th-century Dominican monastery recipe",
+        "how_locals_drink_it": "Zadar's liquid pride since 1759. Only Zadar's Maraschino is made from true Marasca cherries (brought from Asia Minor by Romans in 1399). Sip it neat as a digestif or in coffee. Look for the Maraska brand, revived after WWII bombings destroyed most production facilities."
+      },
+      {
+        "name": "Dalmatian Wine",
+        "description": "Local wines from nearby vineyards, especially white wines paired with seafood",
+        "how_locals_drink_it": "Locals drink wine with every meal, especially crisp whites with grilled fish. Konoba restaurants take pride in their local vineyard connections. Wine is often served in simple carafes, emphasizing quality over presentation."
+      }
+    ],
+    "food_culture_notes": [
+      "Konoba culture: A konoba (from Latin 'canaba' meaning hut) is like an Italian trattoria - intimate, homely taverns often built into ancient stone cellars",
+      "Simplicity is key: Dalmatian cuisine relies on fresh ingredients with minimal spices - olive oil, garlic, and sea salt are the holy trinity",
+      "Coffee culture: Like all of Croatia, Zadar has intense coffee culture. Locals spend hours at cafes and staff never rush you",
+      "Fresh fish is grilled over open fire, seasoned only with local olive oil and Pag sea salt - the quality speaks for itself",
+      "Pag cheese (from nearby island) is world-renowned, made from sheep milk infused with wild herbs and sea spray"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sea Organ - marble steps creating music from waves",
+      "Sun Salutation - 22m solar panel disco floor",
+      "Roman Forum and Church of St. Donatus",
+      "16th-century Venetian city walls",
+      "Adriatic sunset (Hitchcock's favorite)"
+    ],
+    "atmosphere": [
+      "Stone konoba cellars with fig and olive trees",
+      "Waterfront dining at sunset",
+      "Bell-shaped peka lids over embers",
+      "Black risotto served in rustic bowls",
+      "Waves creating Sea Organ symphonies"
+    ],
+    "colors": [
+      "Jet black of cuttlefish risotto",
+      "Golden olive oil drizzled on grilled fish",
+      "Clear crystal of Maraschino liqueur",
+      "Sunset oranges and purples over the Adriatic",
+      "White stone of ancient Roman ruins"
+    ],
+    "unique_modern": [
+      "One of two Sea Organs in the world",
+      "3,000-year-old cooking techniques still in daily use",
+      "Maraschino production since 1759",
+      "Konoba Dalmacija built on Roman temple foundations",
+      "Coffee culture where time stands still"
+    ]
+  },
+  "wikipedia_search_term": "Zadar",
+  "keywords_for_image": [
+    "Zadar Sea Organ sunset",
+    "Dalmatian peka octopus",
+    "crni rizot black risotto",
+    "Maraschino liqueur Zadar",
+    "konoba dalmatia restaurant",
+    "Adriatic grilled fish",
+    "Pag island lamb"
+  ],
+  "coordinates": {
+    "lat": 44.1194,
+    "lng": 15.2314
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zadar+🇭🇷/@44.1194,15.2314,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zadar"
+  },
+  "location_id": 42
+}

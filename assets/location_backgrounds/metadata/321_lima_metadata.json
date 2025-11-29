@@ -1,0 +1,94 @@
+{
+  "name": "Lima",
+  "country": "Peru",
+  "fun_fact": "Fun fact: Lima is the second-largest desert city in the world after Cairo, yet it never rains - the coastal fog (garúa) creates perpetual grey skies from May to November, but ancient water canals built over 2,000 years ago by pre-Incan civilizations are still in use today.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ceviche",
+        "description": "Raw fish 'cooked' in lime juice with red onions, ají chili peppers, salt, and cilantro - served with sweet potato, choclo corn, and cancha (toasted corn)",
+        "origin_story": "Peru's national dish dates back to pre-Incan times when fishermen 'cooked' their catch in tumbo fruit juice. Modern ceviche uses lime (brought by Spanish) and was perfected in Lima. The crucial rule: eat it only at lunch when fish is freshest. Cevicherías close by 4pm - if they're open late, walk away.",
+        "where_to_find": "La Mar Cebichería by Gastón Acurio in Miraflores (flagship restaurant of Peru), Punto Azul (beloved by locals, expect lines), Canta Rana in Barranco (classic pub-style institution since forever), or Al Toke Pez (off-the-beaten-path local favorite)"
+      },
+      {
+        "name": "Anticuchos",
+        "description": "Grilled beef heart skewers marinated in ají panca (Peruvian red chili), cumin, garlic, and vinegar - charred on the outside, tender inside, served with potatoes and spicy ají sauce",
+        "origin_story": "Created by African slaves in colonial Lima who were given unwanted cuts like beef heart. They transformed this humble organ meat into Peru's most beloved street food using indigenous Andean spices. Now anticuchos are Peru's answer to yakitori - vendors set up charcoal grills on every street corner at sunset.",
+        "where_to_find": "Tío Mario in Barranco (with view of Bridge of Sighs), or street vendors across Lima who set up grills in late afternoon (look for the smoke and crowds)"
+      },
+      {
+        "name": "Lomo Saltado",
+        "description": "Stir-fried beef with tomatoes, onions, ají amarillo, soy sauce, served over french fries with rice - Peru's ultimate fusion dish",
+        "origin_story": "When Chinese immigrants arrived in 1849 to work plantations, they brought wok cooking techniques. Limeños added Peruvian beef, ají peppers, and tomatoes, creating this iconic chifa (Chinese-Peruvian) dish. The wok's high heat creates the essential 'sear' flavor, while fries absorb the savory sauce. It's on every menu from street stalls to fine dining.",
+        "where_to_find": "Any chifa restaurant in Lima's Chinatown (Barrio Chino), Surquillo Market food stalls, or upscale versions at restaurants like Central"
+      },
+      {
+        "name": "Causa Limeña",
+        "description": "Layered terrine of yellow potato purée with ají amarillo and lime, filled with chicken or tuna salad, avocado, and topped with hard-boiled eggs and olives",
+        "origin_story": "During Peru's war with Chile (1879-1884), women sold this potato dish to raise funds for 'la causa' (the cause) - hence the name. The dish showcases Peru's 4,000+ potato varieties and African, Spanish, and indigenous fusion. The bright yellow color comes from ají amarillo, Peru's most essential chili.",
+        "where_to_find": "La Mar, Canta Rana, or most cevicherías as a cold appetizer"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pisco Sour",
+        "description": "Peru's national cocktail made with pisco (grape brandy), lime juice, simple syrup, egg white, and Angostura bitters",
+        "how_locals_drink_it": "Limeños debate endlessly whether Peruvian or Chilean pisco is superior (it's Peru, obviously). The drink was invented in 1920s Lima by American bartender Victor Morris. It's served before lunch or at evening cocktail hour. The egg white creates signature foam, the bitters are dotted on top in artistic patterns. Never order just one."
+      },
+      {
+        "name": "Chicha Morada",
+        "description": "Purple corn drink made by boiling purple maize with pineapple, cinnamon, cloves, and lime - sweet, refreshing, and naturally vibrant purple",
+        "how_locals_drink_it": "This pre-Columbian drink is Peru's answer to soda - served ice-cold at every cevichería and home meal. The purple corn (maíz morado) is native to the Andes and packed with antioxidants. Street vendors sell it from large glass jugs. It's the traditional pairing with ceviche."
+      }
+    ],
+    "food_culture_notes": [
+      "Lima won 'World's Leading Culinary Destination' at 2023 World Travel Awards - gastronomic capital of Latin America",
+      "Ceviche timing is sacred: only eat it at lunch (11am-4pm) when fish is freshest from morning catch",
+      "Surquillo Market is where locals shop - explore fruits like lucuma, chirimoya, and aguaymanto you've never seen elsewhere",
+      "Nikkei cuisine (Japanese-Peruvian fusion) is huge in Lima - Japanese immigrants brought techniques that merged with Peruvian ingredients"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Plaza Mayor (Plaza de Armas) with Cathedral of Lima and Government Palace - Francisco Pizarro founded the city here in 1535",
+      "Huaca Pucllana - 1,500-year-old adobe pyramid in the middle of Miraflores neighborhood",
+      "Barranco's Bridge of Sighs (Puente de los Suspiros) and colorful bohemian streets",
+      "Real Felipe Fortress - built to defend against pirates including Sir Francis Drake (1579)"
+    ],
+    "atmosphere": [
+      "Perpetual grey fog (garúa) May-November, sunny December-April",
+      "Black vultures (gallinazos) circling overhead cleaning the city",
+      "Pacific Ocean waves at Costa Verde, Punta Hermosa - surfers catch morning sets before work",
+      "10 million people (one-third of Peru's population) creating South America's second-largest city"
+    ],
+    "colors": [
+      "grey fog and mist during garúa season",
+      "vibrant purple from chicha morada",
+      "bright yellow from ají amarillo and causa",
+      "colonial pastel buildings in Barranco"
+    ],
+    "unique_modern": [
+      "National University of San Marcos (founded 1551) - oldest continuously operating university in Western Hemisphere",
+      "Chapel Our Lady of the Rosary (1550) - world's smallest church with full altar, vault, and towers",
+      "Yellow underwear worn on New Year's Eve for good luck",
+      "Maido restaurant ranked #5 in World's 50 Best Restaurants 2024 for Nikkei cuisine"
+    ]
+  },
+  "wikipedia_search_term": "Lima",
+  "keywords_for_image": [
+    "ceviche peruvian lime",
+    "anticuchos beef heart skewers",
+    "lima plaza mayor cathedral",
+    "barranco bridge of sighs",
+    "pisco sour cocktail foam"
+  ],
+  "coordinates": {
+    "lat": -12.0464,
+    "lng": -77.0428
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lima+🇵🇪/@-12.0464,-77.0428,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lima"
+  },
+  "location_id": 321
+}

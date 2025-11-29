@@ -1,0 +1,94 @@
+{
+  "name": "Baku",
+  "country": "Azerbaijan",
+  "fun_fact": "Fun fact: Baku sits on the 'Land of Fire' - natural gas seeping from the ground has burned continuously for millennia at Yanar Dag (Burning Mountain), and ancient Zoroastrians built fire temples here because the flames never went out!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Plov (Pilaf)",
+        "description": "Saffron rice with lamb, dried fruits, and chestnuts - Azerbaijan's national dish",
+        "origin_story": "At least 40 varieties exist in Azerbaijan. Baku's version often includes lamb, saffron, and caramelized onions. UNESCO Intangible Cultural Heritage",
+        "where_to_find": "Şirvanşah Muzey Restoran, Firuze, traditional restaurants in Old City"
+      },
+      {
+        "name": "Kebab (Kabab)",
+        "description": "Grilled lamb or beef skewers, often minced (lula kebab) or cubed",
+        "origin_story": "Azerbaijan claims the world's best kebabs, cooked over charcoal mangal grills. Sumac and raw onions essential",
+        "where_to_find": "Mangal Steak House, Dolma, restaurants throughout the city"
+      },
+      {
+        "name": "Qutab",
+        "description": "Thin stuffed flatbread filled with meat, herbs, or pumpkin",
+        "origin_story": "The most popular street food - like a thin folded crepe filled with greens (göy qutab) or meat",
+        "where_to_find": "Qız Qalası Restaurant, street vendors, Lahıc village (famous for qutab)"
+      },
+      {
+        "name": "Dolma",
+        "description": "Grape leaves or vegetables stuffed with spiced lamb and rice",
+        "origin_story": "Azerbaijanis claim dolma originated here - the word comes from Turkish 'dolmak' (to fill). Also UNESCO listed",
+        "where_to_find": "Dolma restaurant, Şirvanşah, Old City restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Azerbaijani Tea",
+        "description": "Black tea served in pear-shaped armudu glasses with sugar cubes and jam",
+        "how_locals_drink_it": "All day, every day. Tea is sipped through a sugar cube held in the mouth. Armudu glasses keep tea hot at bottom, cool at top"
+      },
+      {
+        "name": "Sherbet",
+        "description": "Sweet fruit drinks made from pomegranate, cherry, or other fruits",
+        "how_locals_drink_it": "Cold and refreshing, especially in summer"
+      }
+    ],
+    "food_culture_notes": [
+      "Hospitality is sacred - guests are treated like royalty",
+      "Pomegranates are national symbol - used in everything from juice to sauces",
+      "Saffron is grown locally and used generously",
+      "Tea houses (çayxana) are social hubs for men"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Flame Towers",
+      "Old City (İçərişəhər)",
+      "Maiden Tower",
+      "Heydar Aliyev Center"
+    ],
+    "atmosphere": [
+      "ancient meets ultramodern",
+      "Caspian Sea waterfront",
+      "fire symbolism everywhere",
+      "oil wealth architecture"
+    ],
+    "colors": [
+      "flame orange",
+      "Caspian blue",
+      "Old City stone",
+      "Flame Tower lit up"
+    ],
+    "unique_modern": [
+      "Zaha Hadid architecture",
+      "Formula 1 street circuit",
+      "oil boom luxury"
+    ]
+  },
+  "wikipedia_search_term": "Baku",
+  "keywords_for_image": [
+    "plov saffron rice",
+    "kebab on mangal",
+    "Flame Towers",
+    "Old City walls",
+    "Caspian Sea",
+    "armudu tea glass"
+  ],
+  "coordinates": {
+    "lat": 40.4093,
+    "lng": 49.8671
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Baku+🇦🇿/@40.4093,49.8671,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baku"
+  },
+  "location_id": 192
+}

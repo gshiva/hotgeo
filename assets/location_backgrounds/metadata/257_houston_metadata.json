@@ -1,0 +1,94 @@
+{
+  "name": "Houston",
+  "country": "USA",
+  "fun_fact": "Fun fact: Houston is the most diverse city in America (more diverse than NYC) and has over 10,000 restaurants representing 70+ countries - you can eat authentic food from Nigeria, Vietnam, or Venezuela all in one neighborhood.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Texas BBQ Brisket",
+        "description": "Slow-smoked beef brisket with a peppery bark, tender and juicy from 12+ hours over mesquite or oak wood",
+        "origin_story": "Texas BBQ is religion, and Houston takes it seriously. Brisket is the king - rubbed simply with salt and pepper, smoked low and slow until it develops the prized 'bark' (crispy exterior) while staying moist inside. The technique came from German and Czech immigrants who brought smoking traditions to Texas.",
+        "where_to_find": "The Pit Room (Montrose - rustic patio, mesquite-smoked brisket, jalapeño cheddar sausage, brisket tacos on housemade flour tortillas), Loro (Asian-Texan smokehouse from Franklin BBQ and Uchi minds - smoked brisket with Thai herbs)"
+      },
+      {
+        "name": "Tex-Mex Fajitas",
+        "description": "Sizzling grilled beef or chicken served on a hot cast-iron skillet with peppers, onions, warm tortillas, and all the fixings",
+        "origin_story": "Houston helped popularize fajitas across America. What started as humble skirt steak transformed into a Tex-Mex staple. El Tiempo Cantina has perfected them for 65 years - prime Niman Ranch beef sizzling dramatically when served. It's theater and dinner combined.",
+        "where_to_find": "El Tiempo Cantina (65 years perfecting Tex-Mex, helped popularize fajitas nationwide - casual atmosphere for groups and families), The Original Ninfa's on Navigation (historic Tex-Mex institution), Candente (Montrose - Mexican meets BBQ swagger)"
+      },
+      {
+        "name": "Breakfast Tacos",
+        "description": "Warm flour tortillas filled with scrambled eggs, cheese, bacon or chorizo, potatoes, and salsa - Texas morning fuel",
+        "origin_story": "Breakfast tacos are Houston morning culture. Taco trucks park across the city serving fresh tacos made to order - locals line up before work. The combination of eggs, meat, cheese, and salsa in a warm tortilla is perfect portable breakfast. Some trucks have legendary status.",
+        "where_to_find": "Taco trucks throughout the city (no-frills truck across from popular ice houses - cash-only, always buzzing, legendary barbacoa and lengua tacos), Tacos Doña Lena (The Heights - authentic Mexican, family recipe from Salamanca Guanajuato since 1985)"
+      },
+      {
+        "name": "Viet-Cajun Crawfish",
+        "description": "Boiled crawfish in garlic-butter sauce with Vietnamese spices - Houston's unique fusion creation",
+        "origin_story": "Houston's Vietnamese community created Viet-Cajun cuisine by combining Louisiana's crawfish boils with Vietnamese garlic, lemongrass, and chili flavors. This fusion is uniquely Houston - born from the city's incredible diversity when different immigrant communities mixed culinary traditions.",
+        "where_to_find": "Vietnamese restaurants in Midtown and Chinatown areas - look for crawfish boils with garlic-butter sauce and Asian spices"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Frozen Margarita",
+        "description": "Icy blended tequila, lime, and triple sec - Tex-Mex essential",
+        "how_locals_drink_it": "Served in massive goblets at Tex-Mex restaurants, often with salt rim. Locals order them by the pitcher for tables. They 'go down way too easy' according to Houstonians, perfect for humid Texas heat."
+      },
+      {
+        "name": "Shiner Bock",
+        "description": "Texas-made amber lager from tiny Shiner, Texas - state pride in a bottle",
+        "how_locals_drink_it": "Ice-cold at BBQ joints and Tex-Mex spots. Supporting local Texas breweries is point of pride. Pairs perfectly with brisket and fajitas."
+      }
+    ],
+    "food_culture_notes": [
+      "Houston claims to have the best Mexican food in America - even better than LA or San Diego, according to locals",
+      "The city's diversity means authentic international food from Ethiopia to El Salvador, often in strip malls",
+      "Montrose, The Heights, and East End are top food neighborhoods - short drive or walk to multiple cuisines",
+      "Tex-Mex and BBQ aren't just food - they're cultural identity. Houstonians are passionate about their favorite spots"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Space Center Houston",
+      "Downtown skyline",
+      "Buffalo Bayou",
+      "Museum District"
+    ],
+    "atmosphere": [
+      "sprawling metro",
+      "humid subtropical",
+      "cultural diversity",
+      "oil industry wealth"
+    ],
+    "colors": [
+      "Astros orange",
+      "Texas sunset",
+      "BBQ smoke",
+      "neon Tex-Mex signs"
+    ],
+    "unique_modern": [
+      "Most diverse city in America",
+      "James Beard Award restaurants",
+      "Street art scene",
+      "NASA connection"
+    ]
+  },
+  "wikipedia_search_term": "Houston",
+  "keywords_for_image": [
+    "Houston Texas skyline",
+    "BBQ brisket smoke",
+    "Tex-Mex fajitas sizzling",
+    "Space Center Houston",
+    "Texas flag"
+  ],
+  "coordinates": {
+    "lat": 29.7604,
+    "lng": -95.3698
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Houston+🇺🇸/@29.7604,-95.3698,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Houston"
+  },
+  "location_id": 257
+}

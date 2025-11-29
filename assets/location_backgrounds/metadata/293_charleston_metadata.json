@@ -1,0 +1,94 @@
+{
+  "name": "Charleston",
+  "country": "United States",
+  "fun_fact": "Fun fact: Charleston just received its first-ever Michelin stars in 2025 - three restaurants earned one star each, making it the newest American city to join the prestigious Michelin Guide, with all recognized spots showcasing authentic Lowcountry flavors.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Shrimp and Grits",
+        "description": "Creamy stone-ground grits topped with fresh local shrimp, usually in a rich sauce with bacon, onions, and peppers",
+        "origin_story": "This Lowcountry classic evolved from a simple breakfast fishermen ate before heading out on the water. Charleston chefs elevated it to fine dining status in the 1980s, and it's now the city's signature dish",
+        "where_to_find": "The Swamp Fox at Francis Marion Hotel (award-winning version), Hank's Seafood, Slightly North of Broad (S.N.O.B.)"
+      },
+      {
+        "name": "She-Crab Soup",
+        "description": "Rich, creamy soup made with blue crab meat and roe, flavored with sherry and topped with a delicate crab foam",
+        "origin_story": "Created in Charleston in the early 1900s when a butler to Mayor Goodwyn Rhett added crab roe to basic crab soup to make it more elegant for a presidential visit. The roe gives it a distinctive orange color",
+        "where_to_find": "The Swamp Fox (remarkable version), Hank's Seafood, Poogan's Porch"
+      },
+      {
+        "name": "Lowcountry Boil",
+        "description": "A communal feast of shrimp, corn, potatoes, and smoked sausage boiled together with Old Bay seasoning, then dumped on newspaper-covered tables",
+        "origin_story": "Also called Frogmore Stew, this one-pot meal originated in nearby Beaufort and represents the Lowcountry's tradition of casual, communal dining where everyone gathers around the table",
+        "where_to_find": "Leon's Fine Poultry and Oysters, local backyard cookouts, The Darling"
+      },
+      {
+        "name": "Carolina Gold Rice Dishes",
+        "description": "Heritage rice dishes showcasing Carolina Gold rice - a variety that built Charleston's plantation economy and is now making a culinary comeback",
+        "origin_story": "Carolina Gold rice made Charleston one of the wealthiest cities in colonial America. Chef Jason Stanhope at Lowland and other chefs are reviving this heritage grain in modern Lowcountry cooking",
+        "where_to_find": "Lowland (Chef Jason Stanhope), Middleton Place Restaurant (grown on-site)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sweet Tea",
+        "description": "Heavily sweetened black tea served ice-cold - it's practically sacred in the South",
+        "how_locals_drink_it": "Locals drink gallons of it, especially in summer. It's on every table, at every meal, and the debate over the proper sugar-to-tea ratio is taken very seriously"
+      },
+      {
+        "name": "Charleston Light Dragoon Punch",
+        "description": "A historic cocktail made with rum, brandy, champagne, and tea - served at fancy receptions",
+        "how_locals_drink_it": "This 18th-century punch was the drink of Charleston's elite military society. It's still served at elegant Charleston events and high-end restaurants"
+      }
+    ],
+    "food_culture_notes": [
+      "Lowcountry cuisine blends West African, French, English, and Native American influences",
+      "Farm-to-table is a way of life - chefs have close relationships with local farmers and fishermen",
+      "The 2025 Michelin Guide recognition included 3 one-star restaurants and 3 Bib Gourmand awards",
+      "Charleston has won more James Beard Awards than any other Southern city its size"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Rainbow Row pastel houses",
+      "Charleston City Market",
+      "Waterfront Park pineapple fountain",
+      "Fort Sumter"
+    ],
+    "atmosphere": [
+      "palmetto trees swaying",
+      "horse-drawn carriages on cobblestones",
+      "harbor breezes",
+      "church steeples dominating skyline"
+    ],
+    "colors": [
+      "soft pastels of Rainbow Row",
+      "deep Charleston green shutters",
+      "golden sunset over harbor",
+      "white columned porches"
+    ],
+    "unique_modern": [
+      "James Beard Award-winning chefs",
+      "rooftop bars overlooking historic district",
+      "craft cocktail renaissance",
+      "Michelin-starred restaurants in 200-year-old buildings"
+    ]
+  },
+  "wikipedia_search_term": "Charleston,_South_Carolina",
+  "keywords_for_image": [
+    "Charleston South Carolina",
+    "Rainbow Row",
+    "shrimp and grits",
+    "Lowcountry cuisine",
+    "historic Charleston waterfront"
+  ],
+  "coordinates": {
+    "lat": 32.7765,
+    "lng": -79.9311
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Charleston+🇺🇸/@32.7765,-79.9311,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charleston,_South_Carolina"
+  },
+  "location_id": 293
+}

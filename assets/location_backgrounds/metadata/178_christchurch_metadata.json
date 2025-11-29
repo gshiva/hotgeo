@@ -1,0 +1,95 @@
+{
+  "name": "Christchurch",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: After the devastating 2011 earthquake, Christchurch rebuilt using shipping containers as shops, cafés, and art galleries - the Re:START Mall became a symbol of resilience and innovation, turning disaster into the world's coolest container city!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Canterbury Lamb",
+        "description": "Grass-fed lamb from the Canterbury Plains, roasted simply to showcase its quality",
+        "origin_story": "New Zealand lamb is world-famous, and Canterbury's vast plains produce some of the finest. Often served with mint sauce or rosemary",
+        "where_to_find": "Pescatore at The George, Twenty Seven Steps, Roots Restaurant"
+      },
+      {
+        "name": "Green-Lipped Mussels",
+        "description": "New Zealand's unique native mussel species, larger and sweeter than Mediterranean varieties",
+        "origin_story": "Found only in NZ waters, these mussels are sustainably farmed in the Marlborough Sounds nearby",
+        "where_to_find": "Pier 59, Bamboozle, seafood restaurants citywide"
+      },
+      {
+        "name": "Whitebait Fritters",
+        "description": "Delicate fritters made with tiny transparent juvenile fish, bound with egg",
+        "origin_story": "A New Zealand delicacy - whitebaiting season (August-November) is taken very seriously. Sold by the kilo at premium prices",
+        "where_to_find": "Seasonal at upscale restaurants, South Island West Coast towns"
+      },
+      {
+        "name": "Paua Fritters",
+        "description": "Fritters made from paua (abalone) - a shellfish with iridescent shell",
+        "origin_story": "Paua is taonga (treasure) to Māori, the shells used for traditional carving. Meat is tough unless tenderized",
+        "where_to_find": "Specialist seafood restaurants, Kaikōura"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Flat White",
+        "description": "Espresso with steamed milk - claimed invented in NZ and Australia simultaneously",
+        "how_locals_drink_it": "THE coffee order - Christchurch has excellent specialty coffee culture post-earthquake"
+      },
+      {
+        "name": "Canterbury Wine",
+        "description": "Cool-climate wines from nearby Waipara Valley, especially Pinot Noir and Riesling",
+        "how_locals_drink_it": "Waipara is just 50km away - wine tourism is popular"
+      }
+    ],
+    "food_culture_notes": [
+      "Earthquake rebuild brought innovative dining - containers, pop-ups, and new concepts",
+      "Farm-to-table is the norm - local produce is exceptional",
+      "Māori hāngi (earth oven) experiences available in the region",
+      "No tipping culture in NZ - prices include service"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cardboard Cathedral",
+      "Botanic Gardens",
+      "Port Hills",
+      "Punting on the Avon River"
+    ],
+    "atmosphere": [
+      "rebuilt modern architecture",
+      "English garden city heritage",
+      "street art",
+      "container innovation"
+    ],
+    "colors": [
+      "garden green",
+      "river blue",
+      "Port Hills brown",
+      "rebuild colorful"
+    ],
+    "unique_modern": [
+      "earthquake rebuild architecture",
+      "Cardboard Cathedral",
+      "container mall",
+      "street art murals"
+    ]
+  },
+  "wikipedia_search_term": "Christchurch",
+  "keywords_for_image": [
+    "Canterbury lamb",
+    "green-lipped mussels",
+    "flat white coffee",
+    "Cardboard Cathedral",
+    "container architecture",
+    "Avon River"
+  ],
+  "coordinates": {
+    "lat": -43.5321,
+    "lng": 172.6362
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Christchurch+🇳🇿/@-43.5321,172.6362,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christchurch"
+  },
+  "location_id": 178
+}

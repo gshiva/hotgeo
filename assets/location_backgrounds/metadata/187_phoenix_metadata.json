@@ -1,0 +1,94 @@
+{
+  "name": "Phoenix",
+  "country": "USA",
+  "fun_fact": "Fun fact: The Sonoran hot dog was invented in the Phoenix-Tucson corridor by Mexican immigrants who wrapped bacon around a hot dog and loaded it with pinto beans, onions, tomatoes, jalapeños, and mayo in a bolillo bread - it's now Arizona's signature street food!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sonoran Hot Dog",
+        "description": "Bacon-wrapped hot dog in a soft bolillo roll, topped with pinto beans, onions, tomatoes, jalapeños, mustard, mayo, and often fresh salsa verde",
+        "origin_story": "Created by Mexican vendors in the 1980s-90s, blending American hot dogs with Mexican street food traditions. Now found at dozens of dedicated stands",
+        "where_to_find": "El Güero Canelo (Tucson, James Beard Award), Nogales Hot Dogs, street vendors citywide"
+      },
+      {
+        "name": "Chimichanga",
+        "description": "Deep-fried burrito - essentially a burrito that took a bath in hot oil",
+        "origin_story": "Possibly invented in Arizona (Tucson and Phoenix both claim it). The story says a burrito accidentally fell into the fryer",
+        "where_to_find": "Macayo's (claims invention), El Charro Café, Mexican restaurants citywide"
+      },
+      {
+        "name": "Cheese Crisp",
+        "description": "Thin flour tortilla covered with melted cheese, baked until crispy - Arizona's quesadilla",
+        "origin_story": "A Sonoran specialty that's more like a pizza than a quesadilla - thin, crispy, and often huge",
+        "where_to_find": "Los Sombreros, Carolina's Mexican Food, traditional Arizona Mexican restaurants"
+      },
+      {
+        "name": "Navajo Fry Bread",
+        "description": "Deep-fried dough that puffs up into pillowy bread, served sweet or savory",
+        "origin_story": "Created by Navajo people in the 1860s using government-issued flour rations. Now cultural icon served as Navajo tacos",
+        "where_to_find": "Fry Bread House, Native American cultural events, state fairs"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Prickly Pear Margarita",
+        "description": "Margarita made with prickly pear cactus fruit, giving it a stunning magenta color",
+        "how_locals_drink_it": "At sunset patios throughout Scottsdale and Phoenix - the color matches Arizona sunsets"
+      },
+      {
+        "name": "Arizona Craft Beer",
+        "description": "Desert brewing scene is thriving with local hops and citrus-forward styles",
+        "how_locals_drink_it": "At Four Peaks, Arizona Wilderness, or rooftop bars with mountain views"
+      }
+    ],
+    "food_culture_notes": [
+      "Sonoran Mexican food differs from Tex-Mex - more grilled meats, flour tortillas, beans",
+      "Phoenix is America's 5th largest city with food to match",
+      "Date palms produce local dates used in many desserts and shakes",
+      "Year-round outdoor dining thanks to 300+ days of sunshine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Camelback Mountain",
+      "Desert Botanical Garden",
+      "Papago Park",
+      "Taliesin West"
+    ],
+    "atmosphere": [
+      "saguaro cactus",
+      "desert sunsets",
+      "mountain backdrop",
+      "Spanish Colonial revival"
+    ],
+    "colors": [
+      "sunset orange",
+      "saguaro green",
+      "desert tan",
+      "prickly pear magenta"
+    ],
+    "unique_modern": [
+      "urban sprawl",
+      "pool culture",
+      "spring training baseball",
+      "snowbird destination"
+    ]
+  },
+  "wikipedia_search_term": "Phoenix,_Arizona",
+  "keywords_for_image": [
+    "Sonoran hot dog",
+    "chimichanga",
+    "saguaro cactus",
+    "desert sunset",
+    "Camelback Mountain"
+  ],
+  "coordinates": {
+    "lat": 33.4484,
+    "lng": -112.074
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Phoenix+🇺🇸/@33.4484,-112.074,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phoenix,_Arizona"
+  },
+  "location_id": 187
+}

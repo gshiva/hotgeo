@@ -1,0 +1,94 @@
+{
+  "name": "Krakow",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Krakow is the birthplace of the bagel (obwarzanek krakowski) and was Poland's capital for over 500 years - it escaped WWII virtually undestroyed, preserving its medieval beauty when Warsaw was leveled.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi",
+        "description": "Dumplings stuffed with potato and cheese (ruskie), meat, sauerkraut and mushrooms, or sweet fillings - Poland's national dish",
+        "origin_story": "Pierogi are to Poland what pasta is to Italy - fundamental. Each filling has meaning: ruskie (Russian-style with potato and cheese) is most popular, meat for hearty meals, sauerkraut and mushrooms for Christmas Eve. Families gather to fold hundreds together, and everyone has their grandmother's recipe that's 'the best.'",
+        "where_to_find": "Pierogarnia Krakowiacy (traditional Polish dining - arrive at noon when they open or face long lines out the door), Przypiecek (one of few 24-hour Krakow restaurants, 20 different types), Wręga Pub (fries their pierogi to perfection - order the 27-piece platter with 3 kinds)"
+      },
+      {
+        "name": "Zapiekanka",
+        "description": "Long baguette topped with sautéed mushrooms, cheese, and ketchup - Poland's 1970s fast food answer",
+        "origin_story": "Born in communist Poland's 1970s as quick, affordable food before McDonald's arrived. The Plac Nowy market square in Kazimierz (Jewish Quarter) became zapiekanka central - vendors compete with secret sauces and creative toppings. It's street food elevated to Krakow tradition.",
+        "where_to_find": "Plac Nowy market square (Kazimierz - iconic zapiekanka stalls, each with secret sauce), Zapieksy King, Bar Mleczny Plac Nowy, Zapiekanki BarOko (try 'Niebo w Gebie' - sausage, tomato, sheep cheese, spring onion, mushrooms, spicy sauce), Bar Namaxa"
+      },
+      {
+        "name": "Obwarzanek Krakowski",
+        "description": "Twisted, chewy bread rings sprinkled with poppy seeds, sesame seeds, or salt - Krakow's 14th-century bagel ancestor",
+        "origin_story": "These rings pre-date the bagel and have been sold on Krakow streets since the 14th century. Legend says Jewish immigrants took this recipe to New York, creating the modern bagel. The twist pattern and boiling before baking are techniques that crossed the Atlantic. It's living culinary history.",
+        "where_to_find": "Blue carts around Rynek Główny (Main Square) and Wawel Castle - sold by older vendors from little blue-framed stalls, particularly good heated with butter"
+      },
+      {
+        "name": "Żurek",
+        "description": "Sour rye soup with sausage, hard-boiled egg, and potatoes, often served in an edible bread bowl",
+        "origin_story": "This ancient Polish soup has a fermented rye base that gives it distinctive sour tang. Traditionally eaten at Easter but available year-round in Krakow. The combination of sour broth, smoky sausage, and creamy egg creates complex, satisfying flavors that warm you from inside.",
+        "where_to_find": "Bar Mleczny pod Temida (centrally located Old Town - great Żurek), U Babci Maliny (favorite restaurant in Krakow), traditional milk bars"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Żubrówka (Bison Grass Vodka)",
+        "description": "Vodka flavored with bison grass from Białowieża Forest - smooth, slightly sweet, with vanilla notes",
+        "how_locals_drink_it": "Often mixed with apple juice to make 'Tatanka' or 'Szarlotka' (apple pie shot). The bison grass gives subtle sweetness. It's distinctly Polish - the grass grows only in protected ancient forest where Europe's last wild bison roam."
+      },
+      {
+        "name": "Polish Beer",
+        "description": "Tyskie, Żywiec, Okocim - local lagers that are point of regional pride",
+        "how_locals_drink_it": "Served cold at pubs and restaurants. Beer culture in Poland is serious but casual - locals drink it with meals and while socializing. Cheaper than Western Europe, quality is excellent."
+      }
+    ],
+    "food_culture_notes": [
+      "Krakow literally invented the bagel - obwarzanek krakowski dates to the 1300s, centuries before bagels appeared in America",
+      "Plac Nowy in Kazimierz is zapiekanka central - the stalls compete for 'best' status with creative toppings and secret sauces",
+      "Arrive at popular pierogi restaurants right when they open (noon) or expect to wait in line",
+      "Kiełbaski z Niebieskiej Nyski - family-run stand with blue van near Kazimierz serves legendary grilled kielbasa 7 PM-midnight"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Wawel Castle",
+      "Rynek Główny (Main Square)",
+      "St. Mary's Basilica",
+      "Kazimierz (Jewish Quarter)"
+    ],
+    "atmosphere": [
+      "medieval fairytale city",
+      "university town vibe",
+      "Jewish heritage",
+      "undestroyed by WWII"
+    ],
+    "colors": [
+      "Wawel Castle brick red",
+      "Main Square twilight gold",
+      "obwarzanek poppy seed",
+      "pierogi dough white"
+    ],
+    "unique_modern": [
+      "Birthplace of the bagel",
+      "Spielberg's Schindler's List locations",
+      "Vibrant Jewish Quarter revival",
+      "Salt mine chandelier"
+    ]
+  },
+  "wikipedia_search_term": "Kraków",
+  "keywords_for_image": [
+    "Krakow Main Square",
+    "Polish pierogi",
+    "obwarzanek bagel",
+    "Wawel Castle",
+    "medieval Poland"
+  ],
+  "coordinates": {
+    "lat": 50.0647,
+    "lng": 19.945
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Krakow+🇵🇱/@50.0647,19.945,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraków"
+  },
+  "location_id": 261
+}

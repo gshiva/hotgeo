@@ -1,0 +1,121 @@
+{
+  "name": "Tunis",
+  "country": "Tunisia",
+  "region": "North Africa",
+  "fun_fact": "Fun fact: Harissa - the fiery chili paste now famous worldwide - actually originated in Tunisia! In 2022, harissa's knowledge, skills, and culinary practices were inscribed on UNESCO's Intangible Cultural Heritage list. And Tunis sits next to ancient Carthage, with ruins dating to 1000 B.C.!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Brik à l'Œuf",
+        "description": "Delicate pastry filled with tuna, egg, and herbs, fried to golden crispy perfection with a runny egg inside",
+        "origin_story": "Thought to date back to the Ottoman Empire, brik is now ubiquitous Tunisian street food. The goal with your first bite is to find the runny egg and drink the juices! Crispy outside, oozing with flavor inside - a beloved appetizer and street food favorite.",
+        "where_to_find": "El Ali (rustic medina location with cultural heritage and panoramic views), nearly any fast food stand around Tunisia, street markets in the Medina of Tunis"
+      },
+      {
+        "name": "Couscous (Kosksi)",
+        "description": "Tunisia's national treasure - spicier than other North African versions, with tender lamb, fish, or chicken cooked with vegetables in fragrant cumin, coriander, and harissa sauce",
+        "origin_story": "Unlike its North African neighbors, Tunisian couscous is based on tomato sauce (not turmeric) and almost never contains fruits (raisins being rare exception). The traditional way is with meat, vegetables, and chickpeas. Expect VERY large portions!",
+        "where_to_find": "Dar Belhadj (famous couscous au lamb with tender meat and aromatic spices, candlelit ambiance with intricately tiled walls), El Ali (couscous au poisson - hearty seafood version), La SafSaf in La Marsa (8-10 TND average cost)"
+      },
+      {
+        "name": "Lablabi",
+        "description": "Rustic chickpea stew flavored with garlic, cumin, and olive oil, served with crusty bread and a poached egg",
+        "origin_story": "A beloved street food and breakfast dish representing Tunisia's resourceful, flavorful cuisine. The warming chickpea stew is comfort food at its finest.",
+        "where_to_find": "Street vendors and cafés throughout Tunis medina, especially popular for breakfast"
+      },
+      {
+        "name": "Mechouia Salad",
+        "description": "Grilled vegetable salad with tomatoes, peppers, and onions, dressed with olive oil and spices",
+        "origin_story": "A classic Tunisian starter showcasing Mediterranean influences blended with North African spices",
+        "where_to_find": "Fondouk El Attarine (beautifully restored medina building), traditional Tunisian restaurants"
+      },
+      {
+        "name": "Fresh Seafood",
+        "description": "Catch of the day, simply grilled and perfectly cooked",
+        "origin_story": "Tunisia's Mediterranean coastline provides exceptional fresh seafood, grilled with simple but flavorful accompaniments",
+        "where_to_find": "Chez Slah (unassuming seafood institution on quiet street, reputation draws diners from everywhere), Le Golfe (fine dining with Mediterranean Sea views)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mint Tea (Thé à la Menthe)",
+        "description": "Sweet mint tea often topped with toasted pine nuts or almonds",
+        "how_locals_drink_it": "Flows through daily life as a symbol of hospitality! Similar to Moroccan tea but often topped with pine nuts or almonds for extra flavor. Usually pre-mixed with sugar and can be very sweet. Tunisia has deep-rooted café culture where men and women gather to socialize, drink mint tea with pine nuts, and discuss politics or football."
+      },
+      {
+        "name": "Tunisian Wine",
+        "description": "Local wines from Tunisian vineyards",
+        "how_locals_drink_it": "Available at restaurants and wine bars, pairing with Mediterranean-influenced Tunisian cuisine"
+      }
+    ],
+    "food_culture_notes": [
+      "Tunisian cuisine reflects crossroads of civilizations: Arabic, Berber, Mediterranean, and French influences",
+      "Harissa (fiery chili paste with garlic, olive oil, spices) is a culinary cornerstone - UNESCO Intangible Cultural Heritage!",
+      "Brik eating technique: Find the runny egg with your first bite and drink the juices",
+      "Couscous portions are VERY large - come hungry!",
+      "Deep-rooted café culture: gathering in public spaces for mint tea, socializing, politics, football discussions",
+      "Market bargaining expected in medinas",
+      "Carry cash (Tunisian dinars) - cards may not be accepted in small shops",
+      "Learning a few French or Arabic phrases helps for daily interactions",
+      "The Medina of Tunis (UNESCO-listed) offers bustling street markets with spices, produce, local delicacies",
+      "Carthage International Festival brings world performers to Roman amphitheatre - music, theatre, dance under stars"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Medina of Tunis (UNESCO-listed, centered around Zitouna Mosque)",
+      "Ancient Carthage ruins (UNESCO, dating to 1000 B.C.)",
+      "El Djem Amphitheater (one of best-preserved Roman arenas)",
+      "Zitouna Mosque",
+      "Narrow medina streets and souks",
+      "Mediterranean coastline"
+    ],
+    "atmosphere": [
+      "Bustling medina markets with spices and textiles",
+      "Intricately tiled walls in traditional restaurants",
+      "Candlelit ambiance in dars (traditional houses)",
+      "Vibrant souks filled with crafts and aromas",
+      "Café culture with mint tea conversations",
+      "Roman ruins overlooking the sea at Carthage"
+    ],
+    "colors": [
+      "Golden fried brik pastry",
+      "Red harissa chili paste",
+      "Bright green mint tea",
+      "Terracotta and blue tile work",
+      "Saffron yellow couscous",
+      "Turquoise Mediterranean waters"
+    ],
+    "unique_modern": [
+      "UNESCO Intangible Cultural Heritage (harissa, 2022)",
+      "Crossroads of civilizations (Berber, Phoenician, Roman, Arab, Ottoman, French)",
+      "Mint tea with pine nuts or almonds",
+      "Café culture discussing politics and football",
+      "Carthage Festival in Roman amphitheatre under stars",
+      "Brik technique: drinking the runny egg juices on first bite",
+      "Medina maze of narrow streets and endless shops"
+    ]
+  },
+  "wikipedia_search_term": "Tunis",
+  "keywords_for_image": [
+    "brik tunisian egg pastry",
+    "tunis medina souks spices",
+    "tunisian couscous harissa",
+    "carthage ruins mediterranean tunisia",
+    "mint tea pine nuts tunisia",
+    "tunis zitouna mosque",
+    "harissa chili paste tunisia",
+    "tunisian tile work medina",
+    "el djem amphitheater tunisia",
+    "tunis traditional dar restaurant"
+  ],
+  "coordinates": {
+    "lat": 36.8065,
+    "lng": 10.1815
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tunis+🇹🇳/@36.8065,10.1815,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tunis"
+  },
+  "location_id": 135
+}

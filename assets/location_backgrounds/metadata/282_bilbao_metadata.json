@@ -1,0 +1,94 @@
+{
+  "name": "Bilbao",
+  "country": "Spain",
+  "fun_fact": "Fun fact: The pintxo (Basque tapas) bar crawl called 'txikiteo' is a Bilbao tradition where locals hop from bar to bar on Friday and Saturday nights - but unlike typical pub crawls, the focus is equally on the artful, bite-sized pintxos as it is on drinking, creating a social dining ritual unique to Basque Country.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gilda",
+        "description": "The original pintxo created 60+ years ago - a simple skewer with Spanish chili pepper (guindilla), an olive, and an anchovy. Briny, spicy, perfect.",
+        "origin_story": "Named after Rita Hayworth's character in the 1946 film 'Gilda,' this pintxo is 'green, salty, and a little spicy' - just like the femme fatale. The Gilda bar in Bilbao specializes in this classic, offering 19 different variations.",
+        "where_to_find": "Gilda (modern pintxos bar specializing in this classic), Cafe Bar Bilbao (classic pintxos since 1879)"
+      },
+      {
+        "name": "Bacalao al Pil Pil",
+        "description": "Salt cod cooked in olive oil with garlic and chili peppers, creating a thick, emulsified sauce through technique alone (no cream or flour).",
+        "origin_story": "A Basque culinary masterpiece that showcases technique over ingredients. The sauce forms from the cod's gelatin emulsifying with olive oil, creating a creamy texture through gentle swirling. It's cooking as chemistry and art.",
+        "where_to_find": "Rio Oja (classical Basque restaurant specializing in traditional cod), traditional Basque restaurants throughout Bilbao"
+      },
+      {
+        "name": "Txuleta (Basque Steak)",
+        "description": "Locally sourced beef, grilled over charcoal to perfection. The Basque cut and preparation emphasize the quality of the meat.",
+        "origin_story": "Basque Country takes beef seriously - the local cattle breeds and grilling techniques create steaks that rival anywhere in the world. It's about respecting the ingredient and the fire.",
+        "where_to_find": "Asador Etxebarri (30 minutes from Bilbao in Axpe, world-renowned for grilling), traditional asadores"
+      },
+      {
+        "name": "Idiazabal Cheese Soup at Gure Toki",
+        "description": "Award-winning soup featuring the nutty, smoky sheep's milk cheese from the Basque region.",
+        "origin_story": "Gure Toki's signature dish showcases Idiazabal, a Basque PDO cheese traditionally smoked over hawthorn or cherry wood. This soup won awards for elevating a traditional cheese into contemporary pintxo culture.",
+        "where_to_find": "Gure Toki (tucked in Plaza Nueva corner, award-winning pintxos)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Txakoli",
+        "description": "Lightly sparkling Basque white wine with high acidity and low alcohol, traditionally poured from height to aerate.",
+        "how_locals_drink_it": "Poured dramatically from above head-height to create bubbles and aerate the wine. Perfect with pintxos, especially seafood. The theatrical pouring is part of the experience."
+      },
+      {
+        "name": "Kalimotxo",
+        "description": "Red wine mixed with cola - sounds weird, tastes surprisingly good. A Basque invention that's now popular across Spain.",
+        "how_locals_drink_it": "Mixed 50/50, served over ice. Popular with younger crowds and at festivals. While it sounds like sacrilege, locals swear by it as a refreshing drink for hot days."
+      }
+    ],
+    "food_culture_notes": [
+      "Pintxos cost €2-5 each and are meant to be eaten with hands while standing at the bar",
+      "The txikiteo (pintxo bar crawl) is a Friday/Saturday night ritual - groups hop from bar to bar tasting various dishes",
+      "Plaza Nueva in the Old Town is pintxo central, but locals also love the Ribera Market area",
+      "Bilbao has three Michelin-starred Azurmendi nearby, but the soul of Basque food is in pintxo bars"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Guggenheim Museum",
+      "Casco Viejo (Old Town)",
+      "Zubizuri Bridge",
+      "Plaza Nueva"
+    ],
+    "atmosphere": [
+      "pintxo bar energy",
+      "industrial port heritage",
+      "contemporary art scene",
+      "Basque cultural pride"
+    ],
+    "colors": [
+      "Guggenheim titanium silver",
+      "Nervión River green",
+      "old town terracotta",
+      "bar counter wood tones"
+    ],
+    "unique_modern": [
+      "avant-garde architecture",
+      "Michelin-starred sustainability",
+      "pintxo innovation",
+      "Bilbao renaissance"
+    ]
+  },
+  "wikipedia_search_term": "Bilbao",
+  "keywords_for_image": [
+    "Guggenheim Museum",
+    "pintxos",
+    "Basque cuisine",
+    "txakoli wine",
+    "modern architecture"
+  ],
+  "coordinates": {
+    "lat": 43.263,
+    "lng": -2.935
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bilbao+🇪🇸/@43.263,-2.935,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bilbao"
+  },
+  "location_id": 282
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Paro",
+  "country": "Bhutan",
+  "fun_fact": "Fun fact: Paro Airport is considered one of the world's most dangerous airports - only 24 pilots in the entire world are certified to land there, navigating between 5,500-meter peaks with no radar assistance, using only visual navigation!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ema Datshi",
+        "description": "Bhutan's fiery national dish - large green chilies cooked in a rich yak or cow cheese sauce",
+        "origin_story": "Bhutanese don't use chilies as a spice, they treat them as a VEGETABLE. This dish appears at virtually every meal and is central to national identity",
+        "where_to_find": "Every restaurant in Paro, hotel restaurants, local family homes"
+      },
+      {
+        "name": "Phaksha Paa",
+        "description": "Strips of pork cooked with dried red chilies and bok choy or radish",
+        "origin_story": "Pork is preserved by drying in the mountain air, then cooked with chilies - a hearty dish for cold Himalayan winters",
+        "where_to_find": "Traditional restaurants in Paro town, Bukhari Restaurant"
+      },
+      {
+        "name": "Red Rice",
+        "description": "Bhutanese red rice with a nutty flavor and slightly sticky texture",
+        "origin_story": "Grown in the high-altitude Paro Valley, this unique rice is a staple accompaniment to every meal",
+        "where_to_find": "Served everywhere - it's THE rice of Bhutan"
+      },
+      {
+        "name": "Momos",
+        "description": "Tibetan-style dumplings filled with meat or cheese, steamed or fried",
+        "origin_story": "Brought from Tibet, momos have become a beloved snack throughout Bhutan",
+        "where_to_find": "Street vendors, cafés, hotel restaurants throughout Paro"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Suja (Butter Tea)",
+        "description": "Tea churned with yak butter and salt, high in calories for cold mountain life",
+        "how_locals_drink_it": "Served continuously to guests as a sign of hospitality - it's impolite to let a cup go empty"
+      },
+      {
+        "name": "Ara",
+        "description": "Traditional Bhutanese rice wine or spirit, varies from mild to very potent",
+        "how_locals_drink_it": "Homemade in many villages, shared at celebrations and with guests"
+      }
+    ],
+    "food_culture_notes": [
+      "Bhutan prioritizes Gross National Happiness over GDP - reflected in unhurried meals",
+      "Every meal includes chilies - Bhutanese have an incredibly high spice tolerance",
+      "Doma (betel nut) is widely chewed and offered as hospitality",
+      "Eating with hands is traditional, though utensils are common now"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tiger's Nest Monastery (Taktsang)",
+      "Paro Dzong",
+      "Rinpung Dzong",
+      "National Museum"
+    ],
+    "atmosphere": [
+      "prayer flags fluttering",
+      "Buddhist monasteries on cliffs",
+      "terraced rice paddies",
+      "Himalayan peaks"
+    ],
+    "colors": [
+      "monastery white and red",
+      "prayer flag colors",
+      "rice terrace green",
+      "mountain blue"
+    ],
+    "unique_modern": [
+      "world's only carbon-negative country",
+      "TV introduced only in 1999",
+      "last Himalayan kingdom"
+    ]
+  },
+  "wikipedia_search_term": "Paro,_Bhutan",
+  "keywords_for_image": [
+    "ema datshi chili cheese",
+    "Tiger's Nest monastery",
+    "Bhutanese dzong",
+    "prayer flags",
+    "Himalayan mountains",
+    "Buddhist temple"
+  ],
+  "coordinates": {
+    "lat": 27.4287,
+    "lng": 89.4164
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Paro+🇧🇹/@27.4287,89.4164,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paro,_Bhutan"
+  },
+  "location_id": 175
+}

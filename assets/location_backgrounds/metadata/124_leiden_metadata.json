@@ -1,0 +1,112 @@
+{
+  "name": "Leiden",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Leiden is the birthplace of Rembrandt (born 1606) and home to the oldest university in the Netherlands (founded 1575), which has produced 16 Nobel Laureates! The city has over 110 wall poems displayed on buildings in various languages.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stamppot",
+        "description": "Classic Dutch comfort food - mashed potatoes mixed with either kale, sauerkraut, endives, or a combination of onions and carrots (called 'hutspot'), traditionally served with smoked sausage (rookworst) and gravy.",
+        "origin_story": "A Dutch staple that represents the country's hearty, no-nonsense approach to food - filling, warming, and perfect for the Dutch winter.",
+        "where_to_find": "'t Wapen van Leiden (quintessentially Dutch brasserie with traditional flavors and hearty portions), WAAG (historic building offering traditional meals)"
+      },
+      {
+        "name": "Erwtensoep (Pea Soup)",
+        "description": "A thick, hearty Dutch pea soup with recipes dating back to the 16th century, considered a staple comfort food especially in winter months.",
+        "origin_story": "One of the oldest Dutch recipes still popular today, traditionally so thick that a spoon should stand upright in it.",
+        "where_to_find": "Traditional Dutch restaurants and cafes throughout Leiden, especially popular in winter"
+      },
+      {
+        "name": "Dutch Pancakes",
+        "description": "Large savory pancakes with customizable toppings (bacon, cheese, vegetables), or sweet pancakes with syrup and powdered sugar - much larger and thinner than American pancakes.",
+        "origin_story": "A beloved Dutch tradition that can be eaten for lunch or dinner, not just breakfast.",
+        "where_to_find": "Pancake houses throughout Leiden, cafes along the canals"
+      },
+      {
+        "name": "Leidsche Koek",
+        "description": "A Leiden-specific cookie specialty that comes in two flavors: the original cookie with chocolate filling and a chocolate cookie with white chocolate filling.",
+        "origin_story": "Started as a school project when a young owner found an old recipe at a bakery museum - now the perfect souvenir from Leiden.",
+        "where_to_find": "Local bakeries in Leiden - ask for Leidsche Koek specifically"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dutch Beer",
+        "description": "The Netherlands has a strong beer culture with many local and national brands.",
+        "how_locals_drink_it": "Enjoyed during the popular Dutch 'borrel' - evening drinks with friends and colleagues, accompanied by kaasplankje (cheese board) and borrelgarnituur (snack platter)."
+      },
+      {
+        "name": "Coffee with Stroopwafel",
+        "description": "Traditional Dutch coffee served with a stroopwafel (syrup waffle) placed on top of the mug to warm up the caramel syrup inside.",
+        "how_locals_drink_it": "Place the stroopwafel on top of your hot tea or coffee mug to warm it, then enjoy the gooey syrup center."
+      }
+    ],
+    "food_culture_notes": [
+      "The Dutch 'borrel' (drinks and snacks with friends/colleagues) is a regular social event",
+      "Leiden is called 'Little Amsterdam' for its canals but without overwhelming crowds",
+      "The city blends history with a vibrant culinary scene from cozy bistros to upscale dining",
+      "University town atmosphere means lots of student-friendly cafes and casual eateries",
+      "Many restaurants have canalside terraces for dining with scenic views",
+      "Kaasplankje (cheese board) is a standard part of Dutch social eating"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Leiden University (founded 1575) - oldest in the Netherlands, Academy building on Rapenburg canal",
+      "Burcht van Leiden - 11th-century circular fortification on 12-meter artificial hill",
+      "Rembrandt Bridge at his birthplace in Weddesteeg neighborhood",
+      "Hortus Botanicus Leiden (1590) - one of world's oldest botanical gardens, introduced first Dutch tulip",
+      "Rapenburg canal - considered the finest street in Leiden",
+      "Over 110 wall poems displayed on buildings in various languages",
+      "Leiden Observatory - oldest working observatory in the world"
+    ],
+    "atmosphere": [
+      "Picturesque canals with 88 bridges (28 kilometers of waterways)",
+      "Historic university town with student energy",
+      "Pretty courtyard gardens and hundreds of monuments",
+      "Charming streets less crowded than Amsterdam",
+      "Rembrandt heritage and 17th-century history",
+      "Connection to the Pilgrims who lived here 1609-1620 before sailing to America"
+    ],
+    "colors": [
+      "Red brick Dutch architecture",
+      "Green canal water reflecting historic buildings",
+      "Colorful flower markets and botanical garden blooms",
+      "White clouds over Dutch waterways",
+      "Golden-brown stroopwafels and Dutch pancakes",
+      "Orange - Dutch national color"
+    ],
+    "unique_modern": [
+      "28 kilometers of canals - the most canals after Amsterdam",
+      "88 bridges for pedestrians and cars across the waterways",
+      "Rembrandt was born here in 1606 and spent his first 20 years in the city",
+      "Every year around July 15, Leiden transforms into a magical 17th-century city for Rembrandt's birthday",
+      "William of Orange founded the university in 1575 as reward for the city's resistance against Spanish siege",
+      "When Rembrandt was born, Leiden had 10,000 people; by 1600 it grew to 22,000, making it the biggest city after Amsterdam",
+      "The Leiden jar (early electrical capacitor) was invented here",
+      "Pilgrims lived in Leiden for over a decade before sailing to Plymouth, Massachusetts"
+    ]
+  },
+  "wikipedia_search_term": "Leiden",
+  "keywords_for_image": [
+    "Leiden canals Netherlands",
+    "Rembrandt birthplace",
+    "Dutch university town",
+    "Rapenburg canal",
+    "Burcht van Leiden",
+    "Dutch stroopwafel",
+    "Netherlands windmill",
+    "botanical garden tulips",
+    "Dutch architecture",
+    "wall poems Leiden"
+  ],
+  "coordinates": {
+    "lat": 52.1601,
+    "lng": 4.497
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Leiden+🇳🇱/@52.1601,4.497,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leiden"
+  },
+  "location_id": 124
+}

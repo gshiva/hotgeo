@@ -1,0 +1,103 @@
+{
+  "name": "Yogyakarta",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Yogyakarta is the only city in Indonesia still ruled by a Sultan! The current Sultan Hamengku Buwono X is also the provincial governor, and the royal palace (Keraton) built in 1755 remains a living palace where traditional Javanese ceremonies, gamelan music, and wayang puppet shows continue daily.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gudeg",
+        "description": "Yogyakarta's signature dish - young unripe jackfruit (gori) cooked slowly for hours with coconut milk and Javanese palm sugar until tender and sweet. The brown Javanese curry is served with rice, chicken, boiled duck egg, tofu, tempeh, and krecek (spicy cattle skin stew). It's distinctively sweet compared to other Indonesian dishes.",
+        "origin_story": "Gudeg has been Yogyakarta's soul food for generations, with recipes passed down through families since the Mataram Sultanate era. The slow-cooking process (often 4-6 hours) and sweet palm sugar flavor reflect Javanese patience and preference for subtle, sweet tastes.",
+        "where_to_find": "Gudeg Yu Djum (most famous, 7 locations, open since 1951 - known for being the sweetest version), Gudeg Pawon (traditional village-style kitchen, open only 3 hours at night, food served directly from hot pots), Gudeg Yu Narni (since 1996), and street stalls along Malioboro Street"
+      },
+      {
+        "name": "Sate Klathak",
+        "description": "Skewered grilled goat meat seasoned with unique spice blend, served with spicy sauce. Unlike typical Indonesian satay, the meat is grilled on iron skewers (not bamboo) over charcoal.",
+        "origin_story": "Traditional Javanese street food that showcases the local preference for goat meat and charcoal grilling techniques.",
+        "where_to_find": "Street vendors throughout Yogyakarta, especially near Malioboro Street and Pasar Beringharjo market"
+      },
+      {
+        "name": "Royal Palace Cuisine at Bale Raos",
+        "description": "Authentic dishes once reserved for the Sultan's table, including traditional Javanese delicacies prepared using centuries-old royal recipes. Features rare spice combinations and elaborate cooking techniques preserved by palace chefs.",
+        "origin_story": "Founded to preserve and share the unique culinary heritage of the Yogyakarta Palace (Keraton). These flavors were once only enjoyed by the Sultan and royal family.",
+        "where_to_find": "Bale Raos restaurant near Taman Sari Water Castle - the only restaurant in Yogyakarta specializing in authentic palace cuisine"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Es Dawet Ayu",
+        "description": "Traditional Javanese sweet drink with rice flour jelly (cendol), coconut milk, and palm sugar syrup served over shaved ice. Refreshing and cooling in tropical heat.",
+        "how_locals_drink_it": "Enjoyed throughout the day, especially in the afternoon heat. Found at Pasar Beringharjo market and street vendors."
+      },
+      {
+        "name": "Wedang Ronde",
+        "description": "Hot ginger drink with glutinous rice balls filled with crushed peanuts and palm sugar. Warming and aromatic.",
+        "how_locals_drink_it": "Traditional evening drink, especially popular during rainy season. Street vendors sell it from carts at night."
+      }
+    ],
+    "food_culture_notes": [
+      "Food in Yogyakarta is remarkably affordable: street food costs IDR 10,000-20,000 (~$0.60-1.20 USD), mid-range meals IDR 50,000-100,000 (~$3-6 USD)",
+      "Malioboro Street is the culinary heartbeat - bustling with gudeg stalls, lumpia carts, and authentic Jogja street food at every corner",
+      "Pasar Beringharjo is one of the oldest markets in Jogja and a paradise for local food lovers, perfect for sampling traditional Javanese snacks",
+      "Javanese cuisine uses palm sugar extensively, giving many dishes a distinctive sweet flavor profile unlike other Indonesian regions",
+      "Street food culture is central - locals prefer eating at humble warungs and night stalls rather than fancy restaurants",
+      "Batik patterns and Javanese arts are deeply connected to food culture - traditional markets sell both textiles and street food side by side"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Keraton (Sultan's Palace) - grand Javanese architecture with symbolic courtyards",
+      "Taman Sari Water Castle",
+      "Prambanan and Borobudur temples nearby",
+      "Mount Merapi volcano backdrop",
+      "Malioboro Street bustling with vendors",
+      "Traditional becak (cycle rickshaws) with colorful decorations"
+    ],
+    "atmosphere": [
+      "Humid tropical warmth with monsoon rains",
+      "Bustling street markets with aromatic spices",
+      "Gamelan music and wayang puppet performances",
+      "Colorful batik fabrics hanging in markets",
+      "Steam rising from gudeg cooking pots",
+      "Motorcycle traffic weaving through ancient streets"
+    ],
+    "colors": [
+      "Brown and amber (gudeg's signature color)",
+      "Deep indigo and batik blues",
+      "Golden yellows from turmeric and palm sugar",
+      "Emerald green rice paddies",
+      "Terracotta temple stones",
+      "Vibrant market produce colors"
+    ],
+    "unique_modern": [
+      "Fusion of ancient Javanese culture with modern Indonesian life",
+      "University town vibe (Gadjah Mada University)",
+      "Instagram-worthy cafes in colonial Dutch buildings",
+      "Street art murals celebrating Javanese heritage",
+      "Night markets with LED lights and traditional food carts",
+      "Batik fashion worn by young Indonesians with modern styles"
+    ]
+  },
+  "wikipedia_search_term": "Yogyakarta",
+  "keywords_for_image": [
+    "gudeg yogyakarta",
+    "keraton palace yogyakarta",
+    "javanese batik",
+    "malioboro street",
+    "indonesian street food",
+    "mount merapi",
+    "wayang puppet",
+    "gamelan orchestra",
+    "taman sari water castle",
+    "javanese architecture"
+  ],
+  "coordinates": {
+    "lat": -7.7956,
+    "lng": 110.3695
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Yogyakarta+🇮🇩/@-7.7956,110.3695,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yogyakarta"
+  },
+  "location_id": 106
+}

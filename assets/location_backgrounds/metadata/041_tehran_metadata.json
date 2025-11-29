@@ -1,0 +1,99 @@
+{
+  "name": "Tehran",
+  "country": "Iran",
+  "fun_fact": "Fun fact: Tehran is home to the world's oldest chelo-kebab restaurant, Nayeb, which opened in 1875 in the Grand Bazaar. The city's first coffee house opened in 1673, making it the first in the German-speaking world. Every third cup of coffee drunk in Germany comes from Bremen, but Iranians transformed tea culture into an art form with ornate samovars and 'kaffeesieren' - the cultured enjoyment of conversation over drinks.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Chelo Kebab (Kebab-e Soltani)",
+        "description": "The quintessential Persian dish - fluffy saffron rice served with juicy lamb kebabs, grilled tomato, and raw onion",
+        "origin_story": "First prepared in the 1800s at the order of Naser-e-Din Shah Qajar using a Caucasian recipe. The first chelo-kebab restaurant, Nayeb, opened in Tehran's bazaar 121 years ago and still operates today. This dish represents the marriage of rice cultivation (brought by the Persians) and grilling techniques (from Caucasus nomads).",
+        "where_to_find": "Alborz Restaurant (since 1967), Moslem Restaurant in Grand Bazaar, Sharaf Al-Eslami Restaurant (over a century old in Old Tehran)"
+      },
+      {
+        "name": "Dizi (Abgoosht)",
+        "description": "Ancient lamb and chickpea stew slow-cooked in clay pots for hours, served in two parts: broth in a bowl, then mashed lamb, potatoes, tomatoes, and beans",
+        "origin_story": "This stick-to-your-ribs peasant food dates back centuries. The method of cooking in clay pots preserves nutrients and creates unique flavors. Azari Dizisara has been Tehran's first dizi house since 1948 and is now a national heritage site.",
+        "where_to_find": "Azari Dizisara (since 1948, near Railway Square), Dizi Sara (serves only dizi with sangak bread), traditional restaurants in Grand Bazaar"
+      },
+      {
+        "name": "Tahchin",
+        "description": "Saffron rice cake with layers of yogurt-marinated chicken or meat, baked until crispy on the outside, creamy inside",
+        "origin_story": "A royal dish from the Safavid courts, tahchin literally means 'arranged at the bottom' - referring to how the rice is layered. The golden crust (tahdig) is the most prized part, often fought over at family meals.",
+        "where_to_find": "Moslem Restaurant in Grand Bazaar (famous for their tahchin), Sharaf Al-Eslami Restaurant"
+      },
+      {
+        "name": "Ghormeh Sabzi",
+        "description": "The national stew of Iran - herbs (parsley, cilantro, fenugreek), kidney beans, dried lime, and lamb, simmered for hours until deep green and aromatic",
+        "origin_story": "This 2,000+ year old dish showcases Persian mastery of herbs. The dried lime (limoo amani) came from Omani traders, adding a sour punch. Every Iranian grandmother has her own secret herb ratio.",
+        "where_to_find": "Family-run restaurants throughout Tehran, Moslem Restaurant, traditional eateries in Grand Bazaar"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Doogh",
+        "description": "Tangy, salty yogurt drink mixed with water, dried mint, and sometimes carbonation",
+        "how_locals_drink_it": "Essential with kebabs - the salty-sour flavor cuts through rich grilled meats. Served ice-cold in tall glasses. Locals insist on homemade versions with fresh mint from the bazaar."
+      },
+      {
+        "name": "Persian Tea (Chai)",
+        "description": "Strong black tea brewed in ornate samovars, served in delicate glass cups with sugar cubes held between teeth",
+        "how_locals_drink_it": "Tea is central to Iranian hospitality. Served constantly throughout the day in teahouses hidden in the bazaar alleys. At Haj Ali Darvish tea house (world's smallest teahouse), locals sip rare Iranian tea varieties while discussing politics and poetry."
+      }
+    ],
+    "food_culture_notes": [
+      "Grand Bazaar is a city within the city - miles of covered alleys with hidden teahouses, restaurants, and food stalls",
+      "Sangak bread (stone-baked flatbread) accompanies every meal, baked fresh in clay ovens throughout the day",
+      "Persian rice is an art form - each grain should be separate, with a golden tahdig (crispy bottom) that's the most prized part",
+      "Food is deeply social - meals are eaten communally, often seated on carpets with dishes shared in the center",
+      "Golestan Palace sits across from Grand Bazaar's main entrance - a UNESCO site with 17 structures showcasing Qajar dynasty elegance"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grand Bazaar's domed brick arches and hidden courtyards",
+      "Golestan Palace (UNESCO World Heritage) with intricate tilework and gardens",
+      "Azadi Tower",
+      "Milad Tower",
+      "Alborz Mountains backdrop"
+    ],
+    "atmosphere": [
+      "Ornate carpets and traditional Persian decor in restaurants",
+      "Steam rising from clay dizi pots",
+      "Saffron-golden rice with crispy tahdig",
+      "Teahouse conversations over glass cups",
+      "Bustling bazaar alleys filled with spice aromas"
+    ],
+    "colors": [
+      "Saffron gold and pomegranate red",
+      "Deep emerald green from herb stews",
+      "Turquoise tilework from Golestan Palace",
+      "Warm terracotta of clay pots"
+    ],
+    "unique_modern": [
+      "First coffee house in the German-speaking world (1673)",
+      "National heritage site dizi house since 1948",
+      "Ancient culinary techniques still practiced daily",
+      "600-year-old bazaar thriving with modern Iranian life"
+    ]
+  },
+  "wikipedia_search_term": "Tehran",
+  "keywords_for_image": [
+    "Tehran Grand Bazaar",
+    "Persian chelo kebab saffron rice",
+    "Golestan Palace tilework",
+    "dizi abgoosht clay pot",
+    "Iranian tea samovar",
+    "tahchin rice cake",
+    "Alborz mountains Tehran"
+  ],
+  "coordinates": {
+    "lat": 35.6892,
+    "lng": 51.389
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tehran+🇮🇷/@35.6892,51.389,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tehran"
+  },
+  "location_id": 41
+}

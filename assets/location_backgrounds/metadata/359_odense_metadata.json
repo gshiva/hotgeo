@@ -1,0 +1,93 @@
+{
+  "name": "Odense",
+  "country": "Denmark",
+  "fun_fact": "Fun fact: Hans Christian Andersen was born in Odense in 1805, and the city is obsessed with him - you'll find Little Mermaid sculptures, Ugly Duckling references, and a museum dedicated to his life. He wrote 156 fairy tales that have been translated into over 125 languages!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Smørrebrød",
+        "description": "Open-faced rye bread sandwiches with elaborate toppings - herring, leverpostej, or roast beef",
+        "origin_story": "Danish lunch tradition since the 1800s - the key is quality rugbrød (rye bread) and artistic toppings",
+        "where_to_find": "Café Biografen, Storms Pakhus food hall, traditional smørrebrød shops"
+      },
+      {
+        "name": "Fynsk Æblekage",
+        "description": "Funen-style apple cake with layers of stewed apples, breadcrumbs, and whipped cream",
+        "origin_story": "Funen (Odense's island) is known for its orchards - this simple dessert celebrates local apples",
+        "where_to_find": "Traditional Danish restaurants, bakeries, home kitchens"
+      },
+      {
+        "name": "Flæskesteg",
+        "description": "Roast pork with crackling, red cabbage, and brown potatoes - Denmark's Sunday dinner",
+        "origin_story": "The crackling (svær) must be perfect - Danes take this as seriously as their hygge",
+        "where_to_find": "Sortebro Kro, Den Gamle Kro, traditional restaurants"
+      },
+      {
+        "name": "Frikadeller",
+        "description": "Pan-fried Danish meatballs made with pork, served with pickled red cabbage",
+        "origin_story": "Every Danish family has their recipe - flatter than Swedish meatballs, fried in butter",
+        "where_to_find": "Home-style restaurants, Storms Pakhus, traditional cafés"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Carlsberg/Tuborg",
+        "description": "Denmark's famous pilsners, though craft beer scene is exploding",
+        "how_locals_drink_it": "With smørrebrød at lunch, or at cozy pubs - skål!"
+      },
+      {
+        "name": "Gløgg",
+        "description": "Danish mulled wine with almonds and raisins, essential at Christmas",
+        "how_locals_drink_it": "At Christmas markets with æbleskiver (pancake balls) - December essential"
+      }
+    ],
+    "food_culture_notes": [
+      "Storms Pakhus is a former warehouse now housing food stalls and craft beer",
+      "Funen is called 'Denmark's garden' for its fertile farmland and orchards",
+      "Hygge (cozy contentment) defines the dining culture - candles, warmth, togetherness",
+      "New Nordic cuisine influence reaches even traditional restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "H.C. Andersen Museum",
+      "Odense Cathedral",
+      "Funen Village open-air museum",
+      "Brandts art district"
+    ],
+    "atmosphere": [
+      "fairy tale heritage",
+      "hygge cafés",
+      "cycling culture",
+      "half-timbered houses"
+    ],
+    "colors": [
+      "yellow half-timbered houses",
+      "Danish red roofs",
+      "fairy tale pastels",
+      "cozy candlelight"
+    ],
+    "unique_modern": [
+      "Hans Christian Andersen 2021 museum",
+      "Odense Zoo pandas",
+      "smart city initiatives"
+    ]
+  },
+  "wikipedia_search_term": "Odense",
+  "keywords_for_image": [
+    "Hans Christian Andersen Odense",
+    "smørrebrød Danish",
+    "half-timbered houses",
+    "Danish pastry",
+    "hygge café"
+  ],
+  "coordinates": {
+    "lat": 55.4038,
+    "lng": 10.4024
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Odense+🇩🇰/@55.4038,10.4024,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Odense"
+  },
+  "location_id": 359
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Washington DC",
+  "country": "USA",
+  "fun_fact": "Fun fact: DC's mysterious Mumbo Sauce (or Mambo Sauce) originated in African-American wing shops in the 1960s, and its exact origin is 'hotly contested' - but it's so beloved that go-go band Mambo Sauce named themselves after it and hit the Billboard charts!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Half-Smoke",
+        "description": "Spiced beef-and-pork sausage with fiercely guarded secret spices, served in steamed bun",
+        "origin_story": "Popularized by Ben's Chili Bowl founders Ben and Virginia Ali over 50 years ago",
+        "where_to_find": "Ben's Chili Bowl on U Street, Nationals Stadium, H Street Corridor"
+      },
+      {
+        "name": "Mumbo Sauce Wings",
+        "description": "Fried chicken wings doused in sweet-spicy-tangy orange-red sauce",
+        "origin_story": "Likely originated at African-American wing shops in the 1960s, adopted by Chinese takeouts",
+        "where_to_find": "Yum's, Danny's, Jerry's, Eddie's, Andy's, Kenny's carryouts"
+      },
+      {
+        "name": "Chesapeake Blue Crab",
+        "description": "Steamed crabs seasoned with Old Bay spice blend",
+        "origin_story": "DC's proximity to Chesapeake Bay makes it a crab haven",
+        "where_to_find": "Waterfront restaurants, crab houses throughout the area"
+      },
+      {
+        "name": "Ethiopian Injera Platter",
+        "description": "Spongy flatbread with doro wat and misir wat stews",
+        "origin_story": "DC has the largest Ethiopian community outside Africa",
+        "where_to_find": "U Street corridor Ethiopian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Gin Rickey",
+        "description": "Gin, lime juice, and soda water - DC's contribution to cocktail history",
+        "how_locals_drink_it": "At classic DC bars, especially in Georgetown"
+      },
+      {
+        "name": "Mambo Sauce Bloody Mary",
+        "description": "Bloody Mary made with local mumbo sauce",
+        "how_locals_drink_it": "Brunch specialty at local restaurants"
+      }
+    ],
+    "food_culture_notes": [
+      "DC is 'a southern melting pot' per local chefs",
+      "Henry's Soul Café (since 1968) is beloved for sweet potato pie",
+      "Horace and Dickies for two-piece fish on wheat bread",
+      "Go-go music and mumbo sauce are cultural symbols of Black DC"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Capitol Building dome",
+      "Washington Monument",
+      "Lincoln Memorial",
+      "Georgetown row houses"
+    ],
+    "atmosphere": [
+      "cherry blossom trees",
+      "wide avenues",
+      "neoclassical architecture",
+      "food truck culture"
+    ],
+    "colors": [
+      "marble white",
+      "cherry blossom pink",
+      "patriotic red/white/blue",
+      "autumn gold"
+    ],
+    "unique_modern": [
+      "food trucks near museums",
+      "U Street soul food corridor",
+      "Ethiopian Little Ethiopia"
+    ]
+  },
+  "wikipedia_search_term": "Washington,_D.C.",
+  "keywords_for_image": [
+    "half-smoke hot dog with chili",
+    "mumbo sauce wings",
+    "blue crabs with Old Bay",
+    "Capitol dome",
+    "cherry blossoms",
+    "Georgetown row houses"
+  ],
+  "coordinates": {
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Washington+DC+🇺🇸/@38.9072,-77.0369,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Washington,_D.C."
+  },
+  "location_id": 6
+}

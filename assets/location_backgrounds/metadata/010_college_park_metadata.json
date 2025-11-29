@@ -1,0 +1,94 @@
+{
+  "name": "College Park",
+  "country": "USA",
+  "fun_fact": "Fun fact: College Park's Bagels 'n Grinds uses a special water filtration system that replicates Brooklyn's water chemistry just to make authentic New York-style bagels for hungry University of Maryland students!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Marathon Deli Gyro",
+        "description": "Beef and lamb gyro with fries - a UMD institution",
+        "origin_story": "Greek deli that's been feeding Terps for generations",
+        "where_to_find": "Marathon Deli - also famous for kotopita and Greek pizza"
+      },
+      {
+        "name": "Milk and Honey Shrimp & Grits",
+        "description": "Award-winning New Orleans style shrimp and grits",
+        "origin_story": "Southern brunch spot bringing NOLA flavors to Maryland",
+        "where_to_find": "Milk and Honey - also known for Chicken & Waffles"
+      },
+      {
+        "name": "Li Chun Northeast Chinese Bing",
+        "description": "Traditional wraps from Northeast China with Chinese tea",
+        "origin_story": "Authentic regional Chinese cuisine rarely found in America",
+        "where_to_find": "Li Chun on ground floor of City Hall"
+      },
+      {
+        "name": "Maryland Dairy Ice Cream",
+        "description": "University-made ice cream since 1924",
+        "origin_story": "UMD's own dairy program making ice cream for a century",
+        "where_to_find": "Stamp Student Union - a campus tradition"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bagels 'n Grinds Coffee",
+        "description": "Upscale coffee with Brooklyn-style bagels",
+        "how_locals_drink_it": "Study fuel for students with 16 bagel varieties"
+      },
+      {
+        "name": "Li Chun Chinese Tea",
+        "description": "Oolong and jasmine green tea",
+        "how_locals_drink_it": "Traditional tea service highlighting Chinese tea culture"
+      }
+    ],
+    "food_culture_notes": [
+      "College Park Diner open 24 hours for all-night cramming",
+      "MidnighTreats has plant-based doughnuts until 1am weekends",
+      "Iron Rooster for family-style Southern cooking",
+      "$2 billion Greater College Park initiative bringing new restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "McKeldin Mall",
+      "Testudo turtle statue",
+      "Memorial Chapel",
+      "Byrd Stadium"
+    ],
+    "atmosphere": [
+      "college campus vibes",
+      "red brick buildings",
+      "student crowds",
+      "tailgate culture"
+    ],
+    "colors": [
+      "Maryland red and gold",
+      "campus green",
+      "brick red",
+      "autumn colors"
+    ],
+    "unique_modern": [
+      "mix of campus and city development",
+      "Metro accessible"
+    ]
+  },
+  "wikipedia_search_term": "College_Park,_Maryland",
+  "keywords_for_image": [
+    "gyro wrap",
+    "shrimp and grits",
+    "ice cream",
+    "UMD campus",
+    "college students",
+    "red brick buildings",
+    "autumn campus"
+  ],
+  "coordinates": {
+    "lat": 38.9807,
+    "lng": -76.9369
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/College+Park+🇺🇸/@38.9807,-76.9369,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/College_Park,_Maryland"
+  },
+  "location_id": 10
+}

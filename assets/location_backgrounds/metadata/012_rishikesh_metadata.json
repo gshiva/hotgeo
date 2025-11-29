@@ -1,0 +1,95 @@
+{
+  "name": "Rishikesh",
+  "country": "India",
+  "fun_fact": "Fun fact: Rishikesh is completely meat and alcohol-free - the entire city respects its status as a sacred space, making it the world's largest vegetarian city and the 'Yoga Capital of the World'!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sattvic Thali",
+        "description": "Pure vegetarian meal without onion or garlic - rice, dal, vegetables, chapati, chutney",
+        "origin_story": "Ashram food designed to promote mental clarity and spiritual practice",
+        "where_to_find": "Parmath Niketan Ashram cafeteria, yoga ashrams throughout"
+      },
+      {
+        "name": "Aloo Tikki",
+        "description": "Crispy spiced potato patties served with chutneys",
+        "origin_story": "Classic North Indian street food",
+        "where_to_find": "Street vendors in Rishikesh Main Market"
+      },
+      {
+        "name": "Garhwali Dal",
+        "description": "Thick aromatic curry of roasted black gram with ginger and garlic",
+        "origin_story": "Traditional Himalayan cuisine from local Garhwal region",
+        "where_to_find": "5 States Restaurant near Kailash Gate"
+      },
+      {
+        "name": "Mandua Ki Roti",
+        "description": "Finger millet flatbread with nutty flavor - nutritious hill region staple",
+        "origin_story": "Traditional Himalayan bread from ancient grains",
+        "where_to_find": "Local eateries and ashram kitchens"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai",
+        "description": "Spiced tea with cardamom, ginger, and milk",
+        "how_locals_drink_it": "From chai wallahs on every corner, especially at sunrise on the ghats"
+      },
+      {
+        "name": "Ayurvedic Herbal Tea",
+        "description": "Healing teas made with tulsi, ashwagandha, and other herbs",
+        "how_locals_drink_it": "At yoga centers and Ayurvedic cafes"
+      }
+    ],
+    "food_culture_notes": [
+      "No meat or alcohol sold anywhere in the city",
+      "Swarg Ashram on east bank of Ganges has multiple vegetarian eateries",
+      "Chotiwala is famous local spot for thalis",
+      "Ayurpak specializes in Ayurvedic organic cooking"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ram Jhula suspension bridge",
+      "Laxman Jhula bridge",
+      "Ganges River ghats",
+      "Himalayan foothills"
+    ],
+    "atmosphere": [
+      "yoga practitioners",
+      "orange-robed sadhus",
+      "temple bells",
+      "evening aarti ceremonies"
+    ],
+    "colors": [
+      "Ganges green-blue",
+      "saffron orange",
+      "temple gold",
+      "Himalayan white"
+    ],
+    "unique_modern": [
+      "Beatles Ashram ruins",
+      "bungee jumping over Ganges",
+      "rafting camps"
+    ]
+  },
+  "wikipedia_search_term": "Rishikesh",
+  "keywords_for_image": [
+    "vegetarian thali",
+    "chai tea",
+    "Ram Jhula bridge",
+    "Ganges River",
+    "yoga ashram",
+    "Himalayan foothills",
+    "temple bells"
+  ],
+  "coordinates": {
+    "lat": 30.0869,
+    "lng": 78.2676
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rishikesh+🇮🇳/@30.0869,78.2676,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rishikesh"
+  },
+  "location_id": 12
+}

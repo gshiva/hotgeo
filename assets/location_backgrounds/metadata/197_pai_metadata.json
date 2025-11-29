@@ -1,0 +1,94 @@
+{
+  "name": "Pai",
+  "country": "Thailand",
+  "fun_fact": "Fun fact: The road from Chiang Mai to Pai has 762 curves in just 130km - it's so winding that motion sickness pills are sold at the bus station, and the curvy route has become a legendary motorcycle ride for adventurous travelers!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Khao Soi",
+        "description": "Northern Thai curry noodle soup with coconut milk, crispy noodles on top, and pickled mustard greens",
+        "origin_story": "A Burmese-influenced specialty of Northern Thailand - creamy, spicy, and topped with crispy egg noodles. The pickled greens cut the richness",
+        "where_to_find": "Witching Well, Charlie & Lek, local restaurants throughout Pai"
+      },
+      {
+        "name": "Pad Thai",
+        "description": "Stir-fried rice noodles with tamarind, egg, peanuts, and fresh lime",
+        "origin_story": "Available everywhere, often made fresh at the Walking Street night market",
+        "where_to_find": "Walking Street night market, Baan Benjarong, street vendors"
+      },
+      {
+        "name": "Mango Sticky Rice",
+        "description": "Sweet glutinous rice with fresh mango and coconut cream",
+        "origin_story": "Thailand's beloved dessert - Pai's relaxed vibe makes this the perfect afternoon treat",
+        "where_to_find": "Night market vendors, cafés throughout town"
+      },
+      {
+        "name": "Vegetarian Options",
+        "description": "Pai has exceptional vegetarian food due to its hippie/wellness culture",
+        "origin_story": "The town's yoga and wellness scene has created excellent meat-free options",
+        "where_to_find": "Earth Tone, Om Garden Café, numerous vegetarian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Thai Iced Coffee",
+        "description": "Strong coffee with sweetened condensed milk poured over ice",
+        "how_locals_drink_it": "Essential morning fuel - order at any café"
+      },
+      {
+        "name": "Fresh Fruit Shakes",
+        "description": "Blended tropical fruit smoothies available everywhere",
+        "how_locals_drink_it": "The perfect refresher in Pai's heat - mango, papaya, dragon fruit, passion fruit"
+      }
+    ],
+    "food_culture_notes": [
+      "Walking Street night market is the heart of Pai's food scene",
+      "Hippie/backpacker culture means lots of Western fusion and vegetarian options",
+      "Pai Canyon and waterfalls are easy day trips between meals",
+      "Everything is super cheap - full meals for $2-4"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Pai Canyon",
+      "Pai Walking Street",
+      "Memorial Bridge",
+      "Mor Paeng Waterfall"
+    ],
+    "atmosphere": [
+      "hippie backpacker vibes",
+      "mountain valley",
+      "rice paddy views",
+      "laid-back cafés"
+    ],
+    "colors": [
+      "rice paddy green",
+      "sunset orange",
+      "canyon earth brown",
+      "tie-dye colors"
+    ],
+    "unique_modern": [
+      "yoga retreat culture",
+      "live music scene",
+      "Instagram cafés",
+      "hot springs nearby"
+    ]
+  },
+  "wikipedia_search_term": "Pai,_Thailand",
+  "keywords_for_image": [
+    "khao soi curry noodles",
+    "Pai Walking Street market",
+    "rice paddies",
+    "mountain valley",
+    "night market food"
+  ],
+  "coordinates": {
+    "lat": 19.3582,
+    "lng": 98.4405
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pai+🇹🇭/@19.3582,98.4405,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pai,_Thailand"
+  },
+  "location_id": 197
+}

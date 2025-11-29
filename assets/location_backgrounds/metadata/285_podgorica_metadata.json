@@ -1,0 +1,94 @@
+{
+  "name": "Podgorica",
+  "country": "Montenegro",
+  "fun_fact": "Fun fact: Podgorica sits at the confluence of two rivers and is home to Europe's largest vineyard - the indigenous Vranac grape variety produces wines found nowhere else on Earth, and locals pair it with Njeguški pršut (smoked ham) that's been cured in mountain air for months using centuries-old techniques.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Njeguški Pršut (Smoked Ham from Njeguši)",
+        "description": "Air-dried, smoked ham cured with rich, complex flavors. The smoking and mountain air of Njeguši village create a distinctive taste.",
+        "origin_story": "From the village of Njeguši in Montenegro's mountains, this prosciutto-style ham is smoked over beech wood and aged in mountain air. The process takes months, and the result is considered one of the Balkans' finest cured meats.",
+        "where_to_find": "Pod Volat (heart of Podgorica, traditional Montenegrin fare, generous portions), served at most traditional restaurants"
+      },
+      {
+        "name": "Ćevapi",
+        "description": "Grilled minced meat sausages (usually beef and lamb) served in somun bread with kajmak (dairy spread), onions, and ajvar (red pepper relish).",
+        "origin_story": "The ultimate Balkan street food that's become a restaurant staple. While found throughout the former Yugoslavia, each region claims their version is best. Montenegrin ćevapi emphasize quality meat and generous portions.",
+        "where_to_find": "Pod Volat (incredibly generous portions, regional-style köfte), Bascarsija (rustic, unassuming, must-visit)"
+      },
+      {
+        "name": "Pljeskavica",
+        "description": "Large grilled meat patty made from a mix of beef, lamb, and pork, often stuffed with cheese. Like a Balkan burger but better.",
+        "origin_story": "The 'Balkan burger' is taken seriously in Montenegro - using multiple meats and sometimes stuffing it with kaymak or cheese elevates it beyond simple ground beef. It's Serbian in origin but beloved throughout the Balkans.",
+        "where_to_find": "Balkan grill stands throughout Podgorica, Pod Volat"
+      },
+      {
+        "name": "Kačamak",
+        "description": "Local comfort food combining corn flour, potatoes, and cheese, topped with sour cream or kaymak. Warm, satisfying, mountain sustenance.",
+        "origin_story": "A traditional Montenegrin dish that sustained mountain shepherds and farmers. Simple ingredients transformed through technique into something greater than the sum of its parts - the essence of Balkan cooking.",
+        "where_to_find": "Traditional Montenegrin restaurants throughout Podgorica"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vranac Wine",
+        "description": "Montenegro's indigenous red grape variety producing deep, full-bodied wines with dark fruit flavors.",
+        "how_locals_drink_it": "Paired with grilled meats, especially pršut and cheese. Podgorica is home to Europe's largest vineyard, and locals take pride in their autochthonous varieties like Vranac and Krstac (white)."
+      },
+      {
+        "name": "Rakija",
+        "description": "Fruit brandy (usually grape or plum) that's strong (40%+), clear, and traditional across the Balkans.",
+        "how_locals_drink_it": "Served as a welcome drink and digestif. Homemade rakija is a point of pride, and refusing it can be seen as rude. Drunk neat in small glasses, often with toasts."
+      }
+    ],
+    "food_culture_notes": [
+      "Montenegrin cuisine mixes Mediterranean and Balkan flavors - coastal seafood meets mountain grilled meats",
+      "Portions are famously generous - Montenegrin hospitality means never leaving hungry",
+      "Burek (filo pastry with meat, cheese, spinach, or potato) is traditional breakfast and ideal for snacks",
+      "Local markets and Balkan grill stands offer the most authentic experience at affordable prices"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Millennium Bridge",
+      "Clock Tower",
+      "King Nikola's Palace",
+      "Morača River"
+    ],
+    "atmosphere": [
+      "Balkan energy",
+      "riverside café culture",
+      "mountain backdrop",
+      "Ottoman influences"
+    ],
+    "colors": [
+      "Adriatic influence blues",
+      "mountain greenery",
+      "grilled meat char",
+      "Montenegrin wine red"
+    ],
+    "unique_modern": [
+      "Europe's largest vineyard region",
+      "blend of old and new architecture",
+      "Balkan hospitality",
+      "emerging wine tourism"
+    ]
+  },
+  "wikipedia_search_term": "Podgorica",
+  "keywords_for_image": [
+    "Montenegrin cuisine",
+    "ćevapi",
+    "Balkan grill",
+    "Vranac wine",
+    "mountain landscape"
+  ],
+  "coordinates": {
+    "lat": 42.4304,
+    "lng": 19.2594
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Podgorica+🇲🇪/@42.4304,19.2594,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Podgorica"
+  },
+  "location_id": 285
+}

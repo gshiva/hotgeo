@@ -1,0 +1,122 @@
+{
+  "name": "Kathmandu",
+  "country": "Nepal",
+  "fun_fact": "Fun fact: Kathmandu is home to the Kumari—Nepal's Living Goddess—a pre-pubescent girl chosen from the Newar Buddhist community to be the earthly vessel of Hindu goddess Taleju. She must possess 32 physical perfections (chest like a lion, eyelashes like a cow, voice like a duck) and show no fear when surrounded by 108 sacrificed buffalo heads during selection. She lives in Kumari Ghar at Durbar Square, rarely touching the ground, and even newly elected prime ministers must receive her blessing. This unique blend of Hindu worship and Buddhist tradition has existed for centuries!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Samay Baji (Newari Festival Platter)",
+        "description": "One of the most popular Newari dishes: beaten rice with boiled eggs, spicy potatoes, steamed soybeans, buffalo meat (choila), bara (lentil pancake), and more—served on a specially designed plate",
+        "origin_story": "Samay Baji represents the heart of Newari cuisine, one of the oldest food cultures in South Asia. This elaborate platter is served at traditional Newari feasts (lapate bhoye) where guests sit on long straw mats. The eldest are served first, and the feast begins with two handfuls of beaten rice (baji).",
+        "where_to_find": "Newa Ghasa, Harisiddhi Newa Suhlee (family-run since 1982), Harati Newari Restaurant (established 1995), Newa Lahana"
+      },
+      {
+        "name": "Choila (Chhoyela)",
+        "description": "Classic Newari dish of marinated roasted or grilled buffalo meat mixed with garlic and spices—a perfect appetizer with beaten rice (chiura)",
+        "origin_story": "Choila showcases the Newari mastery of spice blends and grilled meats. Buffalo meat is preferred in the Kathmandu Valley, reflecting local livestock traditions. The meat is grilled over charcoal, giving it a smoky flavor, then mixed with spices while still warm.",
+        "where_to_find": "Every authentic Newari restaurant; Newa Ghasa sources ingredients from local markets with experienced local women from Patan preparing dishes"
+      },
+      {
+        "name": "Momos",
+        "description": "Steamed dumplings filled with minced buffalo or chicken meat, served with creamy sauce—Nepal's most famous dish",
+        "origin_story": "While momos have Tibetan origins, they've become quintessentially Nepali. The Kathmandu Valley version (momochā) uses buffalo or chicken filling with distinctive Nepali spices. They're eaten as snacks, appetizers, or full meals.",
+        "where_to_find": "Everywhere in Kathmandu—street stalls, local eateries, restaurants; locals get 10 buffalo momos for around 140 rupees"
+      },
+      {
+        "name": "Dal Bhat (Rice and Lentils)",
+        "description": "Nepal's daily staple: white rice with dal (lentil soup), vegetables, and usually meat or fish—what Nepalis actually eat every day",
+        "origin_story": "Dal bhat is the backbone of Nepali cuisine. Locals say 'Dal bhat power, 24 hour!' because it provides sustained energy. The dal binds the rice together, eaten with the right hand. This simple meal varies by region and season but remains constant as Nepal's comfort food.",
+        "where_to_find": "Every Nepali home, local bhaat ghar (rice houses), trekking lodges, budget eateries"
+      },
+      {
+        "name": "Bara (Newari Lentil Pancake)",
+        "description": "Pancake-like authentic Newari dish made of black lentils, sometimes topped with egg or minced meat",
+        "origin_story": "Bara is a staple of Newari cuisine and part of the Samay Baji platter. Made from ground black lentils, it's high in protein and gluten-free. The batter is fermented slightly, giving it a unique tangy flavor.",
+        "where_to_find": "Newari restaurants, street vendors in Patan and Bhaktapur, Sa: Sa Twa"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chiya (Nepali Spiced Tea)",
+        "description": "Spiced milk tea made with black tea leaves, sugar, milk, and spices like cardamom, ginger, cloves, cinnamon, and black peppercorns",
+        "how_locals_drink_it": "Drinking tea is commonplace in Nepal and part of daily life. People greet each other by asking 'Chiya khanu vayo?' (Did you drink tea?). The spices vary by region—traditionally cardamom, ginger, cloves, cinnamon, and black peppercorns were dominant. The rising tea culture in Kathmandu has seen more orthodox loose leaf tea from Ilam (eastern Nepal) used. Tea is drunk throughout the day—morning, afternoon breaks, evening socializing."
+      },
+      {
+        "name": "Aila (Newari Rice Spirit)",
+        "description": "Strong, clear alcoholic drink made by the Newar people from rice or grains—important for festivals",
+        "how_locals_drink_it": "Served during festivals like Yomari Punhi and other family events in the Kathmandu Valley. In authentic Newari restaurants, Aila is poured from 'Anti', a traditional kettle-like container with beautiful antique designs. CNN mentioned Aila in its list of '50 most delicious drinks in the world.' It's drunk in small amounts during ceremonial occasions."
+      },
+      {
+        "name": "Tongba (Millet Beer)",
+        "description": "Millet-based alcoholic beverage found in eastern Nepal—the only alcoholic beverage that is sucked through a bamboo straw, not sipped",
+        "origin_story": "Made from fermented millet grains cooked, cooled, and mixed with yeast called 'murcha.' The fermented mixture is stored dry, then put in a wooden or metal vessel called 'Tongba' (that's how it got its name). Hot water is added, and it's drunk through a bamboo straw with a slit at the bottom to let in the brew but not the millet. It's a sign of respect to guests and important for special occasions. Contains compounds with antioxidant properties and helps with high-altitude illnesses.",
+        "where_to_find": "Eastern mountainous restaurants in Kathmandu, Sherpa and Tamang community gatherings, trekking lodges"
+      }
+    ],
+    "food_culture_notes": [
+      "Newari cuisine is one of the oldest food cultures in South Asia",
+      "Kathmandu Valley has fertile alluvial soil, making elaborate cuisine possible",
+      "Traditional Newari feasts (lapate bhoye) involve sitting on straw mats facing each other",
+      "Eldest are always served first—age hierarchy is important",
+      "Buffalo meat is preferred over beef in the Valley (sacred cows)",
+      "Tea culture was started by Colonel Gajraj Singh Thapa in 1873 after visiting Darjeeling",
+      "Yomari festival celebrates the dumpling Yomari during the full moon of Thinlaa",
+      "Eating with right hand is traditional—rice is shaped into balls"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kumari Ghar (Living Goddess temple at Kathmandu Durbar Square)",
+      "Durbar Square with intricate wood carvings",
+      "Swayambhunath (Monkey Temple)",
+      "Boudhanath Stupa",
+      "Pashupatinath Temple",
+      "Traditional Newari architecture with carved wooden windows"
+    ],
+    "atmosphere": [
+      "Ancient temples and modern chaos coexisting",
+      "Smell of incense and spices in narrow streets",
+      "Monkeys climbing temples and buildings",
+      "Prayer flags fluttering everywhere",
+      "Traditional Newari culture preserved in old town",
+      "Bustling tourist area mixed with authentic local life",
+      "Tea stalls and momo vendors on every corner"
+    ],
+    "colors": [
+      "Red brick of ancient temples and buildings",
+      "Colorful prayer flags—blue, white, red, green, yellow",
+      "Golden stupas and temple decorations",
+      "Orange-brown milk tea (chiya)",
+      "White momos in bamboo steamers",
+      "Saffron robes of monks"
+    ],
+    "unique_modern": [
+      "Kumari tradition continuing in 21st century—ancient goddess worship alive today",
+      "Growing café culture mixing Nepali tea traditions with modern coffee",
+      "Newari restaurants preserving 1,000+ year old recipes",
+      "Trekking tourism bringing global food alongside local traditions",
+      "Rising orthodox tea culture in Kathmandu using Ilam tea",
+      "Young generation learning traditional Newari cooking from experienced women"
+    ]
+  },
+  "wikipedia_search_term": "Kathmandu",
+  "keywords_for_image": [
+    "Kathmandu Kumari Living Goddess",
+    "Newari Samay Baji platter Nepal",
+    "Nepal momos dumplings steamed",
+    "Kathmandu Durbar Square temples",
+    "Nepali chiya milk tea",
+    "choila buffalo meat Newari",
+    "Kathmandu prayer flags temples",
+    "bara Newari lentil pancake"
+  ],
+  "coordinates": {
+    "lat": 27.7172,
+    "lng": 85.324
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kathmandu+🇳🇵/@27.7172,85.324,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathmandu"
+  },
+  "location_id": 69
+}

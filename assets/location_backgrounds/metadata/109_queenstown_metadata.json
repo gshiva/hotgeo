@@ -1,0 +1,121 @@
+{
+  "name": "Queenstown",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: Queenstown is the birthplace of commercial bungy jumping! On November 12, 1988, New Zealander AJ Hackett and Henry van Asch opened the world's first commercial bungy operation at Kawarau Bridge (43m drop). The Nevis Bungy, at 134m, is now the Southern Hemisphere's highest with 8.5 seconds of freefall. Queenstown earned its nickname 'World Home of Adventure' by literally inventing the modern adventure tourism industry!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fergburger",
+        "description": "Legendary gourmet burgers with creative combinations and massive portions. The Ferg Deluxe features multiple patties, bacon, cheese, and special sauce in a fluffy artisan bun. Juicy, mouthwatering, Instagram-famous, and tastes as good as it looks.",
+        "origin_story": "Opened in 2001 in downtown Queenstown, Fergburger has become a New Zealand institution. Lines stretch down Shotover Street at all hours. It's not just tourist hype - locals genuinely love it and it's always trending on Instagram.",
+        "where_to_find": "42 Shotover Street, Queenstown. Prepare for lines but they move fast. Also expanded to Fergbaker (kiwi classic pies) and ice cream parlor next door."
+      },
+      {
+        "name": "Central Otago Pinot Noir with Local Lamb",
+        "description": "Grass-fed Te Mana lamb rump paired with world-renowned Central Otago Pinot Noir from the world's southernmost wine region. The lamb is tender, rich, and distinctly New Zealand.",
+        "origin_story": "Queenstown region has 100+ wineries within 40 minutes, particularly famous for Pinot Noir. New Zealand lamb is legendary for its quality due to grass-fed practices and pristine environment.",
+        "where_to_find": "Rātā (popular lamb rump dish with Rātā blossom honey), Amisfield Bistro (local/seasonal philosophy with 'Trust the Chef' menu), Botswana Butchery (historic Archer's Cottage with lake views)"
+      },
+      {
+        "name": "Polynasian Cuisine at Blue Kanu",
+        "description": "Pacific Asian fusion specializing in seafood - combining Polynesian and Asian flavors. Fresh fish, tropical ingredients, and creative flavor combinations.",
+        "origin_story": "Reflects New Zealand's Pacific location and multicultural identity. Often considered Queenstown's best restaurant by locals.",
+        "where_to_find": "Blue Kanu restaurant - firm favorite with locals and visitors alike"
+      },
+      {
+        "name": "Brunch at Yonder",
+        "description": "Voted top 10 brunch spot in all of New Zealand. Specializes in vegan and vegetarian dishes with the best coffee in Queenstown according to locals. Fresh, creative, Instagram-worthy.",
+        "origin_story": "Represents Queenstown's modern, health-conscious food scene alongside traditional hearty meals.",
+        "where_to_find": "Yonder - serves brunch, dinner, and drinks with unpretentious service"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Central Otago Pinot Noir",
+        "description": "World-class Pinot Noir from the world's southernmost wine region. Elegant, complex, with dark fruit flavors and silky texture.",
+        "how_locals_drink_it": "Visited at source - over 100 wineries within 40 minutes of Queenstown. Gibbston Valley Winery has New Zealand's largest wine cave with historic vineyards. Wine tourism is as important as adventure tourism here."
+      },
+      {
+        "name": "Craft Beer at Local Breweries",
+        "description": "New Zealand craft beer scene is thriving - hoppy IPAs, crisp lagers, and creative seasonal brews.",
+        "how_locals_drink_it": "After adventure activities, locals unwind at craft breweries and bars. Beer culture is laid-back and social."
+      },
+      {
+        "name": "Flat White",
+        "description": "New Zealand's coffee culture is world-class. Flat white (invented in NZ/Australia) is the local favorite - velvety microfoam with strong espresso.",
+        "how_locals_drink_it": "Morning ritual at cafés like Yonder. Coffee is taken seriously - quality beans, skilled baristas, and café culture thrives."
+      }
+    ],
+    "food_culture_notes": [
+      "Over 150 bars, restaurants, and cafés in a small town - food scene rivals the adventure activities",
+      "Tipping is NOT common in New Zealand, but appreciated for exceptional service",
+      "Focus on local, seasonal ingredients - 'paddock to plate' philosophy",
+      "The Cow Pizza & Spaghetti House is a Queenstown institution celebrating 40+ years",
+      "SUNDAYS restaurant in a beautifully refurbished church - laid-back European-inspired food with wood-fired pizza",
+      "Fergburger is genuinely beloved by locals, not just tourist hype",
+      "Wine region status often overlooked - Central Otago Pinot Noir competes globally",
+      "Food scene combines hearty post-adventure fuel with fine dining experiences",
+      "Multicultural influences: European fine dining, Pacific flavors, Asian fusion, classic Kiwi comfort food"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "The Remarkables mountain range backdrop",
+      "Lake Wakatipu crystal-clear waters",
+      "Kawarau Bridge bungy jump site (world's first commercial)",
+      "Skyline Gondola with panoramic views",
+      "TSS Earnslaw vintage steamship",
+      "Shotover Street downtown buzz",
+      "Surrounding vineyards and wine country"
+    ],
+    "atmosphere": [
+      "Adrenaline energy - screams from bungy jumpers",
+      "Alpine freshness and mountain air",
+      "Lake reflections of snow-capped peaks",
+      "Lines outside Fergburger at all hours",
+      "Buzzing café culture and outdoor seating",
+      "Roaring fires in Botswana Butchery's historic cottage",
+      "Wine tasting in underground caves at Gibbston Valley"
+    ],
+    "colors": [
+      "Deep blues of Lake Wakatipu",
+      "Snow-white peaks of The Remarkables",
+      "Golden autumn foliage (Central Otago is famous for fall colors)",
+      "Rich burgundy Pinot Noir in wine glasses",
+      "Emerald alpine meadows",
+      "Sunset pinks reflecting off mountains",
+      "Vibrant Fergburger wrappers and burger colors"
+    ],
+    "unique_modern": [
+      "Adventure tourism capital with extreme sports infrastructure",
+      "Luxury lodges and boutique hotels",
+      "Electric bikes and sustainable tourism initiatives",
+      "Film tourism (Lord of the Rings, Mission Impossible 6 locations)",
+      "Year-round activity hub - skiing in winter, hiking/biking in summer",
+      "International food scene in small-town setting",
+      "Millennial/Gen-Z traveler destination with Instagram culture"
+    ]
+  },
+  "wikipedia_search_term": "Queenstown,_New_Zealand",
+  "keywords_for_image": [
+    "queenstown new zealand",
+    "fergburger",
+    "kawarau bridge bungy",
+    "the remarkables mountains",
+    "lake wakatipu",
+    "central otago wine",
+    "new zealand adventure",
+    "queenstown skyline",
+    "pinot noir vineyard",
+    "southern alps"
+  ],
+  "coordinates": {
+    "lat": -45.0312,
+    "lng": 168.6626
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Queenstown+🇳🇿/@-45.0312,168.6626,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Queenstown,_New_Zealand"
+  },
+  "location_id": 109
+}

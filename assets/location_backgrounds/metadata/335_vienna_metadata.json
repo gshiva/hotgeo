@@ -1,0 +1,94 @@
+{
+  "name": "Vienna",
+  "country": "Austria",
+  "fun_fact": "Fun fact: Vienna's coffee house culture is so distinctive that UNESCO declared it intangible cultural heritage in 2011. The official report notes that 'the coffeehouses are a place where patrons consume time and space, but only the coffee appears on the bill.' Leon Trotsky and Sigmund Freud were regulars.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Wiener Schnitzel",
+        "description": "Wafer-thin veal cutlet pounded flat, coated in breadcrumbs, and fried to crisp golden perfection - served with potato salad and lemon wedge",
+        "origin_story": "Austrian law decrees that genuine Wiener Schnitzel must be veal (pork or chicken versions must be labeled differently). The dish possibly came from Milan's cotoletta, brought to Vienna during Habsburg rule. The key is pounding the veal paper-thin and frying it quickly so the breading puffs away from the meat, creating crispy waves.",
+        "where_to_find": "Figlmüller (120 years old, near St. Stephen's Cathedral, famous for plate-sized 13cm schnitzels), Rüdigerhof (1903 art nouveau gem with garden), or Plachutta (institution of Viennese cuisine)"
+      },
+      {
+        "name": "Sachertorte",
+        "description": "Dense chocolate cake with apricot jam filling, covered in dark chocolate ganache - served with unsweetened whipped cream",
+        "origin_story": "Invented in 1832 by 16-year-old apprentice Franz Sacher for Prince Metternich. His son Eduard opened Hotel Sacher in 1876, where the cake became legendary. The recipe is a closely guarded secret. Hotel Sacher and Café Demel fought a nine-year legal battle over who makes the 'original' - both won rights to claim authenticity.",
+        "where_to_find": "Café Sacher Wien at Albertinaplatz behind Opera House (original recipe, expect lines), Café Demel (rival claimant to 'original' status), or Café Sperl near Museumsquartier"
+      },
+      {
+        "name": "Tafelspitz",
+        "description": "Boiled prime beef in vegetable broth, traditionally served with apple-horseradish sauce, chive sauce, and roasted potatoes",
+        "origin_story": "Emperor Franz Joseph I's favorite dish - he reportedly ate it daily. The name means 'table tip' referring to the cut from the tip of the beef. It's Austrian comfort food at its finest, though it sounds humble. The beef is simmered for hours until melt-in-your-mouth tender, and the resulting broth is often served as soup first.",
+        "where_to_find": "Plachutta (specializes in beef preparations, multiple locations), or traditional Viennese beisls (taverns)"
+      },
+      {
+        "name": "Kaiserschmarren",
+        "description": "Fluffy shredded pancake dusted with powdered sugar, served with plum compote or apple sauce",
+        "origin_story": "Legend says Emperor Franz Joseph I's cook created this when a soufflé fell apart. The emperor loved it anyway, declaring it 'schmarrn' (nonsense). Another tale claims the emperor's wife, Sisi, refused to eat it because of her strict diet, so Franz Joseph said 'Give me that schmarrn our Emperor likes' - hence Kaiserschmarrn (Emperor's nonsense).",
+        "where_to_find": "Traditional coffee houses and beisls throughout Vienna, Café Central, or Café Hawelka"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Wiener Melange",
+        "description": "Viennese coffee made with espresso and steamed milk, topped with milk foam - similar to cappuccino but uniquely Viennese",
+        "how_locals_drink_it": "Served on a silver tray with a glass of water and the spoon resting on the rim. Viennese spend hours in coffee houses reading newspapers (provided free), writing, or discussing philosophy. The melange is sipped slowly - you're paying for the time and space, not just coffee. Waiters in black vests won't rush you even if you order just one cup over three hours."
+      },
+      {
+        "name": "Heuriger Wine",
+        "description": "Young wine from Vienna's own vineyards, served at family-run wine taverns called Heurigen",
+        "how_locals_drink_it": "Vienna is the only major world capital with significant wine production within city limits. Heurigen (wine taverns) serve wine from their own grapes, often with cold buffets of traditional foods. A green branch hung above the door signals the tavern is open. Locals gather in gardens under chestnut trees, drinking Grüner Veltliner or Gemischter Satz (mixed grape variety unique to Vienna)."
+      }
+    ],
+    "food_culture_notes": [
+      "Coffee house culture dates to 1683 when Turkish siege left behind coffee beans - first coffee house opened 1685",
+      "At coffee houses' peak in 1910s, Vienna had 600 coffeehouses - Freud, Mozart, Beethoven, Klimt all were regulars",
+      "Women weren't allowed in coffee houses until 1856",
+      "Vienna ranked world's most liveable city in 2024 by Economist Intelligence Unit (third consecutive year)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Schönbrunn Palace with world's oldest zoo (established 1752)",
+      "St. Stephen's Cathedral (Stephansdom) - Gothic masterpiece with colorful tile roof",
+      "Hofburg Palace - former Habsburg imperial winter residence",
+      "Ringstrasse - grand boulevard circling the old city with monumental buildings"
+    ],
+    "atmosphere": [
+      "Art Nouveau architecture from 1900s golden age",
+      "Classical music heritage - Mozart, Beethoven, Strauss lived and performed here",
+      "Coffee house intellectualism - UNESCO intangible cultural heritage",
+      "Habsburg imperial grandeur mixed with modern livability"
+    ],
+    "colors": [
+      "imperial gold and cream of palaces",
+      "rich dark chocolate of Sachertorte",
+      "golden-brown Wiener Schnitzel crust",
+      "deep coffee brown in elegant porcelain cups"
+    ],
+    "unique_modern": [
+      "Vienna Ball Season - 450 balls held January-March, including famous Opera Ball",
+      "Only major world capital with significant wine production within city limits",
+      "Sigmund Freud lived here - 'City of Dreams' nickname refers to psychoanalysis and dreamlike beauty"
+    ]
+  },
+  "wikipedia_search_term": "Vienna",
+  "keywords_for_image": [
+    "wiener schnitzel flat golden breaded veal cutlet with lemon wedge on plate",
+    "sachertorte dark chocolate cake slice with unsweetened whipped cream",
+    "wiener melange coffee in white porcelain cup on silver tray with glass of water",
+    "st stephens cathedral diamond pattern zigzag tile roof gothic spire NOT hungarian parliament NOT budapest",
+    "vienna hofburg palace cream colored baroque imperial",
+    "NO rose wine NO pink wine only coffee or white wine"
+  ],
+  "coordinates": {
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Vienna+🇦🇹/@48.2082,16.3738,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vienna"
+  },
+  "location_id": 335
+}

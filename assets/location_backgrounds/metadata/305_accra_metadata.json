@@ -1,0 +1,94 @@
+{
+  "name": "Accra",
+  "country": "Ghana",
+  "fun_fact": "Fun fact: Auntie Muni's waakye stall in Labone has served former presidents, football stars, and countless Ghanaians from the same spot for decades - her waakye wrapped in banana leaves is so legendary that people line up before dawn, proving that Ghana's best food isn't always found in restaurants.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Waakye",
+        "description": "Mix of beans and rice cooked together, served with gari (cassava powder), stewed meat or fish, kelewele (fried plantain), salad, and fiery shito sauce",
+        "origin_story": "Waakye (pronounced 'waa-che') is breakfast, lunch, and sometimes dinner in Accra. The most famous seller is Auntie Muni, whose stall attracts everyone from presidents to students. Traditionally wrapped in banana leaves, it's a complete meal in a package",
+        "where_to_find": "Auntie Muni's Waakye Stall (Labone area - legendary), Ayewamu by Jane (served in traditional Asanka bowls), Katawodieso"
+      },
+      {
+        "name": "Banku and Okro Soup",
+        "description": "Fermented corn and cassava dough formed into balls, served with okra soup or grilled tilapia - tangy, sour, and deeply satisfying",
+        "origin_story": "Banku is a staple across Ghana, but Accra's version is distinct. The fermentation gives it a characteristic sour taste that perfectly balances rich soups and grilled fish. At Katawodieso, this dish has been perfected over 25 years",
+        "where_to_find": "Chop Shop (famous for oilless banku and okro soup), Katawodieso (legendary street stall run by matriarch Ruby Duff-Tay)"
+      },
+      {
+        "name": "Fufu with Light Soup",
+        "description": "Pounded cassava and plantain formed into a smooth, stretchy dough, served with spicy tomato-based soup with goat or chicken",
+        "origin_story": "Fufu is eaten across West Africa, but the technique and consistency vary by region. In Ghana, it's pounded until silky smooth and eaten with your hands - you tear off a piece, dip it in soup, and swallow without chewing",
+        "where_to_find": "Azmera Restaurant (authentic with traditional decor), Buka Restaurant (fusion West African dishes since 2003)"
+      },
+      {
+        "name": "Jollof Rice",
+        "description": "Rice cooked in a spiced tomato sauce with vegetables and meat - the subject of intense West African debate about which country makes it best",
+        "origin_story": "Ghana vs Nigeria jollof is one of Africa's greatest culinary debates. Ghanaian jollof is known for being less oily and having a distinctive smokiness. Every cook has their secret ingredient",
+        "where_to_find": "Buka Restaurant (open-air setting, diverse West African selection), Ayewamu by Jane, Chop Shop"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sobolo (Hibiscus Drink)",
+        "description": "Deep red drink made from hibiscus flowers, ginger, and pineapple - tart, refreshing, and served ice-cold",
+        "how_locals_drink_it": "Consumed throughout the day, especially in Accra's heat. Street vendors sell it in plastic bags with straws. It's both refreshing and believed to have health benefits"
+      },
+      {
+        "name": "Palm Wine",
+        "description": "Naturally fermented sap from palm trees - sweet when fresh, more alcoholic and sour as it ferments",
+        "how_locals_drink_it": "Drunk fresh from calabashes, often in the afternoon. The sweet, milky liquid is best consumed the day it's tapped from the tree"
+      }
+    ],
+    "food_culture_notes": [
+      "Buka Restaurant has been serving fusion West African cuisine since 2003 in a beautiful open-air setting",
+      "Ayewamu by Jane presents food in traditional Asanka bowls (earthenware) - check their Instagram for daily menu as dishes vary",
+      "Katawodieso has been at the same location for a quarter century and is known by everyone in Accra",
+      "Maquis Tante Marie serves authentic Ghanaian and Côte d'Ivoire dishes including nyama choma (grilled spiced meat) and fish yassa"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Independence Square",
+      "Kwame Nkrumah Memorial Park",
+      "Labadi Beach",
+      "Makola Market"
+    ],
+    "atmosphere": [
+      "vibrant street food stalls with steam rising",
+      "colorful kente cloth",
+      "Atlantic Ocean breeze",
+      "bustling markets with loud haggling"
+    ],
+    "colors": [
+      "deep red hibiscus sobolo",
+      "golden jollof rice",
+      "bright orange palm oil",
+      "green kelewele plantain"
+    ],
+    "unique_modern": [
+      "thriving tech startup scene",
+      "Afrobeats music everywhere",
+      "fusion of traditional and contemporary dining",
+      "street food culture meeting fine dining at places like Buka"
+    ]
+  },
+  "wikipedia_search_term": "Accra",
+  "keywords_for_image": [
+    "Accra Ghana",
+    "waakye banana leaves",
+    "Independence Square Accra",
+    "jollof rice",
+    "Ghanaian street food"
+  ],
+  "coordinates": {
+    "lat": 5.6037,
+    "lng": -0.187
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Accra+🇬🇭/@5.6037,-0.187,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Accra"
+  },
+  "location_id": 305
+}

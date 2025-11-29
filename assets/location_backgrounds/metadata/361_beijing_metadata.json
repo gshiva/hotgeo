@@ -1,0 +1,94 @@
+{
+  "name": "Beijing",
+  "country": "China",
+  "fun_fact": "Fun fact: The Forbidden City has exactly 9,999.5 rooms - legend says 10,000 would have been reserved for heaven's palace alone. It took 1 million workers and 100,000 artisans 14 years to build, and it's the world's largest palace complex!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Peking Duck (Beijing Kaoya)",
+        "description": "Lacquered roast duck with crispy skin, carved tableside, wrapped in thin pancakes with scallion and hoisin",
+        "origin_story": "Imperial dish since the Yuan Dynasty (1271) - the duck is inflated to separate skin from fat, then roasted in special ovens. A proper meal uses every part",
+        "where_to_find": "Quanjude (since 1864), Da Dong, Bianyifang (oldest, 1416), Siji Minfu"
+      },
+      {
+        "name": "Zhajiangmian",
+        "description": "Thick wheat noodles with savory fermented soybean paste, cucumber, and radish",
+        "origin_story": "Beijing's beloved noodle dish - the thick, chewy noodles are hand-pulled and the sauce is distinctly northern",
+        "where_to_find": "Hai Wan Ju, Old Beijing Zhajiang Noodle King, neighborhood noodle shops"
+      },
+      {
+        "name": "Jianbing",
+        "description": "Savory crepe with egg, cilantro, scallion, crispy wonton, and sweet/spicy sauces",
+        "origin_story": "Beijing's essential breakfast, made fresh on street carts - watch the choreographed preparation",
+        "where_to_find": "Morning street vendors everywhere, Jianbing Guozi specialist stalls"
+      },
+      {
+        "name": "Lamb Hot Pot (Shuàn Yángròu)",
+        "description": "Paper-thin lamb sliced at the table, swished in boiling broth with sesame sauce",
+        "origin_story": "Mongolian-influenced Beijing winter tradition - the copper pot and sesame dipping sauce are distinctive",
+        "where_to_find": "Dong Lai Shun (since 1903), Ju Bao Yuan, traditional hot pot restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Douzhi",
+        "description": "Fermented mung bean drink - sour, funky, definitely an acquired taste",
+        "how_locals_drink_it": "With jiaoquan (fried dough rings) for breakfast - a true Beijing local's test"
+      },
+      {
+        "name": "Erguotou",
+        "description": "Strong sorghum baijiu (56% alcohol), Beijing's working-class spirit",
+        "how_locals_drink_it": "With dumplings or hot pot - Red Star brand is iconic"
+      }
+    ],
+    "food_culture_notes": [
+      "Wangfujing Snack Street is touristy but iconic for adventurous bites",
+      "Ghost Street (Gui Jie) is the late-night food destination - crayfish heaven",
+      "Hutong (alley) restaurants offer intimate, authentic experiences",
+      "Northern cuisine emphasizes wheat (noodles, dumplings, buns) over rice"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Forbidden City",
+      "Temple of Heaven",
+      "Great Wall",
+      "Summer Palace"
+    ],
+    "atmosphere": [
+      "imperial grandeur",
+      "hutong alleys",
+      "modern skyline",
+      "ancient meets ultramodern"
+    ],
+    "colors": [
+      "imperial red and gold",
+      "temple blue tiles",
+      "grey hutong walls",
+      "autumn ginkgo yellow"
+    ],
+    "unique_modern": [
+      "Bird's Nest stadium",
+      "798 Art District",
+      "tech hub Zhongguancun",
+      "high-speed rail center"
+    ]
+  },
+  "wikipedia_search_term": "Beijing",
+  "keywords_for_image": [
+    "Peking duck Beijing",
+    "Forbidden City",
+    "Temple of Heaven",
+    "hutong alley",
+    "jianbing street food"
+  ],
+  "coordinates": {
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Beijing+🇨🇳/@39.9042,116.4074,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beijing"
+  },
+  "location_id": 361
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Mexico City",
+  "country": "Mexico",
+  "fun_fact": "Fun fact: Mexico City is built on top of the ancient Aztec capital Tenochtitlan, which was constructed on a lake - this means the entire city is slowly sinking, but locals joke that the food is so good, they'd happily sink with it rather than leave.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cochinita Pibil Tacos",
+        "description": "Slow-roasted pork marinated in achiote and citrus, wrapped in banana leaves, served in soft corn tortillas with pickled onions",
+        "origin_story": "This Yucatecan specialty has been adopted by Mexico City and perfected at spots like El Turix, where there's no seating - you order at the window and take your tacos to go, just like locals have done for generations",
+        "where_to_find": "El Turix (walk-up window, cochinita pibil is the house specialty)"
+      },
+      {
+        "name": "Mole Poblano",
+        "description": "Complex sauce with over 20 ingredients including chocolate, chilis, nuts, and spices, served over chicken",
+        "origin_story": "Legend says nuns in Puebla created this for a visiting archbishop, but Mexico City has made it their own. At Angelopolitano, they serve authentic Puebla-style mole that takes days to prepare",
+        "where_to_find": "Angelopolitano (Puebla 371, Roma Norte - authentic Puebla cuisine), El Cardenal"
+      },
+      {
+        "name": "Chile en Nogada",
+        "description": "Poblano chili stuffed with picadillo (meat, fruits, and spices), topped with walnut cream sauce and pomegranate seeds - red, white, and green like the Mexican flag",
+        "origin_story": "Created in 1821 to celebrate Mexico's independence, this dish is only available in season (August-September) when pomegranates are ripe. El Cardenal has been serving it for 40 years",
+        "where_to_find": "El Cardenal (40 years of history, Centro Histórico), Angelopolitano (seasonal, check availability)"
+      },
+      {
+        "name": "Pre-Hispanic Cuisine at Expendio de Maiz",
+        "description": "Dishes using ancient corn varieties and pre-Hispanic cooking techniques - served on the street when ready",
+        "origin_story": "Chef Jesús Tornés works with small farmers from Guerrero state, using heirloom corn and cooking methods that predate Spanish colonization. Food arrives when it's ready, creating a reverent street food experience",
+        "where_to_find": "Expendio de Maiz (casual yet reverent, global attention for traditional rural cooking)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mezcal",
+        "description": "Smoky agave spirit from Oaxaca - artisanal, complex, and ceremonial",
+        "how_locals_drink_it": "Sipped slowly, never shot. Locals say 'para todo mal, mezcal, y para todo bien, también' (for everything bad, mezcal, and for everything good, the same). Often served with orange slices and sal de gusano (worm salt)"
+      },
+      {
+        "name": "Atole",
+        "description": "Hot corn-based drink, thick and sweet, flavored with chocolate, vanilla, or fruit",
+        "how_locals_drink_it": "Consumed for breakfast with tamales at markets and street stalls. It's warming, filling, and has been drunk since Aztec times"
+      }
+    ],
+    "food_culture_notes": [
+      "El Cardenal (40 years old) emphasizes ingredient origins with seasonal menu including escamoles (ant larvae) and cod a la vizcaina",
+      "Grana in a 16th-century downtown building reinterprets traditional dishes with seasonal vegetables and seafood - recognized as one of Mexico's best",
+      "Hacienda de los Morales in an old Polanco silkworm hacienda combines historic setting with upscale traditional cooking",
+      "Roma and Condesa neighborhoods offer the best mix of traditional and modern Mexican cuisine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Zócalo plaza",
+      "Palacio de Bellas Artes",
+      "Frida Kahlo's Blue House",
+      "Teotihuacan pyramids"
+    ],
+    "atmosphere": [
+      "vibrant street food smoke",
+      "colorful papel picado decorations",
+      "mariachi musicians",
+      "ancient ruins among modern buildings"
+    ],
+    "colors": [
+      "bright pink bougainvillea",
+      "deep red mole sauce",
+      "golden corn tortillas",
+      "green cactus paddles"
+    ],
+    "unique_modern": [
+      "16th-century buildings housing cutting-edge restaurants",
+      "pre-Hispanic cuisine revival",
+      "world-class dining scene",
+      "Aztec heritage meets contemporary art"
+    ]
+  },
+  "wikipedia_search_term": "Mexico_City",
+  "keywords_for_image": [
+    "Mexico City",
+    "street tacos",
+    "Palacio Bellas Artes",
+    "mole poblano",
+    "Zocalo plaza"
+  ],
+  "coordinates": {
+    "lat": 19.4326,
+    "lng": -99.1332
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mexico+City+🇲🇽/@19.4326,-99.1332,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexico_City"
+  },
+  "location_id": 306
+}

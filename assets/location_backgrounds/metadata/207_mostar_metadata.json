@@ -1,0 +1,93 @@
+{
+  "name": "Mostar",
+  "country": "Bosnia and Herzegovina",
+  "fun_fact": "Fun fact: The iconic Stari Most bridge was destroyed in 1993 during the Bosnian War, but rebuilt in 2004 using the same Ottoman techniques from 1566 - UNESCO even recovered original stones from the Neretva River to rebuild it!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ćevapi",
+        "description": "Grilled minced meat sausages served with somun bread, raw onions, and kajmak",
+        "origin_story": "Mostar's ćevapi are smaller than Sarajevo's - the city has its own style. Served in portions of 5 or 10",
+        "where_to_find": "Tima-Irma, ćevabdžinicas in the Old Town"
+      },
+      {
+        "name": "Dolma",
+        "description": "Grape leaves or vegetables stuffed with spiced meat and rice",
+        "origin_story": "Ottoman influence is strong - dolma shows the Turkish heritage of Bosnian cuisine",
+        "where_to_find": "Šadrvan, Hindin Han, traditional restaurants near the bridge"
+      },
+      {
+        "name": "Bosanski Lonac",
+        "description": "Bosnian pot - layers of meat and vegetables slow-cooked in a clay pot",
+        "origin_story": "A hearty stew that cooks for hours - each layer adds flavor to the ones below",
+        "where_to_find": "Šadrvan, traditional restaurants in the Old Town"
+      },
+      {
+        "name": "Hurmašice",
+        "description": "Sweet syrup-soaked pastries shaped like dates",
+        "origin_story": "Ottoman sweets are beloved in Bosnia - these are drenched in sweet syrup and often served with Bosnian coffee",
+        "where_to_find": "Sweet shops in the Old Bazaar, traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bosnian Coffee",
+        "description": "Strong, unfiltered coffee prepared in a džezva and served in a fildžan cup",
+        "how_locals_drink_it": "With sugar on the side and often a piece of lokum (Turkish delight). Never rushed"
+      },
+      {
+        "name": "Rakija",
+        "description": "Fruit brandy, often plum (šljivovica) or grape (lozovača)",
+        "how_locals_drink_it": "As welcome drink and digestif - homemade versions prized"
+      }
+    ],
+    "food_culture_notes": [
+      "Ottoman influence visible in food, architecture, and coffee culture",
+      "Bridge divers jump from Stari Most for tourists - traditional since Ottoman times",
+      "Kujundžiluk (Old Bazaar) has traditional crafts and food",
+      "Multi-ethnic heritage blends Bosniak, Croat, and Serbian influences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Stari Most (Old Bridge)",
+      "Koski Mehmed Pasha Mosque",
+      "Old Bazaar (Kujundžiluk)",
+      "Neretva River"
+    ],
+    "atmosphere": [
+      "Ottoman heritage",
+      "emerald green river",
+      "bridge diving",
+      "war recovery"
+    ],
+    "colors": [
+      "Neretva emerald",
+      "Ottoman stone",
+      "minaret white",
+      "bazaar copper"
+    ],
+    "unique_modern": [
+      "reconstructed bridge symbol",
+      "war memory tourism",
+      "bridge diving tradition"
+    ]
+  },
+  "wikipedia_search_term": "Mostar",
+  "keywords_for_image": [
+    "Stari Most bridge",
+    "Neretva River",
+    "ćevapi grilled",
+    "Ottoman architecture",
+    "bridge diver"
+  ],
+  "coordinates": {
+    "lat": 43.3438,
+    "lng": 17.8078
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mostar+🇧🇦/@43.3438,17.8078,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mostar"
+  },
+  "location_id": 207
+}

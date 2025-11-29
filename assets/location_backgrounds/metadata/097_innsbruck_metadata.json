@@ -1,0 +1,134 @@
+{
+  "name": "Innsbruck",
+  "country": "Austria",
+  "fun_fact": "Fun fact: The 'Goldener Adler' (Golden Eagle) inn in Innsbruck has been serving guests since 1390, making it one of Europe's oldest continuously operating inns. The city's name literally means 'bridge over the Inn' (river), and it has hosted the Winter Olympics twice (1964 and 1976). Mozart's father Leopold was so impressed by Innsbruck that he called it 'the most beautiful place in the world.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tiroler Gröstl",
+        "description": "A bacon, onion, and potato fry-up topped with a fried egg and served with coleslaw. This golden, crispy pan dish is the ultimate Tyrolean comfort food - traditionally made from leftovers but elevated to beloved regional specialty.",
+        "origin_story": "Classic 'left-overs' dish that Alpine farmers and workers created to use up yesterday's boiled potatoes and meat. The name 'Gröstl' comes from the sizzling, roasting sound it makes in the pan. There's also 'Knödel Gröstl' using sliced dumpling leftovers instead of potatoes.",
+        "where_to_find": "Restaurant Spitzbua (known for excellent Gröstl made from regional potatoes), Stiftskeller (Stiftgasse 1-7), traditional Tyrolean inns throughout Innsbruck's Altstadt."
+      },
+      {
+        "name": "Speckknödel (Tyrolean Bacon Dumplings)",
+        "description": "Large, round bread-based dumplings studded with smoky Tyrolean Speck (bacon). Usually served floating in clear beef broth or alongside tangy sauerkraut.",
+        "origin_story": "Tiroler Knödel with Speck inside are the most iconic Tyrolean dumplings. Originally peasant food to stretch small amounts of precious meat, these dumplings became a point of regional pride. Every Tyrolean grandmother has her own secret recipe.",
+        "where_to_find": "Altstadtbeisl (Herzog Friedrichstrasse, right next to the Golden Roof - serves with sauerkraut, chives, brown butter), Goldener Adler (historic 1390 inn with excellent traditional cuisine), mountain huts like Umbrüggler Alm and Arzler Alm."
+      },
+      {
+        "name": "Kaiserschmarrn",
+        "description": "Fluffy, torn pancake pieces dusted with powdered sugar and served in a hot pan (meant to be shared). In Tyrol, it comes with wild cranberry compote instead of the Viennese apple or plum sauce.",
+        "origin_story": "Legend says Emperor Franz Joseph I loved this dish so much that it became 'Kaiser's mess' (Kaiserschmarrn). The Tyrolean version uses wild mountain cranberries that grow in Alpine pastures, giving it a tart, distinctive flavor versus the sweeter Viennese version.",
+        "where_to_find": "Mountain huts and alpine restaurants throughout the region (Sunnalm in Axamer Lizum ski area), traditional gasthäuser in Innsbruck's old town, Goldener Adler."
+      },
+      {
+        "name": "Kaspressknödel (Cheese Dumplings)",
+        "description": "Savory cheese dumplings, pan-fried until golden and crispy on the outside, often served in beef broth or with salad. Made with local Tyrolean mountain cheese.",
+        "origin_story": "These dumplings combine Tyrol's legendary cheese-making traditions with the region's dumpling expertise. The cheese is 'pressed' into the dumpling mixture, hence the name. They're hearty fuel for skiers and hikers.",
+        "where_to_find": "Umbrüggler Alm, Arzler Alm, Sunnalm (Axamer Lizum ski area), Gasthaus Anich in central Innsbruck."
+      },
+      {
+        "name": "Käsespätzle (Cheese Spaetzle)",
+        "description": "Soft egg noodles layered with melted cheese and topped with crispy fried onions. Tyrol's answer to mac and cheese, but infinitely more delicious with Alpine cheese.",
+        "origin_story": "Traditional Alpine comfort food shared across southern Germany, Austria, and Switzerland. Each region claims the best version. The Tyrolean style uses local mountain cheeses and lots of caramelized onions.",
+        "where_to_find": "Weissen Rössl (excellent Käsespätzle according to locals), traditional inns throughout Innsbruck, mountain huts."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Zirbenschnaps (Stone Pine Schnaps)",
+        "description": "Crystal-clear spirit infused with the cones of the Zirbe (stone pine) tree, collected during one week in late July/August when the pinecones drip with sticky sap. Herbal, slightly sweet, with notes of pine and mountain air.",
+        "how_locals_drink_it": "Favorite on the ski trails in winter - locals carry small flasks to sip while skiing. Served ice-cold in shot glasses after dinner as a digestif. The Zirbenweg Trail at 4,000 feet above Innsbruck is where these rare pines grow."
+      },
+      {
+        "name": "Krautinger (Wildschönau Turnip Schnapps)",
+        "description": "Unique schnapps made exclusively in the Wildschönau region from turnips. Clear, slightly sweet, with earthy undertones. Only about 15 distilleries still hold the exclusive production rights granted by Empress Maria Theresia centuries ago.",
+        "how_locals_drink_it": "Sipped slowly after meals, not shot. A point of regional pride and local identity. If visiting Wildschönau, refusing a glass is considered rude. This is liquid history in a glass."
+      },
+      {
+        "name": "Enzian Schnaps (Gentian Schnapps)",
+        "description": "Made from the roots of gentian flowers that grow at up to 2,500 meters elevation. Takes 10 years for the flower to bloom. Golden-amber color with intense, bitter-herbal flavor.",
+        "how_locals_drink_it": "Revered as digestive medicine. Locals drink it slowly, savoring the complex alpine botanicals. All wild gentians in Tyrol are legally protected, so only licensed distillers can harvest them."
+      },
+      {
+        "name": "Meisterwurz Schnaps (Masterwort Schnapps)",
+        "description": "Made from the Meisterwurz plant native to mountain pastures, especially in Zillertal Valley. Fresh, fruity taste despite being high-proof.",
+        "how_locals_drink_it": "Traditional Tyrolean digestif made for hundreds of years. Drunk after heavy mountain meals to aid digestion."
+      },
+      {
+        "name": "Hugo (Elderflower Spritzer)",
+        "description": "Light, refreshing cocktail with prosecco (or sekt), soda water, elderflower syrup, and fresh mint. Pale green color with floral sweetness.",
+        "how_locals_drink_it": "Popular aperitif in Tyrol, especially in summer at outdoor cafes. Less alcoholic than wine, perfect for afternoon socializing before dinner."
+      }
+    ],
+    "food_culture_notes": [
+      "Tyrolean food is hearty, designed to fuel hikers, skiers, and mountain workers - portions are generous",
+      "Schnapps is considered medicine, not just alcohol - drunk slowly after meals for digestion, not as shots",
+      "If a local offers you homemade schnapps, refusing is genuinely considered impolite",
+      "Tyrol has the highest density of schnapps distilleries per capita in Austria (over 40 on the 'Tirol Schnaps Route')",
+      "Local ingredients are sacred: Fisser Imperial Barley (ancient grain), wild mountain berries, Alpine cheeses, game meat",
+      "The Goldener Adler (since 1390) is a living museum of Tyrolean hospitality - wood-rich interiors, attentive service",
+      "Die Wilderin restaurant champions ethical sourcing - meat from farmers and hunters the team knows personally, seasonal menus",
+      "Mountain huts (Alm) serve the most authentic versions of traditional dishes, especially in ski areas",
+      "Wild cranberries distinguish Tyrolean Kaiserschmarrn from the Viennese version",
+      "Zillertal Beer brewery has been making beer for 500+ years using rediscovered ancient Fisser Imperial Barley"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Nordkette mountain range looming over the city",
+      "Golden Roof (Goldenes Dachl) in the Altstadt",
+      "Goldener Adler historic inn (1390)",
+      "Bergisel ski jump",
+      "Alpine pastures and Zirbe stone pine forests",
+      "Traditional wooden chalets with flower boxes",
+      "Baroque church towers against snowy peaks"
+    ],
+    "atmosphere": [
+      "Alpine town where mountains literally rise from the city streets",
+      "Blend of imperial Habsburg elegance and rustic mountain culture",
+      "Cozy, wood-paneled gasthäuser with checkered tablecloths",
+      "Active outdoor culture - locals skiing, hiking, biking year-round",
+      "Gemütlichkeit (cozy conviviality) over schnapps and hearty food",
+      "Craft brewing and artisanal distilling traditions",
+      "University town energy mixed with Alpine village charm"
+    ],
+    "colors": [
+      "Snow-white Alpine peaks",
+      "Golden-brown Gröstl with crispy edges",
+      "Rich amber of aged Enzian schnaps",
+      "Deep green of mountain pine forests",
+      "Powdered sugar white on Kaiserschmarrn",
+      "Copper and brass of historic inn interiors",
+      "Bright red cranberries"
+    ],
+    "unique_modern": [
+      "Die Wilderin's ethical, farm-to-table Alpine cuisine with creative seasonal menus",
+      "Bierol craft brewery's award-winning 'Tirolean IPA' Mountain Pale Ale",
+      "Fusion of traditional recipes with modern Nordic kitchen techniques",
+      "Active preservation of 700-year-old food traditions while innovating",
+      "Tirol Schnaps Route - 40+ distilleries open to visitors for tastings and tours"
+    ]
+  },
+  "wikipedia_search_term": "Innsbruck",
+  "keywords_for_image": [
+    "Innsbruck Austria Alps",
+    "Nordkette mountain Innsbruck",
+    "Goldenes Dachl Golden Roof",
+    "Tiroler Gröstl",
+    "Tyrolean dumplings Speckknödel",
+    "Kaiserschmarrn pancake",
+    "Alpine Austria village",
+    "Innsbruck old town"
+  ],
+  "coordinates": {
+    "lat": 47.2692,
+    "lng": 11.4041
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Innsbruck+🇦🇹/@47.2692,11.4041,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Innsbruck"
+  },
+  "location_id": 97
+}

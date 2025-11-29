@@ -1,0 +1,109 @@
+{
+  "name": "Interlaken",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: The Jungfrau Railway, built between 1896-1912, took 16 years to construct as workers inched through solid rock to create Europe's highest railway station at 3,454m (11,332 ft). The original plan was to reach the Jungfrau summit itself with an elevator, but WWI halted the complete project. It's one of only four railways in the world using three-phase electric power.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cheese Fondue",
+        "description": "Melted cheese (traditionally Gruyère and Vacherin) served in a communal pot with bread cubes for dipping",
+        "origin_story": "The ultimate alpine bonding experience, traditionally enjoyed after a day of hiking or skiing. Local tradition says if you drop your bread in the cheese, you owe the next round of schnapps! The original recipe uses alcohol, though some restaurants offer apple juice versions.",
+        "where_to_find": "Fondue Villa & Garden (offers classic Swiss, mushroom, tomato, and vegan almond fondues with stunning Alps views, plus cooking classes), Gasthof Bären in Wilderswil (authentic in old chalet setting), Restaurant Stadthaus (historic setting)"
+      },
+      {
+        "name": "Raclette",
+        "description": "Half-wheel of raclette cheese melted by open fire and scraped onto potatoes, pickles, and cured meats",
+        "origin_story": "Less 'dip your bread' and more 'smother everything in cheese.' Traditionally, raclette originated in the canton of Valais where alpine herders would melt cheese by the fire. A unique experience is raclette at the St. Beatus caves or Stockhorn caves.",
+        "where_to_find": "Gasthof Bären in Wilderswil, Taverne Interlaken, and cave experiences at St. Beatus or Stockhorn"
+      },
+      {
+        "name": "Rösti",
+        "description": "Grated potatoes fried into a crispy golden cake - Switzerland's answer to hash browns, but bigger and better",
+        "origin_story": "Originally a farmer's breakfast in Bern, rösti is now served throughout the country for lunch or dinner. Regional variations include the Bern version with cheese, onions, and bacon. Some creative chefs make versions with gorgonzola, pear, and onions.",
+        "where_to_find": "Traditional eateries across German-speaking regions. Often served as a side dish with other Swiss specialties"
+      },
+      {
+        "name": "Älplermagronen (Alpine Macaroni)",
+        "description": "Macaroni baked with potatoes, cream, onions, and cheese, topped with caramelized onions and served with applesauce",
+        "origin_story": "Invented in the 1930s when Italian workers brought pasta to Switzerland. Alpine herdsmen quickly adopted it because all ingredients (pasta, cheese, cream, onions, potatoes) were readily available in the mountains. It's like American mac and cheese, but better.",
+        "where_to_find": "Restaurant Taube in Lucerne (dedicated to serving the best älplermagronen, using local cheese and potatoes), Kulmhotel Gornergrat (spectacular Matterhorn viewpoint location)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Riesling Wine",
+        "description": "Local white wine from surrounding regions",
+        "how_locals_drink_it": "Paired with fondue and alpine dishes, especially after hiking or skiing"
+      },
+      {
+        "name": "Schnapps",
+        "description": "Traditional Swiss spirit served as digestif",
+        "how_locals_drink_it": "The penalty drink if you drop your bread in the fondue pot - a cherished local tradition"
+      },
+      {
+        "name": "Swiss Hot Chocolate",
+        "description": "Rich chocolate drink, often served as fondue dessert",
+        "how_locals_drink_it": "Fondue Villa & Garden offers Swiss chocolate fondue as a sweet finish to meals"
+      }
+    ],
+    "food_culture_notes": [
+      "Zürcher geschnetzeltes is creamy veal with white wine, onions, and mushrooms, typically served with crispy rösti",
+      "Fondue rucksacks available from Sigriswil or Interlaken for outdoor fondue picnics",
+      "The Jungfrau region (Lauterbrunnen valley) inspired Tolkien's Rivendell in Lord of the Rings",
+      "Interlaken sits between Lake Thun and Lake Brienz, watched over by Eiger, Mönch, and Jungfrau mountains",
+      "The Ice Palace at Jungfraujoch is 30 meters under the glacier with ice sculptures",
+      "Fondue Villa & Garden offers fondue cooking classes and workshops about Swiss fondue history"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Jungfrau Railway to 'Top of Europe'",
+      "Eiger, Mönch, and Jungfrau mountains",
+      "Lake Thun and Lake Brienz",
+      "Aletsch Glacier (longest in the Alps at 14 miles)",
+      "Sphinx Observatory at Jungfraujoch",
+      "St. Beatus caves"
+    ],
+    "atmosphere": [
+      "Pristine alpine resort between two lakes",
+      "UNESCO World Heritage Jungfrau-Aletsch area",
+      "Snow-covered peaks and glaciers",
+      "Cozy mountain chalets and fondue restaurants",
+      "Adventure sports and hiking hub"
+    ],
+    "colors": [
+      "Brilliant white snow and glaciers",
+      "Deep blue alpine lakes",
+      "Golden melted cheese",
+      "Green alpine meadows",
+      "Traditional Swiss chalet wood tones"
+    ],
+    "unique_modern": [
+      "Jungfrau Railway electrified with rare three-phase power",
+      "Ice Palace with subglacial sculptures",
+      "Research station operational since 1931",
+      "Views extending to Vosges (France) and Black Forest (Germany)",
+      "Fondue Villa historic villa with garden dining"
+    ]
+  },
+  "wikipedia_search_term": "Interlaken",
+  "keywords_for_image": [
+    "Interlaken Switzerland",
+    "Jungfrau railway",
+    "Swiss cheese fondue",
+    "alpine mountains",
+    "raclette cheese",
+    "Lake Brienz",
+    "Swiss Alps",
+    "rösti potatoes"
+  ],
+  "coordinates": {
+    "lat": 46.6863,
+    "lng": 7.8632
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Interlaken+🇨🇭/@46.6863,7.8632,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Interlaken"
+  },
+  "location_id": 27
+}

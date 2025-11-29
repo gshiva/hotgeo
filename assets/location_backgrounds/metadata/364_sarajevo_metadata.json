@@ -1,0 +1,94 @@
+{
+  "name": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "fun_fact": "Fun fact: Sarajevo hosted the 1984 Winter Olympics, but just 8 years later endured the longest siege in modern warfare (1,425 days, 1992-1996). Today, the bobsled track is covered in graffiti art and the city has transformed into a symbol of resilience and reconciliation.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ćevapi",
+        "description": "Grilled minced meat sausages in somun bread with raw onions and kajmak cream",
+        "origin_story": "The great Balkan debate: Sarajevo ćevapi are smaller and served in fives or tens in soft somun flatbread. Bosnians claim theirs are the original",
+        "where_to_find": "Ćevabdžinica Željo (legendary since 1887), Petica Ferhatović, Baščaršija area"
+      },
+      {
+        "name": "Burek",
+        "description": "Flaky phyllo pastry spiral filled with meat (or cheese = sirnica, spinach = zeljanica)",
+        "origin_story": "Ottoman heritage - true burek has ONLY meat; other fillings have different names. Eaten with yogurt",
+        "where_to_find": "Buregdžinica Bosna (open 24h), Sač, any buregdžinica"
+      },
+      {
+        "name": "Bosanski Lonac",
+        "description": "Layered meat and vegetable stew slow-cooked in a clay pot for hours",
+        "origin_story": "Bosnia's national dish - the clay pot (lonac) cooking method dates back centuries",
+        "where_to_find": "Nanina Kuhinja, Dveri, traditional Bosnian restaurants"
+      },
+      {
+        "name": "Tufahija",
+        "description": "Poached apple stuffed with walnuts, soaked in sugar syrup, topped with whipped cream",
+        "origin_story": "Ottoman-era dessert - the walnut filling and syrup are essential Bosnian sweet traditions",
+        "where_to_find": "Baščaršija sweet shops, traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bosanska Kahva",
+        "description": "Bosnian coffee served in a džezva (pot) with sugar cubes and lokum (Turkish delight)",
+        "how_locals_drink_it": "A ritual, not just a drink - poured carefully, sipped slowly with conversation"
+      },
+      {
+        "name": "Rakija",
+        "description": "Fruit brandy, often plum (šljivovica) - Balkan essential",
+        "how_locals_drink_it": "Before meals as aperitif, after meals as digestif, and during meals for celebration"
+      }
+    ],
+    "food_culture_notes": [
+      "Baščaršija (old bazaar) is the Ottoman-era heart with best traditional food",
+      "Coffee is a 3-cup ritual: first for enjoyment, second for conversation, third for contemplation",
+      "Ćevapi are serious business - locals argue fiercely about the best spots",
+      "The call to prayer from multiple mosques creates unique soundtrack while eating"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Baščaršija (Old Town)",
+      "Latin Bridge",
+      "Gazi Husrev-beg Mosque",
+      "Vijećnica (City Hall)"
+    ],
+    "atmosphere": [
+      "Ottoman meets Austro-Hungarian",
+      "minarets and church bells",
+      "resilient spirit",
+      "coffee culture"
+    ],
+    "colors": [
+      "Ottoman copperware",
+      "mosque green",
+      "Vijećnica yellow and red",
+      "grey mountain surrounds"
+    ],
+    "unique_modern": [
+      "War Tunnel Museum",
+      "1984 Olympics legacy",
+      "street art scene",
+      "meeting of civilizations"
+    ]
+  },
+  "wikipedia_search_term": "Sarajevo",
+  "keywords_for_image": [
+    "cevapi Sarajevo",
+    "Bascarsija bazaar",
+    "Bosnian coffee dzezva",
+    "Latin Bridge",
+    "minarets Ottoman"
+  ],
+  "coordinates": {
+    "lat": 43.8564,
+    "lng": 18.4131
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Sarajevo+🇧🇦/@43.8564,18.4131,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarajevo"
+  },
+  "location_id": 364
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Dallas",
+  "country": "USA",
+  "fun_fact": "Fun fact: Deep Ellum was one of the first purposefully desegregated areas in Dallas and became the birthplace of Texas blues, hosting legends like Blind Lemon Jefferson and Robert Johnson in the 1920s. The neighborhood later saw Nirvana, Radiohead, and Pearl Jam play its venues in the '90s.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Texas BBQ Brisket",
+        "description": "The crown jewel of Texas barbecue - tender, smoky beef brisket with a black pepper bark and perfectly rendered fat cap. Locals know the best spots close early because they always sell out.",
+        "origin_story": "Texas BBQ evolved from German and Czech immigrants in Central Texas, combined with Southern African American smoking traditions. Brisket became king in the 1950s when it was one of the cheapest cuts available. Today, Dallas has entered a golden age of BBQ with spots like Cattleack and Pecan Lodge gaining international recognition.",
+        "where_to_find": "Cattleack BBQ (industrial park in North Dallas, only open Wed-Fri), Pecan Lodge (Deep Ellum - expect long lines), Slow Bone (Design District - insider's choice), Off The Bone (tiny storefront in The Cedars)"
+      },
+      {
+        "name": "Burnt Ends",
+        "description": "Cubes of brisket point with caramelized bark, so tender they fall apart. These sell out fast at every BBQ joint - arrive early or miss out.",
+        "origin_story": "Kansas City claims burnt ends, but Texas perfected them. The point end of the brisket gets extra smoke and develops a crispy, candy-like exterior while staying juicy inside.",
+        "where_to_find": "Pecan Lodge's burnt ends are legendary, Heim Barbecue's bacon burnt ends are cult favorites"
+      },
+      {
+        "name": "Hot Mess Sweet Potato",
+        "description": "A sweet potato stuffed with brisket, chipotle cream, and cheese - Pecan Lodge's cult favorite side dish that's become a meal unto itself.",
+        "origin_story": "Created at Pecan Lodge as a creative way to combine Texas BBQ with loaded baked potato traditions. It's messy, indulgent, and utterly Dallas.",
+        "where_to_find": "Pecan Lodge (Deep Ellum)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Big Red Soda",
+        "description": "Sweeter than cotton candy and redder than rubies - a cream soda with lemon, orange, and vanilla that's been Texas BBQ's unofficial signature drink since 1937.",
+        "how_locals_drink_it": "Ice cold with BBQ brisket. San Antonio even has an annual Barbacoa & Big Red Festival. The bright red soda cuts through the richness of smoked meat perfectly."
+      },
+      {
+        "name": "Shiner Bock",
+        "description": "Texas's beloved amber lager brewed in Shiner, Texas since 1909 by Czech and German immigrants using old-world recipes.",
+        "how_locals_drink_it": "From the bottle at BBQ joints and backyard cookouts. It's so Texan that ordering a 'Shiner' needs no further explanation anywhere in the state."
+      }
+    ],
+    "food_culture_notes": [
+      "Many top BBQ spots are only open 2-3 days per week and close when they sell out (often by 2pm)",
+      "Arrive at least an hour before opening - there will already be a line",
+      "Brisket is ordered by the pound and comes sliced or chopped; fatty brisket (moist) is preferred over lean",
+      "Sides matter: brisket-studded beans, cauliflower gratin, and jalapeño mac & cheese are as important as the meat",
+      "Deep Ellum has over 30 live music venues making it one of Texas's biggest entertainment districts",
+      "The Dallas BBQ scene mixes traditional Texas techniques with global influences - expect Korean-spiced ribs and Mexican birria brisket tacos"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Deep Ellum street murals",
+      "Downtown Dallas skyline",
+      "Pecan Lodge BBQ pit smoke",
+      "Reunion Tower",
+      "Cowboys Stadium"
+    ],
+    "atmosphere": [
+      "Smoke billowing from BBQ pits",
+      "Long lines at legendary joints",
+      "Industrial warehouse BBQ spots",
+      "Neon signs in Deep Ellum",
+      "Live blues and rock music venues"
+    ],
+    "colors": [
+      "Charcoal black (bark)",
+      "Mahogany red (smoke ring)",
+      "Bright red (Big Red soda)",
+      "Amber (Shiner beer)",
+      "Golden brown (cornbread)"
+    ],
+    "unique_modern": [
+      "Street art covers 100+ walls in Deep Ellum",
+      "Craft breweries in the Design District",
+      "Food trucks serving international BBQ fusion",
+      "Farmers markets with Hill Country produce"
+    ]
+  },
+  "wikipedia_search_term": "Dallas",
+  "keywords_for_image": [
+    "Dallas BBQ brisket",
+    "Deep Ellum murals",
+    "Texas barbecue smoke",
+    "Big Red soda",
+    "downtown Dallas",
+    "Pecan Lodge",
+    "burnt ends",
+    "BBQ pit smoke ring"
+  ],
+  "coordinates": {
+    "lat": 32.7767,
+    "lng": -96.797
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dallas+🇺🇸/@32.7767,-96.797,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dallas"
+  },
+  "location_id": 101
+}

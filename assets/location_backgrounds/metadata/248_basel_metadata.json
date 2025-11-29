@@ -1,0 +1,94 @@
+{
+  "name": "Basel",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Basel sits at the tri-border area where Switzerland, France, and Germany meet - you can literally have breakfast in Switzerland, lunch in France, and dinner in Germany, all within a 15-minute tram ride.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Basler Läckerli",
+        "description": "Spiced honey cookies with almonds, hazelnuts, candied citrus, and a hint of kirsch cherry liqueur - crisp outside, chewy inside",
+        "origin_story": "Dating back centuries, these Christmas cookies became Basel's signature year-round treat. The recipe balances cinnamon, cloves, nutmeg with honey and local kirsch. Jakob's Basler Leckerly has made them since 1753 - the oldest company in Basel.",
+        "where_to_find": "Jakob's Basler Leckerly (St. Johanns-Vorstadt 47 - operating since 1753), Läckerli-Huus (established 1903, the unofficial official version), Confiserie Bachmann"
+      },
+      {
+        "name": "Basler Mehlsuppe (Flour Soup)",
+        "description": "Dark roux soup that's far more complex than the name suggests - rich, hearty, and unique to Basel",
+        "origin_story": "This soup is a Basel icon born from Basler Fasnacht (carnival) marking the start of Lent. The dark roux gives it depth and character. It represents Basel culture so strongly that it's served year-round in traditional Beizen (taverns) and especially during the famous three-day carnival.",
+        "where_to_find": "Guild house restaurants (Zunfthäuser) - Schlüsselzunft on Freie Strasse and Safran Zunft on Gerbergasse, traditional Swiss Beizen throughout the city"
+      },
+      {
+        "name": "Sour Liver (Saure Leber)",
+        "description": "Liver cooked in a tangy wine-vinegar sauce with onions, a Basel bistro fixture",
+        "origin_story": "This traditional dish reflects Basel's location at the Rhine crossroads - German influences meet Swiss precision. The sour sauce balances the richness of liver. It's been a staple in Basel bistros and guild taverns for generations.",
+        "where_to_find": "Guild house restaurants (Zunfthäuser), Schlüsselzunft, Safran Zunft, traditional Beizen"
+      },
+      {
+        "name": "Seasonal Swiss Specialties",
+        "description": "Cheese fondue, raclette, and seasonal game dishes prepared with Basel's tri-cultural influences",
+        "origin_story": "Basel's position at three borders creates unique culinary fusion. Swiss cheese traditions meet French elegance and German heartiness. Guild houses serve these specialties with authentic atmosphere and formal service.",
+        "where_to_find": "Guild house restaurants for traditional Swiss meats and seasonal game, Rhine riverside restaurants for summer terraces"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kirsch (Cherry Liqueur)",
+        "description": "Clear cherry brandy that's a key ingredient in Basel's famous Läckerli cookies",
+        "how_locals_drink_it": "Served as a digestif after meals or used in baking. This Swiss specialty appears in both sweet and savory Basel dishes. The cherry orchards of the region have supplied kirsch for centuries."
+      },
+      {
+        "name": "Swiss Wine",
+        "description": "Local wines from nearby regions, often lesser-known varieties that rarely leave Switzerland",
+        "how_locals_drink_it": "Guild houses and riverside restaurants serve Swiss wines that most foreigners never taste - production is small and locals drink most of it. Paired thoughtfully with seasonal Swiss dishes."
+      }
+    ],
+    "food_culture_notes": [
+      "Basler Fasnacht (carnival) traditions dictate seasonal eating - Mehlsuppe during carnival, Fastenwähe (pretzel-shaped pastry) and Magenbrot (soft gingerbread) at autumn fair",
+      "Guild houses (Zunfthäuser) that once housed medieval trade guilds are now open to public - dining in these historic buildings offers authentic Basel atmosphere",
+      "Summer brings Rhine riverside terrace dining - locals float down the river in waterproof bags (Rhine swimming is a beloved tradition)",
+      "Basel's position at three borders means menus often feature German, French, and Swiss influences on the same plate"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Basel Minster cathedral",
+      "Rhine River",
+      "Tinguely Fountain",
+      "Rathaus (Town Hall)"
+    ],
+    "atmosphere": [
+      "medieval old town",
+      "Rhine swimming culture",
+      "art museum hub",
+      "Fasnacht carnival chaos"
+    ],
+    "colors": [
+      "Rhine river blue",
+      "Läckerli brown",
+      "medieval stone gray",
+      "carnival confetti colors"
+    ],
+    "unique_modern": [
+      "Art Basel (world's premier art fair)",
+      "Rhine riverside summer terraces",
+      "Tri-border tram connections",
+      "Contemporary architecture by Herzog & de Meuron"
+    ]
+  },
+  "wikipedia_search_term": "Basel",
+  "keywords_for_image": [
+    "Basel Rhine River",
+    "Basler Läckerli cookies",
+    "Swiss guild houses",
+    "Fasnacht carnival",
+    "Basel cathedral"
+  ],
+  "coordinates": {
+    "lat": 47.5596,
+    "lng": 7.5886
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Basel+🇨🇭/@47.5596,7.5886,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Basel"
+  },
+  "location_id": 248
+}

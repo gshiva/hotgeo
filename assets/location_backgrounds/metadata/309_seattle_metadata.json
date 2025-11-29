@@ -1,0 +1,94 @@
+{
+  "name": "Seattle",
+  "country": "United States",
+  "fun_fact": "Fun fact: Washington State farms more oysters than any other U.S. state, and Seattle takes this so seriously that The Walrus and the Carpenter oyster bar became famous enough that reservations are nearly impossible - proving that Seattleites will wait hours for perfectly fresh bivalves.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fresh Pacific Oysters",
+        "description": "Local oysters from Hama Hama, Taylor Shellfish Farms, and other Washington producers - briny, sweet, and ocean-fresh",
+        "origin_story": "Washington's cold Pacific waters produce some of the world's best oysters. Seattle's obsession with them has created a thriving oyster bar culture where locals can identify oysters by their growing region like wine",
+        "where_to_find": "The Walrus and the Carpenter (regarded as the best), Taylor Shellfish Farms, Westward (Lake Union views), Bar Melusine (Capitol Hill)"
+      },
+      {
+        "name": "Hand-Pulled Noodles at Noodle/Bar",
+        "description": "Every strand hand-pulled from Washington wheat by Chef Travis Post - served in rich broth with beef meatballs, wood-ear mushrooms, and chile oil",
+        "origin_story": "Chef Post pulls every single noodle by hand, a meditative process that creates irregular, perfectly textured strands. This is Seattle's answer to artisanal pasta - rainy-day therapy in a bowl",
+        "where_to_find": "Noodle/Bar (new to Resy's Fall 2025 Hit List)"
+      },
+      {
+        "name": "Tajarin con Burro e Salvia at Spinasse",
+        "description": "Fresh pasta with butter and sage - deceptively simple, impossibly delicious",
+        "origin_story": "Chef Stuart Lane focuses on traditional Piedmont dishes at what many consider Seattle's best fresh pasta restaurant. The tajarin (thin egg noodles) are rolled and cut by hand daily",
+        "where_to_find": "Spinasse (makes case for best fresh pasta in Seattle)"
+      },
+      {
+        "name": "Sichuan-Style Fried Chicken",
+        "description": "Crispy chicken with Sichuan peppercorns creating a numbing, tingling sensation alongside heat",
+        "origin_story": "At Plenty of Clouds, bold Sichuan and Yunnan flavors dominate. The fried chicken with Sichuan peppercorns showcases Seattle's exceptional Asian food scene",
+        "where_to_find": "Plenty of Clouds (Sichuan and Yunnan flavors), various Asian restaurants in Seattle's International District"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Craft Coffee",
+        "description": "Third-wave coffee roasted locally - Seattle is the birthplace of coffee culture in America",
+        "how_locals_drink_it": "Despite Starbucks being from Seattle, locals prefer independent roasters and pour-over methods. Coffee is a religion here, consumed constantly regardless of weather"
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "IPAs and other craft beers from Seattle's thriving brewery scene",
+        "how_locals_drink_it": "At breweries like Fair Isle Brewing (which houses La Marea Mexican seafood counter). The Pacific Northwest pioneered the craft beer movement"
+      }
+    ],
+    "food_culture_notes": [
+      "Seattle Met's 2025 best new restaurants list shows the city's resourcefulness and innovation",
+      "La Marea serves Mexican-style seafood like scallop aguachile inside Fair Isle Brewing",
+      "The Pink Door has been popular for decades - an intimate Italian restaurant hidden down Post Alley",
+      "Kamonegi offers hand-cut soba noodles in a cozy space with traditional Japanese decor"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Space Needle",
+      "Pike Place Market",
+      "Mount Rainier backdrop",
+      "Puget Sound waterfront"
+    ],
+    "atmosphere": [
+      "perpetual drizzle and coffee culture",
+      "Craftsman-style houses",
+      "evergreen forests",
+      "ferry boats crossing the Sound"
+    ],
+    "colors": [
+      "deep green evergreens",
+      "gray rainy skies",
+      "silvery oyster shells",
+      "vibrant Pike Place neon"
+    ],
+    "unique_modern": [
+      "tech industry wealth meeting food culture",
+      "Pacific Rim culinary influences",
+      "farm-to-table taken seriously",
+      "Asian cuisine excellence rivaling traditional American food"
+    ]
+  },
+  "wikipedia_search_term": "Seattle",
+  "keywords_for_image": [
+    "Seattle Washington",
+    "Pike Place Market",
+    "Pacific oysters",
+    "Space Needle",
+    "Seattle coffee culture"
+  ],
+  "coordinates": {
+    "lat": 47.6062,
+    "lng": -122.3321
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Seattle+🇺🇸/@47.6062,-122.3321,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seattle"
+  },
+  "location_id": 309
+}

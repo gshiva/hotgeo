@@ -1,0 +1,94 @@
+{
+  "name": "Dresden",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Dresden's famous Christstollen (Christmas bread) is so culturally important that it has Protected Geographical Indication status - only stollen made within Dresden's city limits can use the official seal, and the annual Stollenfest features a parade with a giant 4-ton stollen cake.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sächsischer Sauerbraten",
+        "description": "Saxon-style pot roast marinated for days in vinegar, red wine, and herbs, then slow-cooked until fork-tender. The Saxon version is slightly sweeter than other German regions.",
+        "origin_story": "Saxony's take on Germany's national dish adds fruit or sugar to the marinade, creating a distinctive sweet-savory profile. Originally a way to preserve and tenderize tough cuts of meat, it became a symbol of Saxon culinary pride.",
+        "where_to_find": "Sophienkeller (medieval atmosphere with vaulted ceilings), Dresden 1900 (part of 'Train Conductor's Pan')"
+      },
+      {
+        "name": "Quarkkeulchen",
+        "description": "Pan-fried potato pancakes made with quark cheese, boiled potatoes, and raisins. Served sweet with cinnamon sugar and applesauce, or savory with mushrooms.",
+        "origin_story": "A uniquely Saxon dish that straddles sweet and savory. The use of quark (a fresh cheese) and potatoes reflects Saxon resourcefulness, while the dual preparation shows the region's culinary creativity.",
+        "where_to_find": "Found at cafes throughout Dresden, Gänsedieb (home-style Saxon cuisine)"
+      },
+      {
+        "name": "Eierschecke",
+        "description": "Three-layer sheet cake with yeast dough base, quark cheese middle, and vanilla pudding custard top. Sometimes with apples, poppy seeds, or raisins.",
+        "origin_story": "A Saxon café staple found throughout Dresden year-round. The name means 'egg corner,' and it's been a Dresden specialty for generations. Each bakery has their own recipe variation.",
+        "where_to_find": "Found at most cafés and coffee houses throughout Dresden, traditional bakeries"
+      },
+      {
+        "name": "Crispy Pork Knuckle at Altmarktkeller",
+        "description": "Slow-roasted pork knuckle with crackling skin, served with sauerkraut and potato dumplings.",
+        "origin_story": "Served in the historic beer hall Altmarktkeller with stunning vaulted ceilings. The Saxon preparation emphasizes getting the skin impossibly crispy while keeping the meat tender and juicy.",
+        "where_to_find": "Altmarktkeller (historic beer hall in Altmarkt district, renowned for regional craft brews)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Saxon Pilsner",
+        "description": "Regional craft beers from Saxon breweries, typically crisp and hoppy pilsners.",
+        "how_locals_drink_it": "Enjoyed in historic beer halls like Altmarktkeller and Pulverturm. Locals take their beer seriously, favoring regional breweries over mass-market brands."
+      },
+      {
+        "name": "Radeberger Pilsner",
+        "description": "Germany's most famous export pilsner, brewed just outside Dresden in Radeberg since 1872.",
+        "how_locals_drink_it": "The local pride beer - while it's sold worldwide, drinking it in Dresden connects you to Saxon brewing tradition. Served cold in traditional beer hall steins."
+      }
+    ],
+    "food_culture_notes": [
+      "Dresden's food scene blends baroque-era recipes with contemporary presentations - staff in historic costumes serve traditional dishes",
+      "The Sachsenmarkt (Saxon Market) every Friday is where locals buy fresh regional products - 160 stalls of authentic Saxon ingredients",
+      "Many restaurants occupy historic buildings - powder towers from 1565, medieval vaults, baroque palaces",
+      "Dresdner Christstollen is only sold November-December, making it a seasonal pilgrimage for locals and tourists"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Frauenkirche cathedral",
+      "Zwinger Palace",
+      "Semperoper opera house",
+      "Elbe River terraces"
+    ],
+    "atmosphere": [
+      "baroque architecture",
+      "riverside promenades",
+      "reconstructed historic center",
+      "vaulted beer cellars"
+    ],
+    "colors": [
+      "sandstone baroque gold",
+      "Elbe river blue",
+      "copper cathedral domes",
+      "Dresden china white"
+    ],
+    "unique_modern": [
+      "Michelin-starred contemporary Saxon",
+      "historic buildings with modern menus",
+      "Christmas market magic",
+      "art nouveau beer halls"
+    ]
+  },
+  "wikipedia_search_term": "Dresden",
+  "keywords_for_image": [
+    "Frauenkirche",
+    "Christstollen",
+    "baroque architecture",
+    "Saxon cuisine",
+    "Elbe River"
+  ],
+  "coordinates": {
+    "lat": 51.0504,
+    "lng": 13.7373
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dresden+🇩🇪/@51.0504,13.7373,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dresden"
+  },
+  "location_id": 279
+}

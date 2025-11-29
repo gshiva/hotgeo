@@ -1,0 +1,94 @@
+{
+  "name": "Indianapolis",
+  "country": "USA",
+  "fun_fact": "Fun fact: The Indianapolis Motor Speedway is so enormous that you could fit Churchill Downs, Yankee Stadium, the Rose Bowl, the Roman Colosseum, the White House, Liberty Island, the Taj Mahal AND Vatican City inside the 253-acre infield with room to spare. The 2025 Indy 500 sold out for the first time since 2016 with 350,000 fans",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Breaded Pork Tenderloin Sandwich",
+        "description": "A pounded, breaded, deep-fried pork cutlet the size of a dinner plate, served on a regular-sized bun - the meat hilariously overhangs the bread by 6+ inches on all sides",
+        "origin_story": "Born at Nick's Kitchen in Huntington, IN in 1908, this sandwich is Indiana's obsession. The oversized tenderloin started as a joke - a cook wanted to show off how much meat you could get for your money. Now it's the state's unofficial sandwich. Locals argue fiercely about the perfect thickness-to-crispiness ratio",
+        "where_to_find": "Nick's Kitchen in Huntington (birthplace since 1908), The Mug in Greenfield (uses 350-pound heritage Large Black pork from Tyner Pond Farm), Steer-In Restaurant in Indianapolis"
+      },
+      {
+        "name": "Sugar Cream Pie",
+        "description": "Indiana's official state pie - a simple custard pie made with cream, sugar, flour, butter, and vanilla, topped with nutmeg. No eggs, no fancy ingredients, just pure Hoosier comfort",
+        "origin_story": "Called 'Hoosier Pie' or 'Finger Pie' (you stir it with your finger), this dessert dates to Quaker and Amish settlers who made it from pantry staples when fresh fruit was scarce. Nick's Kitchen has used the same recipe unchanged since 1908",
+        "where_to_find": "Nick's Kitchen (original 1908 recipe), Pots & Pans Pie Co. (4915 N. College Ave), Shapiro's Delicatessen, Steer-In Restaurant"
+      },
+      {
+        "name": "St. Elmo Shrimp Cocktail",
+        "description": "Jumbo Gulf shrimp served with an eye-wateringly spicy horseradish cocktail sauce that locals claim can clear your sinuses for a week",
+        "origin_story": "St. Elmo Steak House opened in 1902 and became the after-party headquarters for Indy 500 drivers and celebrities. Their shrimp cocktail sauce is so legendarily hot it's become a rite of passage - race car drivers test their courage with it before hitting the Brickyard",
+        "where_to_find": "St. Elmo Steak House (127 S. Illinois St, downtown since 1902), Harry & Izzy's (St. Elmo's sister restaurant)"
+      },
+      {
+        "name": "Rathskeller Schnitzel",
+        "description": "Paper-thin veal or pork cutlet, breaded and fried until golden, served with warm German potato salad and red cabbage in a beer hall built in 1894",
+        "origin_story": "Indianapolis has strong German heritage, and The Rathskeller is housed in the historic Athenaeum building. The restaurant preserves old-world German traditions with its biergarten and authentic recipes brought by German immigrants in the 1800s",
+        "where_to_find": "The Rathskeller (401 E. Michigan St - historic German restaurant in the Athenaeum), Loughmiller's Pub & Eatery"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Milk (Victory Lane Tradition)",
+        "description": "Ice-cold whole milk, served in a glass bottle - the official drink of Indy 500 winners since 1936",
+        "how_locals_drink_it": "During the Indy 500, fans chug milk in solidarity when the winner drinks it in victory lane. Louis Meyer started the tradition in 1936 when he requested buttermilk to cool off after winning. The American Dairy Association now provides the winner's milk bottle"
+      },
+      {
+        "name": "Indiana Craft Beer",
+        "description": "Local microbrews from Indianapolis's booming craft scene, especially Sun King Brewery, Taxman Brewing, and Fountain Square Brewing",
+        "how_locals_drink_it": "Race fans tailgate with local craft beer in the Speedway infield. Sun King Brewery (opened 2009) is the most popular, with their Wee Mac Scottish Ale and Pachanga Mexican lager flowing freely at race parties"
+      }
+    ],
+    "food_culture_notes": [
+      "The Indy 500 is the world's largest single-day sporting event - 350,000 people pack the Speedway on Memorial Day weekend",
+      "Nick's Kitchen in Huntington (45 min north) is a pilgrimage site for tenderloin fanatics - unchanged since 1908",
+      "The Indianapolis Motor Speedway is nicknamed 'The Brickyard' - originally paved with 3.2 million bricks in 1909, now only a 36-inch strip remains at the start/finish line",
+      "The pork tenderloin sandwich debate is serious business - size vs. quality, thin vs. thick, and proper meat-to-bun ratio are hotly contested topics"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Indianapolis Motor Speedway and Pagoda tower",
+      "Monument Circle with Soldiers and Sailors Monument",
+      "The historic Brickyard's start/finish line (36-inch brick strip)",
+      "Mass Ave arts district and murals"
+    ],
+    "atmosphere": [
+      "roar of engines on race day",
+      "Midwestern friendly hospitality",
+      "beer hall gemütlichkeit",
+      "checkered flag excitement"
+    ],
+    "colors": [
+      "racing green and checkered black/white",
+      "brick red (The Brickyard)",
+      "golden fried crust (tenderloin)",
+      "cream and nutmeg (sugar cream pie)"
+    ],
+    "unique_modern": [
+      "2025 Indy 500 introduced hybrid powertrains for first time",
+      "First rookie to win pole since 1983 (Robert Shwartzman from Israel)",
+      "Record $20.28 million purse in 2025",
+      "First Spanish winner ever (Álex Palou)"
+    ]
+  },
+  "wikipedia_search_term": "Indianapolis",
+  "keywords_for_image": [
+    "Indianapolis Motor Speedway Brickyard",
+    "Indiana pork tenderloin sandwich",
+    "Indy 500 racing",
+    "sugar cream pie Indiana",
+    "Monument Circle Indianapolis"
+  ],
+  "coordinates": {
+    "lat": 39.7684,
+    "lng": -86.1581
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Indianapolis+🇺🇸/@39.7684,-86.1581,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indianapolis"
+  },
+  "location_id": 343
+}

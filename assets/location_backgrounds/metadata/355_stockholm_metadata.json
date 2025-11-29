@@ -1,0 +1,94 @@
+{
+  "name": "Stockholm",
+  "country": "Sweden",
+  "fun_fact": "Fun fact: Stockholm is built on 14 islands connected by 57 bridges, and the Vasa warship museum displays a ship that sank on its maiden voyage in 1628 - it sailed only 1,300 meters before capsizing, and was raised nearly intact in 1961!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Swedish Meatballs (Köttbullar)",
+        "description": "Small seasoned meatballs with cream sauce, lingonberry jam, and mashed potatoes",
+        "origin_story": "Actually brought from Turkey by King Charles XII in the early 1700s - now Sweden's national dish (sorry, IKEA)",
+        "where_to_find": "Pelikan, Meatballs for the People, Tradition, Stockholms Gästabud"
+      },
+      {
+        "name": "Gravlax",
+        "description": "Cured salmon with dill, served with mustard-dill sauce (hovmästarsås)",
+        "origin_story": "Viking-era preservation method - 'grav' means grave as fishermen buried salmon in sand to ferment",
+        "where_to_find": "Sturehof, Östermalms Saluhall, Lisa Elmqvist"
+      },
+      {
+        "name": "Toast Skagen",
+        "description": "Shrimp, mayo, dill, and roe piled on toast - Sweden's most beloved appetizer",
+        "origin_story": "Created by Tore Wretman at Restaurant Riche in the 1950s, named after the Danish fishing town",
+        "where_to_find": "Sturehof (originator), Riche, PA & Co"
+      },
+      {
+        "name": "Smörgåsbord",
+        "description": "Traditional Swedish buffet with herring, meatballs, Jansson's Temptation, and more",
+        "origin_story": "Dates back to the 16th century - the word literally means 'sandwich table'",
+        "where_to_find": "Operakällaren, Grand Hôtel, Den Gyldene Freden (since 1722)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Aquavit (Snaps)",
+        "description": "Caraway or dill-flavored spirit, essential at celebrations",
+        "how_locals_drink_it": "Ice cold with herring, accompanied by drinking songs at Midsummer and Christmas"
+      },
+      {
+        "name": "Fika Coffee",
+        "description": "Swedish coffee break tradition with pastries",
+        "how_locals_drink_it": "Multiple times daily - kanelbullar (cinnamon buns) are obligatory. It's a cultural institution"
+      }
+    ],
+    "food_culture_notes": [
+      "Fika is sacred - twice-daily coffee breaks with pastry are not optional",
+      "Östermalms Saluhall is the elegant 1888 food hall for fine ingredients",
+      "New Nordic cuisine thrives here - Stockholm has 10+ Michelin stars",
+      "Thursdays traditionally feature pea soup and pancakes (ärtsoppa och pannkakor)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gamla Stan (Old Town)",
+      "Vasa Museum",
+      "Royal Palace",
+      "City Hall"
+    ],
+    "atmosphere": [
+      "island city",
+      "waterfront elegance",
+      "medieval old town",
+      "Nordic design"
+    ],
+    "colors": [
+      "Baltic blue",
+      "golden royal buildings",
+      "red Falu houses",
+      "green copper roofs"
+    ],
+    "unique_modern": [
+      "Nobel Prize ceremonies",
+      "ABBA Museum",
+      "startup hub",
+      "sustainable dining capital"
+    ]
+  },
+  "wikipedia_search_term": "Stockholm",
+  "keywords_for_image": [
+    "Swedish meatballs lingonberry",
+    "Gamla Stan",
+    "Stockholm archipelago",
+    "fika coffee pastry",
+    "gravlax salmon"
+  ],
+  "coordinates": {
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Stockholm+🇸🇪/@59.3293,18.0686,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stockholm"
+  },
+  "location_id": 355
+}

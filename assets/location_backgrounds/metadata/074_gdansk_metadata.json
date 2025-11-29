@@ -1,0 +1,141 @@
+{
+  "name": "Gdansk",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Gdansk was the birthplace of the Solidarity movement in 1980 at the Lenin Shipyard under Lech Wałęsa's leadership. This trade union grew to 10 million members (one-third of Poland's working population) and peacefully challenged communist rule, sparking a chain reaction that led to the fall of the Berlin Wall in 1989 and the end of the Cold War!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi",
+        "description": "Polish crescent-shaped dumplings made from unleavened dough, boiled or fried, with fillings like potato-cheese (ruskie), meat, sauerkraut-mushroom, or sweet fruit",
+        "origin_story": "Dating back to the 13th century in Poland, pierogi have sustained Polish families through centuries. Each region and family has signature fillings and folding techniques passed down through generations.",
+        "where_to_find": "Pierogarnia Stari Mlyn, Pierogarnia Mandu. Served with fried onions, sour cream (śmietana), or crispy bacon bits (skwarki)."
+      },
+      {
+        "name": "Baltic Herring in Sour Cream",
+        "description": "Marinated herring fillets in a creamy, tangy sour cream sauce - a Baltic staple",
+        "origin_story": "As a major Baltic port in the Hanseatic League, Gdansk's cuisine has always centered on seafood. Herring was abundant, cheap, and could be preserved - essential for long sea voyages and harsh winters.",
+        "where_to_find": "Targ Rybny (fish market and waterfront dining), traditional milk bars, Baltic seafood restaurants. Often served with dark rye bread and pickles."
+      },
+      {
+        "name": "Baltic Seafood Platter",
+        "description": "Fresh flounder, cod, trout, or perch from the Baltic Sea, often pan-fried or baked with herbs",
+        "origin_story": "Gdansk's identity as a port city for over 1,000 years means seafood excellence. The city once had 18 markets, and over 2,000 tonnes of crawfish were sold annually at the city gates during its Hanseatic heyday.",
+        "where_to_find": "Targ Rybny (premier fish market on Motława River - fresh catches turned into exceptional dishes), Restauracja Gdańska (Pomeranian regional specialties)"
+      },
+      {
+        "name": "Flaki (Tripe Soup)",
+        "description": "Traditional hearty soup made with beef tripe, vegetables, and warming spices, with a unique texture",
+        "origin_story": "This dish dates to the 14th century in Poland - a warming, economical soup that uses every part of the animal. Perfect for cold Baltic winters and long workdays.",
+        "where_to_find": "Bar Mleczny (milk bars - independent canteens with affordable traditional Polish food), Swojski Smak (celebration of Polish culinary traditions)"
+      },
+      {
+        "name": "Żurek (Sour Rye Soup)",
+        "description": "Sour rye soup with white sausage, potatoes, and hard-boiled eggs, often served in a bread bowl",
+        "origin_story": "Made with fermented rye flour, this tangy soup is a Polish Easter tradition but enjoyed year-round. The fermentation gives it a distinctive sour kick unlike any other soup.",
+        "where_to_find": "Swojski Smak (served in traditional bread bowl), Tawerna Dominikańska, authentic Polish restaurants"
+      },
+      {
+        "name": "Roasted Pork Knuckle",
+        "description": "Massive, slow-roasted pork knuckle with crispy skin and tender meat",
+        "origin_story": "A hearty sailor's and shipyard worker's meal. The meat falls off the bone after hours of roasting, providing the calories needed for hard physical labor in the cold.",
+        "where_to_find": "Tawerna Dominikańska (overlooking Motława River), traditional Polish taverns. Often served with bigos (hunter's stew)."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Danziger Goldwasser",
+        "description": "Herbal liqueur containing tiny flakes of real gold, first produced in Gdansk in 1598 at 40% ABV",
+        "how_locals_drink_it": "Gdansk's signature spirit. 16th-century alchemists believed the gold had healing properties. Served ice-cold as a digestif after heavy meals. A must-try Gdansk specialty."
+      },
+      {
+        "name": "Żubrówka (Bison Grass Vodka)",
+        "description": "Polish vodka flavored with bison grass from Białowieża Forest, with a distinctive yellow-green tint and subtle herbal flavor",
+        "how_locals_drink_it": "Often mixed with apple juice ('tatanka' or 'szarlotka' - apple pie shot), or served chilled and neat. Each bottle contains a blade of bison grass."
+      },
+      {
+        "name": "Polish Craft Beer",
+        "description": "Poland's craft beer revolution has reached Gdansk - try Baltic porter or traditional Polish pilsners",
+        "how_locals_drink_it": "Beer gardens along the waterfront, especially in summer. Gdansk being a port city has a long brewing tradition connected to its Hanseatic past."
+      }
+    ],
+    "food_culture_notes": [
+      "Gdansk's cuisine is distinct from the rest of Poland due to its port city history and Hanseatic League connections",
+      "Bar Mleczny (milk bars) offer authentic, affordable Polish food in no-frills canteens found throughout the city",
+      "Gdansk is home to Poland's first Green Michelin Star restaurant - sustainability matters here",
+      "The Motława River waterfront is the heart of Gdansk dining - historic granaries converted to restaurants",
+      "Fish market tradition remains strong - Targ Rybny is where locals buy fresh Baltic catches",
+      "Amber culture intersects with food - amber-honey liqueurs and amber-decorated dining spaces",
+      "German, Dutch, and Scandinavian influences from Hanseatic League days still flavor the cuisine",
+      "Pierogi are often served as a main course, not just a side dish"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gdansk Main Town - UNESCO-worthy Old Town rebuilt after 95% WWII destruction",
+      "Neptune's Fountain - symbol of Gdansk since 1633",
+      "Artus Court - merchants' meeting hall from Hanseatic League era",
+      "St. Mary's Church - one of the world's largest brick churches",
+      "Long Market (Długi Targ) - colorful Flemish-style merchant houses",
+      "European Solidarity Centre - museum dedicated to Solidarity movement",
+      "Gdansk Shipyard - birthplace of Solidarity, Lech Wałęsa's workplace",
+      "Motława River waterfront - historic granaries and amber shops",
+      "Mariacka Street - amber craftsmen and artisans"
+    ],
+    "atmosphere": [
+      "Colorful Hanseatic architecture - blues, yellows, reds, greens on merchant houses",
+      "Amber everywhere - 'Gold of the Baltic' shops lining cobblestone streets",
+      "Waterfront dining with views of historic granaries and sailing ships",
+      "Baltic Sea breeze mixing with aromas of grilled herring and pork",
+      "Tram bells and church bells echoing through narrow streets",
+      "Solidarity monuments and murals - living history of peaceful revolution",
+      "Fish markets bustling with morning catches",
+      "Beer gardens along the river in summer"
+    ],
+    "colors": [
+      "Rich amber gold - the city's signature color",
+      "Deep Baltic Sea blue",
+      "Brick red from Gothic churches and city walls",
+      "Colorful painted facades - yellows, blues, greens of Hanseatic merchants",
+      "White and red of the Polish flag",
+      "Golden wheat and rye from surrounding Pomerania",
+      "Green of bison grass in Żubrówka vodka"
+    ],
+    "unique_modern": [
+      "Restored Old Town - meticulous post-WWII reconstruction of Hanseatic grandeur",
+      "European Solidarity Centre - striking modern architecture commemorating peaceful revolution",
+      "Amber craftsmanship continuing ancient Baltic traditions",
+      "Green Michelin Star sustainable dining",
+      "Blend of Polish, German, Dutch, and Scandinavian cultural influences",
+      "Waterfront transformation - historic granaries as restaurants and museums",
+      "Gdansk Shakespeare Theatre - modern cultural venue",
+      "Living symbol of peaceful democratic change that ended the Cold War"
+    ]
+  },
+  "wikipedia_search_term": "Gdańsk",
+  "keywords_for_image": [
+    "Gdansk Old Town",
+    "Neptune Fountain Gdansk",
+    "pierogi Polish dumplings",
+    "Baltic herring",
+    "Solidarity movement",
+    "amber Gdansk",
+    "Motława River",
+    "Hanseatic League",
+    "Danziger Goldwasser",
+    "St Mary's Church Gdansk",
+    "Long Market",
+    "Polish vodka",
+    "Gdansk shipyard",
+    "colorful merchant houses",
+    "Baltic Sea"
+  ],
+  "coordinates": {
+    "lat": 54.352,
+    "lng": 18.6466
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Gdansk+🇵🇱/@54.352,18.6466,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gdańsk"
+  },
+  "location_id": 74
+}

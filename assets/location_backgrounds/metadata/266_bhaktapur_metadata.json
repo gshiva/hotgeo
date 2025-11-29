@@ -1,0 +1,94 @@
+{
+  "name": "Bhaktapur",
+  "country": "Nepal",
+  "fun_fact": "Fun fact: Bhaktapur's Juju Dhau (King Curd) is made in clay pots using a secret recipe passed down for centuries, and locals say the clay from Bhaktapur's soil gives it a unique flavor that can't be replicated anywhere else in Nepal.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Juju Dhau (King Curd)",
+        "description": "Creamy, sweetened yogurt made from buffalo milk, served in traditional clay pots. The texture is thick and rich, with a subtle sweetness.",
+        "origin_story": "Known as the 'king of yogurts', this Bhaktapur specialty has been perfected over centuries by local Newari families. The secret recipe and Bhaktapur's unique clay pots give it a flavor that cannot be replicated elsewhere.",
+        "where_to_find": "Small shops throughout Bhaktapur, especially around Durbar Square and Taumadhi Square"
+      },
+      {
+        "name": "Bara",
+        "description": "Savory lentil pancake made from black lentils, topped with spiced buffalo meat and eggs, served with aromatic kwati bean broth.",
+        "origin_story": "A traditional Newari dish that has been a breakfast staple for generations. The lentil batter is fermented overnight, giving it a distinctive tangy flavor.",
+        "where_to_find": "Aama ko Bara Pasal (next to Nyatapola temple, established in the early 1970s, serving over 300 people daily)"
+      },
+      {
+        "name": "Samay Baji",
+        "description": "Ceremonial platter with beaten rice (chiura), buffalo meat, boiled eggs, black soybeans, and pickled vegetables.",
+        "origin_story": "An auspicious dish served during Newari feasts and celebrations. Each component represents different aspects of Newari culture and is arranged in a specific traditional pattern.",
+        "where_to_find": "Newa Lahana, The Nanee (offers both traditional and contemporary interpretations)"
+      },
+      {
+        "name": "Choila",
+        "description": "Spicy grilled buffalo meat marinated in local herbs, spices, and mustard oil, with a smoky, fiery flavor.",
+        "origin_story": "A traditional Newari dish originally prepared during festivals and special occasions. The meat is charred over open flames and mixed with fenugreek, ginger, and chilies.",
+        "where_to_find": "The Nanee, Newa Lahana"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chyang (Newari Rice Beer)",
+        "description": "Traditional fermented rice beer with a slightly sour, mildly alcoholic taste.",
+        "how_locals_drink_it": "Served in traditional clay cups during festivals and family gatherings, often alongside samay baji and other Newari dishes."
+      },
+      {
+        "name": "Lassi",
+        "description": "Thick yogurt-based drink, sometimes flavored with fruit or spices.",
+        "how_locals_drink_it": "Often consumed after meals to aid digestion, especially popular during hot afternoons in Bhaktapur's squares."
+      }
+    ],
+    "food_culture_notes": [
+      "Bhaktapur's food scene is dominated by Newari cuisine, with recipes perfected over hundreds of years",
+      "The real culinary treasures are found in small alleyways, not the tourist-heavy Durbar Square restaurants",
+      "Many eateries have been run by the same families for decades, with Aama ko Bara Pasal's owner serving bara for 44 years",
+      "Clay pots are essential to Bhaktapur's food culture, used for both cooking and serving traditional dishes like Juju Dhau"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Nyatapola Temple (five-story pagoda)",
+      "Bhaktapur Durbar Square",
+      "55-Window Palace",
+      "Dattatreya Square"
+    ],
+    "atmosphere": [
+      "ancient brick architecture",
+      "terracotta pottery workshops",
+      "narrow medieval alleyways",
+      "bustling temple squares"
+    ],
+    "colors": [
+      "deep terracotta red",
+      "golden temple details",
+      "earthy clay browns",
+      "saffron prayer flags"
+    ],
+    "unique_modern": [
+      "artisan pottery studios",
+      "heritage restoration projects",
+      "traditional woodcarving workshops",
+      "rooftop cafes with temple views"
+    ]
+  },
+  "wikipedia_search_term": "Bhaktapur",
+  "keywords_for_image": [
+    "Newari cuisine",
+    "clay pot yogurt",
+    "Nyatapola temple",
+    "terracotta pottery",
+    "medieval Nepal"
+  ],
+  "coordinates": {
+    "lat": 27.671,
+    "lng": 85.4298
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bhaktapur+🇳🇵/@27.671,85.4298,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhaktapur"
+  },
+  "location_id": 266
+}

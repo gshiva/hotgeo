@@ -1,0 +1,94 @@
+{
+  "name": "Harare",
+  "country": "Zimbabwe",
+  "fun_fact": "Fun fact: Harare is known as the 'City of Flowering Trees' with over 2.5 million jacaranda trees that bloom bright purple every October, transforming the entire city into a lavender wonderland.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sadza with Nyama and Muriwo",
+        "description": "Thick maize meal porridge (sadza) served with stewed beef (nyama) and braised leafy greens (muriwo) - Zimbabwe's soul food",
+        "origin_story": "Sadza is the cornerstone of Zimbabwean cuisine, eaten daily by families across the country. The dish represents agricultural heritage - maize was introduced centuries ago and became the staple grain. Breaking off a piece of sadza with your hands and using it to scoop relish is the traditional way to eat.",
+        "where_to_find": "Gava's Restaurant (Belgravia Sports Club - 'Sadza With Soul'), Mr Sadza Restaurant (traditional Zimbabwean vibes), Garwe Restaurant (Eastlea - authentic unwritten menu described by your host)"
+      },
+      {
+        "name": "Oxtail Stew",
+        "description": "Slow-cooked oxtail in rich gravy until the meat falls off the bone, deeply savory and satisfying",
+        "origin_story": "Oxtail cooking emerged from traditional nose-to-tail eating practices. In Zimbabwe, this cut is prized for its flavor and gelatinous texture when slow-cooked. It's considered a special occasion dish.",
+        "where_to_find": "Gava's Restaurant (outstanding oxtail with sadza and greens), local family-run restaurants"
+      },
+      {
+        "name": "Whole Fried Fish",
+        "description": "Freshwater bream or tilapia from Lake Kariba, fried whole until crispy and served with sadza",
+        "origin_story": "Lake Kariba, one of the world's largest man-made lakes, provides fresh fish to Harare's markets. Frying whole fish over high heat creates crispy skin while keeping the meat moist - a technique perfected in Zimbabwean kitchens.",
+        "where_to_find": "Gava's Restaurant (whole fried fish is outstanding), local markets and fish specialist restaurants"
+      },
+      {
+        "name": "Tripe (Matumbu)",
+        "description": "Slow-cooked beef tripe in tomato-based sauce, tender and flavorful",
+        "origin_story": "Tripe cooking demonstrates traditional resourcefulness - using every part of the animal. When properly prepared, it's a delicacy. Zimbabwean cooks have perfected the long, slow cooking required to make tripe tender.",
+        "where_to_find": "Gava's Restaurant (great authentic value), Mr Sadza Restaurant, Organikks Ndizvo (organic ingredients)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Maheu",
+        "description": "Traditional fermented drink made from maize meal, slightly sour and refreshing",
+        "how_locals_drink_it": "Served cold as a nutritious beverage, especially popular with children. It's slightly thick, naturally fermented, and has probiotic benefits. Often homemade but also sold commercially."
+      },
+      {
+        "name": "Chibuku Shake-Shake",
+        "description": "Traditional opaque beer made from maize and sorghum, served in distinctive cartons",
+        "how_locals_drink_it": "Shaken before drinking (hence the name) and shared communally. It's low in alcohol, nutritious, and deeply cultural. Drinking from the carton and passing it around is traditional."
+      }
+    ],
+    "food_culture_notes": [
+      "Eating sadza with your hands is the traditional method - using the right hand to break off a piece and scoop up relish",
+      "Gava's Restaurant serves al fresco dining under tents on Belgravia Sports Club's bowling green, decorated with local artists' paintings",
+      "The quintessential Zimbabwean meal is beef stew with sadza and greens - simple but deeply satisfying when done right",
+      "Traditional Zimbabwean restaurants often don't have written menus - the host describes what's available that day based on fresh ingredients"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Jacaranda-lined streets",
+      "National Gallery of Zimbabwe",
+      "Harare Gardens",
+      "Domboshawa Rocks"
+    ],
+    "atmosphere": [
+      "flowering trees",
+      "wide avenues",
+      "vibrant markets",
+      "outdoor dining culture"
+    ],
+    "colors": [
+      "jacaranda purple",
+      "golden savanna",
+      "emerald green muriwo",
+      "terracotta earth"
+    ],
+    "unique_modern": [
+      "Contemporary Zimbabwean art scene",
+      "Growing cafe culture",
+      "Urban farming movement",
+      "Music and performance venues"
+    ]
+  },
+  "wikipedia_search_term": "Harare",
+  "keywords_for_image": [
+    "Harare jacaranda trees purple",
+    "sadza zimbabwe food",
+    "african market stalls",
+    "Lake Kariba",
+    "Zimbabwe cityscape"
+  ],
+  "coordinates": {
+    "lat": -17.8252,
+    "lng": 31.0335
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Harare+🇿🇼/@-17.8252,31.0335,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harare"
+  },
+  "location_id": 246
+}

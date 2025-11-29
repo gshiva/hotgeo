@@ -1,0 +1,94 @@
+{
+  "name": "Olomouc",
+  "country": "Czechia",
+  "fun_fact": "Fun fact: Olomoucké tvarůžky cheese is so pungent that it has its own museum in nearby Loštice where you can watch a docudrama about the cheese—it's been made since the 15th century, contains only 0.5% fat, and is protected by EU law as a regional product that can only be made in this specific town.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fried Tvarůžky",
+        "description": "Olomouc's famous stinky cheese, battered and deep-fried until golden—pungent, salty, and uniquely Czech",
+        "origin_story": "Tvarůžky (also called syrečky) has been made in Loštice near Olomouc since the 15th century. The cheese is ripened soft cheese with a strong scent and distinctive yellowish color, made from skimmed cow's milk without rennet or additives. It's EU-protected since 2010",
+        "where_to_find": "Moravská Restaurace (main square), Moritz Brewpub, Drápal, or any traditional Olomouc restaurant"
+      },
+      {
+        "name": "Tvarůžky on Toast",
+        "description": "The stinky cheese baked on toast and garnished with onion rings—a traditional preparation that locals swear by",
+        "origin_story": "Before modern cooking, tvarůžky was baked on toast or bread in village ovens. The heat mellows the pungency slightly and the onions add sweetness. It's been eaten this way for centuries",
+        "where_to_find": "Traditional Czech restaurants in Olomouc, or buy from bakeries and markets"
+      },
+      {
+        "name": "Roast Duck with Red Cabbage and Dumplings at Moravská Restaurace",
+        "description": "Tender duck roasted until the skin is crispy, served with sweet-sour red cabbage and bread or potato dumplings—classic Czech comfort food",
+        "origin_story": "Moravská Restaurace sits right on the main square with rustic traditional decor. Their roast duck follows the Czech technique: slow-roasted until the fat renders and skin crisps. The red cabbage provides sweet-sour contrast",
+        "where_to_find": "Moravská Restaurace (main square), Entrée, or traditional Czech restaurants"
+      },
+      {
+        "name": "Grilled Wild Boar at Moravská Restaurace",
+        "description": "Game meat grilled and served with dumplings and wild mushrooms—rich, gamey, forest flavors",
+        "origin_story": "Moravia's forests provide wild game that appears on traditional menus. Wild boar is especially prized in autumn. The meat is dark, rich, and paired with foraged mushrooms",
+        "where_to_find": "Moravská Restaurace (main square), or Entrée for more refined presentations"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Czech Beer (Pilsner, Olomouc Brewery)",
+        "description": "Golden lager brewed in the Czech tradition—crisp, hoppy, and served everywhere",
+        "how_locals_drink_it": "Beer is the Czech national drink. Olomouc has its own brewery traditions. Served cold in half-liter glasses at brewpubs and restaurants. Pairs perfectly with dumplings and roast duck"
+      },
+      {
+        "name": "Becherovka",
+        "description": "Herbal bitter liqueur from Karlovy Vary—medicinal-tasting but beloved as a digestif",
+        "how_locals_drink_it": "Served ice-cold after heavy meals to aid digestion. The recipe is a secret blend of herbs and spices. Czechs consider it essential after duck and dumplings"
+      }
+    ],
+    "food_culture_notes": [
+      "Tvarůžky has only 0.5% fat and is made without rennet, colorings, or stabilizers—just skimmed milk and time",
+      "The cheese museum in Loštice (birthplace of tvarůžky) includes a docudrama about the cheese's history",
+      "EU Protected Geographical Indication (2010) means only Loštice can produce authentic tvarůžky",
+      "Chef Michal Duračka from Asago Grill Restaurant was crowned 2024 Olomouc Cheese King at the festival"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Holy Trinity Column (UNESCO World Heritage)",
+      "Olomouc astronomical clock",
+      "St. Wenceslas Cathedral",
+      "Upper Square (Horní náměstí)"
+    ],
+    "atmosphere": [
+      "baroque fountains and squares",
+      "traditional Czech pub wood tables",
+      "steaming dumplings",
+      "yellow tvarůžky cheese on market stalls"
+    ],
+    "colors": [
+      "golden fried tvarůžky crust",
+      "yellowish cheese interior",
+      "red cabbage purple",
+      "white bread dumplings"
+    ],
+    "unique_modern": [
+      "Tvarůžky Museum in Loštice with cheese docudrama",
+      "2024 Olomouc Cheese King competition",
+      "EU Protected Geographical Indication (2010)",
+      "Entrée restaurant earning Michelin-quality reputation"
+    ]
+  },
+  "wikipedia_search_term": "Olomouc",
+  "keywords_for_image": [
+    "Olomouc Holy Trinity Column",
+    "tvaruzky Czech stinky cheese",
+    "Czech roast duck dumplings",
+    "astronomical clock Olomouc",
+    "Moravian baroque architecture"
+  ],
+  "coordinates": {
+    "lat": 49.5938,
+    "lng": 17.2509
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Olomouc+🇨🇿/@49.5938,17.2509,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olomouc"
+  },
+  "location_id": 232
+}

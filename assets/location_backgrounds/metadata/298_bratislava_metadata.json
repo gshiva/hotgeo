@@ -1,0 +1,94 @@
+{
+  "name": "Bratislava",
+  "country": "Slovakia",
+  "fun_fact": "Fun fact: Bratislava is the only capital in the world that borders TWO other countries - Austria and Hungary are both just a bike ride away, creating a unique tri-national cultural zone where you can have breakfast in Slovakia, lunch in Austria, and dinner in Hungary.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bryndzové Halušky",
+        "description": "Slovakia's national dish - potato dumplings covered in bryndza (creamy, tangy sheep's milk cheese) and topped with crispy fried bacon bits",
+        "origin_story": "This hearty comfort food originated in the Tatra Mountains among shepherds who made cheese from their sheep's milk. It's now the ultimate Slovak comfort food that every restaurant serves",
+        "where_to_find": "Slovak Pub (11-room establishment in 150-year-old cottage), Koliba Kamzík, Viecha U Sedliaka"
+      },
+      {
+        "name": "Kapustnica",
+        "description": "Cabbage soup made with fermented sauerkraut, smoked sausage, mushrooms, and sometimes dried plums - smoky, sour, and slightly sweet",
+        "origin_story": "This Christmas staple is eaten throughout the winter months. The addition of dried plums is distinctly Slovak, creating a complex flavor that balances sour, smoky, and sweet",
+        "where_to_find": "Modrá Hviezda (Blue Star - in brick cellar under castle), Bratislava Flagship Restaurant"
+      },
+      {
+        "name": "Pirohy",
+        "description": "Small filled dumplings with bryndza cheese, mashed potatoes, sauerkraut, or sweet fillings, served with melted butter and bacon",
+        "origin_story": "Similar to Polish pierogi but with distinctly Slovak fillings like bryndza cheese. These are comfort food that grandmothers make for special occasions",
+        "where_to_find": "Viecha U Sedliaka (best value), traditional koliba restaurants"
+      },
+      {
+        "name": "Roasted Duck with Braised Cabbage",
+        "description": "Duck roasted until the skin is crispy, served with sweet-and-sour braised red cabbage and bread dumplings",
+        "origin_story": "This winter holiday dish shows Austrian and Hungarian influences on Slovak cuisine. The combination of rich duck fat and tangy cabbage is perfectly balanced",
+        "where_to_find": "Bratislava Flagship Restaurant (in old theatre), Modrá Hviezda"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Slovak Beer",
+        "description": "Crisp lagers brewed at historic breweries like Bratislavský Meštiansky Pivovar (oldest in Slovakia)",
+        "how_locals_drink_it": "At Slovak Pub where they brew their own beer on-site, or at Bratislavský Meštiansky Pivovar. Beer is the national drink and is consumed with every meal"
+      },
+      {
+        "name": "Slivovica",
+        "description": "Potent traditional plum brandy - clear, strong, and aromatic",
+        "how_locals_drink_it": "Served as a digestive after heavy meals. Every Slovak family makes their own version, and the homemade stuff is always stronger than what you can buy"
+      }
+    ],
+    "food_culture_notes": [
+      "Slovakians' main meal is lunch, with most restaurants offering Denné menu (daily menu) - soup and main dish for 6-7 euros",
+      "Koliba restaurants recreate traditional farmhouse dining experiences in the city",
+      "Slovak Pub is housed in a 150-year-old cottage with 11 different themed rooms and its own on-site brewery",
+      "Bratislava is in a major wine region - try local whites like Rizling and Veltlínske Zelené"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bratislava Castle on hilltop",
+      "Michael's Gate tower",
+      "UFO Bridge observation deck",
+      "Old Town squares"
+    ],
+    "atmosphere": [
+      "charming Old Town cobblestones",
+      "Danube River promenade",
+      "hilltop castle views",
+      "intimate cellar restaurants"
+    ],
+    "colors": [
+      "warm amber of Slovak beer",
+      "white of bryndza cheese",
+      "deep red of braised cabbage",
+      "golden roasted duck"
+    ],
+    "unique_modern": [
+      "UFO-shaped restaurant on bridge",
+      "communist-era statues as photo ops",
+      "thriving café culture",
+      "proximity to Vienna creating unique vibe"
+    ]
+  },
+  "wikipedia_search_term": "Bratislava",
+  "keywords_for_image": [
+    "Bratislava Slovakia",
+    "Bratislava Castle",
+    "bryndzove halusky",
+    "Old Town Bratislava",
+    "UFO Bridge"
+  ],
+  "coordinates": {
+    "lat": 48.1486,
+    "lng": 17.1077
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bratislava+🇸🇰/@48.1486,17.1077,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bratislava"
+  },
+  "location_id": 298
+}

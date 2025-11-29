@@ -1,0 +1,94 @@
+{
+  "name": "Wroclaw",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Wroclaw has over 350 small bronze dwarf statues (krasnale) hidden throughout the city - a treasure hunt tradition started as an anti-communist protest in the 1980s. The city sits on 12 islands connected by 112 bridges, earning it the nickname 'Venice of Poland.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi Ruskie",
+        "description": "Boiled dumplings filled with potato, farmer's cheese, and fried onions - served with sour cream and more fried onions",
+        "origin_story": "Despite the name 'ruskie' (Russian), these are quintessentially Polish. The filling combines mashed potatoes with twaróg (farmer's cheese) and caramelized onions. Each Polish grandmother claims the best recipe. Wroclaw's pierogi culture is serious - locals debate endlessly about the perfect potato-to-cheese ratio.",
+        "where_to_find": "Pierogarnia Stary Młyn, milk bars (bar mleczny) throughout Wroclaw, or traditional Polish restaurants in the Market Square area"
+      },
+      {
+        "name": "Żurek",
+        "description": "Sour rye soup with smoked sausage, hard-boiled egg, and potatoes - often served in a bread bowl",
+        "origin_story": "Made from fermented rye flour, żurek has medieval origins. The sour tang comes from days of fermentation. Wroclaw residents eat it year-round, but especially at Easter. The bread bowl (not always used) is edible - soup-soaked bread is the best part. It's hangover cure and comfort food in one.",
+        "where_to_find": "Traditional Polish restaurants in Wroclaw Old Town, Gospoda Lwowska, or Konspira restaurant"
+      },
+      {
+        "name": "Śląskie Modły (Silesian Dumplings)",
+        "description": "Large potato dumplings with a distinctive indentation in the middle, served with gravy and meat",
+        "origin_story": "Specific to Silesia region (Wroclaw's region), these dumplings differ from regular kopytka. The thumb indentation holds gravy. Silesian families eat them with rouladen (beef rolls) or goulash. They're labor-intensive to make - a sign of love when homemade.",
+        "where_to_find": "Silesian restaurants in Wroclaw, or traditional Polish eateries"
+      },
+      {
+        "name": "Pączki",
+        "description": "Polish donuts - deep-fried dough balls filled with rose jam, topped with orange zest and powdered sugar",
+        "origin_story": "Eaten year-round but especially on Fat Thursday (Tłusty Czwartek) before Lent when Poles consume millions. The traditional filling is rose jam, though modern versions use custard or chocolate. Wroclaw bakeries sell them fresh-made. Eating just one is nearly impossible.",
+        "where_to_find": "Bakeries throughout Wroclaw, especially on Fat Thursday (Thursday before Ash Wednesday)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Śliwowica (Plum Brandy)",
+        "description": "Strong fruit brandy made from fermented plums - clear or amber, warming, 40-70% alcohol",
+        "how_locals_drink_it": "Poles drink śliwowica as digestif after heavy meals or during celebrations. It's sipped neat from small glasses. The plum flavor is intense, the alcohol burn significant. Homemade versions (often illegal moonshine) are prized. Toast with 'Na zdrowie!' (to health!)"
+      },
+      {
+        "name": "Tyskie or Żywiec Beer",
+        "description": "Polish lagers - crisp, clean, perfect with pierogi and kiełbasa",
+        "how_locals_drink_it": "Wroclaw has vibrant beer culture with brewpubs and beer gardens. Locals drink Polish lagers (Tyskie, Żywiec, Lech) in pubs along the Odra River or at the Market Square. Beer pairs with every Polish dish - the mild flavor doesn't compete with garlic and onions."
+      }
+    ],
+    "food_culture_notes": [
+      "Milk bars (bar mleczny) are communist-era cafeterias serving cheap, authentic Polish food - students and locals still eat there daily",
+      "Market Square (Rynek) is medieval Europe's second-largest square after Krakow - surrounded by restaurants",
+      "Wroclaw's German past (Breslau) shows in some dishes and beer culture",
+      "Fat Thursday (Tłusty Czwartek) is serious business - bakeries sell out of pączki by noon"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Market Square (Rynek) - Gothic Old Town Hall with astronomical clock",
+      "Cathedral Island (Ostrów Tumski) - oldest part of city with cathedral",
+      "Centennial Hall - massive concrete dome, UNESCO World Heritage Site",
+      "350+ bronze dwarf statues hidden throughout the city"
+    ],
+    "atmosphere": [
+      "Built on 12 islands connected by 112 bridges - 'Venice of Poland'",
+      "Bounced between Poland, Bohemia, Austria, Prussia, and Germany through history",
+      "European Capital of Culture 2016",
+      "Gas lamps still lit by hand each evening on Cathedral Island"
+    ],
+    "colors": [
+      "colorful Market Square buildings - pastels and bright facades",
+      "golden pączki powdered sugar",
+      "bronze dwarf statues scattered citywide",
+      "Gothic red brick of cathedral"
+    ],
+    "unique_modern": [
+      "Krasnale (dwarf) hunt - tourists search for 350+ bronze dwarf statues",
+      "Lamplighter still lights gas lamps manually on Cathedral Island each evening",
+      "Hydropolis - underground water museum",
+      "Host city for UEFA Euro 2012"
+    ]
+  },
+  "wikipedia_search_term": "Wrocław",
+  "keywords_for_image": [
+    "wroclaw market square colorful",
+    "pierogi polish dumplings",
+    "wroclaw dwarfs bronze statues",
+    "cathedral island ostrow tumski",
+    "paczki polish donuts"
+  ],
+  "coordinates": {
+    "lat": 51.1079,
+    "lng": 17.0385
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Wroclaw+🇵🇱/@51.1079,17.0385,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wrocław"
+  },
+  "location_id": 327
+}

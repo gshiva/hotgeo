@@ -1,0 +1,93 @@
+{
+  "name": "Haarlem",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Haarlem is the birthplace of Frans Hals and the Dutch Golden Age of painting, but it's also home to Jopenkerk - a stunning church converted into a brewery where you drink craft beer beneath Gothic arches and stained glass windows!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Haarlems Joppiesaus",
+        "description": "A creamy curry-onion sauce that originated in Haarlem, now found throughout the Netherlands",
+        "origin_story": "Invented in the 1980s at snackbar De Jopie - the sauce became so popular it spread nationwide and is now an essential accompaniment to fries",
+        "where_to_find": "De Jopie snackbar (original), frites shops throughout Haarlem"
+      },
+      {
+        "name": "Haarlemse Halve Maantjes",
+        "description": "Half-moon shaped chocolates, Haarlem's signature sweet",
+        "origin_story": "Created by local chocolatiers, these crescents reference the city's coat of arms. Various fillings from cream to praline",
+        "where_to_find": "Boutique chocolatiers in the centrum, Chocolate Company"
+      },
+      {
+        "name": "Kibbeling",
+        "description": "Battered and fried chunks of fish, served with garlic sauce or mayo",
+        "origin_story": "Traditional Dutch street food - originally made from the cheeks of cod. Now often whiting or other white fish",
+        "where_to_find": "Fish stalls at Grote Markt, Albert Cuyp Market when in Amsterdam"
+      },
+      {
+        "name": "Stamppot",
+        "description": "Mashed potatoes mixed with vegetables - boerenkool (kale) or hutspot (carrot and onion)",
+        "origin_story": "Traditional Dutch comfort food, especially popular in winter. Served with rookworst (smoked sausage)",
+        "where_to_find": "Café Studio, Jopenkerk, traditional brown cafés"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jopen Beer",
+        "description": "Craft beers brewed in a 14th-century church, recreating medieval Haarlem brewing traditions",
+        "how_locals_drink_it": "At Jopenkerk brewery - drink beneath Gothic arches. Try Koyt (medieval grain beer) or Hoppenbier"
+      },
+      {
+        "name": "Genever",
+        "description": "Dutch gin, the predecessor of English gin",
+        "how_locals_drink_it": "Neat in a tulip glass, often with beer ('kopstoot' - headbutt)"
+      }
+    ],
+    "food_culture_notes": [
+      "Grote Markt has excellent food stalls and outdoor terraces surrounding St. Bavo Church",
+      "Jopenkerk brewery recreates beer recipes from when Haarlem was a major brewing center (1500s)",
+      "Just 15 minutes from Amsterdam - the food scene is excellent without tourist crowds",
+      "Brown cafés (bruine kroegen) are traditional Dutch pubs with dark wood interiors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grote Markt square",
+      "St. Bavo Church (organ played by Mozart)",
+      "Jopenkerk brewery",
+      "Frans Hals Museum"
+    ],
+    "atmosphere": [
+      "17th-century Dutch architecture",
+      "cobblestone streets",
+      "canal-side dining",
+      "flower shops"
+    ],
+    "colors": [
+      "Dutch brick red",
+      "church spire grey",
+      "canal reflection",
+      "tulip colors"
+    ],
+    "unique_modern": [
+      "church brewery",
+      "artisan shops",
+      "music venue in former church"
+    ]
+  },
+  "wikipedia_search_term": "Haarlem",
+  "keywords_for_image": [
+    "Jopenkerk church brewery",
+    "Grote Markt square",
+    "Dutch canal",
+    "kibbeling fish",
+    "Frans Hals architecture"
+  ],
+  "coordinates": {
+    "lat": 52.3874,
+    "lng": 4.6462
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Haarlem+🇳🇱/@52.3874,4.6462,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haarlem"
+  },
+  "location_id": 180
+}

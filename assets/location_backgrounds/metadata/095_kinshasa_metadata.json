@@ -1,0 +1,123 @@
+{
+  "name": "Kinshasa",
+  "country": "Democratic Republic of Congo",
+  "fun_fact": "Fun fact: Chikwangue (cassava bread wrapped in banana leaves) is called 'the picnic food of travelers' because it can be preserved for several days after preparation. It's the Congolese answer to bread and is eaten at all times of day—breakfast, lunch, or dinner—making it the ultimate versatile staple food.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pondu (Cassava Leaf Stew)",
+        "description": "Rich, green stew made from pounded cassava leaves, often cooked with palm oil, fish, and sometimes meat—a nutritional powerhouse",
+        "origin_story": "In central Congo, Pondu is simply cooked with water and salt. In other regions, palm oil, spices, onions, eggplants, and scallions are added. Served alongside fufu or rice, it's a beloved dish across DR Congo representing regional diversity in preparation.",
+        "where_to_find": "Kinshasa's nganda restaurants (ethnic restaurants serving food from specific parts of the country)"
+      },
+      {
+        "name": "Fufu",
+        "description": "Sticky dough-like dish made of cassava or corn flour—the staple food par excellence of Congo, comparable to rice or potatoes in other countries",
+        "origin_story": "From north to south, east to west, fufu is present on all Congolese tables. There are two main types: corn fufu and cassava fufu. Its simple flavor provides the perfect counterbalance to rich, often spicy Congolese dishes.",
+        "where_to_find": "Every Congolese table and nganda restaurant—eaten by rolling small pieces in your hands, then using them to scoop up sauces or stews"
+      },
+      {
+        "name": "Chikwangue (Kwanga)",
+        "description": "Steamed cassava bread cooked and stored in banana leaves—darker in some parts of the country, nearly white in others. Firm and chewy texture, the Congolese answer to bread.",
+        "origin_story": "The major advantage is preservation for several days after preparation, making it the perfect picnic food for travelers wrapped in palm leaves. Eaten at all times of day, chikwangue's mild flavor and dense texture make it a satisfying addition to any meal.",
+        "where_to_find": "Markets and street vendors throughout Kinshasa—used for dipping into soups and sauces"
+      },
+      {
+        "name": "Moambe Chicken (Muamba Nsusu)",
+        "description": "National dish of DRC made with palm butter or palm cream ('moambe' in Lingala), creating a rich nutty sauce with tomatoes, onions, garlic, hot pepper, and sometimes peanut butter",
+        "origin_story": "The iconic dish's name comes from the palm butter foundation. The succulent chicken in rich, nutty sauce represents the pinnacle of Congolese flavor.",
+        "where_to_find": "Nganda restaurants throughout Kinshasa"
+      },
+      {
+        "name": "Peppered Fish Baked in Banana Leaves",
+        "description": "Fresh Congo River fish baked, boiled, or fried for immediate consumption, or smoked/salted when preserved",
+        "origin_story": "Fish are plentiful along the Congo River, its tributaries, and various lakes. Markets often sell ready-to-eat peppered fish baked in banana leaves, showcasing river bounty.",
+        "where_to_find": "Kinshasa markets and nganda restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Primus Beer",
+        "description": "The most ubiquitous and popular beer in DRC, considered 'a source of national pride'—a 5% ABV lager brewed in Central Africa",
+        "how_locals_drink_it": "Brewed locally by Bralima (established 1923) and widely consumed in 72cl bottles ideal for sharing. Central to Kinshasa's nightlife and street bar scene, often paired with grilled meat and music. Costs 600 FC compared to 200-300 FC for local palm wine."
+      },
+      {
+        "name": "Palm Wine",
+        "description": "Traditional alcoholic beverage tapped directly from palm tree sap (Dates Palms, Coconut Palms, or oil palms), begins fermenting immediately after collection",
+        "how_locals_drink_it": "A cheap option for those who cannot afford Primus. In rural areas, it's the traditional drink tapped right from the tree and enjoyed fresh."
+      },
+      {
+        "name": "Tangawisi (Ginger Drink)",
+        "description": "Popular ginger drink made with ginger and mango tree sap, known for soothing dysentery discomfort and helping with hemorrhoids",
+        "how_locals_drink_it": "Locals love it for its medicinal properties and refreshing taste—both health tonic and delicious beverage."
+      },
+      {
+        "name": "Congo Kivu Coffee",
+        "description": "Coffee originating from Congolese province of Kivu, grown in fertile volcanic soils—zesty and herbaceous",
+        "how_locals_drink_it": "The volcanic soils make it perfect for coffee bean growing, creating a unique flavor profile enjoyed throughout the day."
+      }
+    ],
+    "food_culture_notes": [
+      "Cassava is king: fufu, pondu (cassava leaves), and chikwangue (cassava bread) form the foundation of Congolese cuisine",
+      "Nganda restaurants occupy a middle ground between bars and restaurants, often owned by unmarried women and geared to specific regions and classes",
+      "Nganda culture serves food from specific parts of the country plus Western imports like bread and beer",
+      "From migrant menial workers and miners to professionals and government officials—ngandas serve all classes",
+      "Congo River bounty: fish are plentiful and prepared fresh (baked, boiled, fried) or preserved (smoked, salted)",
+      "Palm products are everywhere: palm oil in pondu, palm cream in moambe chicken, palm wine for drinking",
+      "Primus beer (72cl bottles) is central to Kinshasa's nightlife, paired with grilled meat and music",
+      "Eating etiquette: fufu is rolled in hands and used to scoop stews—no utensils needed"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Congo River",
+      "Kinshasa markets",
+      "Nganda restaurants",
+      "Bralima brewery (since 1923)",
+      "Rapids on the Congo"
+    ],
+    "atmosphere": [
+      "Bustling markets with cassava and fish",
+      "Nganda street bars with Primus bottles",
+      "River fishermen bringing fresh catch",
+      "Palm trees for wine tapping",
+      "Grilled meat and music in nightlife",
+      "Banana leaf-wrapped foods"
+    ],
+    "colors": [
+      "Green cassava leaves (pondu)",
+      "White cassava fufu and chikwangue",
+      "Rich brown palm oil sauces",
+      "Golden fried fish",
+      "Primus beer golden yellow",
+      "Banana leaf green wrappings"
+    ],
+    "unique_modern": [
+      "Nganda restaurants mixing ethnicities",
+      "Bralima producing Primus, Heineken, Coca-Cola under one roof",
+      "Urban nightlife pairing Primus with grilled meat and music",
+      "Congo River fish markets",
+      "Modern takes on traditional moambe chicken"
+    ]
+  },
+  "wikipedia_search_term": "Kinshasa",
+  "keywords_for_image": [
+    "Kinshasa Congo",
+    "Congo River",
+    "cassava fufu",
+    "pondu cassava leaves",
+    "chikwangue",
+    "Primus beer",
+    "moambe chicken",
+    "Central African cuisine"
+  ],
+  "coordinates": {
+    "lat": -4.4419,
+    "lng": 15.2663
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kinshasa+🇨🇩/@-4.4419,15.2663,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kinshasa"
+  },
+  "location_id": 95
+}

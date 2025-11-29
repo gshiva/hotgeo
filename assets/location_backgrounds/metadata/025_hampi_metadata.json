@@ -1,0 +1,130 @@
+{
+  "name": "Hampi",
+  "country": "India",
+  "fun_fact": "Fun fact: Hampi was the capital of the mighty Vijayanagara Empire (1336-1565) and by 1500 was the world's second-largest city after Beijing with 500,000 people (0.1% of global population)! The empire was known for diamond trading in local markets with precious gemstones traded daily. After conquest in 1565, the city was pillaged for six months and abandoned, becoming a ghost town where wild animals roamed - until Colonel Alexander Greenlaw took the first photographs in 1856 using silver iodide on waxed paper (negatives discovered accidentally in 1980!). UNESCO declared it a World Heritage Site in 1986.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bisi Bele Bath",
+        "description": "Karnataka's signature dish - hot lentil rice with toor dal (pigeon peas), vegetables, and tamarind-based gravy infused with a special spice blend",
+        "origin_story": "Said to have originated in the Mysore Palace. The name literally translates from Kannada as 'Bisi' (hot), 'Bele' (lentils), 'Bath' (rice). Also known as Bisi Bele Huliyanna, this spicy and tangy preparation uses a special Bisi Bele Bath Powder made from grinding chili, cloves, cumin, chana (Bengal gram), cinnamon, coconut, urad dal, coriander seeds. It's tempered with South Indian spices and nuts for a comforting, wholesome one-pot meal.",
+        "where_to_find": "Taste of Brahmins - this family-owned gem takes immense pride in serving authentic South Indian cuisine in a setting that captures Hampi's heritage. Also available at Gopi Guest House Restaurant by the river."
+      },
+      {
+        "name": "Kosambari",
+        "description": "Traditional South Indian salad made with split raw moong dal, coconut shavings, asafoetida (hing), mustard seeds, and fragrant curry leaves",
+        "origin_story": "One of the most popular dishes on menus throughout Hampi. Originally prepared during Navratri as prasad (religious offering), it has become a staple in everyday local food. A typical Kannadiga meal includes kosambari as an essential accompaniment, representing Karnataka's fresh, wholesome vegetarian tradition.",
+        "where_to_find": "Traditional South Indian thali restaurants near Virupaksha Temple, including Bhavani Hotel and Sri Venkateswara Restaurant"
+      },
+      {
+        "name": "Badane Kaayi (Brinjal Curry)",
+        "description": "Mouth-watering, spice-filled eggplant curry, best served with hot rice",
+        "origin_story": "A Karnataka specialty showcasing the region's mastery of vegetable preparations. The dish uses locally-grown brinjal (eggplant) cooked with a complex blend of South Indian spices including curry leaves, tamarind, and coconut.",
+        "where_to_find": "Local restaurants throughout Hampi's northern side near the river, where the variety of cafes is better than the southern side"
+      },
+      {
+        "name": "Traditional Breakfast: Idli, Dosa, Vada, Puri",
+        "description": "Sponge-soft idli with ghee-splashed crispy dosas, continuing with thali for lunch",
+        "origin_story": "The foundation of South Indian cuisine, using rice and various lentils with spices including curry leaves, mustard seeds, tamarind. Coconut appears in many preparations. The vegetarian emphasis exists due to the many temples and Hampi's spiritual importance.",
+        "where_to_find": "Thatched restaurants at Hampi bus stand offer 'Cheap & Best' steamy Idli breakfast with chai. When you walk down from Virupaksha Temple from the bus stand, either side has the best restaurants - Bhavani Hotel and Sri Venkateswara Restaurant."
+      },
+      {
+        "name": "Ragi Mude",
+        "description": "Finger millet balls dipped in spicy sprout curry",
+        "origin_story": "A nutritious Karnataka specialty using ragi (finger millet), a traditional grain that thrives in the region's terrain. Reflects the austere yet nourishing diet that sustained the Vijayanagara Empire's massive population.",
+        "where_to_find": "Traditional thali meals served 12:00-3:00 PM at local restaurants near the temple complex"
+      },
+      {
+        "name": "Ellu Chutney (Sesame Seed Chutney)",
+        "description": "Delicious chutney made from sesame seeds, a popular accompaniment to South Indian dishes",
+        "origin_story": "One of the classic chutneys of Karnataka cuisine, using locally-available sesame seeds ground with spices. Part of the vibrant array of flavorful condiments that capture the essence of Karnataka's rich heritage.",
+        "where_to_find": "Served with breakfast items at Mango Tree Restaurant and Shanthi Restaurant along the riverside"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "South Indian Filter Coffee (Filter Kaapi)",
+        "description": "Strong coffee made from freshly ground beans and chicory, brewed in traditional metal filter, mixed with hot frothy milk",
+        "how_locals_drink_it": "An everyday beverage in Karnataka, served in a stainless steel tumbler cup and davara (small wide metal saucer). Legend says 16th-century Sufi saint Baba Budan smuggled seven green coffee beans from Yemen during hajj and planted them in Chandradrona Hills outside Bengaluru, beginning South Indian coffee cultivation. The brewing method involves two cylindrical compartments - upper with perforations for grounds, lower collecting the decoction. Drunk throughout the day, especially with breakfast and afternoon snacks."
+      },
+      {
+        "name": "Masala Chai",
+        "description": "Spiced tea made with black tea, milk, water, sugar, and spices like cardamom, cinnamon, ginger, cloves, pepper",
+        "how_locals_drink_it": "Integral part of daily life in India. In South India, masala chai is a daily ritual enjoyed morning and afternoon, often with light snacks. Street vendors and households take pride in their special blends and brewing methods. Extremely popular with visitors to Hampi's cafes."
+      },
+      {
+        "name": "Neer Mor (Spiced Buttermilk)",
+        "description": "Refreshing buttermilk drink blended with spices and herbs like ginger, curry leaves, and green chillies",
+        "how_locals_drink_it": "Commonly consumed during summer for its cooling effects. Offered as prasadam (religious offering) in temples throughout Hampi. A traditional digestive aid after spicy meals."
+      },
+      {
+        "name": "Fresh Juices and Smoothies",
+        "description": "Fresh tropical fruit juices and smoothies",
+        "how_locals_drink_it": "Available at riverside cafes like Laughing Buddha on Hippie Island (laid-back vibe where you can enjoy hearty breakfast and refreshing smoothies) and Gopi Guest House Restaurant with its lush garden setting"
+      }
+    ],
+    "food_culture_notes": [
+      "Hampi's cuisine is predominantly South Indian, rooted in Karnataka's culinary heritage - vegetarian due to temples and spiritual importance",
+      "Food uses rice, various lentils, spices (curry leaves, mustard seeds, tamarind), and coconut in many dishes",
+      "Breakfast served 7:00-10:00 AM (dosa, idli, vada, puri), lunch 12:00-3:00 PM (thali meals and rice dishes)",
+      "All restaurants concentrated in small markets on both sides of Tungabhadra River - northern side has more variety and better cafes",
+      "Focus on South Indian specialties for authentic and consistently delicious experience",
+      "Thali meals at Mango Tree cost Rs 30 ($0.40 USD), other dishes around Rs 60 ($0.80 USD)",
+      "New York Times listed Hampi as 2nd best place to visit in the world in 2019 (after Puerto Rico)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Virupaksha Temple - continuous worship since 7th century, dedicated to Shiva",
+      "Vitthala Temple - most exquisitely ornate, with stone Garuda chariot (ratha)",
+      "1,600+ surviving monument ruins across 4,100 hectares",
+      "Tungabhadra River winding through boulder landscape",
+      "Granite boulder terrain - austere, grandiose landscape",
+      "Grand bazaar streets from Vijayanagara Empire era"
+    ],
+    "atmosphere": [
+      "UNESCO World Heritage Site (1986) with ancient temple complex",
+      "Former capital of mighty Vijayanagara Empire (1336-1565)",
+      "Spiritual pilgrimage site with continuous temple worship",
+      "Backpacker paradise with riverside cafes and laid-back vibes",
+      "Austere granite boulder landscape creating otherworldly scenery",
+      "Mix of ancient ruins and modern hippie culture (Hippie Island across river)"
+    ],
+    "colors": [
+      "Golden granite of ancient temples and boulders",
+      "Saffron and turmeric yellow of temple offerings",
+      "Deep green of Tungabhadra River and palm trees",
+      "White of fresh idli and dosa",
+      "Rust orange of Karnataka sunset over ruins"
+    ],
+    "unique_modern": [
+      "Predates Vijayanagara Empire - mentioned in Ramayana and Puranas as Pampa Devi Tirtha Kshetra",
+      "Primary historical settlement record goes back to 1st Century",
+      "By 1500: world's 2nd largest city (after Beijing), probably India's richest",
+      "Conquered by Deccan Muslim confederacy in 1565, pillaged for 6 months, then abandoned",
+      "Turned into ghost town with wild animals until rediscovery",
+      "First photographs: Colonel Alexander Greenlaw (1856) using silver iodide on waxed paper - negatives discovered accidentally in 1980",
+      "Stone-cutting technique: holes drilled, dry wooden pegs inserted, water poured - pegs expand and split stone",
+      "Chronicles by Persian and European (especially Portuguese) travellers describe prosperous city with diamond trading",
+      "Mango Tree Restaurant offers riverside dining surrounded by lush greenery - iconic Hampi experience",
+      "Laughing Buddha cafe on Hippie Island epitomizes laid-back traveler culture"
+    ]
+  },
+  "wikipedia_search_term": "Hampi",
+  "keywords_for_image": [
+    "hampi vijayanagara ruins",
+    "hampi vitthala temple chariot",
+    "south indian thali",
+    "hampi tungabhadra river boulders",
+    "karnataka virupaksha temple"
+  ],
+  "coordinates": {
+    "lat": 15.335,
+    "lng": 76.46
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hampi+🇮🇳/@15.335,76.46,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hampi"
+  },
+  "location_id": 25
+}

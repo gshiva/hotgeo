@@ -1,0 +1,108 @@
+{
+  "name": "Odesa",
+  "country": "Ukraine",
+  "fun_fact": "Fun fact: Odesa's Privoz Market, operating since 1827, is called 'the stomach of Odessa' and birthplace of legendary Odesa humor. Market sellers are famous for interspersing sales with jokes and aphorisms—a 200-year-old culture of wit that defines the city's character.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Forshmak",
+        "description": "The crown dish of Odesa—a delicate herring and apple pâté with butter, lemon juice, onions, and often eggs or walnuts, served cold with black bread",
+        "origin_story": "Brought to Odesa by Ashkenazi Jews from Poland/Lithuania, 'vorschmack' means 'pre-taste' or 'appetizer' in Yiddish. It instantly became Odesa's signature dish, associated with grandmas who prepared it for every holiday.",
+        "where_to_find": "Served in glass terrine jars at restaurants throughout Odesa, often with triangular black bread croutons"
+      },
+      {
+        "name": "Pilaf with Mussels",
+        "description": "Black Sea seafood specialty—mussels often fried on-site on large iron sheets, then mixed with pilaf rice",
+        "origin_story": "Odesa's port status makes fresh Black Sea seafood central to local cuisine. This dish combines Ukrainian pilaf traditions with Mediterranean seafood culture.",
+        "where_to_find": "Kotelok - Бар Мидий (Mussels Bar) is the premier seafood spot, serving mussels in various sauces with French fries and toasted baguette"
+      },
+      {
+        "name": "Rachky/Rachki (Boiled Shrimp)",
+        "description": "Small pink Black Sea shrimp, a traditional Odesa snack eaten whole with or without a skewer, also used to stuff fish fillets",
+        "origin_story": "Using Odesite slang 'rachky,' these tiny shrimp are a beloved local street food, reflecting the port city's seafood-centric culture.",
+        "where_to_find": "Privoz Market, Lanzheron Beach, and Columbus Fish Club on the seashore"
+      },
+      {
+        "name": "Schalet Soup",
+        "description": "Stuffed chicken broth soup with dumplings, nicknamed 'Odessa penicillin' by locals for its healing properties",
+        "origin_story": "Part of Odesa's Ashkenazi Jewish culinary heritage, this comforting soup is served regardless of religious affiliation—Jewish food is everywhere in Odesa.",
+        "where_to_find": "Jewish kosher corners and traditional Odesa restaurants like Maman"
+      },
+      {
+        "name": "Rapa Whelk",
+        "description": "Black Sea snail baked with chopped garlic, fried onion, spices, and sour cream",
+        "origin_story": "Commonly caught by local fishermen in the Black Sea, this unique mollusk showcases Odesa's port city reliance on what the sea provides.",
+        "where_to_find": "Local seafood restaurants and Privoz Market"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kvass",
+        "description": "Non-alcoholic drink made from rye bread, dark, bubbly, and refreshing",
+        "how_locals_drink_it": "Sold at Privoz Market and street vendors. Locals drink it cold during hot Black Sea summers for quick refreshment."
+      },
+      {
+        "name": "Dry White Wine (Champagne-style)",
+        "description": "Local fruity, bubbly white wine similar to champagne, available at market tastings",
+        "how_locals_drink_it": "Served in small tasting glasses at Privoz Market wine stalls, paired with local cheese and sausages."
+      }
+    ],
+    "food_culture_notes": [
+      "Odesa hosts one of Ukraine's biggest Jewish diasporas—Ashkenazi Jewish cuisine is everywhere, regardless of religious affiliation",
+      "Privoz Market has been operating since 1827 and is famous for its sellers' humor—jokes and aphorisms interspersed with sales",
+      "The market's specialty is truly Ukrainian products: salo (cured pork fat), homemade sausage, cold backed pork, pickles, and dairy",
+      "Forshmak is so central to Odesa identity that locals associate it with their grandmas and every holiday celebration",
+      "Black Sea seafood—gobies, mussels, whelks, shrimp—defines Odesa's port city cuisine",
+      "Market operates on cash only, Saturday is best for fresh meat, and haggling is acceptable for non-food items"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Privoz Market (since 1827)",
+      "Potemkin Stairs",
+      "Odesa Opera House",
+      "Lanzheron Beach",
+      "Black Sea port"
+    ],
+    "atmosphere": [
+      "Bustling market with sellers joking and haggling",
+      "Beachside seafood restaurants",
+      "Jewish heritage and kosher corners",
+      "Port city seafood culture",
+      "Witty, humorous Odesa spirit"
+    ],
+    "colors": [
+      "Black Sea blue",
+      "Fresh seafood silver and pink",
+      "Green forshmak herbs",
+      "Golden fried fish",
+      "Market produce vibrant colors"
+    ],
+    "unique_modern": [
+      "Trendy mussels bars like Kotelok",
+      "Maman restaurant with Palais-Royal Garden terrace",
+      "Japanese Robata Grilling at Maman by the Sea",
+      "Craft beer scene"
+    ]
+  },
+  "wikipedia_search_term": "Odesa",
+  "keywords_for_image": [
+    "Odesa Ukraine",
+    "Privoz Market",
+    "Black Sea seafood",
+    "forshmak herring",
+    "Potemkin Stairs",
+    "Odesa Opera House",
+    "Ukrainian Jewish cuisine",
+    "Black Sea port"
+  ],
+  "coordinates": {
+    "lat": 46.4825,
+    "lng": 30.7233
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Odesa+🇺🇦/@46.4825,30.7233,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Odesa"
+  },
+  "location_id": 92
+}

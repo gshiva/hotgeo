@@ -1,0 +1,94 @@
+{
+  "name": "Galle",
+  "country": "Sri Lanka",
+  "fun_fact": "Fun fact: Galle Fort is a UNESCO World Heritage Site built by the Portuguese in 1588, then extensively fortified by the Dutch in 1649 - it's the best-preserved European colonial fort in Asia and you can walk the entire rampart at sunset watching cricket on the grounds below!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Galle Fish Curry",
+        "description": "Fresh tuna or kingfish curry cooked in coconut milk with goraka (Garcinia cambogia) for sourness",
+        "origin_story": "Galle's location on the coast means fish is caught and cooked the same day. The southern Sri Lankan style is distinctly different from the north",
+        "where_to_find": "Lucky Fort Restaurant, Mama's Galle Fort, beach shacks along Unawatuna"
+      },
+      {
+        "name": "Hoppers (Appa)",
+        "description": "Bowl-shaped rice flour pancakes with crispy edges and soft centers, often with an egg in the middle",
+        "origin_story": "A Sri Lankan breakfast staple - the batter ferments overnight with coconut milk and toddy",
+        "where_to_find": "Street vendors in Fort, Pedlar's Inn, traditional cafés"
+      },
+      {
+        "name": "Lamprais",
+        "description": "Rice, meat curry, sambols, and accompaniments wrapped in banana leaf and baked",
+        "origin_story": "A Burgher (Dutch-Portuguese descendant) specialty - 'lomprijst' means 'packet of rice' in Dutch. The banana leaf infuses everything with flavor",
+        "where_to_find": "Pedlar's Inn, Church Street Social, Sunday markets"
+      },
+      {
+        "name": "Kottu Roti",
+        "description": "Chopped roti stir-fried with vegetables, egg, and meat on a hot griddle",
+        "origin_story": "The rhythmic clanging of metal scrapers chopping the roti is the sound of Sri Lankan streets at night",
+        "where_to_find": "Street vendors throughout Galle, busy from 6pm onwards"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ceylon Tea",
+        "description": "Sri Lanka is one of the world's top tea producers - the highlands nearby produce exceptional tea",
+        "how_locals_drink_it": "Sweet and milky, often with condensed milk, available everywhere"
+      },
+      {
+        "name": "King Coconut Water",
+        "description": "Orange-hued coconuts native to Sri Lanka, incredibly refreshing",
+        "how_locals_drink_it": "Fresh from the shell, sold by street vendors throughout the fort area"
+      }
+    ],
+    "food_culture_notes": [
+      "Dutch and Portuguese colonial influence visible in architecture AND food",
+      "Unawatuna beach nearby is famous for seafood restaurants",
+      "Sunday markets sell homemade chutneys, sambols, and curry pastes",
+      "Cinnamon is native to Sri Lanka - Galle was a major spice trading port"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Galle Fort walls",
+      "Dutch Reformed Church",
+      "Lighthouse",
+      "Maritime Archaeology Museum"
+    ],
+    "atmosphere": [
+      "colonial architecture",
+      "sunset rampart walks",
+      "boutique cafés in old buildings",
+      "cricket on fort grounds"
+    ],
+    "colors": [
+      "colonial white",
+      "ocean blue",
+      "terracotta rooftops",
+      "tropical green"
+    ],
+    "unique_modern": [
+      "boutique hotels in colonial houses",
+      "art galleries",
+      "literary festival venue"
+    ]
+  },
+  "wikipedia_search_term": "Galle,_Sri_Lanka",
+  "keywords_for_image": [
+    "Galle Fort walls",
+    "Sri Lankan fish curry",
+    "hoppers breakfast",
+    "colonial architecture",
+    "lighthouse",
+    "cricket grounds"
+  ],
+  "coordinates": {
+    "lat": 6.0535,
+    "lng": 80.221
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Galle+🇱🇰/@6.0535,80.221,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Galle,_Sri_Lanka"
+  },
+  "location_id": 183
+}

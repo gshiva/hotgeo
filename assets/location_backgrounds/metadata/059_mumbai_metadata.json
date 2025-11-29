@@ -1,0 +1,121 @@
+{
+  "name": "Mumbai",
+  "country": "India",
+  "fun_fact": "Fun fact: Mumbai has over 20,000 vada pav stalls! Vada pav is called the 'Bombay Burger' and was invented in the 1960s by street vendor Ashok Vaidya near Dadar railway station to feed hurried workers. Today, people wait an hour in line at the original Ashok Vada Pav just to grab one piping hot vada pav. The city even celebrates World Vada Pav Day on August 23rd!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Vada Pav",
+        "description": "Mumbai's iconic street food—a deep-fried potato dumpling (vada) spiced with curry leaves, mustard seeds, and green chilies, placed inside a soft bread bun (pav) and served with tangy tamarind chutney, spicy garlic chutney, and fried green chili.",
+        "origin_story": "Invented in the 1960s by Ashok Vaidya, a street vendor outside Dadar railway station, to create a quick, filling, affordable meal for workers passing by. It became part of Mumbaikar culture—over 20,000 stalls now sell it across the city. Although it started as humble street food, it's now a cultural icon served everywhere from roadside stalls to upscale restaurants.",
+        "where_to_find": "Ashok Vada Pav (Dadar—the original, 1+ hour wait, famous for 'choora pava' with crispy mixture), Aaram Vada Pav (opposite CST station, 70+ years old, special garlic chutney, grilled cheese variant), Graduate Vada Pav (Byculla—2000+ customers daily, coconut hint in the vada), Samrat Vada Pav (Vile Parle East—cheese burst version, biggest in Mumbai), Gajanan Vada Pav (traditional since 1978), Shivaji Vada Pav (Andheri—fiery garlic chutney), Khidki Vada Pav (Kalyan—since 1968, sold from a house window)."
+      },
+      {
+        "name": "Pav Bhaji",
+        "description": "A thick, spicy vegetable curry (bhaji) made from mashed potatoes, tomatoes, cauliflower, peas, and bell peppers cooked with special pav bhaji masala, ginger, and garlic. Served with soft buttered bread rolls (pav), garnished with massive dollops of Amul butter, chopped onions, and lime.",
+        "origin_story": "Originated in Mumbai as fast, filling street food. The generous amounts of butter are signature—the bhaji is smothered in butter, as is the pav! Watching vendors make pav bhaji in giant tawas (flat griddles) is part of the street food experience.",
+        "where_to_find": "Sardar Pav Bhaji (Tardeo—legendary, impossibly buttery), Cannon Pav Bhaji (CST—served with spring onions, tonnes made in giant tawas), Juhu Beach stalls (iconic beach location, sea breeze complements spicy flavors), Amar Juice Center (Vile Parle—15+ varieties including Cheese Pav Bhaji, open late night), Sadguru (Chembur—50 years old, the pav bhaji king)."
+      },
+      {
+        "name": "Pani Puri (Gol Gappa)",
+        "description": "Crispy hollow puris filled with spiced mashed potatoes and chickpeas, dunked in tangy tamarind water (meetha pani) or spicy mint-coriander water (teekha pani), and eaten in one explosive bite.",
+        "origin_story": "This interactive street food experience is theater—vendors expertly crack puris, fill them, and hand them to you one at a time. The flavored waters are the vendor's secret recipe, often guarded jealously. Eating pani puri is a social activity, perfect for evening snacking.",
+        "where_to_find": "Elco Pani Puri Centre (Bandra Hill Road—the institution, celebrity favorite), Marine Lines' Khao Gully (haven for pani puri enthusiasts in South Mumbai), Chowpatty Beach (classic Mumbai beach experience), Vaishali Nagar (Jogeshwari West—top-notch pani puri)."
+      },
+      {
+        "name": "Sev Puri",
+        "description": "Crispy flat puris topped with diced potatoes, onions, tomatoes, and a generous helping of sev (crispy chickpea noodles), drizzled with sweet tamarind, spicy mint, and pungent garlic chutneys.",
+        "origin_story": "Sev puri originated in Mumbai and is strongly associated with street food culture, though it's now served from beach stalls to upscale restaurants. The balance of textures—crispy puri and sev, soft potatoes, and multiple chutneys—is an art form.",
+        "where_to_find": "Elco (Bandra—famous for fresh, flavorful versions), Swati Snacks (Tardeo—exorbitantly priced but exceptional quality, Gujarati-influenced), Chowpatty Beach vendors."
+      },
+      {
+        "name": "Bhel Puri",
+        "description": "Puffed rice, sev, chopped onions, tomatoes, coriander, and crushed crispy puris tossed with sweet tamarind and spicy green chutneys. Light, crunchy, and explosively flavorful.",
+        "origin_story": "Bhel puri is THE 'beach snack' of Mumbai, synonymous with Chowpatty and Juhu beaches. Watching vendors toss the mixture in large bowls, adjusting spices to taste, is quintessentially Mumbai. The city's beach culture is incomplete without bhel puri.",
+        "where_to_find": "Chowpatty Beach (the classic location—enjoy with ocean breeze), Juhu Beach (especially at sunset), Ram and Shyam Chaatwala (58+ years of tradition), Gupta Chaat Centre (Matunga—started as small counter, now famous restaurant)."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai",
+        "description": "Strong black tea boiled with milk, sugar, and aromatic spices like cardamom, ginger, and cloves. Served piping hot in small glasses or clay cups (kulhads).",
+        "how_locals_drink_it": "Mumbaikars drink chai throughout the day—morning wake-up, afternoon break, evening with snacks. Street-side chai stalls ('chaiwalas') are social gathering points. The tea is often served in tiny glasses and sipped while standing, chatting with neighbors and strangers."
+      },
+      {
+        "name": "Fresh Sugarcane Juice (Ganne ka Ras)",
+        "description": "Freshly extracted from sugarcane stalks using hand-cranked or electric presses, served with lime and ginger over ice.",
+        "how_locals_drink_it": "The ultimate Mumbai refreshment on hot, humid days. Vendors crush cane stalks before your eyes, and the sweet, cooling juice is handed over in a glass. Perfect after spicy street food to soothe the palate."
+      },
+      {
+        "name": "Falooda",
+        "description": "A sweet, cold beverage-dessert hybrid with vermicelli noodles, basil seeds, rose syrup, milk, and ice cream topped with nuts.",
+        "how_locals_drink_it": "Enjoyed as a dessert-drink at juice centers and sweet shops. It's especially popular during summer and festival seasons, served in tall glasses with long spoons to scoop up the layers."
+      }
+    ],
+    "food_culture_notes": [
+      "Mumbai's street food scene is accessible, safe, and integral to the city's identity—locals and tourists eat side-by-side at the same stalls.",
+      "Vada pav has transcended class barriers: workers grab it on the run, while Bollywood celebrities like Sushmita Sen and Sonu Nigam line up at famous stalls.",
+      "The honor system doesn't exist at chaat stalls—vendors freshly prepare each portion to order and serve it directly to you.",
+      "Marine Lines' Khao Gully and the Quadrilatero district are legendary food neighborhoods with concentrated clusters of vendors.",
+      "Kala Ghoda and Chowpatty Beach are must-visit destinations for exploring the diverse street food scene.",
+      "Mumbai chaat culture is about immediacy—food is made fresh when you order, not pre-made and displayed.",
+      "Street food vendors often specialize in ONE dish perfected over decades (or generations), guarding their chutney recipes fiercely.",
+      "Eating street food is a standing, social activity—grab your pani puri, vada pav, or bhel and eat while chatting with friends or strangers."
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Chhatrapati Shivaji Terminus (CST)—Victorian Gothic railway station with vada pav stalls opposite",
+      "Chowpatty Beach—iconic beach lined with bhel puri vendors",
+      "Juhu Beach—celebrity hangout with pav bhaji and chaat stalls",
+      "Gateway of India with street food vendors nearby",
+      "Marine Drive promenade at sunset",
+      "Dadar railway station—birthplace of vada pav"
+    ],
+    "atmosphere": [
+      "Bustling street corners with vendors calling out to passersby",
+      "Massive tawas sizzling with pav bhaji on sidewalk stalls",
+      "Crowds gathered around pani puri carts eating one puri at a time",
+      "Steam rising from chai stalls on monsoon mornings",
+      "Beach vendors with colorful ingredient displays at sunset",
+      "Railway platforms packed with workers grabbing quick vada pav"
+    ],
+    "colors": [
+      "Golden-brown fried vadas and crispy puris",
+      "Bright orange-red pav bhaji bubbling on griddles",
+      "Green coriander and mint chutneys",
+      "White sev (chickpea noodles) piled high",
+      "Deep brown tamarind chutney",
+      "Vibrant street scenes with colorful vendor carts"
+    ],
+    "unique_modern": [
+      "Instagram-worthy cheese burst vada pavs with oozing centers",
+      "Upscale restaurants serving deconstructed street food",
+      "Food trucks offering fusion versions (pizza pav bhaji)",
+      "Modern juice centers with sleek interiors serving traditional chaat",
+      "Celebrity chef interpretations of humble street snacks"
+    ]
+  },
+  "wikipedia_search_term": "Mumbai",
+  "keywords_for_image": [
+    "Mumbai vada pav street food",
+    "pav bhaji Mumbai",
+    "pani puri gol gappa",
+    "bhel puri Chowpatty beach",
+    "Mumbai street food vendors",
+    "sev puri chaat",
+    "Juhu beach food stalls",
+    "masala chai Mumbai",
+    "CST railway station",
+    "Gateway of India Mumbai"
+  ],
+  "coordinates": {
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mumbai+🇮🇳/@19.076,72.8777,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mumbai"
+  },
+  "location_id": 59
+}

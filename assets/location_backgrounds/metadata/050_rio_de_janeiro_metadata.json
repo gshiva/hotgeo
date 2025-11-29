@@ -1,0 +1,129 @@
+{
+  "name": "Rio de Janeiro",
+  "country": "Brazil",
+  "fun_fact": "Fun fact: Rio's botequim (traditional bar) culture is so integral to Carioca life that there's a national gastronomy contest called 'Comida di Buteco' where botecos from 25 Brazilian cities compete for best bar food. The word 'boteco' comes from Greek 'apothéke' meaning small grocery store - these spots became meeting points that evolved into Brazil's icons of sociability and culture.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Coxinha",
+        "description": "Teardrop-shaped croquette stuffed with seasoned shredded chicken and catupiry cheese, deep-fried until golden and crispy",
+        "origin_story": "Name means 'little thigh' in Portuguese, inspired by chicken drumstick shape. Originated in São Paulo in 19th century as a Brazilian adaptation of French 'croquette de poulet.' Cariocas love it so much there's a National Coxinha Day. It's the quintessential Brazilian street food.",
+        "where_to_find": "Street vendors throughout Lapa and Centro; botequins across neighborhoods; beach kiosks; markets like Feira da Glória"
+      },
+      {
+        "name": "Pastel",
+        "description": "Rectangular fried pastry with high-fat dough, filled with dried meat, shredded chicken, shrimp, or cheese - often served with fresh sugarcane juice",
+        "origin_story": "The legendary motivator that drags Rio locals out of bed for Sunday markets. Differentiates itself with airy, high-fat dough. The pastel-and-sugarcane-juice combo is a sacred Sunday ritual at feiras (markets).",
+        "where_to_find": "Feira da Glória (Sunday mornings, local favorite); São Cristóvão Feira Nordestina (massive indoor market); neighborhood Sunday markets citywide"
+      },
+      {
+        "name": "Botequim Petiscos",
+        "description": "Traditional bar appetizers: bolinhos de bacalhau (codfish fritters), kibe, esfiha, churrasquinho skewers, queijo coalho (grilled cheese)",
+        "origin_story": "The soul of Rio's food scene lives in botequims - family-run bars where Cariocas gather for ice-cold chopp (draft beer) and petiscos with friends. These aren't restaurants; they're confraternization places with laid-back informality.",
+        "where_to_find": "Bar Luiz (since 1887, Rua da Carioca 39, German-Brazilian, bolinho de bacalhau); Cosmopolita (since 1950, Travessa do Mosqueira 4, honest Portuguese-Brazilian food under R$30); Garota da Urca (grab petiscos, sit on seawall, peak Rio)"
+      },
+      {
+        "name": "Cervantes Sandwich",
+        "description": "Legendary filé com abacaxi - steak with pineapple sandwich served until 6 AM",
+        "origin_story": "Where post-night-out Cariocas refuel. Open until dawn, this sandwich shop represents Rio's late-night food culture - the sweet-savory combo is pure Rio creativity.",
+        "where_to_find": "Cervantes (Avenida Prado Júnior 335, Copacabana, open until 6 AM)"
+      },
+      {
+        "name": "Acarajé",
+        "description": "Deep-fried balls made from black-eyed pea dough filled with vatapá (spicy shrimp paste with dried shrimp, coconut milk, peanuts)",
+        "origin_story": "Roots in West African Yoruba cuisine brought to Brazil. One of Rio's most unique street foods, prepared on the spot by vendors. Reflects Brazil's African heritage.",
+        "where_to_find": "Street vendors in Lapa and Centro preparing fresh; São Cristóvão Market for northeastern Brazilian specialties"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Caipirinha",
+        "description": "Brazil's national cocktail - cachaça (sugarcane hard liquor), sugar, and lime",
+        "how_locals_drink_it": "Icy cold at botequims, often customized with different fruits (passion fruit, strawberry). Standard accompaniment to Saturday afternoon feijoada or beach hangs. Beach vendors shout 'Caipirinha!' along the sand."
+      },
+      {
+        "name": "Mate Gelado",
+        "description": "Cold, sweetened tea made from yerba mate leaves",
+        "how_locals_drink_it": "Beach vendors walk the sand shouting 'Mate gelado!' - it's THE authentic beach drink. Part of Rio's beach culture ritual alongside caipirinhas and coconut water."
+      },
+      {
+        "name": "Chopp (Draft Beer)",
+        "description": "Ice-cold draft beer, the botequim staple",
+        "how_locals_drink_it": "Served in small glasses to stay cold. Locals order round after round while eating petiscos and socializing for hours. Temperature is crucial - must be 'stupidamente gelada' (stupidly cold)."
+      }
+    ],
+    "food_culture_notes": [
+      "Dinner starts late - 8 PM is early by Rio standards",
+      "Saturday afternoon feijoada is sacred; popular spots fill by noon",
+      "Many neighborhood spots are cash-only or charge extra for cards",
+      "Trust the 'prato do dia' (daily special) - represents kitchen's best ingredients and value",
+      "Lines at botequims indicate quality; locals wait patiently",
+      "Real soul of Rio food is in neighborhood botequims and lanchonetes where tourists are rare",
+      "Sunday market (feira) culture is ritual - pastel with sugarcane juice",
+      "Beach food culture: vendors walking sand with mate, caipirinhas, grilled cheese skewers",
+      "Post-night-out refueling at places like Cervantes (open until 6 AM)",
+      "Botequim culture: sit on seawall with petiscos, watch waves, kids play, locals make music"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Christ the Redeemer statue on Corcovado",
+      "Sugarloaf Mountain (Pão de Açúcar)",
+      "Copacabana Beach iconic wave-pattern boardwalk",
+      "Ipanema Beach",
+      "Lapa Arches (Arcos da Lapa)",
+      "Selarón Steps colorful tiles",
+      "Maracanã Stadium",
+      "Urca neighborhood seawall"
+    ],
+    "atmosphere": [
+      "Beach vendors shouting 'Mate gelado!' along sand",
+      "Botequim tables spilling onto sidewalks, locals laughing",
+      "Steam rising from street vendor acarajé stands",
+      "Families sitting on Urca seawall with petiscos at sunset",
+      "Sunday feira markets bustling with pastel frying",
+      "Late-night crowds at Cervantes sandwich shop",
+      "Samba music drifting from Lapa bars",
+      "Colorful beach umbrellas and caipirinhas on sand"
+    ],
+    "colors": [
+      "Golden fried coxinha and pastéis",
+      "Bright green caipirinha limes",
+      "Blue-green Atlantic Ocean",
+      "Yellow-white Copacabana wave pattern",
+      "Colorful Selarón Steps tiles",
+      "Sunset orange over Ipanema",
+      "Red-brown acarajé shrimp paste",
+      "White sand beaches"
+    ],
+    "unique_modern": [
+      "Ancient botequim culture thriving (Bar Luiz since 1887)",
+      "Deane House (2016) reimagining Brazilian classics in historic 1906 building",
+      "National Comida di Buteco contest elevating bar food",
+      "Markets like São Cristóvão preserving northeastern traditions",
+      "Beach food culture unchanged for generations",
+      "Fusion spots alongside family-run tascas from 1950s",
+      "Carioca confraternization culture - food is about people gathering"
+    ]
+  },
+  "wikipedia_search_term": "Rio_de_Janeiro",
+  "keywords_for_image": [
+    "Rio de Janeiro botequim street bar",
+    "Copacabana beach vendors Rio",
+    "Coxinha Brazilian street food",
+    "Rio caipirinha beach",
+    "Lapa arches Rio nightlife",
+    "Rio de Janeiro Christ Redeemer",
+    "Ipanema beach sunset Rio",
+    "Brazilian pastel feira market"
+  ],
+  "coordinates": {
+    "lat": -22.9068,
+    "lng": -43.1729
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rio+de+Janeiro+🇧🇷/@-22.9068,-43.1729,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  },
+  "location_id": 50
+}

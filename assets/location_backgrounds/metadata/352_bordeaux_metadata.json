@@ -1,0 +1,94 @@
+{
+  "name": "Bordeaux",
+  "country": "France",
+  "fun_fact": "Fun fact: Bordeaux has the world's largest reflecting pool - the Miroir d'Eau is 3,450 square meters but only 2 centimeters deep. It creates a mesmerizing mirror effect of Place de la Bourse and cycles through three sequences: mirror reflection, mist, and 'swimming pool' mode every 20 minutes. The city produces 960 million bottles of wine per year from 287,000 acres of vineyards",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Entrecôte à la Bordelaise with Secret Sauce",
+        "description": "Sliced beef sirloin served with a mysterious secret sauce (recipe guarded since 1962) and unlimited crispy fries. The sauce is butter-based, herby, and impossible to replicate at home despite thousands of attempts",
+        "origin_story": "Henri Gineste opened the first L'Entrecôte in Toulouse in 1962 with a revolutionary concept: no menu, no choices, just perfect steak and unlimited fries. The Bordeaux location opened in 1966 and still doesn't take reservations. Wait times hit 50+ minutes but locals line up anyway. The secret sauce recipe is known only to a handful of people and has never been revealed",
+        "where_to_find": "L'Entrecôte (4 cours du 30 Juillet, steps from Grand Théâtre - no reservations, expect waits), other locations on Rue Sainte-Catherine"
+      },
+      {
+        "name": "Canelés de Bordeaux",
+        "description": "Tiny rum-soaked cakes with ridged copper-mold shapes - crispy caramelized exterior, soft custardy interior with vanilla and rum. About 2 inches tall, impossibly addictive",
+        "origin_story": "Created by nuns at the Convent of Annonciades in 18th-century Bordeaux using leftover egg yolks from wine-making (egg whites were used to clarify wine). The name comes from 'cannelé' (fluted/grooved). True canelés must be baked in copper molds at high heat. Baillardran has been perfecting them since 1987 and now ships worldwide",
+        "where_to_find": "Baillardran Canelés shops (multiple locations including Quinconces), every bakery in Bordeaux, pair with sweet Sauternes wine or coffee"
+      },
+      {
+        "name": "Arcachon Oysters",
+        "description": "Briny, plump oysters from the Arcachon Bay (40 miles west of Bordeaux) - served raw on ice with lemon, shallot vinegar, or eaten straight up. Sweet and iodine-fresh",
+        "origin_story": "Arcachon Bay has been France's oyster capital since the 1860s. The oyster beds benefit from a unique microclimate where ocean meets pine forests. Bordeaux wine merchants paired them with white Bordeaux wine centuries ago. Locals eat them by the dozen at outdoor cafés along the quays",
+        "where_to_find": "La Tupina (rustic farmhouse restaurant), oyster stands at Marché des Capucins, brasseries along the Garonne River"
+      },
+      {
+        "name": "Lamproie à la Bordelaise",
+        "description": "Lamprey eel cooked in Bordeaux red wine with leeks and ham. The eel's blood thickens the sauce into a dark, rich gravy. Looks medieval, tastes incredible",
+        "origin_story": "An ancient dish dating to medieval times when lampreys migrated up the Garonne River. English King Henry I supposedly died from eating too many lampreys in 1135. Bordeaux nobles considered it a delicacy. The blood-thickened sauce shocks modern diners but it's been Bordeaux tradition for 800+ years. Seasonal availability (winter/spring)",
+        "where_to_find": "La Tupina (Bordeaux institution for traditional cuisine), high-end traditional restaurants during lamprey season"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bordeaux Wine (Red, White, Sauternes)",
+        "description": "World's most famous wine region - Bordeaux reds (Merlot/Cabernet blends), crisp whites (Sauvignon Blanc/Sémillon), and sweet Sauternes (golden dessert wine)",
+        "how_locals_drink_it": "Bordeaux produces 960 million bottles annually from 10,000 estates. Locals drink daily without pretension - order 'un verre de rouge' at lunch. Pair reds with entrecôte, whites with oysters, Sauternes with canelés. Visit Cité du Vin museum for tastings. Never add ice or mixers, that's sacrilege"
+      },
+      {
+        "name": "Entre-deux-Mers White Wine",
+        "description": "Crisp, affordable white wine from the region between Dordogne and Garonne rivers. Light, citrusy, perfect for everyday drinking",
+        "how_locals_drink_it": "This is what Bordelais drink when not showing off fancy labels. Served chilled with seafood and summer salads. The name means 'between two seas' (actually two rivers). Best value in Bordeaux wine region"
+      }
+    ],
+    "food_culture_notes": [
+      "Bordeaux was a Roman settlement called Burdigala over 2,000 years ago",
+      "Called 'Port of the Moon' for its crescent-shaped harbor - it was France's major trading port for centuries",
+      "362 historic monuments (most in France after Paris) - UNESCO World Heritage site",
+      "Rue Sainte-Catherine is one of Europe's longest pedestrian streets (1.2 km)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Place de la Bourse (18th-century mirrored square)",
+      "Miroir d'Eau (world's largest reflecting pool)",
+      "Grand Théâtre de Bordeaux (neoclassical opera house)",
+      "Cité du Vin (wine museum with golden twisted architecture)"
+    ],
+    "atmosphere": [
+      "mist rising from Miroir d'Eau",
+      "endless vineyard rows",
+      "18th-century limestone facades",
+      "Garonne River reflections"
+    ],
+    "colors": [
+      "deep burgundy (Bordeaux wine)",
+      "golden caramel (canelé crust)",
+      "honey limestone (buildings)",
+      "silvery mist (water mirror)"
+    ],
+    "unique_modern": [
+      "World's largest reflecting pool (Miroir d'Eau - 2006)",
+      "960 million wine bottles produced annually",
+      "Forbes' Wine Capital of the World",
+      "Place des Quinconces - Europe's largest city square (25.6 hectares)"
+    ]
+  },
+  "wikipedia_search_term": "Bordeaux",
+  "keywords_for_image": [
+    "Bordeaux Place de la Bourse water mirror",
+    "caneles Bordeaux pastry",
+    "Bordeaux vineyards wine",
+    "entrecote Bordeaux steak",
+    "Cite du Vin Bordeaux"
+  ],
+  "coordinates": {
+    "lat": 44.8378,
+    "lng": -0.5792
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bordeaux+🇫🇷/@44.8378,-0.5792,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bordeaux"
+  },
+  "location_id": 352
+}

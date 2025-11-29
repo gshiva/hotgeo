@@ -1,0 +1,94 @@
+{
+  "name": "Annecy",
+  "country": "France",
+  "fun_fact": "Fun fact: Le Freti celebrated its 50th anniversary in 2024—since 1974, this mountain chalet restaurant has been serving 15 different types of fondue and 8 raclette variations using only raw milk farmhouse cheeses, making it the cheese cathedral of the French Alps.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tartiflette at Le Freti",
+        "description": "Sliced potatoes baked with Reblochon cheese, lardons, and onions until bubbling and golden—pure Alpine indulgence",
+        "origin_story": "Le Freti has been the benchmark for Savoyard cheese dishes since 1974. Tartiflette uses local Reblochon cheese (the name means 'to pinch again,' referring to making cheese from second milking). Everything is homemade with raw milk farmhouse cheeses",
+        "where_to_find": "Le Freti (celebrating 50 years in 2024), Chez Mamie Lise (cozy chalet atmosphere), Le Chalet, or Le Ramoneur Savoyard in Old Town"
+      },
+      {
+        "name": "Raclette at Chez Mamie Lise",
+        "description": "Melted cheese scraped onto boiled potatoes, served with charcuterie and pickles—simple, social, and incredibly satisfying",
+        "origin_story": "Chez Mamie Lise is famous for its intimate chalet atmosphere and traditional cheese dishes. The raclette uses cheeses from Val d'Arly dairy. The name comes from the French word 'racler' (to scrape)—you scrape melted cheese onto your plate",
+        "where_to_find": "Chez Mamie Lise (book ahead!), Le Freti, or Le Chalet in Old Town"
+      },
+      {
+        "name": "Fondue Savoyarde",
+        "description": "Melted Gruyère, Comté, and Beaufort cheese with white wine and garlic—served in a communal pot for dipping bread",
+        "origin_story": "Le Freti offers 15 different fondue variations, but the classic Savoyard version uses three cheeses. The ritual is communal: if you drop your bread in the pot, tradition says you buy the next round of wine",
+        "where_to_find": "Le Freti (15 fondue varieties), Chez Mamie Lise, Le Chalet, or any Savoyard restaurant"
+      },
+      {
+        "name": "Diots au Vin Blanc",
+        "description": "Savoyard sausages cooked in white wine with onions—rustic, hearty, mountain food",
+        "origin_story": "Diots are the traditional sausages of Savoie, cooked slowly in local white wine until tender. They're less refined than city food, which is exactly the point—this is what mountain people ate",
+        "where_to_find": "Traditional Savoyard restaurants, especially Le Freti and Le Chalet"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Savoie White Wine (Jacquère, Roussette)",
+        "description": "Crisp, mineral white wine from Savoie vineyards—perfect for cutting through cheese",
+        "how_locals_drink_it": "Always paired with fondue, raclette, or tartiflette. The acidity cuts through the richness of melted cheese. Locals drink it chilled in wine glasses at mountain chalets"
+      },
+      {
+        "name": "Génépi",
+        "description": "Herbal liqueur made from Alpine wormwood—bitter, green, medicinal",
+        "how_locals_drink_it": "Served as a digestif after heavy cheese meals. The herbs are thought to aid digestion. It's an acquired taste but very traditional in the Alps"
+      }
+    ],
+    "food_culture_notes": [
+      "Reblochon cheese for tartiflette must be authentic—the name comes from 're-blocher' (to pinch the cow's udder again for second milking)",
+      "Le Freti's 50-year legacy (1974-2024) and 15 fondue varieties show Savoyard cheese obsession",
+      "Raclette is a social meal—everyone gathers around the melting cheese",
+      "If you drop bread in the fondue pot, tradition says you must buy wine for the table (or kiss your neighbor)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lake Annecy with turquoise water",
+      "Palais de l'Isle (island prison turned landmark)",
+      "Alpine mountains surrounding the lake",
+      "Canals through Old Town (Venice of the Alps)"
+    ],
+    "atmosphere": [
+      "wooden chalet interiors",
+      "bubbling cheese pots",
+      "mountain views through windows",
+      "cozy fireplaces and timber beams"
+    ],
+    "colors": [
+      "golden melted cheese",
+      "turquoise Lake Annecy water",
+      "white Alpine snow",
+      "brown wood chalets"
+    ],
+    "unique_modern": [
+      "Le Freti's 50th anniversary (2024) still using 1974 recipes",
+      "Chez Mamie Lise requiring reservations year-round",
+      "Raw milk farmhouse cheeses (no pasteurization)",
+      "Venice of the Alps nickname for canal-lined Old Town"
+    ]
+  },
+  "wikipedia_search_term": "Annecy",
+  "keywords_for_image": [
+    "Lake Annecy turquoise Alps",
+    "tartiflette Reblochon cheese",
+    "fondue Savoyarde pot",
+    "Palais de l'Isle Annecy",
+    "French Alps chalet"
+  ],
+  "coordinates": {
+    "lat": 45.8992,
+    "lng": 6.1294
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Annecy+🇫🇷/@45.8992,6.1294,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annecy"
+  },
+  "location_id": 231
+}

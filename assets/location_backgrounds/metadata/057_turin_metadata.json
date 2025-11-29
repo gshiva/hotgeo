@@ -1,0 +1,106 @@
+{
+  "name": "Turin",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Turin is the birthplace of Nutella! Pastry chef Pietro Ferrero invented it in 1951 as 'SuperCrema' during World War II cocoa shortages, using Piedmont's famous hazelnuts. Turin also produces 40% of all Italian chocolate (85,000 tons annually) and is home to gianduiotto, the legendary chocolate-hazelnut confection created in 1865 that inspired Ferrero Rocher.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gianduiotto Chocolate",
+        "description": "Small boat-shaped chocolates wrapped in golden foil, made from cocoa and Piedmont's prized Tonda Gentile delle Langhe hazelnuts. These have a creamy, buttery texture and intense aroma that set them apart from any other chocolate.",
+        "origin_story": "Created in 1865 by Michele Prochet and Caffarel during cocoa shortages. The chocolate is named after Gianduja, Turin's traditional Commedia dell'arte character—a charming gentleman in a brown jacket and yellow waistcoat who carries wine. When cocoa imports were restricted, local confectioners mixed ground Piedmont hazelnuts with the limited cocoa, creating magic.",
+        "where_to_find": "Caffarel (the original maker since 1865), Baratti & Milano (historic café founded 1858), Guido Gobino, Peyrano, and the elegant cafés along Via Po and Piazza Castello. Turin's Porta Palazzo Market is Europe's largest open-air market for fresh ingredients."
+      },
+      {
+        "name": "Bicerin",
+        "description": "Turin's iconic layered drink meaning 'small glass' in Piedmontese. Three distinct layers: 1/3 rich hot chocolate, 1/3 strong espresso, 1/3 whipped cream on top. Served in a small glass to showcase the beautiful stratification.",
+        "origin_story": "Invented in the 18th century and served at Caffè al Bicerin since 1763. Camillo Cavour, one of Italy's founding fathers, famously started every day with a bicerin at this legendary café in Piazza della Consolata.",
+        "where_to_find": "Caffè al Bicerin dal 1763 (the original, open since 1763), Caffè Fiorio (once frequented by writers and heroes of the Risorgimento), Caffè Mulassano (for traditional Torinese experience with vermouth and tramezzini)."
+      },
+      {
+        "name": "Agnolotti del Plin",
+        "description": "Tiny hand-pinched pasta pockets ('plin' means pinch in Piedmontese) traditionally filled with roasted meats, braised in Barolo wine, and served with butter and sage or meat jus.",
+        "origin_story": "This is Piedmont's signature pasta, representing the region's connection to its farming heritage and the tradition of using every part of the animal. Each restaurant guards its own family recipe.",
+        "where_to_find": "Del Cambio (historic restaurant in Piazza Carignano with refined Piedmontese cuisine), Magorabin (contemporary interpretations), Consorzio (modern, emphasizes lesser-used cuts), Piola da Cianci (no-frills trattoria with generous portions and house wine carafes)."
+      },
+      {
+        "name": "Vitello Tonnato",
+        "description": "Thinly sliced cold veal topped with a creamy tuna-caper sauce. Despite the unusual combination, it's a beloved Piedmontese classic.",
+        "origin_story": "A traditional Piedmontese antipasto that showcases the region's love for elegant, refined flavors and surprising ingredient pairings.",
+        "where_to_find": "L'Acino (Michelin-recognized 'Restaurant Wine Gallery'), Del Cambio, and traditional trattorias throughout Turin's historic center."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vermouth",
+        "description": "Turin is the birthplace of commercial vermouth. This aromatized, fortified wine is infused with botanicals from the Alpine foothills and strengthened with unaged brandy for longer shelf life.",
+        "how_locals_drink_it": "Locals enjoy vermouth as an aperitif before dinner—'Extra Vermouth' pairs the drink with local dishes in tasting sessions. Café Mulassano is famous for vermouth and tramezzini. Vineria i 3 Galli in the Quadrilatero district serves vermouth with Piedmont cheeses."
+      },
+      {
+        "name": "Barolo and Barbaresco Wine",
+        "description": "World-class red wines from nearby Langhe vineyards, made from Nebbiolo grapes. Barolo is known as 'the king of wines and the wine of kings.'",
+        "how_locals_drink_it": "These powerful, tannic wines are paired with rich Piedmontese dishes like brasato (beef braised in Barolo), tajarin pasta, and aged Castelmagno cheese. Wine bars like Vineria i 3 Galli and Consorzio (renowned for natural wines) showcase local vintages."
+      }
+    ],
+    "food_culture_notes": [
+      "Turin has been the chocolate heart of Europe since the 17th century when chocolatiers made artisan delicacies for the House of Savoy royal dynasty.",
+      "The city's opulent, centuries-old cafés like Caffè Al Bicerin and Caffè Fiorio are institutions—visiting them is like stepping into the Risorgimento era.",
+      "Piedmont hazelnuts (Tonda Gentile delle Langhe) are considered the world's finest, with lower bitterness and superior creamy, buttery texture.",
+      "Antonio Benedetto Carpano created commercial vermouth in Turin using abundant Alpine botanicals—the drink became synonymous with Italian aperitivo culture.",
+      "The tradition of 'Extra Vermouth' brings together the drink and local dishes for a perfect aperitif pairing experience.",
+      "Turin invented the first hot chocolate houses, chocolate spread, and modern chocolate production techniques."
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mole Antonelliana—Turin's iconic spire-topped building",
+      "Piazza Castello—elegant baroque square with royal palaces",
+      "Porta Palazzo Market—Europe's largest open-air market",
+      "Historic arcaded streets (portici) stretching for miles",
+      "Royal residences of the House of Savoy",
+      "Piazza della Consolata with Caffè al Bicerin"
+    ],
+    "atmosphere": [
+      "Elegant café interiors with marble tables and gilded mirrors",
+      "Bustling market stalls piled with fresh produce and cheese",
+      "Grand baroque architecture and covered walkways",
+      "Artisan chocolate shops with golden-wrapped gianduiotti displays",
+      "Sophisticated wine bars with vaulted brick cellars"
+    ],
+    "colors": [
+      "Golden foil wrapping of gianduiotti chocolates",
+      "Rich brown of chocolate and hazelnuts",
+      "Deep reds of Barolo wine",
+      "Cream and ochre of baroque buildings",
+      "Layered brown-black-white of bicerin drinks"
+    ],
+    "unique_modern": [
+      "Artisan chocolate workshops with contemporary packaging",
+      "Modern wine galleries pairing natural wines with creative cuisine",
+      "Fusion of historic café culture with modern coffee artistry",
+      "Contemporary food markets alongside centuries-old traditions",
+      "Michelin-starred restaurants reimagining Piedmontese classics"
+    ]
+  },
+  "wikipedia_search_term": "Turin",
+  "keywords_for_image": [
+    "Turin chocolate gianduiotto",
+    "bicerin coffee Turin",
+    "Piedmont hazelnuts",
+    "Turin cafe historic",
+    "Mole Antonelliana",
+    "Porta Palazzo market",
+    "vermouth Turin",
+    "agnolotti pasta",
+    "Turin arcades portici",
+    "Barolo wine Piedmont"
+  ],
+  "coordinates": {
+    "lat": 45.0703,
+    "lng": 7.6869
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Turin+🇮🇹/@45.0703,7.6869,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turin"
+  },
+  "location_id": 57
+}

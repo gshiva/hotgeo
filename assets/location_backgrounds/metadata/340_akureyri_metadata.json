@@ -1,0 +1,94 @@
+{
+  "name": "Akureyri",
+  "country": "Iceland",
+  "fun_fact": "Fun fact: Akureyri, Iceland's 'Capital of the North,' sits just 60km south of the Arctic Circle at the end of Eyjafjörður - Iceland's longest fjord. It's one of only two Icelandic harbors offering year-round whale watching with humpback whales visible even in winter, and you might see northern lights dancing over the fjord.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Plokkfiskur (Fish Stew)",
+        "description": "Mashed fish (usually cod or haddock) mixed with potatoes, onions, butter, and béchamel sauce - creamy, warming comfort food",
+        "origin_story": "Created by Icelandic fishermen's wives to use leftover fish, plokkfiskur ('plucked fish') became national comfort food. In Akureyri's harsh Arctic winters with limited daylight, this rich, warming stew sustained fishing families. The dish shows Icelandic resourcefulness - nothing wasted, everything warming.",
+        "where_to_find": "Traditional Icelandic restaurants in Akureyri, guesthouses, or cafes serving local cuisine"
+      },
+      {
+        "name": "Kjötsúpa (Lamb Soup)",
+        "description": "Hearty soup with Icelandic lamb, root vegetables (potatoes, carrots, turnips), and herbs - simple, nourishing, soul-warming",
+        "origin_story": "Iceland's national dish uses the island's free-range lamb that grazes on wild herbs and moss, creating unique flavor. Akureyri residents eat kjötsúpa year-round, especially after winter activities like skiing or Northern Lights hunting. Each family has their secret herb blend.",
+        "where_to_find": "Akureyri restaurants, cafes, and the Akureyri Food Hall"
+      },
+      {
+        "name": "Fresh Arctic Char",
+        "description": "Salmon-like fish from Iceland's cold rivers and lakes, often pan-fried or grilled with butter and herbs",
+        "origin_story": "Arctic char thrives in Iceland's pristine glacial waters. Akureyri's location at Eyjafjörður fjord provides access to incredibly fresh fish. The char has pink flesh like salmon but a more delicate flavor. Locals eat it simply prepared to taste the clean Arctic waters.",
+        "where_to_find": "Seafood restaurants in Akureyri, especially near the harbor"
+      },
+      {
+        "name": "Skyr with Berries",
+        "description": "Thick, creamy Icelandic yogurt (technically cheese) served with wild bilberries or crowberries",
+        "origin_story": "Skyr dates back to Viking times - it's been made in Iceland for over 1,000 years using similar recipes. High in protein, low in fat, it sustained Icelanders through harsh winters. Akureyri locals eat it for breakfast with wild berries foraged from surrounding hills. Modern Icelanders call it yogurt; technically it's cultured cheese.",
+        "where_to_find": "Every grocery store, cafe, and breakfast buffet in Akureyri - it's everywhere"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Brennivín",
+        "description": "Icelandic schnapps flavored with caraway seeds - clear, strong (37.5% alcohol), nicknamed 'Black Death'",
+        "how_locals_drink_it": "Brennivín ('burning wine') is Iceland's signature spirit. Traditionally drunk as a shot with hákarl (fermented shark) to mask the shark's ammonia taste, but Akureyri locals also sip it after whale-watching tours or northern lights excursions. The black label earned it the 'Black Death' nickname. It's an acquired taste - caraway-forward, medicinal, warming."
+      },
+      {
+        "name": "Icelandic Coffee",
+        "description": "Strong, light-roast coffee - Icelanders are among world's highest per-capita coffee consumers",
+        "how_locals_drink_it": "In Akureyri's long dark winters (polar nights), coffee culture is survival. Cafes serve it strong and hot, often with kleina (Icelandic twisted donuts). Locals drink it constantly - before whale watching, after skiing, during northern lights waits. Iceland imports all coffee but consumes more per person than almost any country."
+      }
+    ],
+    "food_culture_notes": [
+      "Akureyri Food Hall offers local vendors selling traditional Icelandic foods and modern interpretations",
+      "Eyjafjörður fjord is 60km long - longest in Iceland - providing year-round access to fresh fish",
+      "Wild foraging culture - locals pick bilberries, crowberries, and angelica from surrounding hills",
+      "Traditional Icelandic food was preservation-focused (smoking, fermenting, drying) due to isolation and harsh climate"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Akureyrarkirkja - striking modernist church on hill overlooking town (designed 1940)",
+      "Eyjafjörður fjord - Iceland's longest at 60km, surrounded by snowcapped mountains",
+      "Botanical Garden - world's northernmost botanical garden",
+      "Christmas House - Christmas shop and museum open year-round"
+    ],
+    "atmosphere": [
+      "Arctic location just 60km south of Arctic Circle",
+      "Polar nights in winter (limited daylight December-January), midnight sun in summer",
+      "Year-round whale watching - humpbacks visible even in winter",
+      "Northern lights visible September-April over the fjord"
+    ],
+    "colors": [
+      "green and purple aurora borealis",
+      "deep blue fjord waters",
+      "white snow-covered mountains year-round",
+      "midnight sun golden glow in summer"
+    ],
+    "unique_modern": [
+      "Whale Watching Akureyri operating since 2014 - complimentary tickets if no whales seen",
+      "Humpback whales, minke whales, occasional blue whales (mid-June to mid-July best chance)",
+      "Akureyri is Iceland's second-largest urban area after Reykjavík",
+      "Year-round harbor - one of only two in Iceland offering winter whale watching"
+    ]
+  },
+  "wikipedia_search_term": "Akureyri",
+  "keywords_for_image": [
+    "akureyri church iceland",
+    "eyjafjordur fjord mountains",
+    "humpback whale iceland",
+    "northern lights akureyri",
+    "icelandic lamb soup"
+  ],
+  "coordinates": {
+    "lat": 65.6835,
+    "lng": -18.0878
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Akureyri+🇮🇸/@65.6835,-18.0878,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akureyri"
+  },
+  "location_id": 340
+}

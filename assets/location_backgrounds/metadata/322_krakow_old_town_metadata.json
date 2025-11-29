@@ -1,0 +1,94 @@
+{
+  "name": "Krakow Old Town",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Every hour, a live trumpeter plays a five-note melody from St. Mary's Basilica tower that abruptly stops mid-tune - commemorating a 1240 trumpeter who sounded the alarm about Mongol invaders but was shot through the throat with an arrow before finishing the call.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi",
+        "description": "Boiled dumplings filled with potato-cheese (ruskie), meat, sauerkraut-mushroom, or sweet fillings like berries - served with butter, fried onions, or sour cream",
+        "origin_story": "Poland's national dish dates back to the 13th century, though legend says Saint Hyacinth fed the starving with pierogi during a famine. Each Polish grandmother has her secret recipe passed down through generations. The name comes from Old East Slavic 'pir' (feast) - pierogi were celebration food that became everyday comfort.",
+        "where_to_find": "Słowiańska Uczta in Kazimierz (locals say best in city, feels like home cooking), Gościnna Chata (full traditional experience with folk decor), U Babci Maliny (budget-friendly, two locations: ul. Szpitalna 38 or ul. Sławkowska 17), or Przystanek Pierogarnia (open until 4AM for late-night cravings)"
+      },
+      {
+        "name": "Zapiekanka",
+        "description": "Polish open-faced baguette pizza topped with sautéed mushrooms, melted cheese, and doused with ketchup - Krakow's iconic street food",
+        "origin_story": "Created in communist Poland during the 1970s when ingredients were scarce and Western fast food was forbidden. Zapiekanka was Poland's answer to pizza - made with available ingredients like mushrooms, bread, and processed cheese. After communism fell, it survived because it's delicious. Plac Nowy became zapiekanka central.",
+        "where_to_find": "Endzior at Plac Nowy in Kazimierz (most popular with locals), Okrąglak (round building, former kosher slaughterhouse), or any of the 90% zapiekanka stalls at Plac Nowy Food Market - Zapiexa recommended for creative toppings"
+      },
+      {
+        "name": "Kiełbasa (Polish Sausage)",
+        "description": "Grilled pork sausage seasoned with garlic and marjoram, served on a baguette with mustard and pickles",
+        "origin_story": "Every region of Poland has its sausage, but Krakow's street kiełbasa culture is legendary. For over 25 years, two old boys in white smocks have grilled sausages from their blue Nysa van outside Kazimierz using a wood-fired stove - it's become a pilgrimage site for locals.",
+        "where_to_find": "Krakow Blue Van (Kielbaski pod Hala Targowa) - blue Nysa van on edge of Kazimierz, open every evening except Sundays for 25+ years, or Judah Food Market"
+      },
+      {
+        "name": "Żurek",
+        "description": "Sour rye soup with smoked sausage, hard-boiled egg, and potatoes - served in a hollowed-out bread bowl",
+        "origin_story": "This medieval soup was peasant food - fermented rye flour creates the signature sour tang. Originally eaten during Lent and Easter, it became year-round comfort food. The bread bowl (not always used) was practical: eat the soup, then eat the bowl soaked in broth. No dishes to wash.",
+        "where_to_find": "Gościnna Chata (traditional Lesser Poland version), milk bars (communist-era cafeterias with cheap authentic food), or Ogniem i Mieczem for upscale 17th-century recipes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Żubrówka Vodka",
+        "description": "Bison grass vodka with a blade of grass in each bottle - pale yellow-green color with subtle herbal, vanilla notes",
+        "how_locals_drink_it": "Poles drink Żubrówka chilled in small shots or mixed with apple juice (called 'Tatanka' or 'szarlotka' - apple pie). The bison grass comes from Białowieża Forest where European bison roam. Locals claim it has aphrodisiac properties - convenient excuse for drinking more."
+      },
+      {
+        "name": "Kompot",
+        "description": "Traditional fruit drink made by simmering dried or fresh fruits (plums, apples, berries) with sugar - served warm or cold",
+        "how_locals_drink_it": "Every Polish grandmother makes kompot - it's nostalgic comfort in a glass. Served at family dinners alongside pierogi and cabbage rolls. In summer it's cold and refreshing, in winter it's warm and soothing. Milk bars serve it cheap. The fruit at the bottom is a bonus snack."
+      }
+    ],
+    "food_culture_notes": [
+      "Milk bars (bar mleczny) are communist-era holdovers serving authentic Polish food at incredibly cheap prices - locals still eat there daily",
+      "Plac Nowy in Kazimierz transforms from flea market by day to zapiekanka heaven by night",
+      "Wierzynek Restaurant in Main Market Square (since 1364) is Poland's oldest continuously operating restaurant",
+      "Students make up nearly 30% of Krakow's population (200,000 of 700,000) creating vibrant nightlife and cheap eating spots open until 4AM"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Main Market Square - Europe's largest medieval plaza at 40,000 square meters",
+      "St. Mary's Basilica with hourly trumpet call from tower",
+      "Wawel Royal Castle and Cathedral with 13-tonne Sigismund Bell (requires 12 people to ring)",
+      "Dragon's Den under Wawel Hill with fire-breathing dragon sculpture"
+    ],
+    "atmosphere": [
+      "First UNESCO World Heritage Site in the world (1978)",
+      "Only major Polish city not destroyed in WWII - medieval architecture intact",
+      "200,000 students creating Poland's best party city",
+      "Six synagogues in Kazimierz (Jewish Quarter) where Schindler's List was filmed"
+    ],
+    "colors": [
+      "red brick gothic architecture",
+      "golden Wawel Cathedral domes",
+      "cobblestone grey in Old Town squares",
+      "vibrant market stall colors in Cloth Hall"
+    ],
+    "unique_modern": [
+      "Jagiellonian University founded 1364 - where Copernicus studied",
+      "Feeding pigeons is illegal in Krakow",
+      "Dragon legend: city founded when King Krakus defeated a dragon - sculpture breathes real fire",
+      "Touching Sigismund Bell supposedly brings love luck"
+    ]
+  },
+  "wikipedia_search_term": "Kraków",
+  "keywords_for_image": [
+    "krakow main market square",
+    "pierogi polish dumplings",
+    "wawel castle dragon",
+    "zapiekanka plac nowy",
+    "st mary basilica trumpet call"
+  ],
+  "coordinates": {
+    "lat": 50.0614,
+    "lng": 19.9365
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Krakow+Old+Town+🇵🇱/@50.0614,19.9365,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kraków"
+  },
+  "location_id": 322
+}

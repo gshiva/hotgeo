@@ -1,0 +1,104 @@
+{
+  "name": "Dubrovnik",
+  "country": "Croatia",
+  "fun_fact": "Fun fact: Dubrovnik's black risotto (crni rižot) may have actually originated here during Venetian rule before spreading to Venice, where it's known as risotto nero di sepia. The oldest recorded recipe for pašticada dates to 15th century Dubrovnik!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Crni Rižot (Black Risotto)",
+        "description": "A striking dark risotto colored with squid ink, often containing squid, mussels, clams, and other shellfish. The rice absorbs the deep, briny flavor of the ink and seafood.",
+        "origin_story": "Some sources suggest this dish originated in Dubrovnik while it was under Venetian rule (before spreading to Venice). The dramatic black color comes from cuttlefish or squid ink, creating a dish that's as visually stunning as it is delicious.",
+        "where_to_find": "Gverovic Orsan (Shtikovica 43) is well-loved by both locals and tourists for its wonderful black risotto. Poklisar, right on Dubrovnik's Old Town harbor, serves it with live music. Restaurant Kopun (Polj R Boškovića 7) expertly prepares black risotto with local ingredients."
+      },
+      {
+        "name": "Pašticada (Dalmatinska Pašticada)",
+        "description": "Often called the 'queen of Dalmatian cuisine' - beef marinated in vinegar and spices, then slow-cooked until meltingly tender. Served with gnocchi or homemade pasta.",
+        "origin_story": "A meal reserved for important functions and celebrations, with the oldest recorded recipe traced to 15th century Dubrovnik. This dish originates in Dalmatia and represents the pinnacle of Croatian cooking tradition, requiring patience and skill.",
+        "where_to_find": "Konavoski Dvori in the lush Konavle valley serves rich, hearty pašticada made the proper traditional way. Restaurant Kopun in Old Town also serves this traditional dish. Note: often needs to be ordered in advance due to lengthy preparation."
+      },
+      {
+        "name": "Peka",
+        "description": "A mega one-pot feast containing meat, seafood, and vegetables cooked under a bell-shaped lidded pot covered in hot coals. This unique cooking method is part of Croatian life.",
+        "origin_story": "This traditional Dalmatian cooking method has been used for generations, with the bell-shaped lid and hot coals creating an oven-like environment that slowly roasts and steams the ingredients.",
+        "where_to_find": "Konoba Dubrava (situated in Bosanka above Dubrovnik) is one of the top spots for peka. The rustic konoba atmosphere is homely, portions are generous, and flavors unforgettable. Must be ordered in advance at most restaurants."
+      },
+      {
+        "name": "Buzara",
+        "description": "A Dalmatian style of cooking seafood (typically mussels or prawns) in white wine, garlic, parsley, olive oil, and breadcrumbs.",
+        "origin_story": "This traditional Adriatic preparation highlights the freshness of local seafood with simple Mediterranean flavors.",
+        "where_to_find": "Available at most seafood restaurants in Old Town and along the harbor."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rozulin (Rose Liqueur)",
+        "description": "A traditional rose-flavored liqueur used in Dubrovnik's famous rozata dessert, but also enjoyed on its own.",
+        "how_locals_drink_it": "Often served as a digestif after meals, or used to flavor the city's signature dessert."
+      }
+    ],
+    "food_culture_notes": [
+      "Rozata is Dubrovnik's signature dessert - similar to crème brûlée or flan, made with eggs, sugar, and milk, flavored with rose liqueur (rozulin) and topped with caramel. Dating back to the 15th century.",
+      "Restaurant 360 is the only Michelin-starred restaurant in Dubrovnik",
+      "Tavulin is a Michelin-rated family-run restaurant in Old Town serving authentic Croatian cuisine with seasonal products and reasonable prices",
+      "Old Town harbor restaurants often feature live music, especially at places like Poklisar",
+      "For budget-friendly eats: Barba (seafood street food), Pizzeria Castro, or bakery chains like Mlinar for burek and sandwiches",
+      "The Old Town (Stari Grad) is the heart of Dubrovnik's dining scene, with medieval stone streets lined with restaurants",
+      "Many traditional dishes reflect centuries of Venetian, Italian, and Mediterranean influence on Dalmatian cuisine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ancient city walls surrounding Old Town (Stari Grad)",
+      "Marble-paved Stradun (main street)",
+      "Red terracotta rooftops viewed from city walls",
+      "Old Town harbor with fishing boats",
+      "Limestone buildings glowing in Mediterranean sun",
+      "Game of Thrones filming locations throughout the city"
+    ],
+    "atmosphere": [
+      "Medieval stone streets and archways",
+      "Restaurants with tables along the harbor with sunset views",
+      "Live music at waterfront konobas",
+      "Rustic, homely atmosphere at traditional konobas",
+      "Azure Adriatic Sea lapping at ancient walls",
+      "Bustling outdoor markets with fresh seafood"
+    ],
+    "colors": [
+      "Deep black of crni rižot (black risotto)",
+      "Bright red-orange terracotta roof tiles",
+      "White-cream limestone buildings",
+      "Azure blue Adriatic Sea",
+      "Rich brown slow-cooked pašticada",
+      "Golden caramel on rozata dessert"
+    ],
+    "unique_modern": [
+      "The only Michelin-starred restaurant (360) in a UNESCO World Heritage city",
+      "Game of Thrones tourism bringing international attention to traditional cuisine",
+      "Traditional peka and pašticada served in settings virtually unchanged for centuries",
+      "Family-run konobas maintaining 15th-century recipes alongside modern fine dining",
+      "The contrast between rustic countryside konobas (Konavoski Dvori) and elegant Old Town establishments"
+    ]
+  },
+  "wikipedia_search_term": "Dubrovnik",
+  "keywords_for_image": [
+    "Dubrovnik Old Town",
+    "black risotto Croatia",
+    "Dubrovnik city walls",
+    "Croatian pašticada",
+    "Dubrovnik harbor",
+    "Dalmatian cuisine",
+    "crni rižot",
+    "Dubrovnik seafood",
+    "Croatian peka",
+    "Adriatic Sea Croatia"
+  ],
+  "coordinates": {
+    "lat": 42.6507,
+    "lng": 18.0944
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dubrovnik+🇭🇷/@42.6507,18.0944,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dubrovnik"
+  },
+  "location_id": 118
+}

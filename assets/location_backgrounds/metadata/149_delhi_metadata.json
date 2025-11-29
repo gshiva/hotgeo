@@ -1,0 +1,119 @@
+{
+  "name": "Delhi",
+  "country": "India",
+  "fun_fact": "Fun fact: Delhi's Chandni Chowk area has been the street food capital of India for over 300 years! The Red Fort, Delhi's iconic landmark, was originally red AND white - the British demolished white marble structures and painted others red, leading to its name. Every August 15th (Independence Day), India's Prime Minister raises the flag at Red Fort and addresses the nation, continuing the tradition started by Jawaharlal Nehru in 1947 with his 'Tryst with Destiny' speech.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Parathas from Paranthe Wali Gali",
+        "description": "Stuffed flatbreads with over 100 varieties of fillings - from traditional aloo (potato) and paneer (cottage cheese) to exotic banana and rabri (sweet condensed milk) parathas. Each one made with pure desi ghee and served with spicy aloo sabzi, tangy chutney, and pickles.",
+        "origin_story": "Paranthe Wali Gali is a 200-year-old narrow lane that has been serving stuffed parathas for over a century. Families like Pt. Gaya Prasad Shiv Charan and Babu Ram Devi Dayal have operated the same stalls for 125+ years, passing down secret recipes through generations. This street became legendary as the breakfast spot for Old Delhi residents and traders.",
+        "where_to_find": "Paranthe Wali Gali in Chandni Chowk, Old Delhi. Must-visit shops: Pt. Gaya Prasad Shiv Charan Paranthe Wale (famous for banana and rabri parathas) and Babu Ram Devi Dayal Paranthe Wale (125 years old, Kela Paratha is signature dish). Cost: ₹50-100 per paratha."
+      },
+      {
+        "name": "Chaat",
+        "description": "The umbrella term for Delhi's iconic street snacks - tangy, spicy, sweet, and crunchy all at once. Includes dahi bhalla (soft lentil dumplings in yogurt), aloo tikki (fried potato patties), fruit chaat (fruit with spices), and papri chaat (crispy wafers with yogurt and chutneys).",
+        "origin_story": "Chaat culture evolved in Old Delhi as quick, flavorful snacks for traders and shoppers in crowded bazaars. Each chaatwallah developed signature combinations of sweet tamarind chutney, spicy green chutney, yogurt, and crunchy elements. The art is in the balance of six tastes: sweet, sour, spicy, salty, bitter, and astringent.",
+        "where_to_find": "Natraj Dahi Bhalla Corner (since 1940 - soft bhallas with perfect curd and masalas), Shree Balaji Chaat Bhandar in Chandni Chowk (most popular chaatwallah), Bishan Swaroop Chaat (100+ years old, famous for Mix Fruit Chaat with seasonal fruits, chickpeas, potatoes, lemon, and black salt)."
+      },
+      {
+        "name": "Kachori",
+        "description": "Crispy, flaky deep-fried pastries stuffed with spiced lentils. The Urad Dal Kachori is crisp outside with a spicy, tangy lentil filling, served with flavorful aloo subzi (potato curry).",
+        "origin_story": "A breakfast staple of Old Delhi, kachori evolved as a portable, filling morning meal for traders and laborers. The art is achieving the perfect flaky, layered pastry while keeping the filling moist and flavorful.",
+        "where_to_find": "Jung Bahadur Kachori Wala near Paranthe Wali Gali - known for perfect crispy kachori with heat and tanginess."
+      },
+      {
+        "name": "Kulfi",
+        "description": "Traditional Indian ice cream, denser and creamier than Western ice cream. Kuremal's innovation: stuffed kulfi where fruit pulp is frozen inside hollowed-out real fruits - eat kulfi from inside a frozen mango, pomegranate, orange, or apple!",
+        "origin_story": "Kuremal Mohanlal Kulfi Wale has operated since 1906 (119 years!). The fruit kulfi innovation came from the desire to combine fresh fruit with traditional kulfi, creating a unique experience where you eat frozen fruit that tastes like kulfi. It feels like having frozen fruit juice but with kulfi's creamy richness.",
+        "where_to_find": "Kuremal's Kulfi at Bazar Sita Ram, Near Chawri Bazar Metro Station, Old Delhi. Open 9 AM - 10:30 PM. Cost: Rs 200 for two. Try mango, pomegranate, orange, or apple kulfi."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Masala Chai",
+        "description": "Spiced milk tea brewed with black tea, milk, sugar, and warming spices like cardamom, ginger, cinnamon, and cloves. Served boiling hot in small glasses or clay kulhad cups.",
+        "how_locals_drink_it": "Consumed multiple times daily - morning wake-up, mid-morning break, afternoon refresher, and evening relaxation. Street vendors brew it in huge pots, serving it steaming hot. Often paired with samosa, kachori, or pakoras. The clay kulhad cups add an earthy flavor and are smashed after use (they're biodegradable)."
+      },
+      {
+        "name": "Lassi",
+        "description": "Creamy yogurt-based drink served sweet or salted. Sweet lassi includes cardamom, saffron, or rose water. Salted version topped with roasted cumin and mint.",
+        "how_locals_drink_it": "Consumed after heavy meals to aid digestion and cool down in Delhi's scorching heat. Often served in earthen clay pots or tall steel glasses with thick malai (cream) on top."
+      },
+      {
+        "name": "Rabdi Faluda",
+        "description": "Sweet dessert drink with rose syrup, vermicelli noodles (falooda), basil seeds, and thick rabdi (condensed milk). Cold, sweet, and refreshing.",
+        "how_locals_drink_it": "An indulgent dessert drink served ice-cold during hot summer months. Giani di Hatti near Fatehpuri Mosque in Old Delhi is legendary for their version."
+      }
+    ],
+    "food_culture_notes": [
+      "Chandni Chowk has operated as Delhi's food hub since the Mughal era (1600s) - over 300 years of continuous street food culture",
+      "Old Delhi street food vendors often operate from the same spot for 100+ years, with recipes passed through 4-5 generations",
+      "Food is eaten throughout the day in small portions - breakfast paratha, mid-morning chaat, afternoon kachori, evening kulfi, late dinner at Karim's",
+      "Karim's near Jama Masjid (established 1913) is legendary for Mughlai cuisine - mutton seekh kebabs, mutton korma, and biryani",
+      "Daulat Ki Chaat is a winter-only specialty (December-February) - made by UP migrants in Old Delhi alleyways, it's an ethereal milk foam dessert that melts on the tongue. Khemchand behind Paranthe Wali Gali is famous for it",
+      "Old Famous Jalebi Wala serves hot, syrup-soaked jalebi (crispy sweet spirals) - a breakfast institution",
+      "Street food etiquette: eat with your right hand, use the paper/leaf plates provided, share food with your companions",
+      "Delhi's food reflects layers of history: Mughlai influence (kebabs, biryani), Punjabi migration post-1947 (parathas, chole bhature), and ancient Indian traditions (chaat, kulfi)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Red Fort (Lal Qila) - UNESCO World Heritage Mughal fortress with 75-foot red sandstone walls, built by Shah Jahan in 1639",
+      "Jama Masjid - India's largest mosque with massive courtyard and Mughal architecture",
+      "Chandni Chowk bazaar - 300+ year-old market street, the beating heart of Old Delhi",
+      "India Gate - 42-meter war memorial with eternal flame",
+      "Humayun's Tomb - Mughal architecture masterpiece and UNESCO site",
+      "Qutub Minar - 73-meter tall victory tower dating to 1193"
+    ],
+    "atmosphere": [
+      "Chaotic energy of Chandni Chowk - cycle rickshaws, pedestrians, vendors calling out, temple bells ringing",
+      "Aromas of frying parathas, grilling kebabs, sweet jalebi syrup, and cardamom chai",
+      "Steam rising from huge chai pots and cooking griddles",
+      "Narrow lanes of Paranthe Wali Gali with century-old shopfronts",
+      "Call to prayer echoing from Jama Masjid five times daily",
+      "Crowds of shoppers, food pilgrims, and locals navigating bazaar streets",
+      "Mix of Delhi's extreme seasons - scorching 45°C summers, foggy cold winters, monsoon rains"
+    ],
+    "colors": [
+      "Deep red sandstone of Red Fort and Mughal monuments",
+      "White marble domes and intricate inlay work",
+      "Vibrant market fabrics - reds, golds, greens, purples",
+      "Golden jalebi spirals, saffron-colored sweets",
+      "Brown-gold of frying parathas and kachoris",
+      "Green herbs and chutneys, red chili powders, yellow turmeric at spice stalls"
+    ],
+    "unique_modern": [
+      "Capital of India with layers of history from eight different empires/dynasties",
+      "Red Fort's annual Independence Day flag hoisting continues tradition from 1947",
+      "Religious diversity: Jama Masjid (Muslim), Gurudwara Sis Ganj Sahib (Sikh), Gauri Shankar Temple (Hindu), Sri Digambar Jain Lal Mandir (Jain), all near Chandni Chowk",
+      "Metro system connects Old Delhi's ancient markets to modern New Delhi's government district",
+      "UNESCO recognized Red Fort Complex as World Heritage Site in 2007",
+      "Old Delhi's street food tourism has exploded - international food bloggers and shows feature Chandni Chowk",
+      "Shahjahanabad (Old Delhi) was built in 1639 as Mughal capital when Shah Jahan moved court from Agra",
+      "The Kohinoor diamond was originally part of Red Fort's treasures before Nadir Shah looted it in 1739"
+    ]
+  },
+  "wikipedia_search_term": "Delhi",
+  "keywords_for_image": [
+    "Red Fort Delhi",
+    "Chandni Chowk market",
+    "Jama Masjid India",
+    "paranthe wali gali",
+    "Delhi street food",
+    "India Gate memorial",
+    "Mughal architecture red sandstone",
+    "Delhi chaat dahi bhalla",
+    "Old Delhi bazaar",
+    "kulfi street vendor"
+  ],
+  "coordinates": {
+    "lat": 28.7041,
+    "lng": 77.1025
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Delhi+🇮🇳/@28.7041,77.1025,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delhi"
+  },
+  "location_id": 149
+}

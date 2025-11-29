@@ -1,0 +1,46 @@
+{
+  "name": "Kosice",
+  "country": "🇸🇰",
+  "coordinates": {
+    "lat": 48.7164,
+    "lng": 21.2611
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kosice+🇸🇰/@48.7164,21.2611,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kosice"
+  },
+  "fun_fact": "Fun fact: Kosice awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Kosice cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Kosice"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kosice landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 21
+}

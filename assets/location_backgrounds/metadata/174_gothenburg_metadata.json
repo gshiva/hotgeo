@@ -1,0 +1,93 @@
+{
+  "name": "Gothenburg",
+  "country": "Sweden",
+  "fun_fact": "Fun fact: Gothenburg's Feskekörka (Fish Church) is an indoor fish market built in 1874 that got its name because the building looks exactly like a Gothic church - but inside it's entirely dedicated to the freshest seafood in Scandinavia!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Räksmörgås",
+        "description": "Open-faced shrimp sandwich piled impossibly high with hand-peeled North Sea shrimp, mayo, dill, lemon, and sometimes egg",
+        "origin_story": "Gothenburg's location on the west coast makes it Sweden's seafood capital - these sandwiches are an art form here",
+        "where_to_find": "Feskekörka fish market, Sjöbaren, Sjömagasinet"
+      },
+      {
+        "name": "West Coast Oysters",
+        "description": "Fresh oysters from the cold, clean waters of the Swedish archipelago",
+        "origin_story": "The nutrient-rich waters where cold and warm currents meet produce exceptional shellfish - served simply with lemon",
+        "where_to_find": "Gabriel Restaurant at Feskekörka, Sjömagasinet, Beach by Feskekörka"
+      },
+      {
+        "name": "Hallandssill",
+        "description": "Pickled herring prepared in numerous traditional ways - mustard, onion, lingonberry",
+        "origin_story": "Herring has been essential to Swedish diet for centuries, with each region developing unique preparations",
+        "where_to_find": "Feskekörka, Saluhallen Briggen, traditional smörgåsbord restaurants"
+      },
+      {
+        "name": "Västkustsallad",
+        "description": "West Coast salad with shrimp, mussels, smoked salmon, asparagus, and creamy dressing",
+        "origin_story": "A celebration of everything the Swedish west coast offers from the sea",
+        "where_to_find": "Café Husaren, Brasserie Lipp, traditional Swedish restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swedish Coffee (Fika)",
+        "description": "Strong filter coffee, essential to the sacred Swedish fika tradition",
+        "how_locals_drink_it": "Multiple times daily with kanelbullar (cinnamon buns) or cardamom buns - never rushed"
+      },
+      {
+        "name": "Punsch",
+        "description": "Sweet arrack-based liqueur, uniquely Swedish",
+        "how_locals_drink_it": "Warm with pea soup on Thursdays (traditional), or cold as a digestif"
+      }
+    ],
+    "food_culture_notes": [
+      "Feskekörka fish market has operated since 1874 - both market and restaurants inside",
+      "Fika is sacred - Swedes average 3-4 coffee breaks daily, always with pastry",
+      "Smörgåsbord originated in Sweden - Gothenburg restaurants serve excellent versions",
+      "Thursday is traditionally pea soup and pancake day across Sweden"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Feskekörka fish market",
+      "Haga district",
+      "Gothenburg archipelago",
+      "Liseberg amusement park"
+    ],
+    "atmosphere": [
+      "maritime heritage",
+      "cozy cafés",
+      "colorful wooden houses in Haga",
+      "bustling fish market"
+    ],
+    "colors": [
+      "North Sea grey-blue",
+      "Haga pastel houses",
+      "fishing boat red",
+      "seafood pink"
+    ],
+    "unique_modern": [
+      "Volvo's hometown",
+      "archipelago ferry network",
+      "award-winning sustainable dining"
+    ]
+  },
+  "wikipedia_search_term": "Gothenburg",
+  "keywords_for_image": [
+    "shrimp sandwich räksmörgås",
+    "Feskekörka fish market",
+    "Swedish seafood",
+    "fika coffee",
+    "harbor views"
+  ],
+  "coordinates": {
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Gothenburg+🇸🇪/@57.7089,11.9746,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gothenburg"
+  },
+  "location_id": 174
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Strasbourg",
+  "country": "France",
+  "fun_fact": "Fun fact: Strasbourg is home to Europe's oldest Christmas market (Christkindelsmärik), dating back to 1570. The city is also unique as the official seat of the European Parliament, and its historic center (Grande Île) is entirely a UNESCO World Heritage Site - the first city center to receive this designation.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tarte Flambée (Flammekueche)",
+        "description": "Ultra-thin crispy flatbread topped with crème fraîche, caramelized onions, and smoky lardons (bacon) - Alsace's answer to pizza",
+        "origin_story": "Created by Alsatian bakers who used leftover bread dough to test oven temperature before baking bread. They'd roll it paper-thin, top it with crème fraîche and onions, then 'flambé' (flame) it in the hot oven for just minutes. The name means 'pie baked in flames.' Now it's Strasbourg's most iconic dish, eaten communally straight from the wooden board.",
+        "where_to_find": "Schatzi near the Cathedral (artisanal versions with local mill flour and Strasbourg butcher's lardons), Binchstub Broglie, Brasserie Météor, or Brasserie du Tigre"
+      },
+      {
+        "name": "Choucroute Garnie",
+        "description": "Sauerkraut braised in Riesling wine, piled with pork knuckle, various sausages (Strasbourg sausage, frankfurters), bacon, and potatoes",
+        "origin_story": "Alsace's Germanic heritage shows in this hearty dish. Cabbage is finely shredded, salted with juniper berries, and fermented in wooden barrels for weeks. The sauerkraut is then braised in local Riesling wine with pork in various forms. It's winter comfort food that sustained Alsatians through cold seasons. Each brasserie claims the best recipe.",
+        "where_to_find": "Restaurant Au Port du Corbeau (traditional Choucroute Garnie), Maison Kammerzell near cathedral (famous for three-fish version), or The Floderer (Art Deco brasserie)"
+      },
+      {
+        "name": "Baeckeoffe",
+        "description": "Alsatian casserole of three meats (pork, lamb, beef), potatoes, and vegetables slow-cooked in white wine and herbs - served in a sealed terra cotta terrine",
+        "origin_story": "The name means 'baker's oven.' On laundry day, Alsatian women would prepare this one-pot dish, seal it with dough, and take it to the village baker who'd cook it in his bread oven while they did laundry. After hours of slow cooking, they'd retrieve a fully cooked dinner. It's peasant ingenuity turned into regional pride.",
+        "where_to_find": "Traditional winstubs (Alsatian taverns) throughout Strasbourg's Petite France quarter"
+      },
+      {
+        "name": "Bretzel (Pretzel)",
+        "description": "Soft, salted Alsatian pretzel with chewy crust - served warm at bakeries and Christmas markets",
+        "origin_story": "While pretzels are German, Alsace (which has bounced between French and German rule) perfected their own version. Strasbourg's bretzels are served warm from bakeries, often eaten with butter or as accompaniment to choucroute. During Christmas markets, the smell of fresh bretzels fills the medieval streets.",
+        "where_to_find": "Bakeries throughout Strasbourg, especially near the Cathedral and Petite France"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Alsace Riesling Wine",
+        "description": "Dry, crisp white wine from local vineyards - floral, mineral, with hints of stone fruit",
+        "how_locals_drink_it": "Alsace produces France's best Rieslings along the Route des Vins. Unlike German Rieslings (often sweet), Alsace versions are bone-dry. Locals drink it with choucroute (the acidity cuts through pork fat), tarte flambée, or seafood. Served in traditional green-stemmed Alsatian wine glasses at winstubs."
+      },
+      {
+        "name": "Vin Chaud (Mulled Wine)",
+        "description": "Red wine heated with orange, cinnamon, star anise, and sugar - the scent of Strasbourg's Christmas markets",
+        "how_locals_drink_it": "During Christkindelsmärik (oldest Christmas market in Europe, since 1570), vin chaud is served in ceramic mugs throughout Strasbourg's medieval squares. Locals bundle up and sip it while browsing ornament stalls and eating bretzels. The spiced wine aroma fills the half-timbered streets from late November through December."
+      }
+    ],
+    "food_culture_notes": [
+      "Alsatian cuisine blends French finesse with German heartiness - reflects region's complex Franco-German history",
+      "Winstub culture: cozy Alsatian taverns serving regional specialties with local wines",
+      "Christkindelsmärik (Christmas market) is Europe's oldest, dating to 1570 - must-visit November-December",
+      "Petite France quarter has half-timbered houses, canals, and traditional restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Strasbourg Cathedral (Notre-Dame) - Gothic masterpiece with 142m pink sandstone spire",
+      "La Petite France - medieval quarter with half-timbered houses and canals",
+      "European Parliament - modern glass and steel building, seat of EU Parliament",
+      "Covered Bridges (Ponts Couverts) - three medieval bridges with towers"
+    ],
+    "atmosphere": [
+      "Franco-German cultural fusion - bounced between France and Germany through history",
+      "Grande Île (historic center) - entire island is UNESCO World Heritage Site",
+      "Canals weaving through Petite France creating Alsatian Venice atmosphere",
+      "Christmas market magic November-December with millions of lights"
+    ],
+    "colors": [
+      "pink sandstone of Strasbourg Cathedral",
+      "half-timbered houses with colorful shutters",
+      "golden tarte flambée crust",
+      "Christmas market lights and decorations"
+    ],
+    "unique_modern": [
+      "Official seat of European Parliament - plenary sessions held here",
+      "First city center entirely designated UNESCO World Heritage (1988)",
+      "Christkindelsmärik attracts 2+ million visitors annually",
+      "Tram network connects historic center to European Quarter"
+    ]
+  },
+  "wikipedia_search_term": "Strasbourg",
+  "keywords_for_image": [
+    "strasbourg cathedral gothic",
+    "tarte flambee alsace",
+    "petite france strasbourg canals",
+    "strasbourg christmas market",
+    "choucroute sauerkraut"
+  ],
+  "coordinates": {
+    "lat": 48.5734,
+    "lng": 7.7521
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Strasbourg+🇫🇷/@48.5734,7.7521,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Strasbourg"
+  },
+  "location_id": 338
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Ghent",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Ghent's Tierenteyn mustard shop has been selling only ONE type of mustard since 1867 - a fiery blend of 27 different mustard seeds that's hot without being eye-watering. The mustard is pumped from the cellar into a wooden barrel, then hand-scooped into stone pots. No other products, no variations, just pure mustardy perfection for over 150 years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gentse Waterzooi",
+        "description": "Creamy fish or chicken stew/soup made with vegetables and herbs in a rich broth, dating back to the Middle Ages",
+        "origin_story": "Originally made with fresh fish from the Lys and Scheldt rivers in medieval times. Modern versions often use chicken. The name roughly translates to 'watery mess' but it's a beloved comfort food holding a special place in Ghent residents' hearts.",
+        "where_to_find": "Du Progres (three generations of family-run brasserie, 'een vaste waarde' - trusty go-to, reservations essential), Raadkamer (best authentic fish version), 't Klokhuys (Patershol district, charming brasserie with exposed beams), Restaurant Neptune (Sint-Veerleplein 10, near the castle)"
+      },
+      {
+        "name": "Stoverij (Stoofvlees - Flemish Beef Stew)",
+        "description": "Beef or pork stew slow-cooked in dark Trappist beer, creating rich, deep flavors. Pork cheek version with Westmalle beer and Tierenteyn mustard is particularly notable",
+        "origin_story": "The real Belgian stoofvlees is always prepared in beer - preferably dark beer, with Trappist being the ultimate. This slow-braised dish represents the heart of Belgian comfort food.",
+        "where_to_find": "Du Progres (traditional preparation for three generations), Restaurant Neptune (beef in beer stew is a specialty)"
+      },
+      {
+        "name": "Paling in 't Groen (Eel in Green Sauce)",
+        "description": "Eels cooked in a vibrant green herb sauce, a veritable icon of Belgian gastronomy",
+        "origin_story": "Traditional Belgian specialty showcasing the country's unique culinary heritage. The green sauce is made with fresh herbs creating a distinctive flavor.",
+        "where_to_find": "Brasserie Savarin (located at Vrijdagmarkt, serves several eel dishes including this specialty)"
+      },
+      {
+        "name": "Belgian Shrimp Specialties",
+        "description": "Shrimp croquettes and shrimp-stuffed tomatoes made with Belgian gray shrimp, very unique to Belgian gastronomy",
+        "origin_story": "Belgian gray shrimp from the North Sea give these dishes their distinctive flavor. The croquettes are crispy outside, creamy inside.",
+        "where_to_find": "Traditional brasseries throughout Ghent, food markets"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Gentse Gruut Beer",
+        "description": "Beer brewed with a blend of herbs (gruut) instead of hops, following pre-hop medieval brewing traditions",
+        "how_locals_drink_it": "Visit the Gentse Gruut brewery for tours showcasing this historical brewing method. The brewery offers a range of herb-flavored beers demonstrating how beer was made before hops became standard."
+      },
+      {
+        "name": "Gentse Strop",
+        "description": "Blond beer (6% alcohol) undeniably connected with Ghent, brewed by Roman brewery in Oudenaarde, launched May 2011",
+        "how_locals_drink_it": "The name relates to a historical event when Emperor Charles V marched Ghent's notables barefoot with nooses (strop) around their necks to beg mercy. To be a 'Stroppendrager' (noose bearer) is now a badge of honor for Ghentians. Served throughout the city as a symbol of local pride."
+      }
+    ],
+    "food_culture_notes": [
+      "Du Progres is known among Ghent residents as 'een vaste waarde' (trusty go-to) - reservations are a must",
+      "The Great Butchers' Hall (Groot Vleeshuis) dates to the 15th century, now showcases East Flanders regional specialties",
+      "Specialty foods include Gentse Ganda ham (10+ months to dry), artisanal cheeses, and fine meats",
+      "Cuberdons ('neuzekes' - little purple noses) are sold by two competing vendors at Lange Munt by Himschoot bakery",
+      "Real cuberdons are purple with violet or raspberry syrup under harder exterior",
+      "Gentse Mokken are aniseed biscuits sold at Confiserie Temmerman on Kraanlei 79",
+      "Temmerman is Ghent's famous candy shop for local sweets",
+      "Food markets at Vrijdagmarkt and Sint-Michielsplein offer local and international foods",
+      "Frietjes (Belgian fries) are usually served with mayonnaise, not ketchup"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gravensteen Castle",
+      "St. Bavo's Cathedral",
+      "Graslei and Korenlei canals",
+      "Belfry of Ghent",
+      "Great Butchers' Hall (Groot Vleeshuis)",
+      "Patershol medieval district",
+      "Vrijdagmarkt square",
+      "St. Michael's Bridge"
+    ],
+    "atmosphere": [
+      "Medieval canal-side charm",
+      "Gothic architecture",
+      "Vibrant student city energy",
+      "Historic guild houses",
+      "Cozy brasserie culture",
+      "Exposed beam interiors",
+      "Romantic candlelit restaurants"
+    ],
+    "colors": [
+      "Gray medieval stone",
+      "Purple cuberdons candy",
+      "Rich brown stoverij",
+      "Golden beer",
+      "Green canal reflections",
+      "Cream waterzooi broth",
+      "Red brick guild houses"
+    ],
+    "unique_modern": [
+      "Competing cuberdon vendors creating local rivalry",
+      "Herb-brewed beers reviving medieval traditions",
+      "Family-run brasseries spanning three generations",
+      "Historic butchers' hall converted to gourmet food showcase",
+      "150-year-old mustard shop with unchanged product"
+    ]
+  },
+  "wikipedia_search_term": "Ghent",
+  "keywords_for_image": [
+    "Ghent Belgium canals Graslei",
+    "Gentse waterzooi chicken stew",
+    "cuberdons purple candy Ghent",
+    "Gravensteen castle medieval",
+    "Flemish beef stew beer",
+    "Tierenteyn mustard Ghent",
+    "Belgian brasserie"
+  ],
+  "coordinates": {
+    "lat": 51.0543,
+    "lng": 3.7174
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ghent+🇧🇪/@51.0543,3.7174,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghent"
+  },
+  "location_id": 39
+}

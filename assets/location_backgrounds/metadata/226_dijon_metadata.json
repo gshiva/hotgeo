@@ -1,0 +1,94 @@
+{
+  "name": "Dijon",
+  "country": "France",
+  "fun_fact": "Fun fact: Dijon is home to the last family-run mustard factory in the city—Edmond Fallot, founded in 1840, still operates exactly where it started, and you can watch mustard being made using 19th-century millstones while sampling flavors that don't exist anywhere else.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Coq au Vin at Restaurant Chez Léon",
+        "description": "Chicken braised in Burgundy red wine with mushrooms, pearl onions, and bacon—rich, tender, and deeply savory",
+        "origin_story": "Chez Léon sits in the heart of Dijon with exposed wooden beams and warm ambiance. Their coq au vin follows the traditional Burgundy recipe: hours of slow braising in local pinot noir. This is peasant food elevated to art",
+        "where_to_find": "Restaurant Chez Léon (central Dijon), Le Bouchon du Palais, or Chez Ti (casual bistro also serving boeuf bourguignon)"
+      },
+      {
+        "name": "Boeuf Bourguignon at Le Bouchon du Palais",
+        "description": "Burgundy beef stew with red wine, carrots, onions, and mushrooms, slow-cooked until melt-in-your-mouth tender",
+        "origin_story": "Boeuf bourguignon is Burgundy's signature dish, born from the region's incredible wines and Charolais beef. Le Bouchon du Palais serves it the traditional way: cooked for hours until the beef dissolves on your tongue",
+        "where_to_find": "Le Bouchon du Palais (cozy bistro atmosphere), Chez Léon, or William Frachot (2 Michelin stars, modern interpretation)"
+      },
+      {
+        "name": "Gougères",
+        "description": "Airy cheese puffs made with Gruyère or Comté—crispy outside, molten cheese inside, served as an appetizer",
+        "origin_story": "These cheese puffs are Burgundy's answer to French bread. Bakeries serve them warm, and locals eat them as snacks at wine tastings. The secret is the quality of Comté cheese",
+        "where_to_find": "Les Halles Market (Saturday morning), bakeries throughout Dijon, or as appetizers at traditional restaurants"
+      },
+      {
+        "name": "Oeufs en Meurette",
+        "description": "Poached eggs in red wine sauce with bacon and mushrooms, served over toasted bread—breakfast with Burgundy wine",
+        "origin_story": "This dish proves Burgundians put wine in everything, even breakfast. The eggs are poached in red wine sauce, creating a rich, velvety dish that pairs perfectly with crusty bread",
+        "where_to_find": "Traditional Burgundian bistros and brasseries in Dijon"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Burgundy Pinot Noir",
+        "description": "Elegant red wine from the Côte d'Or vineyards surrounding Dijon—silky, earthy, and among the world's finest",
+        "how_locals_drink_it": "Burgundy is one of France's most prestigious wine regions. Locals drink pinot noir with boeuf bourguignon and coq au vin. Wine shops offer tastings, and every restaurant has an extensive Burgundy list"
+      },
+      {
+        "name": "Kir (Crème de Cassis + White Wine)",
+        "description": "Aperitif made with blackcurrant liqueur and Burgundy white wine—sweet, fruity, and invented in Dijon",
+        "how_locals_drink_it": "Named after Félix Kir, former mayor of Dijon. The blackcurrant liqueur (crème de cassis) is a Dijon specialty. Order it before dinner at any café"
+      }
+    ],
+    "food_culture_notes": [
+      "Dijon mustard must be made with brown or black mustard seeds and white wine or verjuice—other 'Dijon' mustards are imposters",
+      "Edmond Fallot Moutarderie (1840) offers tours showing 19th-century mustard-making techniques still used today",
+      "Maille Mustard Shop lets you sample exotic flavors like truffle, champagne, or honey mustard",
+      "Les Halles Market (Saturday mornings) is where locals buy cheese, charcuterie, and fresh gougères"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Palace of the Dukes of Burgundy",
+      "Notre-Dame de Dijon church",
+      "Les Halles covered market",
+      "Vineyards of Côte d'Or surrounding the city"
+    ],
+    "atmosphere": [
+      "cozy bistros with exposed beams",
+      "wine cellars and tasting rooms",
+      "aromatic mustard shops",
+      "medieval streets and market squares"
+    ],
+    "colors": [
+      "deep burgundy red wine",
+      "golden yellow Dijon mustard",
+      "brown beef bourguignon sauce",
+      "pale yellow gougères"
+    ],
+    "unique_modern": [
+      "William Frachot's 2 Michelin stars for modern Burgundy cuisine (2024)",
+      "Edmond Fallot's 19th-century mustard millstones still grinding",
+      "Cité Internationale de la Gastronomie et du Vin museum",
+      "Les Halles Market as Dijon's gastronomic heart"
+    ]
+  },
+  "wikipedia_search_term": "Dijon",
+  "keywords_for_image": [
+    "Dijon mustard jar yellow",
+    "coq au vin burgundy wine",
+    "boeuf bourguignon stew",
+    "French gougeres cheese puffs",
+    "Burgundy vineyards"
+  ],
+  "coordinates": {
+    "lat": 47.322,
+    "lng": 5.0415
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dijon+🇫🇷/@47.322,5.0415,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dijon"
+  },
+  "location_id": 226
+}

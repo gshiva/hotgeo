@@ -1,0 +1,94 @@
+{
+  "name": "Surabaya",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Surabaya's name comes from the legendary battle between a shark (sura) and a crocodile (baya), and the city's culinary specialty Rujak Cingur contains sliced cow's nose - making it one of Indonesia's most adventurous regional dishes that even surprises other Indonesians.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Rawon",
+        "description": "Bold, jet-black beef soup made with kluwak (black nuts) that gives it a rich, earthy, slightly bitter flavor. The beef is slow-cooked until tender and served with rice, bean sprouts, and sambal.",
+        "origin_story": "East Java's signature dish, rawon's distinctive black color comes from keluak nuts. Rawon Setan ('Devil's Black Soup') became legendary for being so good it was 'sinfully' delicious. The restaurant near Jalan Embong Malang serves it 24 hours a day to devoted fans.",
+        "where_to_find": "Rawon Setan (Jalan Embong Malang, open 24 hours, famous for tender beef and rich broth)"
+      },
+      {
+        "name": "Rujak Cingur",
+        "description": "Surabaya's most unusual specialty - a 'salad' of sticky rice cake, tofu, unripe fruit, cucumber, vegetables, and sliced cow's nose, all doused in thick, sweet-spicy peanut sauce with fermented shrimp paste (petis).",
+        "origin_story": "This dish represents Surabaya's fearless culinary spirit. 'Cingur' means nose in Javanese, and the tender, gelatinous cow's nose is considered the delicacy that makes or breaks the dish. It's similar to gado-gado but distinctly East Javanese.",
+        "where_to_find": "Rujak Cingur Joko Dolog (near Joko Dolog statue, most popular spot), street vendors throughout Surabaya"
+      },
+      {
+        "name": "Sate Klopo",
+        "description": "Chicken or beef satay coated in spiced grated coconut (turmeric, garlic, coriander) then grilled over charcoal, served with mild sweet peanut sauce.",
+        "origin_story": "The coconut coating makes Surabaya's satay completely unique in Indonesia. As it grills, the coconut caramelizes and creates a crunchy, aromatic crust. It's a technique specific to East Java that creates textural complexity.",
+        "where_to_find": "Warung Sate Klopo Ondomohen Ibu Asih (Surabaya's most well-known Sate Klopo joint)"
+      },
+      {
+        "name": "Soto Ayam Lamongan",
+        "description": "Traditional chicken soup from nearby Lamongan featuring shredded chicken, vermicelli noodles, herbs and spices including lemongrass, garlic, and turmeric.",
+        "origin_story": "While from the nearby town of Lamongan, this soup is sold throughout Surabaya's streets and has become part of the city's culinary identity. The bright yellow broth is aromatic and comforting.",
+        "where_to_find": "Soto Ambengan Pak Sadi (renowned for traditional preparation), street vendors throughout Surabaya"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Es Dawet Ayu",
+        "description": "Sweet iced drink with green rice flour jelly, coconut milk, and palm sugar syrup.",
+        "how_locals_drink_it": "A popular refreshment in Surabaya's tropical heat, sold by street vendors and at markets. The combination of creamy coconut milk and sweet palm sugar is cooling and satisfying."
+      },
+      {
+        "name": "Teh Poci (Pot Tea)",
+        "description": "Hot jasmine tea served in a traditional clay pot, sweetened with rock sugar.",
+        "how_locals_drink_it": "Commonly paired with meals at warungs (small restaurants) throughout Surabaya. The tea is poured from the pot into small cups and refilled throughout the meal."
+      }
+    ],
+    "food_culture_notes": [
+      "East Java food is less sweet than other Indonesian regions and emphasizes fresh vegetables and bean sprouts",
+      "Surabaya's sambal is notoriously spicy - even other Indonesians find it intense. Most places serve it on the side.",
+      "Street food and night markets (especially G-Walk Citraland) are where locals eat - authentic, affordable, and social",
+      "Petis (fermented shrimp paste) is a defining flavor of Surabaya cuisine, used in rujak cingur and many local dishes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Suramadu Bridge",
+      "House of Sampoerna museum",
+      "Tugu Pahlawan monument",
+      "Arab Quarter"
+    ],
+    "atmosphere": [
+      "bustling street food markets",
+      "historic colonial architecture",
+      "harbor-side seafood stalls",
+      "traditional warungs"
+    ],
+    "colors": [
+      "vibrant street food colors",
+      "tropical fruit hues",
+      "colonial building whites",
+      "harbor blue waters"
+    ],
+    "unique_modern": [
+      "G-Walk Citraland food complex",
+      "contemporary Indonesian fusion",
+      "upscale heritage dining",
+      "night market scenes"
+    ]
+  },
+  "wikipedia_search_term": "Surabaya",
+  "keywords_for_image": [
+    "rawon black soup",
+    "Indonesian street food",
+    "satay",
+    "tropical",
+    "East Java cuisine"
+  ],
+  "coordinates": {
+    "lat": -7.2575,
+    "lng": 112.7521
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Surabaya+🇮🇩/@-7.2575,112.7521,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Surabaya"
+  },
+  "location_id": 275
+}

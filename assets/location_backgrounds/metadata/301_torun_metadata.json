@@ -1,0 +1,94 @@
+{
+  "name": "Torun",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Torun is the birthplace of Nicolaus Copernicus and has been making pierniki (gingerbread) since the Middle Ages - the city's gingerbread recipe is so legendary that it's protected as a regional product, and there's even a gingerbread-themed beer brewed locally.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pierogi",
+        "description": "Traditional Polish dumplings filled with everything from potato and cheese to sauerkraut with mushrooms, or sweet fillings - fried or boiled",
+        "origin_story": "Pierogi are Poland's most iconic dish, and Torun takes them seriously. Each filling combination has been perfected over generations, with recipes passed down through families",
+        "where_to_find": "Pierogarnia Stary Młyn (multiple locations - the ultimate pierogi experience), Kozackie Pierogi (authentic dumplings where tradition meets taste)"
+      },
+      {
+        "name": "Żurek Soup",
+        "description": "Traditional sour rye soup with sausage, potatoes, and hard-boiled eggs - tangy, hearty, and warming",
+        "origin_story": "This fermented rye soup has been a Polish staple for centuries, originally a peasant dish that became beloved across all classes. The sour flavor comes from fermenting rye flour for days",
+        "where_to_find": "Kuranty (in Old Town square - visitors love their Żurek), milk bars throughout the city"
+      },
+      {
+        "name": "Pierniki Toruńskie (Torun Gingerbread)",
+        "description": "Medieval spiced gingerbread cookies with intricate designs - some filled with jam or chocolate, others plain with honey and spices",
+        "origin_story": "Torun has been making gingerbread since the 13th century. The recipe is a closely guarded secret, and the tradition is so important that there's a gingerbread museum in the city",
+        "where_to_find": "Restauracja Piernicova (themed around gingerbread), local bakeries throughout Old Town"
+      },
+      {
+        "name": "Pork Knuckle and Roasted Duck",
+        "description": "Massive portions of slow-roasted meat - pork knuckle with crispy skin or duck with braised cabbage",
+        "origin_story": "These hearty dishes represent traditional Polish home cooking at its best - the kind of food that sustained people through harsh winters",
+        "where_to_find": "Pod Strzechą (traditional Polish restaurant in historic building - large portions, affordable prices)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Piernik Toruński Beer",
+        "description": "Gingerbread-flavored dark beer unique to Torun - sweet, spiced, and warming",
+        "how_locals_drink_it": "At Jan Olbracht brewery which makes classic pils, wheat beer (Śmietanka Toruńska), and the famous Piernik Toruński dark beer with gingerbread notes"
+      },
+      {
+        "name": "Kompot",
+        "description": "Traditional Polish fruit drink made from stewed berries - served at milk bars and traditional restaurants",
+        "how_locals_drink_it": "Consumed with meals at milk bars (budget-friendly traditional eateries), especially at Miś which specializes in communist-era Polish dishes"
+      }
+    ],
+    "food_culture_notes": [
+      "Milk bars (bar mleczny) are budget-friendly cafeterias serving traditional Polish food - Torun has four in the Old Town alone",
+      "Miś milk bar is dedicated to dishes from the communist Poland era, offering authentic pea soup and tartare",
+      "Gingerbread is not just a dessert in Torun - it's baked into the city's identity with museums, workshops, and even beer",
+      "Pierogi are served both traditional (boiled) and fried (smażone) with various toppings like fried onions or sour cream"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gothic Old Town UNESCO site",
+      "Leaning Tower of Torun",
+      "Copernicus House",
+      "medieval city walls"
+    ],
+    "atmosphere": [
+      "red brick Gothic architecture",
+      "cobblestone medieval streets",
+      "Vistula River views",
+      "church spires"
+    ],
+    "colors": [
+      "deep red Gothic bricks",
+      "amber gingerbread",
+      "golden pierogi dough",
+      "warm beer tones"
+    ],
+    "unique_modern": [
+      "gingerbread museum and workshops",
+      "university town energy",
+      "perfectly preserved medieval center",
+      "living history mixed with student culture"
+    ]
+  },
+  "wikipedia_search_term": "Toruń",
+  "keywords_for_image": [
+    "Torun Poland",
+    "Gothic architecture Torun",
+    "pierogi Polish",
+    "Torun gingerbread",
+    "medieval Old Town"
+  ],
+  "coordinates": {
+    "lat": 53.0138,
+    "lng": 18.5984
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Torun+🇵🇱/@53.0138,18.5984,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toruń"
+  },
+  "location_id": 301
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Regensburg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: The Historische Wurstkuchl (Historic Sausage Kitchen) has been continuously open for over 500 years, making it one of the oldest restaurants in the world - and they've been serving the exact same charcoal-grilled sausages using medieval recipes the entire time, only accepting cash payments.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Regensburger Wurst at Historische Wurstkuchl",
+        "description": "Charcoal-grilled pork sausages made with a secret blend of herbs and spices, served with homemade sauerkraut or fresh rolls",
+        "origin_story": "The recipe has been handed down through generations since the Middle Ages when this tiny restaurant fed workers building the Stone Bridge. Over 500 years later, locals still line up for the same sausages",
+        "where_to_find": "Historische Wurstkuchl (over 500 years old - cash only, gets crowded at lunch)"
+      },
+      {
+        "name": "Würstlsuppe",
+        "description": "Traditional sausage soup - warming, savory, and perfect for cold Bavarian days",
+        "origin_story": "This humble soup represents Bavarian comfort food at its finest - making use of local sausages in a rich, flavorful broth",
+        "where_to_find": "Historische Wurstkuchl, traditional Bavarian taverns"
+      },
+      {
+        "name": "Leberknödelsuppe",
+        "description": "Liver dumpling soup - large, fluffy liver dumplings in clear beef broth",
+        "origin_story": "These knödel (dumplings) are a Bavarian specialty. The liver makes them rich and savory, while the broth keeps them light. It's a beloved starter in traditional restaurants",
+        "where_to_find": "Historische Wurstkuchl, Regensburger Weissbräuhaus (serving traditional knödel)"
+      },
+      {
+        "name": "Weißwurst",
+        "description": "Bavarian white sausage made from veal and pork, flavored with parsley, lemon, and spices - traditionally eaten before noon",
+        "origin_story": "There's a Bavarian saying: Weißwurst should never hear the church bells at noon. This breakfast sausage is boiled, not grilled, and eaten by sucking the meat out of the casing",
+        "where_to_find": "Regensburger Weissbräuhaus, traditional Bavarian taverns (only before noon)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bavarian Weißbier",
+        "description": "Wheat beer - cloudy, slightly sweet, and served in tall glasses",
+        "how_locals_drink_it": "At beer gardens and taverns like Spitalgarten. The proper pour involves swirling the last bit of beer in the bottle to collect the yeast sediment before pouring into the glass"
+      },
+      {
+        "name": "Traditional Bavarian Spritzers",
+        "description": "Wine or beer mixed with sparkling water or lemonade - refreshing and lower alcohol",
+        "how_locals_drink_it": "At Hofbräuhaus Regensburg near the Old Town Hall, especially in warmer months. It's a way to enjoy beer all afternoon without getting too drunk"
+      }
+    ],
+    "food_culture_notes": [
+      "WIRTSHAUS IN HEUPORT in a historic patrician house opposite the cathedral serves huge brunch buffets with traditional Bavarian sausages",
+      "Hofbräuhaus Regensburg offers seasonal beers and unique dishes like 'Herz vom Rost' in authentic Gothic atmosphere",
+      "Spitalgarten beer garden serves hearty Bavarian dishes and authentic sauerkraut in scenic setting",
+      "TripAdvisor lists 581 restaurants in Regensburg with over 21,900 reviews"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Stone Bridge medieval landmark",
+      "Regensburg Cathedral Gothic spires",
+      "Old Town UNESCO World Heritage",
+      "Danube River"
+    ],
+    "atmosphere": [
+      "medieval streets unchanged for centuries",
+      "church bells ringing",
+      "beer garden conviviality",
+      "ancient stone architecture"
+    ],
+    "colors": [
+      "golden Bavarian beer",
+      "brown charcoal-grilled sausages",
+      "white Weißwurst",
+      "deep red sauerkraut"
+    ],
+    "unique_modern": [
+      "500-year-old restaurant still thriving",
+      "UNESCO World Heritage perfectly preserved",
+      "medieval city meeting modern Bavaria",
+      "cash-only tradition in digital age"
+    ]
+  },
+  "wikipedia_search_term": "Regensburg",
+  "keywords_for_image": [
+    "Regensburg Germany",
+    "Stone Bridge Regensburg",
+    "Historische Wurstkuchl",
+    "Bavarian sausages",
+    "medieval Old Town"
+  ],
+  "coordinates": {
+    "lat": 49.0134,
+    "lng": 12.1016
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Regensburg+🇩🇪/@49.0134,12.1016,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Regensburg"
+  },
+  "location_id": 313
+}

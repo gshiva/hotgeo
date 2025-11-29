@@ -1,0 +1,95 @@
+{
+  "name": "Naples",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Naples invented pizza - and traditional Neapolitan pizza is now UNESCO Intangible Cultural Heritage! The original Pizza Margherita was created in 1889 for Queen Margherita with tomato, mozzarella, and basil representing the Italian flag!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pizza Margherita",
+        "description": "The original pizza - San Marzano tomatoes, fresh mozzarella, basil, olive oil",
+        "origin_story": "Created in 1889 by Raffaele Esposito for Queen Margherita of Italy",
+        "where_to_find": "L'Antica Pizzeria da Michele, Sorbillo, Di Matteo"
+      },
+      {
+        "name": "Pizza Fritta",
+        "description": "Fried pizza dough stuffed with ricotta, cicoli (pork cracklings), and provola",
+        "origin_story": "Centuries-old street food born when oven fuel was scarce",
+        "where_to_find": "Via dei Tribunali friggitorie (fry shops)"
+      },
+      {
+        "name": "Sfogliatella",
+        "description": "Multi-layered crispy 'lobster tail' pastry with sweet ricotta filling",
+        "origin_story": "Invented by nuns in a 17th century convent",
+        "where_to_find": "Attanasio near station (always fresh and warm)"
+      },
+      {
+        "name": "Cuoppo",
+        "description": "Paper cone of mixed fried foods - croquettes, zeppoline, arancini, pasta fritters",
+        "origin_story": "Traditional Neapolitan street food perfect for walking",
+        "where_to_find": "Friggitorie on Via dei Tribunali and Spaccanapoli"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Espresso",
+        "description": "Naples has its own coffee culture - stronger and sweeter than north",
+        "how_locals_drink_it": "Standing at the bar, with sugar, sometimes with a glass of water"
+      },
+      {
+        "name": "Limoncello",
+        "description": "Lemon liqueur made from Amalfi Coast lemons",
+        "how_locals_drink_it": "Ice cold as digestivo after meals"
+      }
+    ],
+    "food_culture_notes": [
+      "Via dei Tribunali and Via San Gregorio Armeno are street food heaven",
+      "'Fried is better' is the Naples rule",
+      "Frittatina di pasta - fried pasta cake - is apotheosis of Neapolitan street food",
+      "Taralli (savory rings) eaten as snacks since the 1700s"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mount Vesuvius",
+      "Castel dell'Ovo",
+      "Spaccanapoli street",
+      "Bay of Naples"
+    ],
+    "atmosphere": [
+      "narrow alleys with hanging laundry",
+      "scooters",
+      "street shrines",
+      "chaos and energy"
+    ],
+    "colors": [
+      "volcanic black",
+      "Mediterranean blue",
+      "pizza red",
+      "lemon yellow"
+    ],
+    "unique_modern": [
+      "pizza makers tossing dough",
+      "scooters weaving through streets",
+      "street shrines to saints"
+    ]
+  },
+  "wikipedia_search_term": "Naples",
+  "keywords_for_image": [
+    "pizza margherita",
+    "sfogliatella pastry",
+    "cuoppo fried food cone",
+    "Mount Vesuvius",
+    "Bay of Naples",
+    "narrow streets with laundry",
+    "espresso"
+  ],
+  "coordinates": {
+    "lat": 40.8518,
+    "lng": 14.2681
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Naples+🇮🇹/@40.8518,14.2681,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naples"
+  },
+  "location_id": 14
+}

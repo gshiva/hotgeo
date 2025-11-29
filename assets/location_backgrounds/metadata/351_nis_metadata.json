@@ -1,0 +1,94 @@
+{
+  "name": "Nis",
+  "country": "Serbia",
+  "fun_fact": "Fun fact: Niš is the birthplace of Constantine the Great, the Roman Emperor who legalized Christianity and founded Constantinople. But the city's most haunting monument is the Skull Tower - built by Ottomans in 1809 from 952 skulls of Serbian rebels. Today, 58 skulls remain embedded in its walls, and in 2024, anthropologists began forensic reconstruction of their faces",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Niška Burek",
+        "description": "Flaky phyllo pastry rolled into a spiral and stuffed with cheese (sir), meat (meso), or spinach. The Niš version is special because bakers don't remove the kajmak (rich clotted cream) from the cheese - the most delicious part that's usually sold separately",
+        "origin_story": "The first burek in Niš dates to 1498 - over 500 years of burek-making tradition. While you can find burek across the Balkans, Niš claims theirs is unique because of the kajmak secret. Ottoman bakers brought the recipe, but Niš perfected it. Locals eat it for breakfast, fresh from the bakery, still warm and dripping with butter",
+        "where_to_find": "Pekara Anton Niš (Bakery Anton - the best in the city), traditional bakeries throughout Niš old town, roadside stops for travelers heading to Bulgaria"
+      },
+      {
+        "name": "Ćevapi (Ćevapčići)",
+        "description": "Small grilled skinless sausages made from mixed meats (beef, pork, lamb), served in a fluffy somun bread with chopped onions, kajmak (clotted cream), and ajvar (red pepper relish)",
+        "origin_story": "Turkish heritage transformed by Serbian grilling mastery. These little sausages are Serbia's fast food obsession. The secret is the meat blend and the charcoal grill - never gas. Niš locals claim theirs are the best in Serbia (every Serbian city makes this claim). The proper way: 5-10 ćevapi in somun bread, drowning in kajmak",
+        "where_to_find": "Stambolijski, Nišlijska Mehana (tradition meets taste), Kod Rajka, traditional Serbian kafanas with outdoor grills"
+      },
+      {
+        "name": "Pasulj na Tavče (Bean Stew)",
+        "description": "White beans slow-cooked with carrots, onions, garlic, and smoked sausages in a clay pot. Rich, smoky, and soul-warming - perfect for cold Balkan winters",
+        "origin_story": "Southern Serbia's peasant food elevated to comfort food perfection. The dish name varies - also called gravče na tavče or prebranac - but it's always beans cooked low and slow. Ottoman influence meets Serbian heartiness. Every grandmother makes it differently, always claiming hers is authentic",
+        "where_to_find": "Traditional Serbian restaurants in Niš, Nišlijska Mehana, kafanas serving home-style cooking"
+      },
+      {
+        "name": "Baklava and Tulumbe",
+        "description": "Baklava: layers of phyllo with walnuts and honey syrup. Tulumbe: deep-fried dough fingers soaked in syrup, crispy outside and syrupy-sweet inside",
+        "origin_story": "Five centuries of Ottoman rule left Serbia with a serious sweet tooth for Turkish desserts. Niš perfected these sweets with local honey and walnuts. Tulumbe are especially beloved - served at celebrations, holidays, and whenever you need a sugar rush",
+        "where_to_find": "Pelivan (phenomenal baklavas and tulumbe), Lotos Café/Lotos poslastičara (best cakes in the city)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakija (Serbian Fruit Brandy)",
+        "description": "Crystal-clear fruit brandy, usually from plums (šljivovica) but also apricots, pears, or quince. 40-60% alcohol, homemade batches are strongest",
+        "how_locals_drink_it": "Always served at the start of meals in small glasses. Homemade rakija is a point of family pride - every Serbian has an uncle who makes 'the best.' Never refuse when offered, it's insulting. Toast with 'Živeli!' (Cheers!). Follow immediately with food or you'll regret it"
+      },
+      {
+        "name": "Serbian Coffee (Turska Kafa)",
+        "description": "Thick, strong coffee made in a džezva (copper pot), served in small cups with foam on top. Often comes with Turkish delight",
+        "how_locals_drink_it": "Drink slowly at kafanas while playing cards or chess. Let the grounds settle before sipping. Reading fortunes from the coffee grounds is a Serbian tradition - flip the cup, let it cool, someone 'reads' your future. Never rush Serbian coffee"
+      }
+    ],
+    "food_culture_notes": [
+      "Niš is one of Europe's oldest cities - ancient Naissus was a major Roman crossroads between Belgrade and Istanbul",
+      "Mediana archaeological site preserves Constantine the Great's grand Roman residence, still being excavated",
+      "The Skull Tower draws 30,000 visitors yearly and is considered a pilgrimage site for Serbs, symbolizing resistance against Ottoman rule",
+      "Kafana culture is strong - traditional taverns with live music, grilled meats, and rakija flowing freely"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Skull Tower (Ćele Kula) with 58 remaining skulls",
+      "Niš Fortress on the Nišava River",
+      "Mediana archaeological site (Constantine's palace)",
+      "Čegar Hill monument (1809 battle site)"
+    ],
+    "atmosphere": [
+      "Ottoman fortress walls",
+      "charcoal smoke from ćevapi grills",
+      "haunting Skull Tower chapel",
+      "ancient Roman ruins"
+    ],
+    "colors": [
+      "golden baklava honey",
+      "charred brown (grilled ćevapi)",
+      "red paprika ajvar",
+      "white bean stew"
+    ],
+    "unique_modern": [
+      "Birthplace of Constantine the Great and Constantinople",
+      "Skull Tower - unique monument with 58 skulls (2025)",
+      "2024 forensic reconstruction of Skull Tower faces",
+      "Over 500 years of burek-making tradition (since 1498)"
+    ]
+  },
+  "wikipedia_search_term": "Niš",
+  "keywords_for_image": [
+    "Nis Skull Tower Serbia",
+    "Serbian cevapi somun bread",
+    "Nis Fortress Serbia",
+    "burek phyllo pastry Balkans",
+    "Constantine Great Mediana Nis"
+  ],
+  "coordinates": {
+    "lat": 43.3209,
+    "lng": 21.8954
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nis+🇷🇸/@43.3209,21.8954,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niš"
+  },
+  "location_id": 351
+}

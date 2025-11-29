@@ -1,0 +1,106 @@
+{
+  "name": "Limassol",
+  "country": "Cyprus",
+  "fun_fact": "Fun fact: Halloumi cheese has been made in Cyprus since Byzantine times (mid-16th century) from a mixture of goat and sheep milk. It's the only cheese in the world that can be grilled or fried without melting, earning it the title of Cyprus's national cheese and a protected designation of origin.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Meze (Cypriot Feast)",
+        "description": "An elaborate culinary marathon of 20-30 small dishes served in progression: cold appetizers/salads, hot dishes like grilled halloumi, culminating in charcoal-grilled meats or fresh seafood",
+        "origin_story": "Ancient roots in the Eastern Mediterranean. In Cyprus, meze became a ritual of hospitality - offering dozens of small plates as a gesture of abundance. The meal structure is sacred: olives, tahini, hummus, tzatziki with bread, then hot dishes, ending with grilled meats.",
+        "where_to_find": "Meze Taverna Restaurant (Old Town) - family-run for 20+ years, outstanding fish meze, always full so book ahead; Karatello Tavern (Lanitis Carob Mill) - generous portions in rustic converted warehouse; Syrian Restaurant - Lebanese/Syrian twist with tables under vine leaves and grapes"
+      },
+      {
+        "name": "Halloumi (Grilled or Fried)",
+        "description": "Semi-hard white-brined cheese with elastic texture made from goat and sheep milk, served grilled with char marks or fried until golden",
+        "origin_story": "Dating back to Byzantine times, halloumi has captured food lovers worldwide. Its unique high melting point means it can be grilled or fried - something no other cheese can do. It's Cyprus's most famous culinary export.",
+        "where_to_find": "Every taverna in Limassol; Taverna Forsos (Mouttagiaka) - don't miss their halloumi in the garden courtyard; Taverna Yialousa (Mouttagiaka) - cheese-stuffed pasta (halloumi ravioli)"
+      },
+      {
+        "name": "Sheftalia",
+        "description": "Small cylindrical sausages made with minced pork or lamb, onions, parsley, and spices, wrapped in caul fat that melts during grilling",
+        "origin_story": "Traditional Cypriot kebabs without skin - the caul fat forms the sausage casing and melts away on the grill, creating incredible flavor. A staple of meze and often enjoyed in warm pita bread.",
+        "where_to_find": "Taverna Forsos (Mouttagiaka) - weekend dinners with locals in a leafy courtyard; Karatello Tavern - part of their generous meze spreads"
+      },
+      {
+        "name": "Loukoumades",
+        "description": "Deep-fried honey puffs, crispy on outside and fluffy inside, drizzled with honey and sometimes cinnamon",
+        "origin_story": "Ancient Greek origin, but in Limassol they're especially popular during Carnival when street vendors sell them fresh to revellers. The perfect sweet ending to a meze feast.",
+        "where_to_find": "Taverna Forsos - locals rave about them; street vendors throughout Old Town during festivals"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cyprus Brandy",
+        "description": "Locally produced brandy made by Limassol-based distilleries since 1871",
+        "how_locals_drink_it": "After dinner as a digestif, often offered as a gesture of hospitality at traditional tavernas. Limassol is the heart of Cyprus brandy production."
+      },
+      {
+        "name": "Zivania",
+        "description": "Strong distilled spirit made from grape pomace, Cyprus's traditional firewater",
+        "how_locals_drink_it": "Served in small glasses, often at the end of a long meze meal. Locals treat it with respect - it's potent!"
+      }
+    ],
+    "food_culture_notes": [
+      "Meze is incredible value at around €20 for a feast - arrive with an appetite",
+      "Long, relaxed meals are the norm - order meze and let plates keep coming",
+      "Eating outside under vine leaves and grapevines feels authentic and romantic",
+      "Weekend dinners at places like Forsos create a wonderful buzz with locals",
+      "Cypriot cuisine is more rustic than Greek - simpler dishes, minimal sauces, letting ingredients shine",
+      "Old Town Limassol is where locals eat - always buzzing"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Limassol Old Town with narrow streets",
+      "Limassol Marina with waterfront promenade",
+      "Lanitis Carob Mill Complex (historic warehouse)",
+      "Mediterranean coastline",
+      "Traditional taverna courtyards with grapevines",
+      "Byzantine castle in town center"
+    ],
+    "atmosphere": [
+      "Leafy courtyard tavernas with long tables under trees",
+      "Checked tablecloths and grapevines trailing across pergolas",
+      "Exposed brick walls in rustic converted warehouses",
+      "Tables under vine leaves heavy with grapes",
+      "Bustling Old Town alleys with hidden restaurants",
+      "Beachside dining along the Mediterranean"
+    ],
+    "colors": [
+      "White-washed buildings with blue shutters",
+      "Golden halloumi with grill marks",
+      "Deep green vine leaves",
+      "Turquoise Mediterranean Sea",
+      "Terracotta pots and warm stone",
+      "Purple grapes hanging from pergolas"
+    ],
+    "unique_modern": [
+      "Mix of Middle Eastern and Mediterranean influences",
+      "Modern Lebanese/Syrian fusion at Syrian Restaurant",
+      "Historic buildings repurposed as trendy tavernas",
+      "Marina area blending old and new Cyprus",
+      "Fish meze as modern alternative to traditional meat platters"
+    ]
+  },
+  "wikipedia_search_term": "Limassol",
+  "keywords_for_image": [
+    "Limassol Cyprus taverna courtyard",
+    "Grilled halloumi cheese Cyprus",
+    "Cypriot meze feast",
+    "Limassol Old Town",
+    "Cyprus grapevine pergola dining",
+    "Sheftalia Cypriot sausage",
+    "Limassol Marina Mediterranean",
+    "Lanitis Carob Mill Limassol"
+  ],
+  "coordinates": {
+    "lat": 34.7071,
+    "lng": 33.0226
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Limassol+🇨🇾/@34.7071,33.0226,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Limassol"
+  },
+  "location_id": 47
+}

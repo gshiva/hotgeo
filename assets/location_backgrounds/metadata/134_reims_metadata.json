@@ -1,0 +1,108 @@
+{
+  "name": "Reims",
+  "country": "France",
+  "region": "Champagne",
+  "fun_fact": "Fun fact: Reims Cathedral is where French kings were crowned for over 1,000 years - it's to France what Westminster Abbey is to England! And beneath Reims lie literally MILES of champagne cellars holding 200 million bottles in ancient Roman chalk quarries!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Biscuits Roses de Reims",
+        "description": "Pink, crunchy, egg-and-sugar cookies designed specifically for dipping in champagne",
+        "origin_story": "First created by Fossier's Confectioners in the 18th century (founded 1756), the recipe remains shrouded in mystery to this day. These light, rose-colored treats are traditionally covered in icing sugar with a crunchy texture perfect for dunking in bubbly.",
+        "where_to_find": "Fossier bakery (founded 1756) - the original and still the best. Look for them as you stroll between champagne houses!"
+      },
+      {
+        "name": "Regional French Classics",
+        "description": "Authentic French cuisine featuring artisanal cheeses, charcuterie, smoked fish from local artisans",
+        "origin_story": "Reims' restaurants total eight Michelin stars, making it one of France's smartest food scenes. The city blends technical mastery with responsibly sourced, seasonal ingredients from Champagne region producers.",
+        "where_to_find": "L'Alambic (vaulted cellar, Chef Ansel Fabrice's fresh local ingredients), L'Epicerie Au Bon Manger (wine bar and gourmet deli with artisanal cheeses, organic champagnes), Le Coq Rouge (tapas-style small plates, mix with the winemakers near the Cathedral)"
+      },
+      {
+        "name": "Michelin-Starred Experiences",
+        "description": "World-class fine dining showcasing seasonal Champagne region ingredients",
+        "origin_story": "Reims has evolved into a culinary destination with three 3-Michelin-star, two 2-star, and multiple 1-star restaurants. The 2025 Reims Gastronomic Festival celebrates the 10th anniversary of Champagne's UNESCO designation.",
+        "where_to_find": "L'Assiette Champenoise (3 Michelin stars, Chef Arnaud Lallement), Domaine Les Crayères (2 stars, incredible chateau on 17 acres), Racine (2 stars, seats only 14 people, cult status for technical mastery)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Champagne (Moët, Veuve Clicquot, Taittinger, Pommery, etc.)",
+        "description": "The world's most famous sparkling wine, produced in the chalk cellars beneath Reims",
+        "how_locals_drink_it": "Champagne houses line the city - Veuve Clicquot (yellow label, Madame Clicquot invented the first vintage in 1810 and riddling table in 1816), Pommery (self-guided tours in UNESCO Gallo-Roman cellars), Taittinger, Ruinart. Enjoy with biscuits roses de Reims! There are MILES of underground cellars holding 200 million bottles. The 2015 UNESCO World Heritage designation put even more spotlight on the region. Book Veuve Clicquot tours 2-3 weeks ahead - they sell out!"
+      },
+      {
+        "name": "Natural Wines and Organic Champagnes",
+        "description": "Small-scale producer champagnes and European wines focused on terroir and craftsmanship",
+        "how_locals_drink_it": "Visit La Vertu (Champagne's newest bar à vins, opened 2025 by winemaker/sommelier Aude Henon in vibrant Boulingrin district, strong youthful crowd). L'Epicerie Au Bon Manger curates organic and biodynamic Champagnes from small producers."
+      }
+    ],
+    "food_culture_notes": [
+      "Reims is the unofficial capital of France's Champagne region with major houses based here",
+      "In 2015, the Champagne region earned UNESCO World Heritage Site status",
+      "The city has eight Michelin stars total across multiple restaurants",
+      "Les Relais du Goût (Reims Gastronomic Festival) 2025 celebrates the 10th anniversary of UNESCO designation",
+      "Compact modern city full of young professionals and international students - almost Parisian atmosphere but with more Champagne",
+      "Bidding to be European Capital of Culture 2028",
+      "Mix with winemakers at Le Coq Rouge near the Cathedral",
+      "Madame Pommery invented the first Brut Champagne - strong female history in the industry",
+      "The chalk cellars beneath Reims were originally Roman quarries"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cathédrale Notre-Dame de Reims (Gothic masterpiece, where kings were crowned)",
+      "Underground champagne cellars (miles of Roman chalk quarries)",
+      "Pommery champagne house (Gallo-Roman cellars)",
+      "Veuve Clicquot yellow-labeled cellars",
+      "Domaine Les Crayères (chateau on 17 acres)",
+      "Boulingrin district (vibrant, youthful)"
+    ],
+    "atmosphere": [
+      "Frescoes and chandeliers in fine dining châteaus",
+      "Vaulted cellars in traditional Champenois wine bars",
+      "Gothic cathedral spires dominating skyline",
+      "Youthful buzz of students and professionals",
+      "Underground champagne caves with thousands of bottles",
+      "Intimate 14-seat Michelin restaurants"
+    ],
+    "colors": [
+      "Golden champagne bubbles",
+      "Pink biscuits roses",
+      "Gothic cathedral stone and stained glass",
+      "Veuve Clicquot signature yellow",
+      "Chalk white cellar walls",
+      "Deep greens of château grounds"
+    ],
+    "unique_modern": [
+      "200 million champagne bottles in underground cellars",
+      "Self-guided tours at Pommery (rare for champagne houses)",
+      "Youthful bar à vins scene (La Vertu opened 2025)",
+      "European Capital of Culture 2028 bid",
+      "Tiny exclusive restaurants (Racine seats only 14)",
+      "Site where Germans surrendered in 1945, ending WWII in Europe",
+      "Biscuits specifically designed for champagne dunking since 1756"
+    ]
+  },
+  "wikipedia_search_term": "Reims",
+  "keywords_for_image": [
+    "reims cathedral gothic spires",
+    "veuve clicquot champagne cellars",
+    "biscuits roses de reims champagne",
+    "reims champagne underground caves",
+    "champagne vineyards reims",
+    "pommery champagne house reims",
+    "reims cathedral coronation france",
+    "domaine les crayeres chateau",
+    "champagne bottle cellar aging",
+    "reims france cityscape cathedral"
+  ],
+  "coordinates": {
+    "lat": 49.2583,
+    "lng": 4.0317
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Reims+🇫🇷/@49.2583,4.0317,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reims"
+  },
+  "location_id": 134
+}

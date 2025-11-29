@@ -1,0 +1,120 @@
+{
+  "name": "Dhaka",
+  "country": "Bangladesh",
+  "fun_fact": "Fun fact: Dhaka is the 'cycle rickshaw capital of the world' with over a million colorful three-wheeled pedicabs freely wandering the streets—over half of them in Dhaka! These hand-painted rickshaws are rolling works of art featuring movie stars, tigers, historical heroes, and floral patterns. In 2023, UNESCO inscribed Dhaka's rickshaws and rickshaw paintings on its list of intangible cultural heritage, recognizing this unique living pop art created by illiterate rickshaw artists who learn from masters.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fuchka (Pani Puri)",
+        "description": "Crispy hollow puris filled with spiced water, tamarind sauce, chickpeas, potatoes—one of Bangladesh's most iconic street foods, sweet and sour with a hint of chili",
+        "origin_story": "Fuchka is beloved across Bangladesh and is the first thing locals think of for street food. Vendors now experiment with fusion versions like chicken fuchka or even chocolate fuchka, showing how the tradition evolves while maintaining Bengali flavors.",
+        "where_to_find": "Street vendors throughout Dhaka, especially in Mohammadpur, Mirpur, and Khilgaon areas; countless stalls in every neighborhood"
+      },
+      {
+        "name": "Chotpoti",
+        "description": "A blend of chickpeas, potatoes, and eggs topped with tamarind sauce, green chilies, and spices, often with crispy puris—sweet, sour, and spicy",
+        "origin_story": "Along with fuchka, chotpoti is one of the most iconic street foods of Bangladesh. It represents the Bengali love for complex flavors—sweet tamarind, sour lime, spicy chilies, all in one bowl.",
+        "where_to_find": "Street food stalls everywhere, especially popular in university areas and busy markets"
+      },
+      {
+        "name": "Jhalmuri",
+        "description": "A shaken-together mix of peanuts, cucumbers, onions, chilies, tomatoes, puffed rice (muri), chanachur, and lemon—extremely popular in Dhaka",
+        "origin_story": "People in Dhaka love jhalmuri—it's the quintessential street snack. Vendors shake all ingredients together in a paper cone, creating a fresh, crunchy, spicy snack perfect for eating while walking.",
+        "where_to_find": "Street vendors on every corner, parks, markets, outside schools and offices"
+      },
+      {
+        "name": "Rice with Dal, Chicken, and Vegetables",
+        "description": "The daily staple: white rice with dal (lentil soup) to hold it together, pieces of chicken, potato, vegetable extras—what Bangladeshis actually eat daily",
+        "origin_story": "Rice is the staple food of Bangladesh, with fish the most common protein (though chicken is popular too). This simple meal represents authentic home cooking—not fancy, just nourishing and essential. Dal binds the rice and adds protein.",
+        "where_to_find": "Home cooking, local eateries (bhaat ghor), workers' lunch spots, family-run restaurants"
+      },
+      {
+        "name": "Halim",
+        "description": "Thick lentil soup with local spices and meat (mutton and/or beef), served hot from a large pot—essential to Bangladeshi street food",
+        "origin_story": "Halim is a hearty, slow-cooked dish brought to Bangladesh through Mughal influence. It's traditionally eaten during Ramadan for iftar, but street vendors serve it year-round, especially in the evening.",
+        "where_to_find": "Street food vendors with large pots, especially in Old Dhaka; popular during Ramadan"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cha (Doodh Cha - Milk Tea)",
+        "description": "Thick, sweet, milky tea—similar to Indian chai but with Bangladesh's unique earthy, creamy, spicy yet sweet taste",
+        "how_locals_drink_it": "Tea is the first thing people start their day with in Bengali families. There are 344,687 roadside tea stalls (tongs) across Bangladesh—you don't need to walk more than a kilometer to find one. Locals greet each other by asking 'Chiya khanu vayo?' (Did you drink tea?). The tea culture involves long conversations at tong stalls, helping reduce daily stress. It's drunk throughout the day—morning wake-up, afternoon break, evening socializing."
+      },
+      {
+        "name": "Malai Cha (Sweet Cream Tea)",
+        "description": "Special sweet tea made with thick cow's milk—richer and creamier than regular cha",
+        "how_locals_drink_it": "Reserved for special occasions or when you want to treat yourself. The thick, creamy texture makes it almost dessert-like. Found at better tea stalls and traditional tea houses."
+      },
+      {
+        "name": "Borhani",
+        "description": "Traditional spiced yogurt drink made from sour doi (yogurt), green chili, mustard seeds, black salt, coriander, and mint",
+        "how_locals_drink_it": "Commonly consumed in Dhaka and Chittagong, especially at weddings and iftar gatherings during Ramadan. It's drunk after heavy meals like biryani, morog polao (chicken pilaf), and tehari to aid digestion. The drink has Persian and Mughal origins but evolved into a uniquely Bengali creation."
+      }
+    ],
+    "food_culture_notes": [
+      "It's normal to eat with your fingers instead of silverware—rice is shaped into balls",
+      "6 million people in Dhaka enjoy street food daily from 300,000 street vendors",
+      "Bangladeshis are fond of fried food: peyaju (lentil fritters), beguni (eggplant), chop (potato-egg)",
+      "Street food is affordable and convenient for rickshaw drivers, laborers, students, and workers",
+      "Everyone likes foreign food, but vendors add 'the taste of Bengal' to fusion dishes",
+      "Tea culture is intrinsic to the Bengali rhythm of life—long conversations over tea",
+      "Pitha (traditional rice cakes) are made during festivals, especially in winter",
+      "Street vendors experiment with fusion—chicken shawarmas with Bengali spices"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Colorful cycle rickshaws with hand-painted art (movie stars, tigers, landscapes)",
+      "Bustling street markets with vendors",
+      "Tong tea stalls on every corner",
+      "Mughal-influenced architecture in Old Dhaka",
+      "Street food carts with large pots and colorful displays",
+      "Rickshaw decorations with tassels, plastic flowers, tinsel"
+    ],
+    "atmosphere": [
+      "Extremely crowded and energetic—one of the world's most densely populated cities",
+      "Rickshaws weaving through traffic as moving art galleries",
+      "Street food vendors everywhere creating a feast for the senses",
+      "Tea stalls as social hubs where people gather and talk",
+      "Mix of old Mughal heritage and modern urban chaos",
+      "Constant movement and unyielding energy"
+    ],
+    "colors": [
+      "Vibrant rickshaw art—reds, greens, blues, yellows",
+      "Colorful street food displays",
+      "Orange-brown tea from tong stalls",
+      "Green chilies and fresh vegetables",
+      "Bright fabrics and saris in markets",
+      "Movie star posters and rickshaw paintings"
+    ],
+    "unique_modern": [
+      "UNESCO intangible cultural heritage rickshaw art (2023)",
+      "Fusion street food innovations (chocolate fuchka!)",
+      "Growing café culture mixing international and local flavors",
+      "Digital rickshaw art replacing hand-painted panels (controversial)",
+      "Street vendors adapting global dishes with Bengali spices",
+      "Tea culture extending into modern cafés while maintaining traditional tongs"
+    ]
+  },
+  "wikipedia_search_term": "Dhaka",
+  "keywords_for_image": [
+    "Dhaka rickshaw art Bangladesh",
+    "fuchka pani puri street food",
+    "Bangladesh tea culture cha",
+    "Dhaka street food vendors",
+    "rickshaw painting UNESCO heritage",
+    "Bengali chotpoti chickpeas",
+    "Bangladesh colorful rickshaws",
+    "Dhaka tong tea stall"
+  ],
+  "coordinates": {
+    "lat": 23.8103,
+    "lng": 90.4125
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dhaka+🇧🇩/@23.8103,90.4125,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhaka"
+  },
+  "location_id": 67
+}

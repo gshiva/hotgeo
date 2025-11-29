@@ -1,0 +1,114 @@
+{
+  "name": "Delft",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Delft Blue pottery has been handcrafted using traditional methods for over 360 years at Royal Delft (Koninklijke Porceleyne Fles), the last remaining Delftware factory from 1653—and the iconic blue-and-white ceramics are so beloved that KLM airline fills miniature Delft Blue houses with jenever to give passengers!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stroopwafel",
+        "description": "Two thin crispy waffle cookies sandwiching caramel syrup filling, served fresh and warm",
+        "origin_story": "The quintessential Dutch treat, best enjoyed fresh from market stalls where they're made on griddles. When placed over a hot coffee cup, the steam warms the caramel, creating the perfect texture. A symbol of Dutch street food culture.",
+        "where_to_find": "Markt Square Thursday market (lively market with fresh stroopwafels), local cafés throughout historic center"
+      },
+      {
+        "name": "Broodje Kroket",
+        "description": "Crispy deep-fried meat ragout croquette served in a soft bun",
+        "origin_story": "A beloved Dutch comfort food combining crispy exterior with creamy meat filling. Represents Dutch 'gezelligheid' (coziness) and casual dining culture. The ultimate satisfying street food.",
+        "where_to_find": "Cafés and snack bars throughout Delft, Markt Square establishments"
+      },
+      {
+        "name": "Dutch Pancakes (Pannenkoeken)",
+        "description": "Large thin pancakes (bigger than crêpes) with sweet or savory toppings",
+        "origin_story": "Traditional Dutch meal served for lunch or dinner, not just breakfast. Can be topped with bacon and cheese or apple and cinnamon, representing Dutch versatility and comfort food traditions.",
+        "where_to_find": "Het Konings Huys (exquisite Dutch cuisine where culinary artistry meets historical charm), Bij Harry (authentic Dutch where tradition meets modernity), Moeke Delft (tradition meets modern taste)"
+      },
+      {
+        "name": "Traditional Dutch Sweets",
+        "description": "Pastries, cakes, and delicious Dutch treats",
+        "origin_story": "Delft's café culture centers on sweet treats paired with coffee, embodying the Dutch love of 'gezelligheid' (cozy conviviality).",
+        "where_to_find": "Café Johannes (tasty treats in Vermeer's birthplace), Kek Café (Voldergracht, small café with outdoor patio perfect for people-watching)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jenever (Dutch Gin)",
+        "description": "Traditional Dutch spirit with maltier, slightly sweeter flavor than gin, considered the grandfather of gin",
+        "how_locals_drink_it": "Delft is one of the historic 'jenever cities' (jeneversteden) famous since the 16th century. Served in tulip-shaped glass filled to the brim (surface tension makes it rise above the rim). Jonge jenever served at room temperature, sometimes with sugar and tiny spoon. 'Kopstoot' (headbutt) ritual: jenever alongside beer as chaser. 'Duikboot' (submarine): jenever glass dipped into beer. UNESCO Intangible Cultural Heritage status. KLM fills miniature Delft Blue house replicas with jenever for passengers!"
+      },
+      {
+        "name": "Koffie Verkeerd",
+        "description": "Dutch 'wrong coffee'—equal parts coffee and warm milk, similar to latte",
+        "how_locals_drink_it": "A smooth, comforting drink beloved in Netherlands café culture. Though many Dutch prefer straight black coffee (strong, simple, no fuss), Koffie Verkeerd offers a gentler option. Perfect for leisurely café sessions and people-watching on Delft's picturesque canals."
+      },
+      {
+        "name": "Dutch Coffee",
+        "description": "Coffee combined with jenever and topped with whipped cream",
+        "how_locals_drink_it": "A luxurious, comforting beverage showcasing Dutch innovation in combining traditional spirits with everyday drinks. Perfect for sipping on chilly evenings."
+      }
+    ],
+    "food_culture_notes": [
+      "Delft is one of the historic 'jenever cities' alongside Schiedam, Groningen, and Amsterdam",
+      "During Dutch Golden Age (17th century), Delft became an important brewery city",
+      "Markt Square hosts Thursday market where locals sample delicacies, browse flowers, and soak up authentic Dutch atmosphere",
+      "Café culture centers on 'gezelligheid'—cozy conviviality with coffee, sweets, and conversation",
+      "Delft Blue pottery tradition intersects with drinking culture (KLM jenever houses)",
+      "Restaurant scene blends traditional Dutch cuisine with international influences",
+      "Royal Delft factory (360+ years old) is the only remaining original Delftware producer",
+      "Delft is the birthplace of Johannes Vermeer ('Girl with a Pearl Earring' painter)",
+      "Advocaat (sweet creamy egg liqueur) is another Dutch specialty",
+      "Chocomel (rich Dutch hot chocolate) is popular year-round, hot in winter or chilled"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Markt Square (City Hall and Nieuwe Kerk)",
+      "Royal Delft Museum and Factory (Koninklijke Porceleyne Fles)",
+      "Oude Kerk (13th century with leaning tower, Vermeer's burial place)",
+      "Vermeer Centrum (interactive tribute to Dutch Master)",
+      "Picturesque canals and cobblestone streets"
+    ],
+    "atmosphere": [
+      "Charming canal-ringed storybook city",
+      "Blue and white Delft pottery everywhere",
+      "Cozy cafés with canal-side terraces",
+      "Historic buildings housing modern restaurants",
+      "Dutch Golden Age architectural heritage"
+    ],
+    "colors": [
+      "Iconic Delft Blue and white ceramics",
+      "Golden stroopwafel caramel",
+      "Clear jenever in tulip glasses",
+      "Rich brown Dutch coffee",
+      "Warm amber tones of historic buildings"
+    ],
+    "unique_modern": [
+      "Het Konings Huys (culinary artistry meets historical charm)",
+      "Bij Harry (tradition meets modernity in cozy setting)",
+      "De Sjees (charming café in vibrant Markt square)",
+      "Blend of 360-year pottery tradition with contemporary dining",
+      "Small city atmosphere (only hour from Amsterdam) with rich cultural density"
+    ]
+  },
+  "wikipedia_search_term": "Delft",
+  "keywords_for_image": [
+    "Delft",
+    "Delft Blue pottery",
+    "Johannes Vermeer",
+    "stroopwafel",
+    "jenever",
+    "Dutch canals",
+    "Royal Delft",
+    "Dutch Golden Age",
+    "Netherlands ceramics",
+    "Markt Square"
+  ],
+  "coordinates": {
+    "lat": 52.0116,
+    "lng": 4.3571
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Delft+🇳🇱/@52.0116,4.3571,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delft"
+  },
+  "location_id": 139
+}

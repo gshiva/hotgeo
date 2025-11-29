@@ -1,0 +1,139 @@
+{
+  "name": "Bucharest",
+  "country": "Romania",
+  "fun_fact": "Fun fact: Bucharest's Palace of the Parliament is the world's heaviest building, weighing 4,098,500 tonnes! Built by dictator Nicolae Ceaușescu starting in 1984, it's the world's largest civilian administrative building with 1,100 rooms (many never used), required demolishing 5% of historic Bucharest, and consumed 1 million cubic meters of marble and 3,500 metric tons of crystal. It was only 70% finished when Ceaușescu was executed in 1989.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sarmale",
+        "description": "Cabbage rolls stuffed with minced meat (pork and beef), rice, and aromatic spices, slow-cooked until tender",
+        "origin_story": "A cornerstone of Romanian cuisine with roots in the Ottoman Empire. Each family has their secret spice blend passed down through generations. Making sarmale is a communal activity during holidays.",
+        "where_to_find": "Caru' cu Bere (iconic 1879 brewery-restaurant), Vatra, Hanu' lui Manuc. Always served with mămăligă (polenta) and sour cream."
+      },
+      {
+        "name": "Mici/Mititei",
+        "description": "Grilled skinless sausages made from minced meat (beef, pork, lamb) with garlic, black pepper, and secret spice blends",
+        "origin_story": "Legend says mici were invented by accident at a Bucharest inn when they ran out of sausage casings. The name means 'little ones.' Now they're essential at any Romanian gathering.",
+        "where_to_find": "Zexe (with live piano music), Obor Market (street food style), beer gardens throughout Bucharest. Must be served with mustard and fresh bread."
+      },
+      {
+        "name": "Ciorbă de Burtă (Tripe Soup)",
+        "description": "Sour soup made with beef tripe, vegetables, garlic, and sour cream, finished with a vinegar-egg mixture for tanginess",
+        "origin_story": "The ultimate Romanian hangover cure and comfort food. The sour taste comes from borș (fermented wheat bran) or vinegar. Making it properly takes hours of preparation.",
+        "where_to_find": "Ciorbărie ('the soup factory' - specializes in various ciorbă), Locanta Jaristea, traditional restaurants. Often eaten as a meal, not just starter."
+      },
+      {
+        "name": "Papanași",
+        "description": "Romanian-style doughnuts made with sweet cheese, served with sour cream and berry jam (typically sour cherry or blueberry)",
+        "origin_story": "A beloved dessert dating back centuries, with regional variations across Romania. The name may derive from 'papa' (food for priests). The combination of sweet, sour, and creamy is quintessentially Romanian.",
+        "where_to_find": "Vatra (known for sweet dishes), Caru' cu Bere, Zexe. Best served warm with generous toppings."
+      },
+      {
+        "name": "Mămăligă",
+        "description": "Cornmeal porridge similar to polenta, the traditional bread substitute in Romanian cuisine",
+        "origin_story": "Once peasant food, mămăligă sustained Romanian families for centuries when wheat was scarce. It's the foundation of traditional meals, served with cheese, sour cream, or as a side to stews.",
+        "where_to_find": "Every traditional restaurant serves it. Beraria Hanul cu Tei, Vatra. Often served with brânză (sheep's cheese) and smântână (sour cream)."
+      },
+      {
+        "name": "Salam de Biscuiți (Biscuit Salami)",
+        "description": "No-bake chocolate roll with biscuits and rum essence that looks like salami when sliced",
+        "origin_story": "A communist-era favorite dessert that required no oven - essential when ovens were scarce. Every Romanian grandmother has their version of this recipe.",
+        "where_to_find": "Home kitchens, Patiseria Comteia (traditional bakery), cafés throughout Bucharest. More authentic when homemade."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Țuică/Palincă",
+        "description": "Strong plum brandy (țuică) or fruit brandy (palincă) - Romania's national spirit, typically 40-60% alcohol",
+        "how_locals_drink_it": "Served ice-cold in small glasses as an aperitif or digestif. Romanians toast with 'Noroc!' (Good luck!). Often homemade in rural areas."
+      },
+      {
+        "name": "Romanian Wine",
+        "description": "Romania has ancient winemaking traditions - try Fetească Neagră (black maiden grape) or Grasa de Cotnari (noble rot dessert wine)",
+        "how_locals_drink_it": "Romanian wines are underrated treasures. Locals pair red wines with mici and sarmale, white wines with ciorbă. Wine culture is experiencing a renaissance."
+      },
+      {
+        "name": "Bere Artizanală (Craft Beer)",
+        "description": "Bucharest's craft beer scene is booming, building on historic brewing traditions from places like Caru' cu Bere",
+        "how_locals_drink_it": "The beer garden culture is strong. Many traditional restaurants brew their own - Caru' cu Bere has been brewing since 1879."
+      }
+    ],
+    "food_culture_notes": [
+      "Romanian food is very meat-heavy, but excellent vegetarian options exist in starters, sides, and soups",
+      "Tipping culture: 10% of bill in cash (even if paying by card)",
+      "Sour cream (smântână) appears on almost everything - it's the Romanian secret ingredient",
+      "Obor Market is Romania's biggest and oldest market - essential for authentic street food experience",
+      "Traditional meals are multi-course affairs: soup (ciorbă), main course, dessert, țuică",
+      "Clătite (Romanian pancakes/crepes) with sweet cheese and raisins is a beloved dessert",
+      "Thursday is traditionally pea soup day in many households",
+      "Waiters in traditional restaurants often wear folk costumes, and live folk music is common"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Palace of the Parliament - world's heaviest building, communist-era colossus",
+      "Romanian Athenaeum - stunning 1888 concert hall with neo-classical dome",
+      "Old Town (Lipscani) - cobblestone streets, 15th-century churches, vibrant nightlife",
+      "Caru' cu Bere - 1879 Neo-Gothic beer hall with stained glass and wooden paneling",
+      "Hanu' lui Manuc - 200-year-old Armenian inn with inner courtyard",
+      "Village Museum - open-air museum of traditional Romanian village life",
+      "Arcul de Triumf - triumphal arch modeled after Paris",
+      "Revolution Square - site of 1989 anti-communist revolution"
+    ],
+    "atmosphere": [
+      "Neo-Gothic grandeur of Caru' cu Bere - stained glass, vaulted ceilings, traditional musicians",
+      "Bustling terraces on Lipscani streets filled with locals enjoying bere and mici",
+      "Obor Market chaos - vendors shouting, fresh produce piled high, sizzling street food",
+      "Live folk music and waiters in traditional dress at heritage restaurants",
+      "Tree-lined boulevards earning Bucharest the nickname 'Little Paris' (before communist demolitions)",
+      "Contrast of Belle Époque architecture with communist-era concrete blocks",
+      "Courtyard dining in historic hans (inns) like Manuc's",
+      "Vibrant café culture along Calea Victoriei"
+    ],
+    "colors": [
+      "Cream and gold of Belle Époque palaces",
+      "Rich brown wood paneling in historic beer halls",
+      "Golden-fried mici on the grill",
+      "Deep red of sour cherry jam on papanași",
+      "Terracotta pottery traditional to Romanian cuisine",
+      "Grey concrete of communist architecture",
+      "Warm amber glow of Romanian țuică"
+    ],
+    "unique_modern": [
+      "Craft beer revolution in a city with 140-year brewing heritage",
+      "Communist history tours of the Palace of Parliament",
+      "Lipscani Old Town transformation - from dilapidated to hip dining and nightlife district",
+      "Bucharest's rise as Eastern Europe's hidden food gem",
+      "Fusion of Ottoman, Austro-Hungarian, Slavic, and Greek culinary influences",
+      "Ciorbărie concept - dedicated soup restaurants celebrating Romania's soup culture",
+      "Patiseria Comteia and other bakeries reviving traditional Romanian sweets",
+      "Street art and galleries in repurposed communist-era spaces"
+    ]
+  },
+  "wikipedia_search_term": "Bucharest",
+  "keywords_for_image": [
+    "Palace of Parliament Bucharest",
+    "Caru cu Bere",
+    "sarmale cabbage rolls",
+    "mici Romanian sausages",
+    "papanasi doughnuts",
+    "Romanian Orthodox church",
+    "Old Town Bucharest",
+    "ciorbă de burtă",
+    "mămăligă polenta",
+    "Hanu lui Manuc",
+    "Romanian Athenaeum",
+    "țuică plum brandy",
+    "Lipscani",
+    "Belle Époque architecture"
+  ],
+  "coordinates": {
+    "lat": 44.4268,
+    "lng": 26.1025
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bucharest+🇷🇴/@44.4268,26.1025,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bucharest"
+  },
+  "location_id": 73
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Luang Prabang",
+  "country": "Laos",
+  "fun_fact": "Fun fact: Every morning at dawn, hundreds of saffron-robed monks walk silently through the streets collecting alms - this 'tak bat' ceremony has continued uninterrupted for over 600 years, making it one of the world's oldest living Buddhist traditions.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Khao Soi",
+        "description": "Not the Thai version - Luang Prabang's khao soi is a light, tomatoey noodle soup with fermented soybeans and a mountain of fresh herbs",
+        "origin_story": "This Northern Lao specialty is completely different from Thai khao soi. The legendary shop across from Wat Sensoukharam temple has been perfecting their recipe for decades, with locals lining up every morning for the city's best bowl",
+        "where_to_find": "The khao soi shop across from Wat Sensoukharam temple, morning market stalls"
+      },
+      {
+        "name": "Laap (Lao Minced Meat Salad)",
+        "description": "Minced meat (usually pork, chicken, or fish) mixed with toasted ground rice, lime juice, fish sauce, and fresh herbs - intensely aromatic and flavorful",
+        "origin_story": "Laap is the national dish of Laos, and Luang Prabang's version uses local herbs from the Mekong region. It's traditionally eaten with sticky rice using your hands, following ancient Lao customs",
+        "where_to_find": "Blue Lagoon Restaurant (famous for Laap Kai), Bamboo Garden, Dyen Sabai Restaurant"
+      },
+      {
+        "name": "Mok Pa",
+        "description": "Fish steamed in banana leaves with lemongrass, rice paddy herbs, and chili - fragrant and delicate",
+        "origin_story": "This traditional Lao cooking method preserves moisture and infuses the fish with aromatic herbs. The banana leaf wrapper is both cooking vessel and plate, representing the Lao philosophy of using what nature provides",
+        "where_to_find": "Tamarind (with explanations of Lao eating culture), Dyen Sabai Restaurant overlooking Nam Khan River"
+      },
+      {
+        "name": "Sai Oua (Lao Sausage)",
+        "description": "Grilled sausages packed with lemongrass, kaffir lime leaves, galangal, and chili - bursting with herbal aromatics",
+        "origin_story": "Luang Prabang sausages are famous throughout Laos for their intense flavor. The version at Bamboo Garden has a perfectly crisped exterior from expert browning on the grill",
+        "where_to_find": "Bamboo Garden (best in the city), morning market for breakfast, Dyen Sabai Restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lao Coffee",
+        "description": "Intensely strong coffee grown in the Bolaven Plateau, often served with condensed milk over ice",
+        "how_locals_drink_it": "Locals drink it at cafés along the Mekong, watching the sunrise while monks make their alms rounds. The coffee is so strong it's usually sweetened heavily with condensed milk"
+      },
+      {
+        "name": "Beer Lao",
+        "description": "Laos's flagship lager - light, refreshing, and omnipresent",
+        "how_locals_drink_it": "Enjoyed ice-cold at riverside restaurants, especially at Dyen Sabai where you can watch the Nam Khan River flow by. Often drunk communally, with toasts of 'sombai!' (cheers)"
+      }
+    ],
+    "food_culture_notes": [
+      "Lao meals are communal - order several dishes to share rather than individual plates",
+      "Sticky rice (khao niao) is eaten with your hands and is the foundation of every meal",
+      "The morning market is the heart of Luang Prabang's food culture, with wild game and foraged herbs",
+      "Luang Prabang has its own distinct cuisine separate from the rest of Laos, influenced by royal palace traditions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Wat Xieng Thong temple",
+      "Royal Palace Museum",
+      "Mount Phousi",
+      "Kuang Si waterfall turquoise pools"
+    ],
+    "atmosphere": [
+      "monks in saffron robes at dawn",
+      "French colonial architecture",
+      "Mekong River sunset",
+      "temple bells ringing"
+    ],
+    "colors": [
+      "saffron orange monk robes",
+      "turquoise temple accents",
+      "golden Buddha statues",
+      "deep green jungle"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage old town",
+      "cooking classes in traditional houses",
+      "night market selling textiles",
+      "boutique hotels in French colonial buildings"
+    ]
+  },
+  "wikipedia_search_term": "Luang_Prabang",
+  "keywords_for_image": [
+    "Luang Prabang Laos",
+    "monks alms ceremony",
+    "Wat Xieng Thong",
+    "Mekong River",
+    "Lao cuisine"
+  ],
+  "coordinates": {
+    "lat": 19.8845,
+    "lng": 102.1349
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Luang+Prabang+🇱🇦/@19.8845,102.1349,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luang_Prabang"
+  },
+  "location_id": 294
+}

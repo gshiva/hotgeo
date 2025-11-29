@@ -1,0 +1,93 @@
+{
+  "name": "Novi Sad",
+  "country": "Serbia",
+  "fun_fact": "Fun fact: Novi Sad hosts EXIT Festival in the Petrovaradin Fortress - once voted the best European music festival, it takes place inside an 18th-century Hapsburg fortress with 16km of underground tunnels and over 200,000 annual attendees!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ćevapi",
+        "description": "Small grilled skinless sausages of minced meat, served with onions, kajmak, and somun bread",
+        "origin_story": "Balkan essential - these finger-sized meat rolls are eaten 5-10 at a time with raw onion and kajmak cream cheese",
+        "where_to_find": "Loki Vojvodina, Project 72, ćevabdžinicas throughout the city"
+      },
+      {
+        "name": "Fiš Paprikaš",
+        "description": "Spicy fish paprikash stew made with freshwater fish from the Danube",
+        "origin_story": "Vojvodina's signature dish - river fish cooked in paprika-rich broth. Traditionally made by fishermen on the riverbanks",
+        "where_to_find": "Ribarsko Ostrvo (Fisherman's Island), riverside restaurants, Fruška Gora vineyards"
+      },
+      {
+        "name": "Kulen",
+        "description": "Spicy dried sausage from Vojvodina, similar to Italian salami but with hot paprika",
+        "origin_story": "EU Protected Geographical Indication - the paprika and drying process are specific to this region",
+        "where_to_find": "Traditional restaurants, Fruška Gora monastery visits, local delis"
+      },
+      {
+        "name": "Gibanica",
+        "description": "Layered cheese and filo pastry pie, Serbia's most beloved breakfast",
+        "origin_story": "Eaten morning, noon, and night - the flaky layers are filled with eggs and white cheese",
+        "where_to_find": "Bakeries throughout Novi Sad, breakfast spots, any Serbian restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Fruška Gora Wine",
+        "description": "Wines from the nearby Fruška Gora wine region - both red and white",
+        "how_locals_drink_it": "At winery cellars on Fruška Gora mountain, with local cheese and kulen"
+      },
+      {
+        "name": "Rakija",
+        "description": "Fruit brandy - plum (šljivovica) or quince (dunjevača) most common",
+        "how_locals_drink_it": "As welcome drink and digestif, homemade versions prized"
+      }
+    ],
+    "food_culture_notes": [
+      "EXIT Festival transforms Petrovaradin Fortress into giant party venue",
+      "Fruška Gora monasteries nearby serve traditional food with wine",
+      "Serbian coffee culture is strong - sit for hours at Danube cafés",
+      "The Strand beach on the Danube is summer gathering spot"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Petrovaradin Fortress",
+      "Danube River",
+      "Liberty Square",
+      "Fruška Gora mountain"
+    ],
+    "atmosphere": [
+      "Austro-Hungarian architecture",
+      "university town energy",
+      "riverside cafés",
+      "festival spirit"
+    ],
+    "colors": [
+      "fortress stone",
+      "Danube blue",
+      "Habsburg yellow",
+      "wine country green"
+    ],
+    "unique_modern": [
+      "EXIT Festival venue",
+      "European Capital of Culture 2022",
+      "tech startup hub"
+    ]
+  },
+  "wikipedia_search_term": "Novi_Sad",
+  "keywords_for_image": [
+    "ćevapi grilled meat",
+    "Petrovaradin Fortress",
+    "Danube River",
+    "fish paprikash",
+    "festival crowd"
+  ],
+  "coordinates": {
+    "lat": 45.2671,
+    "lng": 19.8335
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Novi+Sad+🇷🇸/@45.2671,19.8335,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Novi_Sad"
+  },
+  "location_id": 203
+}

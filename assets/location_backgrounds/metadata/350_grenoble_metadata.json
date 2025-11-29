@@ -1,0 +1,94 @@
+{
+  "name": "Grenoble",
+  "country": "France",
+  "fun_fact": "Fun fact: Grenoble has the world's first urban cable car (1934), nicknamed 'Les Bulles' (the bubbles) for its iconic spherical glass cabins that look like floating eggs. It whisks you 260 meters up to the Bastille fortress in 5 minutes, and on foggy days you rise above a stunning sea of clouds. Over 14 million people have ridden it since 1934",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gratin Dauphinois",
+        "description": "Thinly sliced potatoes baked in cream and milk until golden and bubbling - NO cheese in the authentic version (that's gratin savoyard). Creamy interior, crispy top, infused with garlic and nutmeg",
+        "origin_story": "Born in the Dauphiné region surrounding Grenoble, this is one of France's most argued-over dishes. Purists insist: no cheese, no eggs, only cream, potatoes, and garlic. Adding cheese starts regional wars. The dish was supposedly created in 1788 in Gap (south of Grenoble) but Grenoble claims it as their soul food",
+        "where_to_find": "Le Gratin Dauphinois restaurant (Grenoble train station area, named after the dish - €10-15), La Table Ronde (since 1739, one of France's oldest restaurants)"
+      },
+      {
+        "name": "Ravioles du Royans",
+        "description": "Tiny square pasta pockets (smaller than a postage stamp) filled with Comté cheese, fresh herbs, and sometimes spinach. Served in cream sauce, browned butter, or in soup",
+        "origin_story": "Created in the Royans region near Grenoble in the 1870s by a innkeeper's wife. These delicate ravioli are so small you need 20-30 per portion. Traditionally made with local Comté and parsley. Le Gratin Dauphinois sources theirs from Les Grands Goulets - 100% artisanal from La Chapelle-en-Vercors",
+        "where_to_find": "Le Gratin Dauphinois (artisanal from Vercors), La Table Ronde (traditional preparation), Les Halles Sainte-Claire market (fresh to cook at home)"
+      },
+      {
+        "name": "Saint-Marcellin Cheese",
+        "description": "Small round soft cow's milk cheese from nearby Isère - creamy, slightly tangy, with a wrinkled rind. When ripe, it's almost liquid inside",
+        "origin_story": "Made in the Dauphiné since the 15th century, this cheese was supposedly saved King Louis XI's life when he tried it after a hunting accident. Once made with goat milk, now cow. Best eaten at room temperature when it's so ripe you need a spoon. Le Gratin Dauphinois serves it roasted with honey and walnuts",
+        "where_to_find": "Le Gratin Dauphinois (roasted with honey and walnuts), Les Halles Sainte-Claire market, any fromagerie in Grenoble"
+      },
+      {
+        "name": "Caillette de la Mure",
+        "description": "Savory meatballs made from pork, Swiss chard, spinach, and herbs, wrapped in caul fat. Eaten cold as a snack or warm with salad",
+        "origin_story": "A specialty from La Mure (south of Grenoble), these rustic Alpine meatballs date to peasant cooking. The caul fat (crépine) keeps them moist. It's nose-to-tail eating before that was trendy - using every part of the pig. Traditionally eaten by farmers during harvest",
+        "where_to_find": "Le Gratin Dauphinois (home-cooked regional dish), traditional boucheries in Grenoble, Marché de l'Estacade outdoor market"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chartreuse Liqueur",
+        "description": "Bright green or yellow herbal liqueur made by Carthusian monks near Grenoble since 1737. The recipe of 130 herbs is a secret known only to two monks. Intensely herbal, 55% alcohol",
+        "how_locals_drink_it": "Green Chartreuse (stronger, 55%) as a digestif, Yellow Chartreuse (sweeter, 40%) as an aperitif. Mix with tonic for a 'Chartreuse and tonic.' The monastery is in the Chartreuse mountains just north of Grenoble - you can visit but monks won't reveal the recipe. Serve ice-cold"
+      },
+      {
+        "name": "Alpine Wines from Savoie",
+        "description": "Crisp white wines from nearby Savoie region - Jacquère, Altesse, Roussette. Light, mineral, perfect with cheese and mountain food",
+        "how_locals_drink_it": "Paired with raclette, fondue, and gratin dishes. Grenoble sits at the gateway to the Alps, so Savoyard wine culture dominates. Drink young and chilled, never aged. These wines taste like melted snow and alpine flowers"
+      }
+    ],
+    "food_culture_notes": [
+      "Grenoble sits surrounded by three mountain ranges - it's the gateway to the French Alps and winter Olympic history (1968 Olympics)",
+      "Les Halles Sainte-Claire market is the heart of local food culture - covered market with regional specialties",
+      "The gratin dauphinois vs. gratin savoyard debate (cheese or no cheese) can end friendships in this region",
+      "La Table Ronde (1739) is one of the oldest continuously operating restaurants in France"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Les Bulles cable car (spherical glass cabins)",
+      "Bastille fortress overlooking city",
+      "Isère River winding through the city",
+      "Surrounding mountain ranges (Vercors, Chartreuse, Belledonne)"
+    ],
+    "atmosphere": [
+      "Alpine air and mountain views",
+      "floating above clouds in cable car bubbles",
+      "cozy stone fortress walls",
+      "university town energy"
+    ],
+    "colors": [
+      "golden brown (gratin crust)",
+      "bright chartreuse green (liqueur)",
+      "white cream (ravioles sauce)",
+      "snow-capped mountain peaks"
+    ],
+    "unique_modern": [
+      "World's first urban cable car (1934)",
+      "90th anniversary of Les Bulles in 2024",
+      "100% green energy cable car system (2025)",
+      "Host of 1968 Winter Olympics"
+    ]
+  },
+  "wikipedia_search_term": "Grenoble",
+  "keywords_for_image": [
+    "Grenoble cable car Bastille bubbles",
+    "gratin dauphinois French Alps",
+    "Chartreuse monastery France",
+    "ravioles du Royans",
+    "Grenoble Isere River mountains"
+  ],
+  "coordinates": {
+    "lat": 45.1885,
+    "lng": 5.7245
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Grenoble+🇫🇷/@45.1885,5.7245,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grenoble"
+  },
+  "location_id": 350
+}

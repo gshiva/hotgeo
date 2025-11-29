@@ -1,0 +1,129 @@
+{
+  "name": "Dakar",
+  "country": "Senegal",
+  "fun_fact": "Fun fact: Senegalese tea culture revolves around 'attaya'—a three-cup ritual that can take up to 3 hours! The word 'ataya' comes from Wolof and means 'the art of making tea.' The tea master boils Chinese green tea with sugar and pours it back and forth between glasses to create foam, serving it three times with each cup progressively sweeter and mintier. The first cup is drunk slightly bitter, the second with more sugar, and the third very sweet. More than 80% of Senegalese people aged 15-60 drink tea, and the ritual promotes conversation and friendship—it's compared to meditation and yoga as a form of practical relaxation!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Thieboudienne (Ceebu Jën)",
+        "description": "Senegal's national dish: a hearty meal combining fish (traditionally Thiof white grouper), rice, and vegetables, all infused with bold spices and tomato paste. Served in large communal bowls.",
+        "origin_story": "The star fish is Thiof, stuffed with a parsley-garlic-chili paste called 'Rof,' then fried or grilled before being added to the pot. The dish is a symphony of savory, slightly spicy, and deeply umami flavors. Thieboudienne is as much about the communal eating experience as it is about taste—sharing from one bowl embodies Senegal's 'teranga' (hospitality) culture.",
+        "where_to_find": "Local restaurants throughout Dakar serving traditional Senegalese cuisine, especially at lunchtime (the biggest meal of the day)"
+      },
+      {
+        "name": "Yassa (Chicken or Fish)",
+        "description": "Meat or fish first marinated with spices, then simmered with a mountain of caramelized onions, lemon juice, vinegar, and mustard. Creates an incredible sweet, sour, and tangy flavor profile.",
+        "origin_story": "Originating from the Casamance region in southern Senegal, Yassa is now popular throughout West Africa. The dish is defined by its sauce—tons of onions slow-cooked until sweet and jammy, balanced with citrus acidity. It's served with plain white rice to soak up the complex sauce.",
+        "where_to_find": "Traditional Senegalese restaurants, street food vendors, local family-run eateries across Dakar"
+      },
+      {
+        "name": "Mafé",
+        "description": "A rich peanut stew enriched with meat (beef, lamb, or chicken), sweet potatoes, and carrots. Savory comfort food that reflects Senegal's love for groundnut-based recipes.",
+        "origin_story": "Peanuts are a staple crop in Senegal and West Africa. This hearty stew showcases the region's agricultural heritage and the creative use of groundnuts in savory cooking—a tradition that influenced African American cuisine in the southern United States.",
+        "where_to_find": "Local restaurants, home kitchens, street food stalls serving traditional Senegalese meals"
+      },
+      {
+        "name": "Dibi",
+        "description": "Grilled meat (typically lamb or beef) seasoned with mustard and spices, then flame-grilled to smoky perfection. Served with baguette slices and spicy sauces.",
+        "origin_story": "A beloved street food and special occasion dish that showcases the West African grilling tradition. The French colonial influence appears in the baguette pairing, but the grilling technique and spicing are purely Senegalese.",
+        "where_to_find": "Street grills across Dakar, especially in the evening when the smoky aroma fills the air"
+      },
+      {
+        "name": "Accara (Black-Eyed Pea Fritters)",
+        "description": "Ground black-eyed peas seasoned with onions, garlic, and spices, deep-fried until crispy outside and soft inside. Served with tasty tomato sauce.",
+        "origin_story": "A popular snack throughout West Africa with roots in the region's agricultural traditions. Similar fritters (called 'akara' in Nigeria) traveled with the transatlantic slave trade and influenced Caribbean and South American cooking.",
+        "where_to_find": "Street vendors, markets, and cafes throughout Dakar as a breakfast or snack item"
+      },
+      {
+        "name": "Fataya",
+        "description": "Senegalese turnovers filled with seasoned meat (beef or fish), onions, and sometimes vegetables. Deep-fried until golden brown.",
+        "origin_story": "This popular street food shows the Lebanese and Middle Eastern influence in Senegalese cuisine, adapted with local spices and fillings. Perfect grab-and-go food in busy Dakar.",
+        "where_to_find": "Street food vendors, bakeries, and snack shops across the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Attaya (Senegalese Tea)",
+        "description": "Sweet, pungent brew of Chinese green tea, plenty of sugar, and often mint. Served in three progressively sweeter cups during a 3-hour ritual.",
+        "how_locals_drink_it": "The tea master boils the tea and pours it back and forth between glasses to create foam and mix the sugar. This is done three times: the first cup slightly bitter, the second with more sugar, the third very sweet and minty. Drinking attaya promotes conversation and maintains friendship—it's seen as practical relaxation like meditation. The 1986 song 'Ataya' by Ismaël Lô celebrates this cultural tradition. More than 80% of Senegalese people 15-60 drink tea regularly. The high fluoride in green tea may help prevent dental disease."
+      },
+      {
+        "name": "Café Touba",
+        "description": "Coffee with a kick—beans ground with djar (African black pepper from Xylopia aethiopica tree), dried fruit, and cloves, served with lots of sugar (no milk). Sweet, spicy, intense, almost medicinal.",
+        "how_locals_drink_it": "Named after the holy city of Touba (meaning 'happiness' in Arabic), this coffee was introduced by Islamic spiritual leader Cheikh Amadou Bamba Mbacké when he returned from exile in Gabon in 1902. The drink is unique to Senegal and reflects the influence of the Mouride Brotherhood, a Sufi Islamic movement. You'll see Bamba's image (wearing a long headscarf) everywhere in Dakar. Café Touba is consumed by people of all ages, almost any time of day, and is said to have stomach-settling and aphrodisiacal qualities."
+      },
+      {
+        "name": "Bissap (Hibiscus Juice)",
+        "description": "The most popular beverage in Senegal—a purplish-red juice made from hibiscus flowers, water, and sugar. Sometimes with fresh mint leaves and orange blossom.",
+        "how_locals_drink_it": "Served chilled as a refreshing drink throughout the day. The tart, cranberry-like flavor is balanced with sugar. Known as 'bissap' in Senegal, the same drink appears across West Africa and the Caribbean."
+      },
+      {
+        "name": "Gingembre, Bouye, Dakhar, Ditakh",
+        "description": "Other traditional Senegalese juices: gingembre (ginger brew), bouye (baobab fruit juice), dakhar (tamarind juice), ditakh (local fruit juice).",
+        "how_locals_drink_it": "These fresh juices are served at restaurants, street vendors, and in homes. They showcase Senegal's tropical fruits and the tradition of natural, refreshing beverages."
+      }
+    ],
+    "food_culture_notes": [
+      "Senegalese food embodies 'Teranga'—the concept of hospitality and generosity. As Chef Pierre Thiam says: 'When you come into a Senegalese household, everyone moves so that you can fit in the circle and share their food and drink.'",
+      "Lunch is the biggest meal in Senegal—usually a rice-based dish. After 5pm, it's hard to find rice-based dishes as they're sold out",
+      "Communal eating from shared bowls is central to the dining experience",
+      "Over 95% of the population is Muslim, ensuring most eateries serve halal food",
+      "Senegalese cuisine is more than sustenance—it's a language of community, history, and hospitality",
+      "The attaya tea ritual (3 hours!) shows how food and drink culture prioritizes conversation and togetherness over speed",
+      "Street food culture is vibrant—dibi grills, fataya vendors, accara stands fill Dakar's streets with aromas",
+      "Peanut-based dishes reflect West Africa's agricultural heritage and influenced global cuisines",
+      "The blend of African traditions with French colonial influences (baguettes) and Lebanese immigration (fataya) creates unique fusion"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Dakar's Atlantic coastline",
+      "Bustling street markets",
+      "Street food grills with smoke rising",
+      "Colorful fabric markets",
+      "Mosque architecture",
+      "Images of Cheikh Amadou Bamba everywhere"
+    ],
+    "atmosphere": [
+      "Three-hour tea ceremonies with friends",
+      "Communal bowls of thieboudienne",
+      "Smoke rising from dibi grills",
+      "Purple bissap juice in glasses",
+      "Vibrant street food vendors",
+      "Family gatherings around shared meals"
+    ],
+    "colors": [
+      "Purplish-red bissap juice",
+      "Golden fried accara",
+      "Deep brown mafé peanut stew",
+      "Red-orange thieboudienne rice",
+      "Green attaya tea with mint",
+      "Smoky grilled dibi meat"
+    ],
+    "unique_modern": [
+      "Contemporary Senegalese restaurants blending traditional recipes with modern presentation",
+      "Café Touba stands on every street corner",
+      "Fusion of West African, French, and Lebanese influences",
+      "Dakar's growing international food scene while maintaining teranga traditions"
+    ]
+  },
+  "wikipedia_search_term": "Dakar",
+  "keywords_for_image": [
+    "Dakar Senegal street food",
+    "Thieboudienne",
+    "Senegalese attaya tea ceremony",
+    "Bissap hibiscus juice",
+    "West African market",
+    "Dakar coastline",
+    "Café Touba"
+  ],
+  "coordinates": {
+    "lat": 14.7167,
+    "lng": -17.4677
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dakar+🇸🇳/@14.7167,-17.4677,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dakar"
+  },
+  "location_id": 89
+}

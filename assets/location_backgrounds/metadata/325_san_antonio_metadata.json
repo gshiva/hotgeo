@@ -1,0 +1,94 @@
+{
+  "name": "San Antonio",
+  "country": "USA",
+  "fun_fact": "Fun fact: Phil Collins (the musician) is such an avid Alamo history buff that he donated his entire extensive collection of Alamo artifacts - including weaponry, documents, and personal items from the Texas Revolution - to the site. The Alamo is Texas's only UNESCO World Heritage Site.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Puffy Tacos",
+        "description": "Deep-fried masa dough that puffs up like a golden pillow, filled with seasoned beef, chicken tinga, or bean-and-cheese, topped with lettuce, tomato, cheese",
+        "origin_story": "Invented in San Antonio by Ray and Henry Lopez in the 1950s when they experimented with frying fresh masa instead of pre-formed shells. The dough puffs dramatically when it hits hot oil. Ray's Drive Inn trademarked 'puffy taco' in 1992. Henry's family has served over a thousand puffy tacos daily since 1978. Featured on Netflix's Taco Chronicles.",
+        "where_to_find": "Ray's Drive Inn (home of the original since 1956, with carhop service), Henry's Puffy Tacos (family shrine, born 1978), Teka Molino (serving since 1937, featured on Netflix), or Lala's Gorditas (85-year family tradition, nixtamalized corn ground in-house)"
+      },
+      {
+        "name": "Breakfast Tacos",
+        "description": "Flour tortillas filled with scrambled eggs, bacon or chorizo, potatoes, cheese, and salsa - San Antonio's morning ritual",
+        "origin_story": "While Austin claims breakfast tacos, San Antonio invented them. Mexican workers needed portable breakfast, combining eggs with chorizo or bacon in soft flour tortillas. Every San Antonian has fierce loyalty to their neighborhood taqueria. It's not just food - it's cultural identity. Order 'con todo' (with everything).",
+        "where_to_find": "Any neighborhood taqueria before 9AM (locals never reveal their spot), Maria's Cafe on Nogalitos (25+ years), or Pete's Tako House (since 1978)"
+      },
+      {
+        "name": "Texas Barbecue Brisket",
+        "description": "Beef brisket smoked for 12-18 hours over oak or mesquite, developing a dark bark outside and pink smoke ring inside - served by the pound with white bread and pickles",
+        "origin_story": "German and Czech immigrants brought meat-smoking traditions to Central Texas in the 1800s, merging with Mexican spices and cowboy culture. San Antonio's proximity to cattle ranches made beef king. True Texas BBQ uses only salt and pepper - the smoke does the talking. Brisket is judged by its bark, smoke ring, and 'moist' vs 'lean' cuts.",
+        "where_to_find": "Local BBQ joints (San Antonio locals protect their favorites fiercely), or try brisket breakfast tacos at North Side spots"
+      },
+      {
+        "name": "Tex-Mex Combo Plate",
+        "description": "Cheese enchiladas with chili gravy, rice, refried beans, and crispy beef taco - the classic trio that defines Tex-Mex",
+        "origin_story": "Tex-Mex was born when Mexican families adapted traditional recipes with available Texas ingredients - yellow cheese instead of white, cumin-heavy chili gravy, flour tortillas. San Antonio is Tex-Mex's spiritual home. The combo plate became standard in 1900s family restaurants. UNESCO designated San Antonio a Creative City of Gastronomy for this unique culinary fusion.",
+        "where_to_find": "Teka Molino (since 1937), Mi Tierra (24-hour institution in Market Square), Oscar's Taco House (since 1962), or El Milagrito near St. Mary's Strip"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Frozen Margarita",
+        "description": "Blended tequila, lime juice, orange liqueur, and ice - San Antonio claims to have invented the frozen margarita machine",
+        "how_locals_drink_it": "San Antonio's River Walk is lined with bars serving frozen margaritas in massive glasses. Locals order 'on the rocks' to avoid brain freeze, but tourists go frozen. The machine that blends them was reportedly invented here in the 1970s. Order at Mi Tierra's bakery bar while watching mariachis. Always with salt rim."
+      },
+      {
+        "name": "Big Red Soda",
+        "description": "Red cream soda with unique bubble gum-like flavor - San Antonio's unofficial official drink",
+        "how_locals_drink_it": "Big Red + barbacoa tacos is a San Antonio Sunday tradition. The bright red soda originated in Waco, Texas, but became a cultural phenomenon in San Antonio. It's intensely sweet, almost medicinal-tasting to outsiders, but locals crave it. Gas stations stock it by the case. Drinking it anywhere else in America marks you as a San Antonian."
+      }
+    ],
+    "food_culture_notes": [
+      "UNESCO Creative City of Gastronomy - recognizing blend of Texan, Mexican, and German cuisines",
+      "Market Square (El Mercado) is largest Mexican market in the US - Mi Tierra open 24/7 since 1941",
+      "Breakfast taco loyalty is serious - never criticize someone's neighborhood spot",
+      "River Walk has 15 miles of restaurants along the San Antonio River, one level below city streets"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "The Alamo - 1718 mission, site of 1836 Texas Revolution battle, only UNESCO World Heritage Site in Texas",
+      "San Antonio River Walk - 15 miles of scenic walkways one level below downtown streets",
+      "San Antonio Missions - five Spanish colonial missions (18th century UNESCO World Heritage)",
+      "King William Historic District - German immigrant villas from 19th century"
+    ],
+    "atmosphere": [
+      "Founded 1718 - predates United States by half a century",
+      "300+ years of Spanish, Mexican, German, and Texan cultural layers",
+      "7th largest US city with 1.5 million people",
+      "River Walk's 'below street level' perspective creates unique urban oasis"
+    ],
+    "colors": [
+      "bright red from Big Red soda and chili gravy",
+      "golden puffy tacos fresh from the fryer",
+      "turquoise River Walk water",
+      "limestone cream of the Alamo"
+    ],
+    "unique_modern": [
+      "Stable Hall opened January 2024 in Pearl area - former brewery stables now music venue",
+      "San Antonio Stock Show & Rodeo every February",
+      "Fiesta San Antonio in April - 10-day citywide celebration commemorating Alamo and San Jacinto battles",
+      "River Walk flood control measures developed after devastating 1921 flood that killed 50 people"
+    ]
+  },
+  "wikipedia_search_term": "San_Antonio",
+  "keywords_for_image": [
+    "san antonio puffy tacos",
+    "alamo mission texas",
+    "river walk san antonio",
+    "tex mex enchiladas",
+    "breakfast tacos texas"
+  ],
+  "coordinates": {
+    "lat": 29.4241,
+    "lng": -98.4936
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/San+Antonio+🇺🇸/@29.4241,-98.4936,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Antonio"
+  },
+  "location_id": 325
+}

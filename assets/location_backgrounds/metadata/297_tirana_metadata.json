@@ -1,0 +1,94 @@
+{
+  "name": "Tirana",
+  "country": "Albania",
+  "fun_fact": "Fun fact: Tirana's buildings were painted in vibrant, clashing colors in 2000 by artist-mayor Edi Rama, who believed bright colors would lift citizens' spirits after decades of communist gray. The result is one of Europe's most colorful capitals where pastel pinks clash gloriously with electric blues.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tavë Kosi",
+        "description": "Tender lamb cooked in thick, tangy yogurt and egg mixture, baked until it forms a golden custard-like crust",
+        "origin_story": "This is Albania's national dish, traditionally served at weddings and celebrations. The name means 'soured milk casserole', and every Albanian grandmother has her own secret technique for getting the perfect golden crust",
+        "where_to_find": "Oda Restaurant (best in the capital), Juvenilja (Sunday lunch favorite)"
+      },
+      {
+        "name": "Fërgesë",
+        "description": "Delicious, slightly spicy cheese dip made with gjizë (Albanian ricotta), roasted peppers, and tomatoes",
+        "origin_story": "This staple of Albanian households, especially in Tirana, delivers the perfect balance of peppers, tomatoes, and cottage cheese. It's comfort food that Albanians crave when living abroad",
+        "where_to_find": "Oda Restaurant, Mullixhiu (modern version), traditional restaurants in Pazari i Ri area"
+      },
+      {
+        "name": "Byrek",
+        "description": "Flaky, savory pie filled with spinach, ricotta cheese, meat, onions and tomatoes, or wild greens",
+        "origin_story": "While byrek has Ottoman origins, Albanians have made it their own with unique fillings and techniques. It's breakfast, lunch, or a snack - eaten at all hours from street vendors to fine restaurants",
+        "where_to_find": "Mullixhiu (creative versions), street vendors around Pazari i Ri (New Bazaar), bakeries throughout the city"
+      },
+      {
+        "name": "Grilled Meat at Zgara",
+        "description": "Lamb, chicken, and pork grilled to perfection on the spit or over charcoal - simple but incredibly flavorful",
+        "origin_story": "Zgara means 'grill' in Albanian, and these grill houses are where locals gather for authentic, no-frills meals. It's Albanian cuisine at its most elemental and delicious",
+        "where_to_find": "Zgara Te Pazari (cheap, delicious, and authentic), numerous zgara restaurants throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Raki",
+        "description": "Strong grape or plum brandy - the Albanian national spirit",
+        "how_locals_drink_it": "Served as a welcome drink to guests (hospitality is sacred in Albanian culture) and consumed before meals as an aperitif. Every family has their own homemade version"
+      },
+      {
+        "name": "Albanian Coffee",
+        "description": "Strong, thick coffee similar to Turkish coffee, served in small cups",
+        "how_locals_drink_it": "Sipped slowly at cafés while engaged in long conversations. Tirana's café culture is intense - people spend hours over a single coffee"
+      }
+    ],
+    "food_culture_notes": [
+      "Oda Restaurant recreates traditional dishes exactly as Albanian grandmothers have made them for centuries, complete with live traditional music",
+      "Chef Bledar Kola at Mullixhiu worked at Copenhagen's famous Noma before revolutionizing Albanian cuisine with farm-to-table techniques",
+      "Eating out in Tirana is incredibly inexpensive - often cheaper than cooking at home",
+      "The New Bazaar (Pazari i Ri) is the heart of Tirana's food culture, recently renovated and buzzing with authentic flavors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Skanderbeg Square",
+      "colorful painted buildings",
+      "Et'hem Bey Mosque",
+      "Bunk'Art museum in former bunker"
+    ],
+    "atmosphere": [
+      "vibrantly painted facades",
+      "outdoor café culture",
+      "street vendors",
+      "blend of Ottoman and communist architecture"
+    ],
+    "colors": [
+      "shocking pink buildings",
+      "electric blue facades",
+      "bright yellow apartments",
+      "communist-era gray peeking through"
+    ],
+    "unique_modern": [
+      "transformation from gray to colorful",
+      "thriving café culture",
+      "hip bars in communist-era spaces",
+      "young creative energy"
+    ]
+  },
+  "wikipedia_search_term": "Tirana",
+  "keywords_for_image": [
+    "Tirana Albania",
+    "colorful buildings Tirana",
+    "Skanderbeg Square",
+    "Albanian cuisine",
+    "Pazari i Ri"
+  ],
+  "coordinates": {
+    "lat": 41.3275,
+    "lng": 19.8187
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tirana+🇦🇱/@41.3275,19.8187,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tirana"
+  },
+  "location_id": 297
+}

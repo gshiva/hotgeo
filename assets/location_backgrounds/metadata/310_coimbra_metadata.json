@@ -1,0 +1,94 @@
+{
+  "name": "Coimbra",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: Coimbra's University, founded in 1290, is one of the oldest in Europe, and the tradition of Fado de Coimbra (sung by students in black capes) at Café Santa Cruz dates back to 1923 - making it the only place where you can sip espresso in a medieval chapel while listening to heartbreak sung by future lawyers.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Leitão à Bairrada",
+        "description": "Roasted suckling pig with impossibly crispy skin and tender, flavorful meat - Coimbra's most iconic dish",
+        "origin_story": "The nearby Bairrada region is famous for this dish, where piglets are roasted in special ovens until the skin shatters like glass. It's so beloved that locals make pilgrimages to specific restaurants known for the perfect crackling",
+        "where_to_find": "Traditional restaurants specializing in Bairrada cuisine, mentioned throughout Coimbra dining guides"
+      },
+      {
+        "name": "Chanfana",
+        "description": "Rich goat stew slow-cooked in red wine, garlic, and bay leaves in a clay pot - rustic and deeply satisfying",
+        "origin_story": "This hearty dish originated in convents where nuns would cook tough old goats in wine until tender. At Zé Manel dos Ossos, they also serve feijoada de javali (wild boar stew) that locals swear by",
+        "where_to_find": "Zé Manel dos Ossos (local institution with quirky bone décor), traditional tascas"
+      },
+      {
+        "name": "Wild Boar Dishes",
+        "description": "Oven-baked wild boar or feijoada de javali (bean stew with wild boar) - gamey, rich, and traditional",
+        "origin_story": "At Zé Manel dos Ossos, a tiny six-table tasca with walls covered in customer-written poems and bones, wild boar is essential. Ask for a half portion of the feijoada and a jug of house wine",
+        "where_to_find": "Zé Manel dos Ossos (walls adorned with poems and skulls - order wild boar)"
+      },
+      {
+        "name": "Bacalhau (Codfish) Dishes",
+        "description": "Salt cod prepared in countless ways - à Brás (with eggs and potatoes) or com Natas (with cream) being favorites",
+        "origin_story": "Portuguese cuisine is said to have 365 ways to prepare bacalhau, one for each day of the year. Coimbra's versions are particularly beloved, using the finest Norwegian cod",
+        "where_to_find": "Refeitro da Baixa (housed in 1824 ceramics factory), Restaurante Nacional"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dão and Bairrada Wines",
+        "description": "Local red wines from nearby regions - Dão is elegant and structured, Bairrada is bold and tannic",
+        "how_locals_drink_it": "Paired with regional dishes at restaurants like Refeitro da Baixa and Hotel Quinta das Lágrimas's Arcadas (one of the world's 500 best restaurants). A jug of house wine at tascas costs very little"
+      },
+      {
+        "name": "Ginja",
+        "description": "Sour cherry liqueur - sweet, tart, and served as an aperitif or digestif",
+        "how_locals_drink_it": "Sipped in small glasses before or after meals. Some versions include the whole cherries at the bottom of the glass"
+      }
+    ],
+    "food_culture_notes": [
+      "Café Santa Cruz opened in 1923 in a former chapel with vaulted medieval ceilings - a meeting point for writers and journalists",
+      "Zé Manel dos Ossos is perpetually busy with walls covered in customer-written poems - arrive early and expect to wait",
+      "Refeitro da Baixa shares space with Coimbra's last ceramic factory (operating since 1824)",
+      "Prioritize local tascas and casas de pasto for authentic dining - lunch 'prato do dia' offers great value"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "University of Coimbra clock tower",
+      "Joanina Library baroque splendor",
+      "Mondego River",
+      "Sé Velha cathedral"
+    ],
+    "atmosphere": [
+      "students in black capes",
+      "Fado music echoing",
+      "medieval streets",
+      "riverside promenades"
+    ],
+    "colors": [
+      "deep red wine",
+      "golden roasted suckling pig",
+      "black student capes",
+      "terracotta rooftops"
+    ],
+    "unique_modern": [
+      "university traditions meeting modern Portugal",
+      "ancient convents now housing restaurants",
+      "Fado sung by law students",
+      "medieval library with bat colony preserving rare books"
+    ]
+  },
+  "wikipedia_search_term": "Coimbra",
+  "keywords_for_image": [
+    "Coimbra Portugal",
+    "University of Coimbra",
+    "leitao Bairrada",
+    "Fado de Coimbra",
+    "Mondego River"
+  ],
+  "coordinates": {
+    "lat": 40.2033,
+    "lng": -8.4103
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Coimbra+🇵🇹/@40.2033,-8.4103,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coimbra"
+  },
+  "location_id": 310
+}

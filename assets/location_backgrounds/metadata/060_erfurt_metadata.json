@@ -1,0 +1,117 @@
+{
+  "name": "Erfurt",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Erfurt is the capital of Thuringia and home to the Thüringer Rostbratwurst, which is protected by the Thuringian Bratwurst Purity Law—Germany's oldest food purity law, established in 1432! The bratwurst recipe traces back to 1404, making it one of the most historically documented sausages in the world. Locals say 'a Sunday without dumplings (Klöße) is no Sunday at all.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Thüringer Rostbratwurst",
+        "description": "Finely ground pork and beef sausages seasoned with a secret blend of spices including marjoram, caraway, and garlic. Grilled or fried to perfection with a distinctive thin, crispy casing and juicy interior.",
+        "origin_story": "This beloved sausage traces its roots to ancient traditions, with recipes documented as far back as 1404. The Thuringian Bratwurst Purity Law of 1432 is the oldest German food purity law, establishing strict standards for ingredients and preparation. Each butcher family guards its spice blend recipe jealously.",
+        "where_to_find": "Faust Food (popular with locals, high-quality bratwurst and veggie grilled cheese options, long communal tables or grab-and-go), Zum Goldenen Schwan (one of Erfurt's oldest restaurants with its own brewery, very traditional charm), Zum güldenen Rade (charming tavern with courtyard beer garden celebrating Thuringian cuisine)."
+      },
+      {
+        "name": "Thüringer Klöße (Potato Dumplings)",
+        "description": "Delicate potato dumplings made from 2/3 raw grated potatoes and 1/3 cooked mashed potatoes, often filled with crunchy cubes of toasted bread (croutons). Served with rich meat sauces, red cabbage, or alongside braised meats.",
+        "origin_story": "In Thuringia, 'a Sunday without dumplings is no Sunday at all.' Making Klöße was traditionally a family affair—children peeled and grated potatoes, fathers squeezed out excess moisture, and mothers shaped the dumplings. Each family guards its own recipe, often a well-kept secret passed through generations. The Thuringia-style is the most delicate, requiring careful balance of raw and cooked potatoes.",
+        "where_to_find": "Kromer's Restaurant & Gewölbekeller (cozy spot with leafy terrace and underground brick cellar, authentic Thuringian dumplings and homemade potato specialties), Wirtshaus Christoffel (historic Altstadt location, traditional dishes reflecting regional heritage), Haus zum Naumburgischen Keller (charming half-timbered building with vaulted cellar)."
+      },
+      {
+        "name": "Rinderroulade mit Rotkraut und Kloß",
+        "description": "THE staple dish of Thuringia—thinly sliced beef rolled around mustard, onions, and pickles, slow-braised until tender. Served with fermented red cabbage (Rotkraut) and at least one big dumpling, sprinkled with fresh parsley.",
+        "origin_story": "This hearty dish represents Thuringian comfort food at its finest, combining the region's love for slow-cooked meats with the essential dumpling accompaniment. The rolled beef, tangy cabbage, and pillowy Kloß create the holy trinity of Thuringian Sunday dinner.",
+        "where_to_find": "Zum güldenen Rade, Kromer's Restaurant, Haus zum Naumburgischen Keller (all serve traditional versions with slight family recipe variations)."
+      },
+      {
+        "name": "Erfurter Zwiebelkuchen (Erfurt Onion Cake)",
+        "description": "A savory pastry with buttery crust topped with caramelized onions, bacon, cream, and eggs. Often served warm as a snack or part of traditional German breakfast.",
+        "origin_story": "Erfurt and the broader Thuringia region celebrate onions intensely—Weimar hosts Germany's biggest onion festival every October with 500 vendor booths. The 1995 festival featured a 17-foot onion braid suspended from city hall! Onion cake represents this deep cultural connection to the humble bulb.",
+        "where_to_find": "Weimar Onion Festival (second weekend in October—onion soups, stews, breads, tarts, and decorative onion braids), traditional Erfurt cafés and bakeries, Zum Goldenen Schwan."
+      },
+      {
+        "name": "Thuringian Potato Soup",
+        "description": "Hearty soup made with potatoes, bacon, onions, and sometimes sausage, creating a thick, warming bowl perfect for cold German winters.",
+        "origin_story": "Simple, rustic, and deeply comforting—this soup embodies Thuringian resourcefulness and the region's potato-centric cuisine.",
+        "where_to_find": "Wirtshaus Christoffel, Piola-style trattorias throughout Erfurt's historic center."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Erfurter Bock",
+        "description": "A dark, strong bock beer with high alcohol content, brewed locally in Erfurt. Rich, malty, and slightly sweet with deep caramel notes.",
+        "how_locals_drink_it": "Served in half-liter steins at traditional restaurants and breweries, especially during autumn and winter. Locals pair it with bratwurst, dumplings, and hearty meat dishes. Zum Goldenen Schwan houses its own brewery serving fresh Erfurt beer."
+      },
+      {
+        "name": "Thuringian Beer",
+        "description": "Local breweries produce a variety of traditional German beers—pilsners, wheat beers, and seasonal bocks.",
+        "how_locals_drink_it": "Beer gardens are central to social life, especially in summer. Locals enjoy beer with traditional food at charming courtyards like Zum güldenen Rade's beer garden or beneath the vaulted ceilings of historic cellars."
+      }
+    ],
+    "food_culture_notes": [
+      "Erfurt is the capital of Thuringia and one of Germany's best-preserved medieval cities, with half-timbered buildings and vaulted brick cellars.",
+      "The Weimar Onion Festival is Thuringia's biggest food festival—vendors compete to create the longest decorative onion braids using 60+ red and yellow onions twisted around straw cores with dried flowers and herbs.",
+      "Thuringian cuisine is simple, hearty, and heavily reliant on potatoes, pork, and preserved foods from the region's farming heritage.",
+      "Making Thüringer Klöße was historically a Sunday family ritual—different family members had specific roles in the dumpling-making process.",
+      "The exact recipe for Klöße or bratwurst spice mix is often a well-guarded family secret passed through generations.",
+      "Venison plays a special role reflecting Thuringia's vast forests and hunting traditions, especially during autumn and winter.",
+      "Erfurt has a thriving beer culture with local breweries and traditional beer gardens integral to social life.",
+      "The city's historic restaurants are housed in centuries-old buildings with vaulted cellars, half-timbered facades, and late medieval architecture.",
+      "Sunday dinner without dumplings is considered incomplete—the dumpling is the centerpiece of the meal, not just a side dish."
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Erfurt Cathedral (Dom) and Severikirche on Domberg hill",
+      "Krämerbrücke (Merchants' Bridge)—medieval bridge lined with half-timbered houses",
+      "Historic Altstadt with colorful half-timbered buildings",
+      "Augustinian Monastery where Martin Luther lived",
+      "Medieval vaulted cellars beneath restaurants",
+      "Marktplatz with town hall and market stalls"
+    ],
+    "atmosphere": [
+      "Cozy brick-vaulted cellars lit by candlelight",
+      "Half-timbered taverns with wooden beams and rustic charm",
+      "Beer gardens with leafy terraces and long communal tables",
+      "Grilled bratwurst sizzling at street stalls with aromatic spice smoke",
+      "Market squares bustling with onion vendors during festivals",
+      "Traditional German Christmas markets in winter"
+    ],
+    "colors": [
+      "Golden-brown grilled bratwurst casings",
+      "Creamy white potato dumplings",
+      "Deep purple-red of fermented cabbage (Rotkraut)",
+      "Rich amber of Erfurter Bock beer",
+      "Warm browns and creams of half-timbered buildings",
+      "Caramelized golden onions"
+    ],
+    "unique_modern": [
+      "Contemporary German restaurants reimagining bratwurst presentations",
+      "Modern beer gardens with craft beer alongside traditional bocks",
+      "Fusion onion cakes with international twists",
+      "Instagram-worthy medieval architecture backdrops",
+      "Food festivals blending centuries-old recipes with modern presentations"
+    ]
+  },
+  "wikipedia_search_term": "Erfurt",
+  "keywords_for_image": [
+    "Erfurt Germany medieval",
+    "Thüringer bratwurst grilled",
+    "Thuringian potato dumplings Klöße",
+    "Krämerbrücke Erfurt",
+    "German beer garden",
+    "Erfurt Cathedral Domberg",
+    "onion cake Zwiebelkuchen",
+    "half-timbered Erfurt",
+    "Rinderroulade red cabbage",
+    "Erfurter Bock beer"
+  ],
+  "coordinates": {
+    "lat": 50.9787,
+    "lng": 11.0328
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Erfurt+🇩🇪/@50.9787,11.0328,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erfurt"
+  },
+  "location_id": 60
+}

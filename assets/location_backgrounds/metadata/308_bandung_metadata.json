@@ -1,0 +1,94 @@
+{
+  "name": "Bandung",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Bandung is known as the Paris of Java for its Art Deco architecture, but locals call it the culinary capital of Sundanese food - where dishes emphasize raw vegetables and fresh herbs so much that meals often look more like elaborate salad bars than typical Indonesian cuisine.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nasi Timbel",
+        "description": "Steamed rice wrapped in fragrant banana leaves, served with fried chicken, salted fish, fresh vegetables, and fiery sambal",
+        "origin_story": "This traditional Sundanese meal represents the culture's emphasis on freshness and balance. The banana leaf wrapper infuses the rice with a subtle aroma, and the combination of fried, fresh, and fermented elements creates harmony on the plate",
+        "where_to_find": "Kampung Daun (Jl. Sersan Bajuri Km. 4.7 No.88 - famous for nasi timbel), Dapoer Pandan Wangi"
+      },
+      {
+        "name": "Mie Rica Kejaksaan",
+        "description": "Fiery bowl of noodles with spicy minced pork - intensely flavorful and not for the faint of heart",
+        "origin_story": "Open since the 1960s in an old house off Jalan Braga, this legendary spot serves noodles so spicy that locals line up for hours. The recipe hasn't changed in over 60 years",
+        "where_to_find": "Mie Rica Kejaksaan (off Jalan Braga - prepare to wait, open since 1960s)"
+      },
+      {
+        "name": "Batagor",
+        "description": "Fried fish dumplings served with peanut sauce - crispy outside, tender fish inside",
+        "origin_story": "Batagor is a Bandung specialty that has spread across Indonesia, but the original is still the best. Batagor Kingsley has been perfecting their recipe since 1982, and Jakartans make weekend trips just for this",
+        "where_to_find": "Batagor Kingsley (since 1982 - a Bandung institution)"
+      },
+      {
+        "name": "Surabi",
+        "description": "Traditional rice flour and coconut milk pancake, topped with sweet chocolate or savory oncom (fermented soybean)",
+        "origin_story": "These delicate pancakes are cooked in terracotta molds over charcoal, creating crispy edges and soft centers. The sweet-savory versatility makes them perfect for breakfast or snacks",
+        "where_to_find": "Traditional surabi vendors throughout Bandung, street stalls in the morning"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bajigur",
+        "description": "Hot drink made from coconut milk, palm sugar, and ginger - sweet, warming, and aromatic",
+        "how_locals_drink_it": "Consumed in Bandung's cool highland evenings, especially during rainy season. Street vendors sell it steaming hot from thermoses"
+      },
+      {
+        "name": "Es Cendol",
+        "description": "Refreshing dessert drink with green rice flour jellies, coconut milk, and palm sugar syrup over shaved ice",
+        "how_locals_drink_it": "Essential for cooling down in tropical heat. The green pandan jellies mixed with sweet coconut milk and ice is pure refreshment"
+      }
+    ],
+    "food_culture_notes": [
+      "Sundanese food emphasizes freshness, simple tastes, and fondness for raw vegetables (lalapan)",
+      "Warung Nasi Ibu Imas is a 24-hour eatery famous for spicy sambal paste and karedok leunca",
+      "Dapoer Pandan Wangi offers high-quality Sundanese dishes including terong raos (highly recommended)",
+      "Warung Nasi Sida Mulya is better, cheaper, and more authentic than touristy spots like Dusun Bambu Resort"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Art Deco buildings on Jalan Braga",
+      "volcanic Tangkuban Perahu crater",
+      "tea plantations",
+      "Gedung Sate government building"
+    ],
+    "atmosphere": [
+      "cool highland climate",
+      "colonial architecture",
+      "street food vendors everywhere",
+      "tea plantation vistas"
+    ],
+    "colors": [
+      "emerald green tea fields",
+      "deep brown banana leaf wrapping",
+      "bright green vegetables",
+      "golden surabi pancakes"
+    ],
+    "unique_modern": [
+      "Paris of Java Art Deco architecture",
+      "factory outlets and shopping culture",
+      "hipster cafes in colonial buildings",
+      "creative food scene reimagining Sundanese classics"
+    ]
+  },
+  "wikipedia_search_term": "Bandung",
+  "keywords_for_image": [
+    "Bandung Indonesia",
+    "nasi timbel",
+    "Art Deco Braga Street",
+    "tea plantations",
+    "Sundanese cuisine"
+  ],
+  "coordinates": {
+    "lat": -6.9175,
+    "lng": 107.6191
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bandung+🇮🇩/@-6.9175,107.6191,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bandung"
+  },
+  "location_id": 308
+}

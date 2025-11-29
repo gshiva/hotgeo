@@ -1,0 +1,93 @@
+{
+  "name": "Lumbini",
+  "country": "Nepal",
+  "fun_fact": "Fun fact: Lumbini is the birthplace of Siddhartha Gautama (Buddha) in 563 BCE - the exact spot is marked by the Maya Devi Temple. Emperor Ashoka visited in 249 BCE and erected a pillar that still stands today, making it one of the oldest Buddhist pilgrimage sites in the world!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dal Bhat",
+        "description": "Rice with lentil soup, vegetable curries, and pickles - Nepal's national meal",
+        "origin_story": "The saying goes 'Dal Bhat power, 24 hour' - eaten twice daily, it's the fuel of Nepal",
+        "where_to_find": "Local restaurants, guesthouses, every Nepali home"
+      },
+      {
+        "name": "Tharu Cuisine",
+        "description": "Food of the indigenous Tharu people - ghonghi (snail curry), wild game, river fish",
+        "origin_story": "The Terai plains are Tharu homeland - their cuisine features local river fish and unique preparations",
+        "where_to_find": "Local Tharu restaurants, community homestays"
+      },
+      {
+        "name": "Momos",
+        "description": "Tibetan-style dumplings filled with vegetables or buffalo meat, with spicy tomato achaar",
+        "origin_story": "Originally from Tibet, momos are now Nepal's most beloved snack",
+        "where_to_find": "Street vendors, local restaurants"
+      },
+      {
+        "name": "Sel Roti",
+        "description": "Ring-shaped sweet rice bread, deep-fried and crispy",
+        "origin_story": "Traditional Nepali festival food - made for Tihar and Dashain celebrations",
+        "where_to_find": "Morning street vendors, festivals, tea shops"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chiya (Nepali Tea)",
+        "description": "Sweet milk tea with spices - the social lubricant of Nepal",
+        "how_locals_drink_it": "Multiple times daily from tiny glass cups - every tea shop serves it"
+      },
+      {
+        "name": "Fresh Sugarcane Juice",
+        "description": "Pressed fresh from sugarcane on the Terai plains",
+        "how_locals_drink_it": "From roadside vendors - refreshing in the subtropical heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Food near monasteries is often vegetarian out of respect for Buddhist practices",
+      "The Terai region has different cuisine from Kathmandu - more rice, fish, tropical fruits",
+      "Simple pilgrim food dominates - many visitors are on religious journeys",
+      "International Buddhist monasteries sometimes serve food from their home countries"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Maya Devi Temple",
+      "Ashoka Pillar",
+      "World Peace Pagoda",
+      "International monastery zone"
+    ],
+    "atmosphere": [
+      "Buddhist pilgrimage",
+      "peaceful gardens",
+      "monastery bells",
+      "spiritual seekers"
+    ],
+    "colors": [
+      "temple white",
+      "monastic saffron",
+      "prayer flag colors",
+      "lotus pond green"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage",
+      "international monasteries from 25+ countries",
+      "crane conservation"
+    ]
+  },
+  "wikipedia_search_term": "Lumbini",
+  "keywords_for_image": [
+    "Maya Devi Temple Lumbini",
+    "Buddha birthplace",
+    "Ashoka pillar",
+    "Buddhist monastery",
+    "dal bhat Nepal"
+  ],
+  "coordinates": {
+    "lat": 27.4833,
+    "lng": 83.2767
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lumbini+🇳🇵/@27.4833,83.2767,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lumbini"
+  },
+  "location_id": 237
+}

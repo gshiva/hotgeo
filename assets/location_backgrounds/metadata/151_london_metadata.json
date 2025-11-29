@@ -1,0 +1,127 @@
+{
+  "name": "London",
+  "country": "United Kingdom",
+  "fun_fact": "Fun fact: London is home to 270+ nationalities making it the world's most metropolitan city, with approximately 24,000 restaurants ranging from Michelin-starred fine dining to vibrant street food markets representing every corner of the globe.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Brick Lane Curry",
+        "description": "Authentic Indian and Bangladeshi curries from London's iconic curry district, featuring rich, aromatic dishes that have been served since the 1970s",
+        "origin_story": "Brick Lane became London's curry capital as Bangladeshi immigrants settled in the East End, creating a vibrant food district that revolutionized British dining culture",
+        "where_to_find": "Brick Lane (East London), especially the historic curry houses that line this famous street"
+      },
+      {
+        "name": "Bombay-Inspired Comfort Food",
+        "description": "Modern Indian fusion dishes like the famous House Black Daal slow-cooked for 24 hours, allowing spices to fully develop",
+        "origin_story": "Dishoom revolutionized London's Indian food scene by recreating the nostalgic Bombay café culture with quirky décor and innovative fusion dishes",
+        "where_to_find": "Dishoom (multiple locations: King's Cross, Shoreditch, Covent Garden, with new opening at London Bridge near Borough Market)"
+      },
+      {
+        "name": "Sri Lankan Hoppers",
+        "description": "Bowl-shaped fermented rice pancakes with crispy edges and soft centers, served with bold curries and sambols",
+        "origin_story": "JKS Restaurant Group brought authentic Sri Lankan street food to Soho, later expanding to showcase South Indian dishes alongside traditional hoppers",
+        "where_to_find": "Hoppers (Soho and Marylebone locations)"
+      },
+      {
+        "name": "West African Jollof & Caribbean Jerk",
+        "description": "Spicy West African rice dishes and Jamaican jerk chicken with authentic island flavors",
+        "origin_story": "Brixton Village Market became London's Caribbean and African food hub, preserving immigrant food traditions while creating new fusion innovations",
+        "where_to_find": "Brixton Village and Market Row (South London)"
+      },
+      {
+        "name": "Vietnamese Pho",
+        "description": "Aromatic beef or chicken noodle soup with fresh herbs, served in authentic Vietnamese style",
+        "origin_story": "Kingsland Road in East London earned the nickname 'Pho Mile' for its incredible concentration of authentic Vietnamese restaurants",
+        "where_to_find": "Kingsland Road (Hoxton/Dalston area)"
+      },
+      {
+        "name": "Middle Eastern Mezze",
+        "description": "Authentic Lebanese, Syrian, and Egyptian small plates featuring hummus, falafel, grilled meats, and fresh flatbreads",
+        "origin_story": "Edgware Road became London's Little Arabia, with bustling markets and late-night eateries serving the city's Middle Eastern community",
+        "where_to_find": "Edgware Road (Paddington/Marylebone)"
+      },
+      {
+        "name": "Korean BBQ & Kimchi",
+        "description": "Tabletop grilled meats, bibimbap, and fermented vegetables from London's Korean enclave",
+        "origin_story": "New Malden became Europe's largest Korean community outside of Korea, creating an authentic slice of Seoul in suburban London",
+        "where_to_find": "New Malden (Southwest London)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Craft Cocktails",
+        "description": "Innovative fusion cocktails reflecting London's multicultural identity, from yuzu whisky sours to masala chai martinis",
+        "how_locals_drink_it": "Londoners explore cocktail bars across neighborhoods like Shoreditch and Soho, embracing experimental flavors that blend global influences"
+      },
+      {
+        "name": "Artisan Coffee",
+        "description": "Third-wave coffee culture with beans sourced from around the world, reflecting London's global connections",
+        "how_locals_drink_it": "Flat whites and pour-overs consumed in independent cafés while working or meeting friends"
+      },
+      {
+        "name": "Craft Beer & Ale",
+        "description": "Both traditional British ales and modern craft beers from London's booming brewery scene",
+        "how_locals_drink_it": "Enjoyed in historic pubs or trendy taprooms, often paired with food from nearby market stalls"
+      }
+    ],
+    "food_culture_notes": [
+      "London has 85 Michelin-starred restaurants as of 2025, including six three-star establishments",
+      "Borough Market remains the heart of London's food scene with artisanal cheeses, fresh breads, and international delicacies from Ethiopian stews to Argentinian empanadas",
+      "Street food festivals have become melting pots where vendors experiment with fusion like Thai-British combinations and West African jollof paired with Korean pickles",
+      "The city's food markets are social hubs where global cuisines meet local produce - from historic Borough Market to trendy Maltby Street Market",
+      "2025 food trends include experimental hybrids and pan-Asian fusion dishes that celebrate London's diversity",
+      "It's completely normal to find Sunday roast reimagined with miso gravy and tempura vegetables, showcasing London's creative food culture"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Borough Market's Victorian iron and glass structure",
+      "Brick Lane's colorful street art and curry house signs",
+      "Brixton Village's covered market arcades",
+      "Red double-decker buses and black cabs",
+      "Thames River waterfront",
+      "Multicultural neighborhood shop fronts"
+    ],
+    "atmosphere": [
+      "Bustling market stalls with aromatic spices filling the air",
+      "Diverse crowds reflecting 270+ nationalities",
+      "Mix of historic architecture and modern street food trucks",
+      "Vibrant street markets with global vendor calls",
+      "Late-night food scenes in neighborhoods like Edgware Road"
+    ],
+    "colors": [
+      "Bright spice market colors (turmeric yellow, paprika red, cumin brown)",
+      "Traditional red British phone boxes and buses",
+      "Colorful Brixton murals and street art",
+      "Warm golden lighting of evening markets",
+      "Deep curry browns and vibrant green herbs"
+    ],
+    "unique_modern": [
+      "Food trucks serving global fusion dishes",
+      "Instagram-worthy plating at modern restaurants",
+      "Converted industrial spaces housing food halls",
+      "Experimental hybrid cuisines (Thai-British, West African-Korean)",
+      "Michelin-starred fine dining next to authentic street food stalls"
+    ]
+  },
+  "wikipedia_search_term": "London",
+  "keywords_for_image": [
+    "London Borough Market food stalls",
+    "Brick Lane curry houses neon signs",
+    "Brixton Village market multicultural",
+    "London street food diversity",
+    "international cuisine London",
+    "vibrant food markets London",
+    "multicultural dining scene",
+    "global food capital atmosphere"
+  ],
+  "coordinates": {
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/London+🇬🇧/@51.5074,-0.1278,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/London"
+  },
+  "location_id": 151
+}

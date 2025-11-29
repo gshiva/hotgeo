@@ -1,0 +1,94 @@
+{
+  "name": "Siem Reap",
+  "country": "Cambodia",
+  "fun_fact": "Fun fact: The Sugar Palm's Chef Kethana won international acclaim for making fish amok 'the old way'—steamed, not baked—and Gordon Ramsay's visit made the restaurant so popular they had to raise prices (but it's still worth it).",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fish Amok at The Sugar Palm",
+        "description": "Silky steamed fish curry with lemongrass, turmeric, and coconut milk, wrapped in banana leaves—fragrant, delicate, and authentically Khmer",
+        "origin_story": "Chef Kethana insists on the traditional steamed method that takes hours longer than baking. 'If it's not steamed, it's not amok,' she says. Her recipe won Best Amok in Cambodia, even after Gordon Ramsay's endorsement brought international attention",
+        "where_to_find": "The Sugar Palm—family recipes passed down for generations, now famous worldwide"
+      },
+      {
+        "name": "Prahok K'tis at Mahob Khmer",
+        "description": "Fermented fish paste cooked with minced pork and roasted pea eggplants in coconut gravy—pungent, funky, and completely addictive",
+        "origin_story": "Prahok is called 'Cambodian cheese' for its intense fermented flavor. Mahob Khmer's version is refined yet authentic, introducing travelers to the ingredient that defines Khmer cooking",
+        "where_to_find": "Mahob Khmer—where refined meets traditional in modern Cambodian cuisine"
+      },
+      {
+        "name": "Lok Lak at Mahob Khmer",
+        "description": "Tender beef stir-fried with black pepper and served over crisp lettuce with lime-pepper dipping sauce—Mahob's version is considered the most tender in Siem Reap",
+        "origin_story": "Lok lak evolved from French colonial influences mixed with Khmer flavors. The lime-pepper-salt dip is essential, cutting through the rich beef",
+        "where_to_find": "Mahob Khmer (most tender version), Chanrey Tree, or The Sugar Palm"
+      },
+      {
+        "name": "Prahok Chamkar's Salted Fish with Crab-Lime Sauce",
+        "description": "Grilled fish smothered in a vibrant sauce bursting with whole crabs and fresh lime—a textural adventure of crunchy, tangy, and savory",
+        "origin_story": "Prahok Chamkar sits in a lush garden with cabanas and hammocks. The family recipes showcase Cambodian ingredients like nowhere else, with dishes that surprise even seasoned travelers",
+        "where_to_find": "Prahok Chamkar—book ahead, especially on weekends, for their garden cabana seating"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Fresh Sugarcane Juice",
+        "description": "Sweet, grassy juice pressed from fresh sugarcane stalks—served ice-cold with a squeeze of lime",
+        "how_locals_drink_it": "Sold from street carts where you watch the vendor crank the sugarcane through a press. Locals drink it throughout the day to beat the tropical heat, especially after temple exploring"
+      },
+      {
+        "name": "Iced Coffee with Condensed Milk",
+        "description": "Thick, sweet Vietnamese-style coffee served over ice—fuel for the hot, humid days",
+        "how_locals_drink_it": "Sipped slowly at morning markets or roadside stalls, often paired with sweet pastries. The French colonial influence lives on in Cambodia's coffee culture"
+      }
+    ],
+    "food_culture_notes": [
+      "Prahok (fermented fish paste) is to Cambodian cooking what fish sauce is to Vietnamese—essential and everywhere",
+      "Steamed vs. baked amok is a serious debate—traditional cooks insist on steaming in banana leaves",
+      "Pub Street has tourist restaurants, but locals know the best food is at family-run places like Chanrey Tree and Banteay Srey",
+      "Siem Reap's food scene preserves Khmer recipes that nearly disappeared during the Khmer Rouge era"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Angkor Wat temple complex",
+      "Pub Street's neon lights and tuk-tuks",
+      "Siem Reap River and Old Market",
+      "Traditional wooden Khmer houses"
+    ],
+    "atmosphere": [
+      "tropical garden restaurants with hammocks",
+      "steaming street food carts",
+      "banana leaf-wrapped dishes",
+      "lush greenery and lotus ponds"
+    ],
+    "colors": [
+      "golden turmeric curry",
+      "deep green banana leaves",
+      "vibrant lime and herbs",
+      "red-orange sunset over rice paddies"
+    ],
+    "unique_modern": [
+      "Jomno's modern Khmer cuisine reinterpreting classics",
+      "Garden dining at Prahok Chamkar with cabanas",
+      "Chef Kethana's international fame preserving traditional techniques",
+      "UNESCO City of Gastronomy heritage meeting contemporary presentation"
+    ]
+  },
+  "wikipedia_search_term": "Siem_Reap",
+  "keywords_for_image": [
+    "Angkor Wat temples",
+    "Khmer fish amok banana leaf",
+    "Cambodian prahok fermented fish",
+    "Siem Reap street food",
+    "tropical garden restaurant"
+  ],
+  "coordinates": {
+    "lat": 13.3671,
+    "lng": 103.8448
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Siem+Reap+🇰🇭/@13.3671,103.8448,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siem_Reap"
+  },
+  "location_id": 218
+}

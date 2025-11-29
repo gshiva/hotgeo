@@ -1,0 +1,95 @@
+{
+  "name": "Rotterdam",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Rotterdam invented the Kapsalon in 2003 - a fast food dish created by a hairdresser that layers fries, döner meat, melted Gouda cheese, lettuce, and garlic sauce, now a Dutch national obsession!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kapsalon",
+        "description": "Fries topped with döner/gyros, melted Gouda, lettuce, garlic sauce and sambal",
+        "origin_story": "Invented in Rotterdam in 2003 by a hairdresser (kapsalon means hair salon)",
+        "where_to_find": "El Aviva (the original), Dutch-Turkish snack bars everywhere"
+      },
+      {
+        "name": "Kibbeling",
+        "description": "Battered and deep-fried bite-sized cod pieces with garlic sauce",
+        "origin_story": "Originally made from cod cheeks, now a beloved street food",
+        "where_to_find": "Markthal, Blaak Market on Tuesday and Saturday"
+      },
+      {
+        "name": "Haring (Raw Herring)",
+        "description": "Cured raw herring eaten by lifting by tail or in a broodje with onions and pickles",
+        "origin_story": "Dutch tradition for centuries, 'Nieuwe Haring' season is celebrated",
+        "where_to_find": "Markthal fish vendors, Blaak Market"
+      },
+      {
+        "name": "Bitterballen",
+        "description": "Deep-fried meatball croquettes that melt in your mouth",
+        "origin_story": "Traditional Dutch bar snack",
+        "where_to_find": "Every brown café and bar in the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jenever",
+        "description": "Traditional Dutch gin, the ancestor of English gin",
+        "how_locals_drink_it": "Neat in a tulip glass at brown cafés"
+      },
+      {
+        "name": "Dutch beer",
+        "description": "Heineken, Amstel, or local craft beers",
+        "how_locals_drink_it": "With bitterballen at terraces"
+      }
+    ],
+    "food_culture_notes": [
+      "Markthal is a modern food paradise under an iconic arch building",
+      "Patatje oorlog (war fries) with peanut sauce and mayo is a classic",
+      "Strong Indonesian influence from colonial history - try Roopram Roti for Surinamese",
+      "Hagelslag (chocolate sprinkles on buttered bread) is a serious breakfast"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Erasmus Bridge",
+      "Cube Houses",
+      "Markthal",
+      "Euromast tower"
+    ],
+    "atmosphere": [
+      "modern architecture",
+      "harbor cranes",
+      "bicycle culture",
+      "canal-side terraces"
+    ],
+    "colors": [
+      "steel gray",
+      "water blue",
+      "orange (national color)",
+      "red brick"
+    ],
+    "unique_modern": [
+      "rebuilt modern architecture after WWII bombing",
+      "largest port in Europe"
+    ]
+  },
+  "wikipedia_search_term": "Rotterdam",
+  "keywords_for_image": [
+    "kapsalon dish",
+    "kibbeling fish",
+    "raw herring",
+    "Erasmus Bridge",
+    "Cube Houses",
+    "Markthal",
+    "modern architecture",
+    "harbor"
+  ],
+  "coordinates": {
+    "lat": 51.9225,
+    "lng": 4.4792
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rotterdam+🇳🇱/@51.9225,4.4792,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rotterdam"
+  },
+  "location_id": 5
+}

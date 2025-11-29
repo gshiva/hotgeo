@@ -1,0 +1,110 @@
+{
+  "name": "Augsburg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Augsburg is nicknamed 'Datschiburg' because of its signature Zwetschgendatschi plum cake! The city is also home to the Fuggerei - the world's oldest social housing complex still in use (founded 1521), where rent is still less than 1 Euro per year. Residents must be Catholic, demonstrate financial need, and pray three times daily for the souls of the Fugger family. The Fugger banking dynasty was so wealthy during the Renaissance that they financed emperors, popes, and kings, rivaling nation-states.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Schweinshaxe (Pork Knuckle)",
+        "description": "Roasted pork knuckle marinated for days, slow-cooked until brown and crispy outside, juicy and tender inside, served with boiled potatoes or sauerkraut",
+        "origin_story": "A Bavarian showstopper and Oktoberfest favorite. Marinated and slow-roasted in the skin, this tender meaty staple represents the hearty, celebratory food culture of Bavaria. Traditionally served with tangy sauerkraut, potato dumplings, and gravy.",
+        "where_to_find": "Beer gardens like Riegele Biergarten (brewery next door with fresh beer), Thorbräu (one of Germany's oldest breweries, founded 1582), and traditional Bavarian restaurants"
+      },
+      {
+        "name": "Zwetschgendatschi (Augsburg Plum Cake)",
+        "description": "Sheet cake with shortcrust pastry (Mürbteig) generously topped with halved Italian plums, best served lukewarm with cinnamon and whipped cream",
+        "origin_story": "Claims exist that this cake was invented in Augsburg where it's considered the city's signature dish. It resembles the 'Zirbelnuss' (pine cone) in the city's coat of arms, giving Augsburg the nickname 'Datschiburg.' 'Datschi' comes from dialect word 'detschen' meaning 'pinching' (as plums are pinched into dough). The original Augsburg version uses shortcrust pastry, while other Bavarian regions use yeast dough.",
+        "where_to_find": "Bavarian bakeries throughout Augsburg, especially traditional cafes and pastry shops"
+      },
+      {
+        "name": "Leberknödel (Liver Dumplings)",
+        "description": "Dumplings made from liver, bread, eggs, and spices, cooked in beef broth and served as Leberknödelsuppe (liver dumpling soup)",
+        "origin_story": "An extremely popular dish in Augsburg that showcases the Swabian-Bavarian tradition of using all parts of the animal resourcefully. The hearty soup is a comforting classic in the region.",
+        "where_to_find": "Traditional German restaurants and beer gardens throughout Augsburg"
+      },
+      {
+        "name": "Leberkäse",
+        "description": "Finely ground corned beef, pork, and bacon baked in the oven",
+        "origin_story": "Popular among meat lovers, Bavarian Leberkäse stands out because German food law requires Leberkäse sold outside Bavaria to contain liver, but Bavarian versions are exempt from this rule, creating a unique regional specialty.",
+        "where_to_find": "Butcher shops, beer gardens, and traditional Bavarian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bavarian Beer",
+        "description": "Fresh local beers from historic breweries",
+        "how_locals_drink_it": "Riegele Biergarten has the brewery right next door so the beer couldn't be fresher. Thorbräu (founded 1582) is one of Germany's oldest breweries, brewing by Augsburg's own beer purity laws from 1156 - 360 years before Bavaria's Reinheitsgebot."
+      },
+      {
+        "name": "Radler (Beer Mixed Drink)",
+        "description": "Beer mixed with lemonade, refreshing for warm days",
+        "how_locals_drink_it": "Popular in beer gardens during summer, especially after exploring the city"
+      }
+    ],
+    "food_culture_notes": [
+      "Augsburg beer purity law from 1156 is the first in German beer history - 360 years before Bavaria's famous Reinheitsgebot",
+      "Traditional beer garden food includes Radi (spiral-cut radish), Obatzda (cheese spread), Brezel (pretzel), halbes Hendl (half grilled chicken)",
+      "Bavarian tradition allows you to bring your own food to beer gardens (but not drinks)",
+      "Drei Königinnen beer garden is hidden in old town with thick stone walls and wooden door, offering secluded summer paradise",
+      "Dampfnudel is a fluffy sweet bread dunked in vanilla sauce with cinnamon - quintessential Oktoberfest dessert",
+      "Maultaschen (Swabian dumplings) nicknamed 'Herrgottsbescheißerle' (small God-cheaters) because meat was hidden in them during Lent",
+      "Prinzregententorte has seven layers of cake and chocolate buttercream - a staple in Bavarian bakeries",
+      "UNESCO World Heritage water management system with 22 sites including Renaissance fountains",
+      "The Fugger burial chapel (1509) in St. Anne's Church is Germany's earliest Renaissance architecture"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Fuggerei (world's oldest social housing, 1521)",
+      "Renaissance fountains on main boulevard",
+      "Oldest water towers in central Europe",
+      "St. Anne's Church with Fugger burial chapel",
+      "Fugger city palace (first Renaissance building north of the Alps)",
+      "Augustus Fountain",
+      "Town Hall and Golden Hall"
+    ],
+    "atmosphere": [
+      "Renaissance merchant city grandeur",
+      "Historic beer gardens with chestnut trees",
+      "Romantic Road destination",
+      "UNESCO World Heritage water system",
+      "Medieval and Renaissance architecture"
+    ],
+    "colors": [
+      "Golden Renaissance architecture",
+      "Green beer garden chestnut trees",
+      "Amber Bavarian beer",
+      "Purple Zwetschgen (plums)",
+      "Red-brown brick Renaissance buildings"
+    ],
+    "unique_modern": [
+      "Founded 15 BC under Emperor Augustus - one of Germany's oldest cities",
+      "Fugger family replaced Medici as Europe's most influential banking dynasty",
+      "UNESCO water management system dating back 700 years",
+      "Drinking and process water separated as early as 1545",
+      "Leopold Mozart (Wolfgang Amadeus's father) born here",
+      "Rudolf Diesel (diesel engine inventor) from Augsburg",
+      "Bertolt Brecht (famous writer) born here"
+    ]
+  },
+  "wikipedia_search_term": "Augsburg",
+  "keywords_for_image": [
+    "Augsburg Germany",
+    "Fuggerei social housing",
+    "Bavarian beer garden",
+    "Schweinshaxe pork knuckle",
+    "Zwetschgendatschi plum cake",
+    "Renaissance architecture",
+    "Bavarian food",
+    "historic fountains"
+  ],
+  "coordinates": {
+    "lat": 48.3705,
+    "lng": 10.8978
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Augsburg+🇩🇪/@48.3705,10.8978,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augsburg"
+  },
+  "location_id": 30
+}

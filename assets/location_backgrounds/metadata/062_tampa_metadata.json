@@ -1,0 +1,93 @@
+{
+  "name": "Tampa",
+  "country": "USA",
+  "fun_fact": "Fun fact: Tampa INVENTED the Cuban sandwich in Ybor City in the early 1900s! The Tampa Tribune referenced it as early as 1906, beating Miami records by almost 20 years. The Tampa version includes Genoa salami from Italian immigrants who lived side-by-side with Cubans—making it the authentic original. In 2012, Tampa City Council officially declared it the 'signature sandwich of the city of Tampa.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Tampa Cuban Sandwich",
+        "description": "The ORIGINAL Cuban sandwich: Cuban bread layered with roasted pork, ham, Genoa salami, Swiss cheese, pickles, and mustard, pressed until crispy with butter",
+        "origin_story": "Born in Ybor City cafes catering to Cuban cigar workers between 1890-1906. Each ingredient represents a different immigrant group: Cubans (roast pork, Cuban bread), Spanish (ham), Italians (Genoa salami), Jewish/German (mustard and pickles). Casimiro Hernandez Sr., founder of Columbia Restaurant in 1905, is credited by many as the creator of the original Tampa Cuban sandwich",
+        "where_to_find": "Columbia Restaurant (est. 1905) in Ybor City - Florida's oldest restaurant, named 'Best Sandwich in Florida' by Food & Wine magazine. They follow the original 1915 recipe with Cuban bread from La Segunda Bakery"
+      },
+      {
+        "name": "La Segunda Cuban Bread",
+        "description": "Traditional Cuban bread baked fresh daily with a distinctive crispy crust and soft interior - the secret foundation of every authentic Tampa Cuban sandwich",
+        "origin_story": "La Segunda Central Bakery opened in Ybor City in 1915 and has been supplying restaurants and retailers throughout Tampa Bay for over 100 years. Their bread is the gold standard",
+        "where_to_find": "La Segunda Central Bakery in Ybor City - supplies Columbia Restaurant, Soul de Cuba Café, Big Ray's Fish Camp, and retailers throughout the region"
+      },
+      {
+        "name": "1905 Salad",
+        "description": "Columbia Restaurant's iconic salad with lettuce, tomato, Swiss cheese, ham, olives, and the secret 1905 dressing made tableside",
+        "origin_story": "Created at Columbia Restaurant and named after the restaurant's founding year. The dressing recipe is a closely guarded secret, made fresh tableside by servers",
+        "where_to_find": "Columbia Restaurant - this salad is as iconic as their Cuban sandwich, served at all 7 locations but best experienced at the original Ybor City location"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cuban Coffee (Cafecito)",
+        "description": "Strong, sweet espresso that fueled Tampa's cigar workers. Cortadito (with steamed milk) is also popular",
+        "how_locals_drink_it": "Quick shots at cafecito windows throughout Tampa, especially in Ybor City. Locals stand at walk-up windows, drink their tiny cup in seconds, and continue their day"
+      }
+    ],
+    "food_culture_notes": [
+      "The Cuban sandwich became popular among working-class residents in Tampa because it was affordable and delicious - only available at street vendors and small cafes in Ybor City in its early years",
+      "Between 1890 and 1950, Tampa had the largest enclave of Cubans in the United States, centered around the cigar industry in Ybor City",
+      "The main difference between Tampa and Miami Cuban sandwiches: Tampa includes Genoa salami (from Italian immigrants), Miami does not",
+      "Columbia Restaurant grew from a 60-seat corner café to the world's largest Spanish restaurant, seating 1,700 people across an entire city block",
+      "The annual Cuban Sandwich Festival has been held in Tampa every May since 2012, with competition entrants from across Florida, the US, and other countries",
+      "Soul de Cuba Café adds their own twist with a zesty mustard-mayo spread; Big Ray's Fish Camp serves traditional Cubans by the water with laid-back waterfront vibes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ybor City historic brick buildings",
+      "Columbia Restaurant's Spanish tiles and wrought iron",
+      "Tampa Bay waterfront",
+      "cigar factories",
+      "La Segunda Bakery ovens"
+    ],
+    "atmosphere": [
+      "Historic Cuban cigar culture",
+      "bustling Ybor City streets",
+      "cafecito walk-up windows",
+      "pressed sandwich grills sizzling",
+      "Latin music from restaurants"
+    ],
+    "colors": [
+      "Red brick Ybor City buildings",
+      "golden-brown pressed Cuban bread",
+      "pink ham and salami layers",
+      "green pickles",
+      "yellow mustard",
+      "white Swiss cheese melting"
+    ],
+    "unique_modern": [
+      "Columbia Restaurant's 1,700-seat Spanish colonial dining rooms",
+      "Street festivals celebrating the Cuban sandwich",
+      "Multicultural immigrant heritage visible in every sandwich layer"
+    ]
+  },
+  "wikipedia_search_term": "Tampa,_Florida",
+  "keywords_for_image": [
+    "Tampa Cuban sandwich",
+    "Ybor City",
+    "Columbia Restaurant",
+    "Cuban bread pressed",
+    "cigar city",
+    "Tampa Bay waterfront",
+    "historic Florida",
+    "Cuban coffee",
+    "La Segunda bakery",
+    "Spanish colonial architecture"
+  ],
+  "coordinates": {
+    "lat": 27.9506,
+    "lng": -82.4572
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tampa+🇺🇸/@27.9506,-82.4572,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tampa,_Florida"
+  },
+  "location_id": 62
+}

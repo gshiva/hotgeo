@@ -1,0 +1,94 @@
+{
+  "name": "Graz",
+  "country": "Austria",
+  "fun_fact": "Fun fact: Graz was named Austria's 'Capital of Delights' and hosts more Michelin-starred restaurants per capita than almost any Austrian city - in 2023, it hosted the entire MICHELIN Guide Ceremony for all Nordic countries.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Käferbohnensalat",
+        "description": "Scarlet runner bean salad dressed with pumpkin seed oil, vinegar, and onions - simple but unforgettable nutty flavors",
+        "origin_story": "Käferbohnen (scarlet runner beans) grow exclusively in Styria's five specific regions around Bad Radkersburg, Feldbach, Weiz, Hartberg and Fürstenfeld. These protected beans have been cultivated here for generations, stored year-round and prized for their distinctive nutty taste. They're often enhanced with hard-boiled eggs or peppers.",
+        "where_to_find": "Stainzerbauer (Graz institution in hidden courtyard serving Styrian classics), Altsteirische Schmankerlstube (historic building with terrace)"
+      },
+      {
+        "name": "Styrian Schnitzel",
+        "description": "Traditional schnitzel coated in pumpkin seeds instead of breadcrumbs, finished with pumpkin seed oil",
+        "origin_story": "Graz chefs took Austria's beloved schnitzel and gave it a distinctly Styrian twist by using the region's 'green gold' - pumpkin seed oil. This innovation celebrates local pride while honoring tradition. 2.5kg of pumpkin seeds makes just one liter of this precious oil.",
+        "where_to_find": "Altsteirische Schmankerlstube (don't miss this dish), Glöcklbräu (18th-century traditional spot in Glockenspielplatz), Landhauskeller"
+      },
+      {
+        "name": "Traditional Styrian Backhendl",
+        "description": "Deep-fried chicken with crispy golden coating, served with potato salad",
+        "origin_story": "While backhendl exists throughout Austria, Graz's version reflects the region's commitment to quality ingredients - free-range chickens and pumpkin seed oil-dressed potato salad make it distinctly Styrian.",
+        "where_to_find": "Glöcklbräu (authentic 18th-century Austrian food in Glockenspielplatz heart of old town), Gasthaus Pichler"
+      },
+      {
+        "name": "Styrian Tapas",
+        "description": "Small plates showcasing regional specialties - cured meats, cheeses, bean salads, all featuring pumpkin seed oil",
+        "origin_story": "Der Steirer restaurant pioneered 'Styrian Tapas' - adapting the sharing plate concept to showcase Graz's incredible local producers. It's modern presentation of ancient Styrian farming traditions.",
+        "where_to_find": "Der Steirer (innovative Styrian tapas with extensive wine collection), Aiola Im Schloss (historic mansion on city outskirts)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Styrian Wine",
+        "description": "Crisp whites from the Südsteiermark region, especially Sauvignon Blanc and Gelber Muskateller",
+        "how_locals_drink_it": "Locals treat wine cellars as social clubs. Stainzerbauer's cellar stocks fine and rare wines. Styrian Sauvignon Blanc rivals the best internationally, with mineral notes from the region's unique soil."
+      },
+      {
+        "name": "Pumpkin Seed Oil Shots",
+        "description": "Small shots of pure pumpkin seed oil, Styria's 'green gold' served as a digestif",
+        "how_locals_drink_it": "While typically used as a condiment, some traditional restaurants offer small tasting shots of premium pumpkin seed oil. It's thick, nutty, and considered health-promoting. You'll find bottles on every table alongside salt and pepper."
+      }
+    ],
+    "food_culture_notes": [
+      "Pumpkin seed oil ('Kürbiskernöl') appears on EVERYTHING in Graz - salads, ice cream, even desserts. It's called 'green gold' and protected by PGI status",
+      "Kaiser Josef Platz and Lendplatz host daily farmers' markets with produce from Graz's 800 farms within city limits",
+      "The region's long growing season and mineral-rich soil create exceptional vegetables, wild herbs, and berries",
+      "Graz earned 'Capital of Delights' status for its commitment to fresh, local ingredients over imported luxury items"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Schlossberg clock tower",
+      "Kunsthaus Graz (UFO building)",
+      "Murinsel floating platform",
+      "Old Town UNESCO site"
+    ],
+    "atmosphere": [
+      "historic courtyards",
+      "modern architecture contrast",
+      "Mur River cafes",
+      "student energy"
+    ],
+    "colors": [
+      "pumpkin seed oil green",
+      "terracotta roofs",
+      "Schlossberg forest",
+      "contemporary steel blue"
+    ],
+    "unique_modern": [
+      "Hosted 2023 MICHELIN Guide Nordic Countries ceremony",
+      "Kunsthaus alien architecture",
+      "Design district boutiques",
+      "Farm-to-table movement"
+    ]
+  },
+  "wikipedia_search_term": "Graz",
+  "keywords_for_image": [
+    "Graz Schlossberg",
+    "pumpkin seed oil Austria",
+    "scarlet runner beans",
+    "Kunsthaus modern architecture",
+    "Styrian farmland"
+  ],
+  "coordinates": {
+    "lat": 47.0707,
+    "lng": 15.4395
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Graz+🇦🇹/@47.0707,15.4395,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graz"
+  },
+  "location_id": 244
+}

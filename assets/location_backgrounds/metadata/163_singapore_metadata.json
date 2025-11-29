@@ -1,0 +1,127 @@
+{
+  "name": "Singapore",
+  "country": "Singapore",
+  "fun_fact": "Fun fact: Singapore's hawker culture was inscribed as UNESCO Intangible Cultural Heritage in December 2020! Over 100 hawker centers with 6,000+ food stalls serve as 'community dining rooms' where people from Chinese, Malay, Indian, and Peranakan cultures gather. Dishes cost just SGD 3-8, making world-class food democratically accessible. Hawker centers are Singapore's beating culinary heart!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hainanese Chicken Rice",
+        "description": "Singapore's national dish! Impossibly tender poached chicken served over fragrant rice cooked in chicken stock, with chili sauce, ginger paste, and dark soy sauce. Simple ingredients, perfect execution.",
+        "origin_story": "Brought by Hainanese immigrants from China's Hainan Island, this dish was adapted and perfected in Singapore. What started as humble immigrant food became the national dish, representing Singapore's ability to take global influences and make them uniquely Singaporean.",
+        "where_to_find": "Hawker centers across Singapore. Famous stalls at Maxwell Food Centre (Chinatown), Tian Tian Chicken Rice; Old Airport Road Food Centre; Tiong Bahru Market. The best versions cost SGD 3-5 at no-frills hawker stalls."
+      },
+      {
+        "name": "Chili Crab",
+        "description": "Singapore's iconic seafood dish - mud crabs stir-fried in a sweet, savory, slightly spicy tomato-chili sauce. Messy to eat, unforgettable in flavor. Served with fried mantou (buns) for soaking up the addictive sauce.",
+        "origin_story": "Created in the 1950s by Singaporean chef Cher Yam Tian, who experimented with bottled chili and tomato sauce to create something special. It became so iconic that it's now Singapore's signature dish for celebrations and special occasions.",
+        "where_to_find": "While found at hawker centers, this dish shines at seafood restaurants. However, some hawker stalls at places like Tekka Centre and Lau Pa Sat serve excellent versions at more affordable prices than fancy restaurants."
+      },
+      {
+        "name": "Laksa",
+        "description": "A Peranakan (Straits Chinese) spicy noodle soup with coconut milk, rice noodles, shrimp, fishcake, and tau pok (fried tofu puffs). The broth is rich, spicy, and aromatic with a beautiful orange color from chili and turmeric.",
+        "origin_story": "Laksa represents the beautiful fusion of Chinese and Malay cultures (Peranakan heritage). This dish embodies Singapore's multicultural soul - Chinese noodles meet Malay spices and coconut milk.",
+        "where_to_find": "328 Katong Laksa (famous for no-spoon-needed cut noodles), hawker centers like Old Airport Road Food Centre, Maxwell Food Centre. True hawker-style laksa costs SGD 4-6."
+      },
+      {
+        "name": "Char Kway Teow",
+        "description": "Stir-fried flat rice noodles with eggs, Chinese sausage, fishcake, bean sprouts, and chives, cooked over intense heat (wok hei). Dark, smoky, savory perfection.",
+        "origin_story": "Originally a humble fisherman's meal, this dish was cooked with leftover ingredients and maximum heat for maximum flavor. The skilled hawker's mastery of wok hei (breath of the wok) makes or breaks this dish.",
+        "where_to_find": "Hawker centers everywhere. Legendary versions at Hill Street Fried Kway Teow (Bedok South), Old Airport Road Food Centre, Tiong Bahru Market. Watch for hawkers using charcoal stoves for authentic wok hei."
+      },
+      {
+        "name": "Satay",
+        "description": "Grilled meat skewers (chicken, beef, mutton, or lamb) marinated in turmeric and spices, grilled over charcoal, served with peanut sauce, cucumber, onions, and ketupat (compressed rice cakes).",
+        "origin_story": "A Malay-Indonesian dish that became a Singaporean staple. The mesmerizing sight of satay men fanning charcoal grills at hawker centers is quintessentially Singapore. The peanut sauce recipe is each hawker's closely guarded secret.",
+        "where_to_find": "Lau Pa Sat transforms into Satay Street after 7pm with outdoor satay stalls. Also excellent at East Coast Lagoon Food Village, Tekka Centre (Little India), and Chomp Chomp Food Centre."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Teh Tarik (Pulled Tea)",
+        "description": "Strong black tea with condensed milk, 'pulled' (poured back and forth between two containers from a height) to create a frothy, smooth drink. The pulling aerates the tea and cools it to drinking temperature.",
+        "how_locals_drink_it": "Enjoyed at hawker centers and kopitiam (coffee shops) throughout the day. The theatrical pulling is a performance art. Locals order it 'kosong' (no sugar), 'siew dai' (less sweet), or 'gao' (strong). Often paired with breakfast items like kaya toast or curry puff."
+      },
+      {
+        "name": "Singapore Sling",
+        "description": "The iconic pink gin-based cocktail invented at Raffles Hotel in 1915. Made with gin, cherry brandy, pineapple juice, lime juice, Cointreau, Bénédictine, and a dash of bitters.",
+        "how_locals_drink_it": "Honestly? Mostly tourists drink it at Raffles Hotel's Long Bar (where you can still throw peanut shells on the floor). Locals might have it for special occasions but it's quite sweet. The real Singapore drinking culture is at hawker centers with Tiger beer or at cocktail bars with modern twists on classics."
+      },
+      {
+        "name": "Kopi (Local Coffee)",
+        "description": "Strong coffee made from beans roasted with sugar and margarine, brewed through a cloth filter, served with condensed milk. It's sweet, thick, and intensely flavored - nothing like Western coffee.",
+        "how_locals_drink_it": "Mastering the kopi ordering system is essential: 'kopi' (with condensed milk), 'kopi-O' (black with sugar), 'kopi-C' (with evaporated milk and sugar), 'kopi gao' (extra strong). Enjoyed at breakfast or afternoon breaks at kopitiams with kaya toast."
+      }
+    ],
+    "food_culture_notes": [
+      "UNESCO recognition in 2020 celebrated hawker culture as community dining rooms enabling cross-class and cross-ethnic interactions",
+      "Over 100 hawker centers, 6,000+ stalls - representing Chinese, Malay, Indian, and Peranakan cuisines all in shared spaces",
+      "Affordable pricing (SGD 3-8 per dish) ensures food accessibility across all income levels - this democratic access is core to the culture",
+      "Hawker culture faces challenges: aging stallholders, rising costs, fewer young people joining. But 'hawkerpreneurs' are bringing modern innovation",
+      "Hawker centers are where Singaporeans of all backgrounds truly mix - office workers next to construction workers next to students",
+      "Chope culture: reserving tables with tissue packets while you order. Uniquely Singaporean!",
+      "Many hawkers are second or third generation, learning recipes from parents/grandparents - intergenerational knowledge transmission",
+      "Critics debate: modernized hawker centers with air-con destroy authentic character vs. necessary evolution for younger generations",
+      "Activities beyond eating: chess-playing, busking, art-jamming happen at hawker centers - true community spaces"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Marina Bay Sands with its iconic infinity pool (146m long, 191m high)",
+      "Gardens by the Bay Supertrees (25-50m tall vertical gardens)",
+      "Merlion statue (half mermaid, half lion)",
+      "Cloud Forest with 35m indoor waterfall",
+      "Helix Bridge",
+      "Colorful shophouses in Chinatown and Little India",
+      "Hawker center architecture - open-air, rows of stalls, communal tables"
+    ],
+    "atmosphere": [
+      "Bustling hawker centers with steam rising from countless woks",
+      "Hawkers shouting orders in multiple languages",
+      "The clang of woks, sizzle of satay on charcoal",
+      "Tissue packets 'chope-ing' tables",
+      "Families sharing multiple dishes across generations",
+      "The sweet smell of kaya toast and kopi at morning kopitiam",
+      "Nighttime transformation of Lau Pa Sat into Satay Street with outdoor grills"
+    ],
+    "colors": [
+      "Rich orange laksa broth",
+      "Golden-brown chicken rice with green cucumber",
+      "Bright red chili crab sauce",
+      "Dark wok-charred char kway teow",
+      "Pink Singapore Sling",
+      "Rainbow of hawker center stalls",
+      "Purple lights of Gardens by the Bay Supertrees at night"
+    ],
+    "unique_modern": [
+      "UNESCO Intangible Cultural Heritage status (2020) - one of the youngest food cultures to receive this honor",
+      "'Hawkerpreneurs' bringing modern branding, digital platforms, fusion recipes while respecting traditions",
+      "Michelin Bib Gourmand awards for hawker stalls - world-class food at SGD 3-5",
+      "One Michelin-starred hawker stall: Hawker Chan (soya sauce chicken rice)",
+      "Government programs supporting young hawkers and preserving culture",
+      "Tension between preservation and modernization keeps the culture evolving",
+      "Social media has made certain hawker stalls internationally famous with hours-long queues"
+    ]
+  },
+  "wikipedia_search_term": "Singapore",
+  "keywords_for_image": [
+    "Singapore hawker center",
+    "Hainanese chicken rice",
+    "Marina Bay Sands",
+    "chili crab Singapore",
+    "Gardens by the Bay",
+    "laksa noodle soup",
+    "satay grilled skewers",
+    "Singapore street food",
+    "UNESCO food heritage",
+    "multicultural Asian cuisine"
+  ],
+  "coordinates": {
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Singapore+🇸🇬/@1.3521,103.8198,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Singapore"
+  },
+  "location_id": 163
+}

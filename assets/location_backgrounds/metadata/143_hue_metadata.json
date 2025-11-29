@@ -1,0 +1,105 @@
+{
+  "name": "Hue",
+  "country": "Vietnam",
+  "fun_fact": "Fun fact: Hue was the imperial capital of the Nguyen Dynasty and is Vietnam's true culinary capital for refined cuisine. Emperor Tu Duc ordered royal chefs to prepare a unique meal every night, creating the legendary 'Royal Cuisine' tradition. In 2025, bún bò Huế was officially recognized as National Intangible Cultural Heritage - Anthony Bourdain called it 'the greatest soup in the world.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bún Bò Huế (Imperial Beef Noodle Soup)",
+        "description": "A complex, spicy beef and pork noodle soup with thick vermicelli noodles, simmered in a lemongrass-infused broth with beef shank, pork knuckle, and congealed pig's blood. Topped with fresh herbs, lime, and chili.",
+        "origin_story": "Born in the royal kitchens of the Nguyen Dynasty, bún bò Huế represents the soul of Hue cuisine. On June 27, 2025, Vietnam officially recognized it as National Intangible Cultural Heritage. Celebrity chef Anthony Bourdain declared it 'the greatest soup in the world.' In Hue, locals simply call it 'bún bò' - the 'Huế' is only added outside the city.",
+        "where_to_find": "Bun Bo Mu Roi (near Imperial Palace in the Citadel), Madam Thu (family-run, locally-sourced ingredients), Bun Bo Hue Oc Van (12 Truong Dinh Street, legendary stall, 40,000 VND/$1.60 USD)"
+      },
+      {
+        "name": "Royal Imperial Cuisine (Tasting Menu)",
+        "description": "An elaborate 8-9 course tasting menu recreating the royal dining experience with artistically presented miniature dishes. Each dish celebrates Hue's imperial heritage with meticulous preparation and presentation. Includes around 50 small dishes in the full experience.",
+        "origin_story": "Emperor Tu Duc demanded a unique meal every night, forcing royal chefs to innovate constantly. This created Vietnam's most refined culinary tradition - dishes originally developed for Vietnamese royalty, now served in restaurants where diners dress as kings, queens, and princes for $15-20 USD.",
+        "where_to_find": "Tinh Gia Vien Restaurant (2-decade legacy, chef with royal lineage), Ancient Hue Restaurant (traditional wooden house, artistic presentation), royal-themed restaurants near the Imperial City"
+      },
+      {
+        "name": "Bánh Bèo (Water Fern Cakes)",
+        "description": "Delicate steamed rice cakes in small ceramic dishes, topped with dried shrimp, crispy pork skin, scallion oil, and fish sauce. A survivor from the Nguyen Emperor period.",
+        "origin_story": "According to legend, one of Emperor Tu Duc's Imperial chefs created bánh bèo during the quest to prepare unique nightly meals. It was so beloved it became immortalized as a signature Hue dish, representing the refinement of imperial cuisine in accessible street food form.",
+        "where_to_find": "Street vendors throughout Hue's Old Quarter, Lac Thien (popular restaurant near Imperial City)"
+      },
+      {
+        "name": "Bánh Khoai (Hue Pancakes)",
+        "description": "Crispy rice flour pancakes filled with shrimp, pork, and bean sprouts, smaller and crispier than southern Vietnamese bánh xèo. Served with special dipping sauce and fresh herbs.",
+        "origin_story": "A Hue variation of Vietnamese pancakes, distinguished by its smaller size and extra crispiness - reflecting the imperial preference for refined, delicate presentations.",
+        "where_to_find": "Lac Thien (one of the most popular restaurants in Hue, near Imperial City)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Lotus Tea (Trà Sen)",
+        "description": "Delicate green tea scented with lotus flowers from Hue's lakes. The lotus was grown by the Royal family and remains Hue's signature ingredient.",
+        "how_locals_drink_it": "Served in traditional teahouses, often after meals. Hue's lotus is considered the best in Vietnam, a direct legacy of the royal gardens."
+      },
+      {
+        "name": "Hue Che (Sweet Dessert Soup)",
+        "description": "Refined sweet soups influenced by Imperial Cuisine, often made with lotus seeds from royal lotus ponds. Varieties include multiple layers of beans, jellies, and coconut milk.",
+        "how_locals_drink_it": "Enjoyed as a dessert or afternoon treat. The lotus seed version is uniquely Hue, reflecting the royal family's cultivation traditions."
+      }
+    ],
+    "food_culture_notes": [
+      "Hue was once home to the Nguyen Dynasty royal families, making 'a meal fit for a king' literally true here",
+      "The term 'imperial cuisine' or 'royal cuisine' refers to 8-9 course set menus recreating royal dining experiences",
+      "Many popular Hue dishes originated in royal kitchens but are now accessible street food",
+      "Located only 5 miles from the coast, Hue combines imperial refinement with fresh coastal ingredients",
+      "Royal restaurants offer costumed dining experiences where tourists dress as royalty for $15-20 USD",
+      "The Perfume River (Hương River) provides the romantic backdrop for many dining experiences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Imperial City and Citadel walls",
+      "Perfume River (Hương River)",
+      "Royal tombs of Nguyen emperors",
+      "Traditional wooden houses",
+      "Lotus ponds (royal heritage)",
+      "Thien Mu Pagoda"
+    ],
+    "atmosphere": [
+      "Colonial French villa architecture",
+      "Imperial purple and gold accents",
+      "Restored traditional wooden houses",
+      "Lush garden settings",
+      "River terrace dining",
+      "Street food stalls in Old Quarter"
+    ],
+    "colors": [
+      "Imperial purple and gold",
+      "Lotus pink and white",
+      "Deep red (bún bò Huế broth)",
+      "Colonial villa cream and green",
+      "Perfume River blues"
+    ],
+    "unique_modern": [
+      "Costumed royal dining experiences",
+      "Colonial-Vietnamese fusion restaurants",
+      "Family-run eateries with royal lineage chefs",
+      "Artistic presentation honoring imperial heritage",
+      "Street food elevated to cultural heritage status"
+    ]
+  },
+  "wikipedia_search_term": "Hue",
+  "keywords_for_image": [
+    "hue imperial cuisine vietnam",
+    "bun bo hue soup",
+    "hue royal palace vietnam",
+    "perfume river hue",
+    "vietnamese imperial food",
+    "lotus pond hue",
+    "banh beo rice cakes",
+    "nguyen dynasty cuisine"
+  ],
+  "coordinates": {
+    "lat": 16.4637,
+    "lng": 107.5909
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hue+🇻🇳/@16.4637,107.5909,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hue"
+  },
+  "location_id": 143
+}

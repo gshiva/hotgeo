@@ -1,0 +1,94 @@
+{
+  "name": "Atlanta",
+  "country": "USA",
+  "fun_fact": "Fun fact: Paschal's Restaurant was the unofficial headquarters of the Civil Rights Movement in the 1960s—Martin Luther King Jr., John Lewis, and Andrew Young planned protests over fried chicken and sweet tea, making it both a soul food institution and a piece of American history.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fried Chicken at The Busy Bee Cafe",
+        "description": "Perfectly seasoned, crispy-skinned fried chicken that's been made the same way since 1947—juicy, golden, and everything Southern comfort food should be",
+        "origin_story": "Founded by Lucy 'Momma Lucy' Jackson in 1947, The Busy Bee earned a James Beard 'America's Classics' award and a Michelin Guide Bib Gourmand (2023-2024). Momma Lucy's self-taught recipes became Atlanta legend",
+        "where_to_find": "The Busy Bee Cafe (been serving since 1947), Mary Mac's Tea Room (since 1945, called 'Atlanta's Dining Room' by the state legislature)"
+      },
+      {
+        "name": "Fried Catfish at Paschal's",
+        "description": "Cornmeal-crusted catfish fried to a golden crisp, served with hot sauce and collard greens—classic soul food with a side of history",
+        "origin_story": "Paschal's opened in 1947 in Castleberry Hill and became the gathering place for Civil Rights leaders. The restaurant's soul food literally fueled the movement. Six decades later, it's still serving the same recipes",
+        "where_to_find": "Paschal's (Historic Castleberry Hill)—civil rights landmark since 1947"
+      },
+      {
+        "name": "Modern Global Soul Food at Twisted Soul Cookhouse & Pours",
+        "description": "Chef Deborah VanTrece's contemporary take on soul food—think oxtails with Asian spices or jerk chicken with Caribbean heat",
+        "origin_story": "Chef VanTrece, a former flight attendant and bestselling cookbook author, created 'modern global soul food' by combining Southern traditions with flavors from her worldwide travels. Twisted Soul earned a 2024 Michelin Guide recommendation",
+        "where_to_find": "Twisted Soul Cookhouse & Pours (W. Midtown Atlanta)"
+      },
+      {
+        "name": "Fried Green Tomatoes at Mary Mac's Tea Room",
+        "description": "Cornmeal-crusted green tomatoes fried until crispy and tangy, served with remoulade sauce—a Southern classic done right",
+        "origin_story": "Mary Mac's has been Atlanta's dining room since 1945. Governors, celebrities, and college students all fill the same tables for Southern staples. The restaurant's dedication to traditional recipes made it a state-recognized institution",
+        "where_to_find": "Mary Mac's Tea Room (Ponce de Leon)—officially Atlanta's Dining Room since 1945"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sweet Tea",
+        "description": "Ice-cold black tea sweetened to the point of near-syrup—the unofficial beverage of the South",
+        "how_locals_drink_it": "Served in huge glasses with meals at every soul food restaurant. The sweetness is non-negotiable; unsweetened tea is considered heresy. Refills are free and expected"
+      },
+      {
+        "name": "Coca-Cola",
+        "description": "Atlanta's most famous export—the birthplace of Coke means it flows like water here",
+        "how_locals_drink_it": "Always Coke, never Pepsi. Born in Atlanta in 1886, locals take pride in drinking it ice-cold from the fountain. The World of Coca-Cola museum is a pilgrimage site"
+      }
+    ],
+    "food_culture_notes": [
+      "Soul food in Atlanta is inseparable from Civil Rights history—restaurants like Paschal's were movement headquarters",
+      "Mary Mac's Tea Room is so iconic the Georgia state legislature officially named it 'Atlanta's Dining Room'",
+      "Three restaurants have Michelin recognition (Busy Bee, Twisted Soul)—soul food is fine dining here",
+      "Old Lady Gang (owned by Real Housewife Kandi Burruss) brings celebrity culture to traditional Southern cooking"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Martin Luther King Jr. National Historic Site",
+      "Atlanta skyline and Centennial Olympic Park",
+      "Historic Auburn Avenue (Sweet Auburn)",
+      "Ponce City Market"
+    ],
+    "atmosphere": [
+      "checkered tablecloths and sweet tea pitchers",
+      "sizzling cast-iron skillets",
+      "gospel music and warm hospitality",
+      "mix of historic and modern Atlanta"
+    ],
+    "colors": [
+      "golden fried chicken crust",
+      "deep green collard greens",
+      "brown gravy and cornbread",
+      "red Coca-Cola branding"
+    ],
+    "unique_modern": [
+      "Twisted Soul's global soul food fusion",
+      "Michelin Guide recognizing Southern soul food",
+      "Old Lady Gang bringing Real Housewives glamour to collards",
+      "Civil Rights Tourism preserving restaurant history"
+    ]
+  },
+  "wikipedia_search_term": "Atlanta",
+  "keywords_for_image": [
+    "Southern fried chicken soul food",
+    "Atlanta Civil Rights Paschal's",
+    "sweet tea pitcher",
+    "collard greens cornbread",
+    "Atlanta skyline"
+  ],
+  "coordinates": {
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Atlanta+🇺🇸/@33.749,-84.388,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Atlanta"
+  },
+  "location_id": 222
+}

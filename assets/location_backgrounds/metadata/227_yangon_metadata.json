@@ -1,0 +1,94 @@
+{
+  "name": "Yangon",
+  "country": "Myanmar",
+  "fun_fact": "Fun fact: Mohinga, Myanmar's national dish, is sold from street carts at dawn by vendors who've been making the same fish broth recipe for generations—some families guard their spice blend like a state secret, and locals can taste the difference between neighborhoods.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Mohinga at Myaung Mya Daw Cho",
+        "description": "Rice noodles in rich, pungent fish broth with lemongrass, ginger, and crispy fritters—Myanmar's breakfast obsession",
+        "origin_story": "Myaung Mya Daw Cho is known citywide for having the thickest, most ginger-forward mohinga broth. Street vendors sell it everywhere, but this restaurant's version is considered the gold standard. The broth simmers for hours",
+        "where_to_find": "Myaung Mya Daw Cho (famous for thick, bright broth), U Lay Gyi Mohingha (local breakfast stalls throughout Yangon)"
+      },
+      {
+        "name": "Lahpet Thoke (Tea Leaf Salad) at Rangoon Tea House",
+        "description": "Fermented tea leaves mixed with roasted peanuts, sesame seeds, fried garlic, dried shrimp, and tomatoes—sour, crunchy, bitter, and completely unique",
+        "origin_story": "Myanmar is the only country that eats tea leaves as food. Rangoon Tea House serves the best version in Yangon: the pickled tea is slightly bitter and earthy, mixed with crispy elements. It's addictive once you acquire the taste",
+        "where_to_find": "Rangoon Tea House (Ground Floor, 77-79 Pansodan Street), Kaung Lay TeaLeaf Salad Shop, or Feel Myanmar Food"
+      },
+      {
+        "name": "Shan Noodles at 999 Shan Noodle House",
+        "description": "Rice noodles in savory broth or tossed dry with chicken, peanuts, and sesame oil—Shan cuisine's greatest export to Yangon",
+        "origin_story": "999 Shan Noodle House has served food inspired by Shan State since 1978. Shan noodles differ from Burmese: lighter broth, rice noodles, and optional chili oil. This is Yangon's most famous Shan restaurant",
+        "where_to_find": "999 Shan Noodle House (since 1978—most searched restaurant in Myanmar), Aung Mingalar (behind Bogyoke Market)"
+      },
+      {
+        "name": "Traditional Curry at Aung Thukha",
+        "description": "Burmese curries with your choice of meat (chicken, pork, fish) served with rice and a dozen small side dishes—oil-rich and deeply flavored",
+        "origin_story": "Aung Thukha in Bahan suburb is where locals go for authentic home-style curries. All dishes are pre-cooked and displayed in trays—you point at what you want. The Burmese curry style uses more oil than Thai or Indian versions",
+        "where_to_find": "Aung Thukha (Bahan suburb—hidden local favorite), Feel Myanmar Food (chain with more touristy atmosphere)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Burmese Tea (Lahpet Yay)",
+        "description": "Strong, sweet milky tea served hot or iced—the social lubricant of Myanmar",
+        "how_locals_drink_it": "Tea shops are Yangon's living rooms. Locals sip tea for hours while discussing politics, business, and gossip. It's served with condensed milk, very sweet, and always comes with free water"
+      },
+      {
+        "name": "Sugarcane Juice",
+        "description": "Fresh-pressed sugarcane juice served ice-cold with a squeeze of lime—sweet, grassy, refreshing",
+        "how_locals_drink_it": "Sold from street carts where vendors crank sugarcane through a press. It's the perfect antidote to Yangon's tropical heat and spicy food"
+      }
+    ],
+    "food_culture_notes": [
+      "Mohinga for breakfast is non-negotiable—locals eat it before work from street carts that appear at dawn",
+      "Tea leaf salad (lahpet thoke) is the only cuisine in the world that eats fermented tea leaves, not just drinks tea",
+      "Burmese curry is oil-heavy compared to Thai or Indian—the oil preserves the curry in tropical heat",
+      "Tea shops are Myanmar's social hubs where people spend hours debating over sweet milky tea"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Shwedagon Pagoda golden stupa",
+      "Colonial British buildings",
+      "Bogyoke Aung San Market",
+      "Yangon River waterfront"
+    ],
+    "atmosphere": [
+      "steaming mohinga carts at dawn",
+      "tea shops packed with locals",
+      "trays of pre-cooked curries displayed",
+      "tropical humidity and ceiling fans"
+    ],
+    "colors": [
+      "golden Shwedagon Pagoda",
+      "deep brown fermented tea leaves",
+      "vibrant curry sauces",
+      "bright green lime and herbs"
+    ],
+    "unique_modern": [
+      "Rangoon Tea House's modern take on traditional dishes (opened 2014)",
+      "999 Shan Noodle House's 40+ year legacy (since 1978)",
+      "Street mohinga vendors using century-old family recipes",
+      "Tea shops as Myanmar's democratic public spaces"
+    ]
+  },
+  "wikipedia_search_term": "Yangon",
+  "keywords_for_image": [
+    "Shwedagon Pagoda golden Myanmar",
+    "mohinga fish noodle soup",
+    "lahpet thoke tea leaf salad",
+    "Burmese tea shop",
+    "Yangon street food"
+  ],
+  "coordinates": {
+    "lat": 16.8661,
+    "lng": 96.1951
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Yangon+🇲🇲/@16.8661,96.1951,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yangon"
+  },
+  "location_id": 227
+}

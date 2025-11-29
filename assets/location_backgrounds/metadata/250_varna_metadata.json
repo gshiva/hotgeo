@@ -1,0 +1,94 @@
+{
+  "name": "Varna",
+  "country": "Bulgaria",
+  "fun_fact": "Fun fact: Varna is home to the oldest gold treasure in the world (6,000+ years old, from the Chalcolithic era) and was called 'the sea capital' of Bulgaria - it's where Bulgarians escape for Black Sea summer holidays.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Banitsa",
+        "description": "Layers of thin phyllo pastry filled with eggs, cheese (sirene), and sometimes spinach or pumpkin - crispy, flaky perfection",
+        "origin_story": "Banitsa is Bulgaria's beloved breakfast pastry, dating back centuries. The technique of layering paper-thin dough comes from Ottoman influence, but Bulgarians made it their own with local white cheese. It's sold at every bakery and street stall, best enjoyed warm and fresh from the oven.",
+        "where_to_find": "Bakery Ticha (known for crispy, flavorful banitsa), Zlatna Panna (charming café experience), street food stalls throughout Varna"
+      },
+      {
+        "name": "Shopska Salad",
+        "description": "Fresh chopped tomatoes, cucumbers, bell peppers, onions, topped with grated sirene (white cheese) - refreshing and vibrant",
+        "origin_story": "Created in the 1960s to promote Bulgarian cuisine to tourists, shopska salad became more authentic than its invented origins. Named after the Shopi region, it uses Bulgaria's incredible summer vegetables and tangy sheep's milk cheese. The red, green, and white colors match Bulgaria's flag.",
+        "where_to_find": "Restaurant Vodenitzata (authentic shopska salad), Staria Chinar (traditional Bulgarian dishes), Gostilnitza Chuchura, The Little House (family-run with local ingredients)"
+      },
+      {
+        "name": "Kavarma",
+        "description": "Slow-cooked meat stew (pork, chicken, or lamb) with vegetables, wine, and paprika, traditionally served in a clay pot",
+        "origin_story": "Kavarma represents Bulgarian home cooking at its finest - meat and vegetables slow-cooked until tender, absorbing flavors from the clay pot. Each region has its version, and Varna's coastal variation might include local wine and peppers.",
+        "where_to_find": "Staria Chinar (top spot for traditional Bulgarian dishes), Gostilnitza Chuchura (authentic tavern atmosphere), Mehana Chuchura"
+      },
+      {
+        "name": "Fresh Black Sea Fish",
+        "description": "Grilled mackerel, turbot, or sea bream caught daily from the Black Sea, simply prepared with lemon and herbs",
+        "origin_story": "Varna's location on the Black Sea makes fresh fish central to local cuisine. The fishing tradition goes back millennia to ancient Thracian times. Simple grilling lets the fresh catch shine - no need for elaborate preparation when the fish came from the sea that morning.",
+        "where_to_find": "Godzila Sevastopol (4 locations including beachside - seafood, traditional shopska salad, reasonable prices), beachfront restaurants along the coast"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakia",
+        "description": "Bulgarian fruit brandy (usually plum or grape), clear and potent at 40%+ alcohol",
+        "how_locals_drink_it": "Served in small glasses before meals as an aperitif or to toast special occasions. Never shot quickly - Bulgarians sip it slowly. Often homemade by families who proudly share their own batches. It's ritual, not just alcohol."
+      },
+      {
+        "name": "Ayran",
+        "description": "Chilled yogurt drink mixed with water and salt, refreshing in summer heat",
+        "how_locals_drink_it": "Bulgarians invented yogurt and drink ayran throughout hot summer days. Served cold alongside shopska salad or kebapche. The probiotics are considered healthy, and it's the perfect cooling drink for Black Sea beaches."
+      }
+    ],
+    "food_culture_notes": [
+      "Best time to visit Varna's restaurants is June-September when beachside and rooftop restaurants offer outdoor seating with Black Sea views",
+      "Bulgarian white cheese (sirene) appears in almost every dish - it's tangier and saltier than feta, made from sheep's milk",
+      "Mehanas (traditional Bulgarian taverns) offer the most authentic experience - cozy atmosphere, hearty portions, folk music",
+      "Street food banitsa is a breakfast staple - Bulgarians grab a piece from bakeries on their way to work"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Roman Baths",
+      "Sea Garden park",
+      "Cathedral of the Assumption",
+      "Archaeological Museum (ancient gold)"
+    ],
+    "atmosphere": [
+      "Black Sea beaches",
+      "summer resort vibes",
+      "ancient Roman ruins",
+      "seaside promenades"
+    ],
+    "colors": [
+      "Black Sea deep blue",
+      "white sirene cheese",
+      "red tomatoes",
+      "golden ancient artifacts"
+    ],
+    "unique_modern": [
+      "Beach club culture",
+      "Summer music festivals",
+      "Contemporary seafood restaurants",
+      "Coastal bike paths"
+    ]
+  },
+  "wikipedia_search_term": "Varna,_Bulgaria",
+  "keywords_for_image": [
+    "Varna Black Sea",
+    "Bulgarian banitsa pastry",
+    "shopska salad",
+    "beach resort Bulgaria",
+    "ancient Roman baths"
+  ],
+  "coordinates": {
+    "lat": 43.2141,
+    "lng": 27.9147
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Varna+🇧🇬/@43.2141,27.9147,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Varna,_Bulgaria"
+  },
+  "location_id": 250
+}

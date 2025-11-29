@@ -1,0 +1,93 @@
+{
+  "name": "Madrid",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Sobrino de Botín, founded in 1725, is the world's oldest continuously operating restaurant according to Guinness World Records - Hemingway loved it, and the final scene of his novel 'The Sun Also Rises' takes place there!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cochinillo Asado",
+        "description": "Whole roasted suckling pig with incredibly crispy skin",
+        "origin_story": "A Castilian specialty - Sobrino de Botín has been roasting them in the same wood-fired oven since 1725",
+        "where_to_find": "Sobrino de Botín (world's oldest restaurant), Casa Lucio, traditional asadores"
+      },
+      {
+        "name": "Bocadillo de Calamares",
+        "description": "Fried squid rings in a crusty bread roll - Madrid's quintessential street food",
+        "origin_story": "Madrid is far from the sea, yet this seafood sandwich is its signature. Found at bars around Plaza Mayor",
+        "where_to_find": "La Campana, Bar Postas, El Brillante, bars around Plaza Mayor"
+      },
+      {
+        "name": "Huevos Rotos",
+        "description": "Fried eggs broken over crispy potatoes with jamón ibérico",
+        "origin_story": "The 'broken eggs' are famously made at Casa Lucio - simple but iconic",
+        "where_to_find": "Casa Lucio (invented here), Casa Gonzalez, traditional bars"
+      },
+      {
+        "name": "Cocido Madrileño",
+        "description": "Madrid's signature chickpea stew served in three courses (vuelcos) - broth, vegetables, then meats",
+        "origin_story": "A winter tradition since the 16th century - the three-course presentation is unique to Madrid",
+        "where_to_find": "La Barraca, Malacatín, Cruz Blanca - especially Thursdays and Sundays"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vermut",
+        "description": "Vermouth served on tap with an olive and orange slice",
+        "how_locals_drink_it": "Sunday afternoon 'la hora del vermut' ritual before lunch, standing at bar"
+      },
+      {
+        "name": "Tinto de Verano",
+        "description": "Red wine mixed with lemon soda or casera - Spain's summer drink",
+        "how_locals_drink_it": "Everywhere in summer - easier to drink than sangria, more local"
+      }
+    ],
+    "food_culture_notes": [
+      "Tapas hopping (ir de cañas) is serious culture - many bars, one tapa each",
+      "Lunch is at 2-3pm, dinner at 9-10pm - adapt or go hungry",
+      "Mercado de San Miguel is beautiful but touristy - locals prefer Mercado de San Fernando",
+      "Sunday vermut hour before late lunch is sacred"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Puerta del Sol",
+      "Plaza Mayor",
+      "Royal Palace",
+      "Retiro Park"
+    ],
+    "atmosphere": [
+      "late nights",
+      "tapas bar hopping",
+      "elegant boulevards",
+      "football passion"
+    ],
+    "colors": [
+      "terracotta rooftops",
+      "royal gold",
+      "jamón red",
+      "olive green"
+    ],
+    "unique_modern": [
+      "Real Madrid vs Atlético rivalry",
+      "nightlife capital",
+      "Prado museum"
+    ]
+  },
+  "wikipedia_search_term": "Madrid",
+  "keywords_for_image": [
+    "cochinillo roast pig",
+    "bocadillo calamares",
+    "Plaza Mayor",
+    "tapas bar",
+    "Royal Palace"
+  ],
+  "coordinates": {
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Madrid+🇪🇸/@40.4168,-3.7038,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madrid"
+  },
+  "location_id": 211
+}

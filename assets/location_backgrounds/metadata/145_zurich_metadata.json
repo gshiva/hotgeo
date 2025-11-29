@@ -1,0 +1,100 @@
+{
+  "name": "Zurich",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Zurich is Switzerland's financial capital and home to the legendary Zürcher Geschnetzeltes - thinly-sliced veal in creamy mushroom sauce that MUST be made from veal to earn its official name. The city's Kronenhalle restaurant serves this dish amidst original works by Chagall, Miró, and Matisse, combining world-class art with world-class cuisine.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Zürcher Geschnetzeltes (Züri Gschnätzlets)",
+        "description": "Thinly-sliced strips of pan-fried veal in a delicious creamy mushroom sauce with white wine, traditionally served with rösti (coarsely grated potato cake). The traditional version includes kidneys, though many restaurants offer it without.",
+        "origin_story": "If you ask locals about traditional Zurich dishes, you're guaranteed to hear 'Züri Gschnätzlets.' This is THE signature dish of Zurich - so iconic that if a menu declares it 'Zürcher Geschnetzeltes,' it must be made from veal (though home cooks use pork or chicken). It represents 'Nach Zürcher Art' (traditional Zurich style): meat, potatoes, mushrooms, butter, and cream.",
+        "where_to_find": "Kronenhalle (famous, served amidst Chagall and Miró paintings), Zeughauskeller (15th-century armory, generous portions), Swiss Chuchi Restaurant (Niederdorf main square), Zunfthaus zur Waag (historic medieval building, exceptional version)"
+      },
+      {
+        "name": "Rösti",
+        "description": "Coarsely grated potato formed into a golden, crispy pancake - Switzerland's answer to hash browns but elevated. Often served as a side dish but can be a meal itself with toppings.",
+        "origin_story": "Originally a farmer's breakfast in the canton of Bern, rösti became the essential accompaniment to Zürcher Geschnetzeltes. It represents the German-Swiss influence on Zurich's cuisine - hearty and potato-based.",
+        "where_to_find": "Swiss Chuchi Restaurant (year-round Swiss specialties), Zeughauskeller, Zunfthaus zur Waag (butter rösti)"
+      },
+      {
+        "name": "Zürcher Leberli (Calf's Liver Zurich-Style)",
+        "description": "Tender calf's liver slices pan-fried with sage, served in a creamy sauce. Another classic 'Nach Zürcher Art' dish showcasing local preferences for veal and cream sauces.",
+        "origin_story": "Part of Zurich's tradition of utilizing quality veal in refined preparations. The sage and cream sauce reflects French influences while maintaining Swiss heartiness.",
+        "where_to_find": "Swiss Chuchi Restaurant, traditional Zunfthaus (guild house) restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swiss White Wine",
+        "description": "Local Swiss wines, particularly whites from the Zurich wine region. Switzerland produces excellent wines rarely exported, making them a local treasure.",
+        "how_locals_drink_it": "Paired with Zürcher Geschnetzeltes and other cream-based dishes. The white wine in the dish itself is often the same wine served alongside."
+      },
+      {
+        "name": "Rivella",
+        "description": "Switzerland's unique national soft drink made from milk whey. A distinctly Swiss beverage with a slightly herbal, refreshing taste.",
+        "how_locals_drink_it": "Casual drinking, often chosen by locals over international sodas. Represents Swiss innovation and local pride."
+      }
+    ],
+    "food_culture_notes": [
+      "Traditional Swiss food in Zurich has German, Austrian, and French roots due to equidistance from those borders",
+      "'Nach Zürcher Art' (Zurich-style) typically means: meat, potatoes, mushrooms, butter, and cream - German heartiness with French saucy influence",
+      "Zurich dining combines elegance with tradition - historic guild houses (Zunfthaus) and armories converted to restaurants",
+      "Reservations essential for popular Swiss restaurants, especially Friday/Saturday evenings - they fill up quickly",
+      "The city offers fondue and raclette year-round at restaurants like Swiss Chuchi",
+      "Portions at traditional spots like Zeughauskeller are famously generous - 'the portions are no joke!'",
+      "High ceilings, long wooden tables, and lively buzz characterize traditional dining atmosphere"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lake Zurich waterfront",
+      "Limmat River running through old town",
+      "Grossmünster (twin towers cathedral)",
+      "Niederdorf historic quarter",
+      "Bahnhofstrasse (famous shopping street)",
+      "Guild houses (Zunfthaus) with historic interiors"
+    ],
+    "atmosphere": [
+      "Historic guild house elegance",
+      "15th-century armory grandeur (Zeughauskeller)",
+      "Art gallery dining (Kronenhalle with Chagall, Miró, Matisse)",
+      "Medieval building sophistication",
+      "Lively buzz in traditional dining halls",
+      "Timeless Swiss precision and quality"
+    ],
+    "colors": [
+      "Creamy white (geschnetzeltes sauce)",
+      "Golden brown (crispy rösti)",
+      "Deep blue (Lake Zurich and Limmat River)",
+      "Rich wood tones (traditional interiors)",
+      "Swiss flag red and white"
+    ],
+    "unique_modern": [
+      "Fine art displayed in dining rooms (Kronenhalle)",
+      "Converted medieval buildings as contemporary restaurants",
+      "Modern interpretations maintaining authentic flavors",
+      "Financial district sophistication meets Alpine traditions",
+      "Year-round availability of seasonal dishes (fondue in summer)"
+    ]
+  },
+  "wikipedia_search_term": "Zurich",
+  "keywords_for_image": [
+    "zurcher geschnetzeltes veal",
+    "zurich swiss rosti",
+    "kronenhalle restaurant zurich",
+    "lake zurich switzerland",
+    "zurich old town limmat",
+    "swiss creamy mushroom sauce",
+    "zeughauskeller zurich",
+    "zurich financial district"
+  ],
+  "coordinates": {
+    "lat": 47.3769,
+    "lng": 8.5417
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zurich+🇨🇭/@47.3769,8.5417,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zurich"
+  },
+  "location_id": 145
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Varanasi",
+  "country": "India",
+  "fun_fact": "Fun fact: Varanasi is over 3,000 years old - one of the world's oldest continuously inhabited cities - and Mark Twain said it's 'older than history, older than tradition, older even than legend.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Banarasi Kachori",
+        "description": "Crispy fried bread stuffed with spiced lentils (badi) or potatoes (choti), served with tangy tamarind and coriander chutney",
+        "origin_story": "Varanasi's kachori tradition goes back generations. There are two types: badi kachori (lentil-filled) and choti kachori (potato-filled). The technique of achieving the perfect crispy exterior while keeping the filling flavorful has been passed down through families. Morning lines at famous shops prove their legendary status.",
+        "where_to_find": "Ram Bhandar (established 1888 in Thatheri Bazaar - legendary morning kachori-sabzi and jalebi, 7:00-10:45 AM, no onion/no garlic), Neelu Kachori (Kachori Gali - household name, long lines worth the wait), Lanka Chachi ki Dukan (near BHU)"
+      },
+      {
+        "name": "Tamatar Chaat",
+        "description": "Fried tomato slices topped with yogurt, tamarind chutney, spices, and sev (crunchy chickpea noodles) - unique to Varanasi",
+        "origin_story": "This Banarasi invention is found nowhere else in India. Tomatoes are halved, fried until slightly charred, then topped with layers of sweet, sour, spicy chutneys and crispy elements. It's Varanasi's signature chaat - the combination of hot fried tomatoes with cold yogurt creates magic.",
+        "where_to_find": "Deena Chat Bhandar (near Chowk Thana, Godowlia - 70 years old, 4.6-star rating, Tamatar Chaat is consistent bestseller, also Basket Chaat), Kashi Chat Bhandar (Godowlia - 70+ years making tamatar chaat), Keshari (both restaurant and chaat corner)"
+      },
+      {
+        "name": "Banarasi Lassi",
+        "description": "Thick, creamy hand-churned yogurt drink served in eco-friendly clay pots, flavored with fruits, saffron, or rose",
+        "origin_story": "Varanasi's lassi is legendary across India. The hand-churning process (no machines) creates thick, creamy texture that can't be replicated. Served in traditional clay kulhads (disposable clay cups) that add subtle earthiness. Blue Lassi offers 120+ flavors, but traditional saffron or fruit are classics.",
+        "where_to_find": "Blue Lassi (Kachori Gali near Chowk Thana - over 2,000 reviews, 4.4 stars, 120+ hand-churned flavors in clay pots, 9 AM-9 PM, from ₹40), Pahalwan Lassi (near Ravidas Gate BHU Road - 80 years old, name from wrestler family roots), Madhur Milan"
+      },
+      {
+        "name": "Street Chaat Varieties",
+        "description": "Papdi chaat, dahi gol gappa (pani puri), aloo tikki chaat, palak patta - endless crispy, tangy, spicy combinations",
+        "origin_story": "Varanasi's lanes near Vishwanath Temple and Godowlia Crossing are chaat heaven. Each vendor specializes in specific items perfected over decades. The combination of crispy (fried items), tangy (tamarind chutney), sweet (date chutney), and spicy (green chutney) creates addictive flavor bombs.",
+        "where_to_find": "Deena Chat Bhandar (Papdi Chaat, Dahi Gol Gappa, Aloo Tikki, Palak Patta ₹70-100), Kashi Chat Bhandar, Keshari (pani puri, chaat), lanes around Vishwanath Temple"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Hand-Churned Lassi",
+        "description": "Traditional yogurt drink churned by hand in clay pots - thick enough to eat with a spoon",
+        "how_locals_drink_it": "Served in disposable clay kulhads that locals smash after drinking (the clay is biodegradable and supports local potters). Morning refreshment after kachori breakfast or afternoon cooldown. The hand-churning creates air bubbles that make it extra creamy."
+      },
+      {
+        "name": "Chai",
+        "description": "Sweet milky tea served in small clay cups by vendors throughout the ghats",
+        "how_locals_drink_it": "Constant throughout the day. Morning chai with kachori, afternoon chai with sweets, evening chai at the ghats watching ceremonies. In clay kulhads that you throw after drinking - the sound of smashing clay cups is Varanasi soundtrack."
+      }
+    ],
+    "food_culture_notes": [
+      "Morning is ideal for kachori sabzi, while evenings are perfect for chaat - locals follow this rhythm daily",
+      "The narrow lanes around Vishwanath Temple and Godowlia contain dozens of specialized food stalls, each legendary for one dish",
+      "Most famous places have been run by the same families for 70-100+ years - recipes haven't changed",
+      "The best dining experiences happen at small, unassuming stalls with lines of locals waiting - trust the crowds"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ganges River ghats",
+      "Vishwanath Temple",
+      "Dashashwamedh Ghat",
+      "Assi Ghat"
+    ],
+    "atmosphere": [
+      "sacred river ceremonies",
+      "temple bells",
+      "narrow ancient lanes",
+      "sunrise boat rides"
+    ],
+    "colors": [
+      "saffron orange",
+      "Ganges river brown",
+      "marigold flowers",
+      "evening aarti flames"
+    ],
+    "unique_modern": [
+      "Ancient spirituality meets modern India",
+      "International yoga students",
+      "Ganga Aarti ceremonies",
+      "Mark Twain literary connections"
+    ]
+  },
+  "wikipedia_search_term": "Varanasi",
+  "keywords_for_image": [
+    "Varanasi Ganges ghats",
+    "kachori Indian street food",
+    "lassi clay cup",
+    "Ganga Aarti ceremony",
+    "sacred river India"
+  ],
+  "coordinates": {
+    "lat": 25.3176,
+    "lng": 82.9739
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Varanasi+🇮🇳/@25.3176,82.9739,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Varanasi"
+  },
+  "location_id": 259
+}

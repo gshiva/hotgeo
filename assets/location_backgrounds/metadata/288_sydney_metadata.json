@@ -1,0 +1,94 @@
+{
+  "name": "Sydney",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Sydney's Saint Peter restaurant pioneered 'fin-to-scale' dining, where chef Josh Niland uses every part of the fish - scales become chips, bones make XO sauce, and fish liver is served like foie gras - revolutionizing how Australia (and the world) thinks about seafood waste and whole-fish cooking.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fin-to-Scale Seafood at Saint Peter",
+        "description": "Wildly inventive dishes using all parts of the fish - fish scales as chips, liver as pâté, bones in sauces. Educational, thrilling, and sustainable.",
+        "origin_story": "Chef Josh Niland's three-hat restaurant revolutionized seafood dining by treating fish like whole-animal butchery. His book 'The Whole Fish Cookbook' changed how chefs worldwide approach seafood. Every part of the fish is utilized, creating zero waste and maximum flavor.",
+        "where_to_find": "Saint Peter (Paddington, three hats in Good Food Guide, pioneering fin-to-scale eatery)"
+      },
+      {
+        "name": "Sydney Rock Oysters",
+        "description": "Fresh, creamy, briny oysters from Sydney's coastal waters, often dry-shucked to order.",
+        "origin_story": "Sydney Rock Oysters are a distinct species (Saccostrea glomerata) native to NSW waters. They're smaller, creamier, and more mineral than Pacific oysters, with a unique flavor profile shaped by Sydney Harbour and coastal estuaries.",
+        "where_to_find": "Uncut Seafood Delicatessen (Bondi, dry-shucked to order), love.fish (Barangaroo waterfront), Summer Salt (Cronulla ocean views)"
+      },
+      {
+        "name": "Fish & Chips at Doyles",
+        "description": "Classic battered fish with crispy chips, served beachside at Australia's most historic fish restaurant.",
+        "origin_story": "Doyles has been family-owned and operating in Watsons Bay since 1885, making it one of Australia's oldest restaurants. Their fish and chips represent 140 years of Sydney seafood tradition, served with unbeatable harbour views.",
+        "where_to_find": "Doyles on the Beach (Watsons Bay, picturesque location since 1885)"
+      },
+      {
+        "name": "Japanese-Australian Seafood at Sokyo",
+        "description": "Omakase featuring 23 dishes of Australian seafood prepared with Japanese technique - Tassie sea urchin, SA kingfish, NZ red snapper.",
+        "origin_story": "Sokyo represents Sydney's Pacific Rim identity, combining impeccable Japanese cooking with Australia's world-class seafood. The $300 omakase celebrates indigenous ingredients through Japanese mastery.",
+        "where_to_find": "Sokyo (The Star, one of Sydney's most beloved seafood destinations)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Australian Natural Wine",
+        "description": "Organic, minimal-intervention wines from Australian producers, often cloudy, always interesting.",
+        "how_locals_drink_it": "Sydney's dining scene embraces natural wine culture. Paired with seafood at places like Saint Peter, which offers impressive selections of Australian wine and Japanese sake."
+      },
+      {
+        "name": "Flat White Coffee",
+        "description": "Australia's coffee contribution to the world - espresso with velvety microfoam milk, stronger than a latte.",
+        "how_locals_drink_it": "Sydney's coffee culture is serious and competitive. Locals are opinionated about their favorite cafes. The flat white is the default order, not a cappuccino."
+      }
+    ],
+    "food_culture_notes": [
+      "Sydney is truly a seafood city - located on a sparkling harbour and fringed by idyllic beaches",
+      "The fin-to-scale movement pioneered by Saint Peter influenced chefs globally to reduce seafood waste",
+      "Waterfront dining isn't just touristy - locals regularly eat harbourside at places like love.fish and Jordon's",
+      "Sydney's multicultural dining scene means world-class Japanese, Italian, Greek, and Middle Eastern seafood preparations"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sydney Opera House",
+      "Harbour Bridge",
+      "Bondi Beach",
+      "Watsons Bay"
+    ],
+    "atmosphere": [
+      "harbour sparkle",
+      "beachside dining",
+      "waterfront promenades",
+      "multicultural energy"
+    ],
+    "colors": [
+      "Pacific Ocean blue",
+      "Opera House white sails",
+      "golden beach sand",
+      "harbour sunset orange"
+    ],
+    "unique_modern": [
+      "fin-to-scale revolution",
+      "heritage bank fine dining",
+      "beachfront modern Australian",
+      "sustainable seafood movement"
+    ]
+  },
+  "wikipedia_search_term": "Sydney",
+  "keywords_for_image": [
+    "Sydney Opera House",
+    "harbour dining",
+    "oysters",
+    "Bondi Beach",
+    "seafood"
+  ],
+  "coordinates": {
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Sydney+🇦🇺/@-33.8688,151.2093,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney"
+  },
+  "location_id": 288
+}

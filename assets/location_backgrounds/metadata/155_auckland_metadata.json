@@ -1,0 +1,131 @@
+{
+  "name": "Auckland",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: Auckland's food scene is a delicious collision of Māori hāngi (food cooked underground for 7 hours!), Pacific Island flavors, and Kiwi classics like Hokey Pokey ice cream - vanilla ice cream mixed with honeycomb toffee pieces from broken Crunchie Bars. Don't miss the giant L&P bottle sculpture in nearby Paeroa celebrating New Zealand's iconic 'World Famous in New Zealand' lemon soft drink!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Māori Hāngi",
+        "description": "Traditional meal cooked underground on pre-heated stones for up to 7 hours, featuring chicken, pork, beef, mutton, and seasonal vegetables with an earthy, smoky flavor, finished with hāngi steamed pudding",
+        "origin_story": "This 1000-year-old Māori tradition is a laborious process served only on special occasions. At The Māori Kitchen in downtown Auckland, they maintain on-site hāngi pits so visitors can experience this ancient cooking method seven days a week",
+        "where_to_find": "The Māori Kitchen (Auckland CBD with on-site hāngi pits), The Hangi Shop (South Auckland), Rotorua cultural experiences"
+      },
+      {
+        "name": "Boil Up",
+        "description": "Wonderful broth containing root vegetables, pork, and doughboys (dumplings), embodying Māori comfort food traditions",
+        "origin_story": "The Hangi Shop (established 2000) comes from a background of market gardening, bringing knowledge of a good harvest combined with traditional Māori flavors and contemporary cooking styles",
+        "where_to_find": "The Hangi Shop (South Auckland), Blue Rose Café (fusion pies with boil up filling)"
+      },
+      {
+        "name": "Rewana Bread",
+        "description": "Traditional Māori fermented potato bread with a slightly tangy, unique flavor",
+        "origin_story": "This bread-making tradition uses a potato-based starter culture passed down through Māori families for generations",
+        "where_to_find": "The Hangi Shop, Māori-owned cafés and markets"
+      },
+      {
+        "name": "Fresh Kaimoana (Seafood)",
+        "description": "New Zealand's pristine waters provide incredible seafood - from crayfish and pāua (abalone) to scallops, mussels, smoked kahawai, and green-lipped mussels",
+        "origin_story": "Captain Kai Moana operates New Zealand's first mobile food truck BOAT on land, cooking fresh NZ seafood from their unique setup",
+        "where_to_find": "Captain Kai Moana (food truck), seafood markets, waterfront restaurants"
+      },
+      {
+        "name": "Pacific Fusion Pies",
+        "description": "Fusion pies with fillings like palusami (taro leaves in coconut cream), hāngi, and boil up - blending Cook Island and Māori flavors with classic Kiwi meat pie format",
+        "origin_story": "Blue Rose Café creates a beautiful fusion of Cook Island and Māori flavors alongside breakfast and lunch classics",
+        "where_to_find": "Blue Rose Café (Auckland)"
+      },
+      {
+        "name": "Nonna's Bologna Meatballs with Smoked Kahawai",
+        "description": "Chef Daniel's Italian-Māori heritage shines through dishes pairing his nonna's famous meatballs with smoked kahawai rillette",
+        "origin_story": "Morell is a wharekai (dining hall) inspired by family and manaakitanga (hospitality). Chef Daniel is Māori (Tainui) and Italian, creating unique cultural fusion dishes",
+        "where_to_find": "Morell (Auckland)"
+      },
+      {
+        "name": "Pacific Rim Fusion",
+        "description": "Auckland's typical restaurant style - a fusion of Pacific Rim and/or Asian food given a New Zealand twist with delicious local ingredients",
+        "origin_story": "Restaurants like Beau in Ponsonby showcase this neighborhood dining philosophy with good food, delicious wine, and friendly service, co-owned by Diva Giles (Ngāti Whātua o Ōrākei)",
+        "where_to_find": "Beau (Ponsonby), restaurants throughout Auckland CBD"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "L&P (Lemon & Paeroa)",
+        "description": "Beloved Kiwi soft drink since 1907, originally mixing lemon juice with carbonated mineral water from Paeroa. Slogan: 'World famous in New Zealand'",
+        "how_locals_drink_it": "Enjoyed ice-cold straight from the bottle or can. Kiwis pose for photos with the giant L&P bottle sculpture in Paeroa when traveling south of Auckland"
+      },
+      {
+        "name": "New Zealand Wine",
+        "description": "World-class Sauvignon Blanc, Pinot Noir, and other cool-climate wines from regions like Marlborough and Central Otago",
+        "how_locals_drink_it": "Paired with meals at neighborhood restaurants, enjoyed during casual gatherings with friends and whānau (family)"
+      },
+      {
+        "name": "Flat White Coffee",
+        "description": "New Zealand's coffee culture rivals Australia's, with the flat white being a Kiwi point of pride",
+        "how_locals_drink_it": "Morning ritual at local cafés throughout Auckland, enjoyed with breakfast or brunch"
+      }
+    ],
+    "food_culture_notes": [
+      "Auckland's culinary landscape showcases a fusion of Māori traditions, Pacific Islander cuisine, and international flavors, reflecting a rich cultural tapestry",
+      "Travelling through Aotearoa, you'll notice Māori flavors everywhere - from kina (sea urchin) to native bush flavors like pikopiko (fern shoots), kawakawa, horopito, kōwhitiwhiti (watercress), and pūhā (sow thistle) often partnered with pork",
+      "The Māori Kitchen is the only place in downtown Auckland serving hāngi seven days a week with on-site pits for the 1000-year-old tradition",
+      "Pavlova (meringue dessert) is a source of friendly NZ-Australia competition, but Kiwis claim it was invented in Wellington in 1926 for Russian ballerina Anna Pavlova",
+      "Hokey Pokey ice cream is New Zealand's second most popular flavor (after vanilla), invented using broken Crunchie Bar pieces from Dunedin's Cadbury factory",
+      "Auckland's food scene blends manaakitanga (Māori hospitality) with contemporary cooking styles and diverse cultural influences",
+      "Kiwifruit (originally from China) is now a New Zealand specialty, with the exclusive Golden Kiwifruit grown only in NZ"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Auckland Harbor and waterfront",
+      "Sky Tower dominating the skyline",
+      "Volcanic cones (Rangitoto, Mount Eden)",
+      "Māori carvings and wharenui (meeting houses)",
+      "Pacific Island market atmosphere",
+      "Black sand beaches"
+    ],
+    "atmosphere": [
+      "Multicultural Pacific Rim energy",
+      "Laid-back Kiwi hospitality and manaakitanga",
+      "Māori cultural experiences and traditions",
+      "Waterfront dining with harbor views",
+      "Vibrant food markets blending cultures",
+      "Contemporary cafés with Pacific influences"
+    ],
+    "colors": [
+      "Deep earth tones from hāngi cooking",
+      "Bright Pacific Island floral patterns",
+      "Ocean blues and harbor reflections",
+      "Green native bush and ferns",
+      "Golden Hokey Pokey honeycomb toffee",
+      "Black and red Māori traditional colors"
+    ],
+    "unique_modern": [
+      "Hāngi pits in urban Auckland settings",
+      "Food truck BOAT on land serving fresh seafood",
+      "Italian-Māori fusion cuisine",
+      "Cook Island and Māori flavor combinations in modern formats",
+      "Kaiseki hidden in a Lexus showroom (unique dining)",
+      "Pacific Rim fusion with indigenous ingredients like pikopiko and kawakawa"
+    ]
+  },
+  "wikipedia_search_term": "Auckland",
+  "keywords_for_image": [
+    "Auckland waterfront Māori culture",
+    "hangi traditional Māori cooking",
+    "New Zealand Pacific fusion food",
+    "Auckland Sky Tower harbor",
+    "Kiwi food hokey pokey pavlova",
+    "Māori hospitality manaakitanga",
+    "Pacific Island food markets",
+    "Auckland multicultural dining"
+  ],
+  "coordinates": {
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Auckland+🇳🇿/@-36.8485,174.7633,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Auckland"
+  },
+  "location_id": 155
+}

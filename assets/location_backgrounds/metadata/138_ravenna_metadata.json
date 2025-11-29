@@ -1,0 +1,108 @@
+{
+  "name": "Ravenna",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Ravenna's stunning Byzantine mosaics are so precious that eight of its monuments are UNESCO World Heritage Sites—including the Mausoleum of Galla Placidia with its breathtaking blue 'starred sky' mosaic covering the entire ceiling!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Piadina Romagnola",
+        "description": "Traditional Romagna flatbread cooked on hot griddles, folded and filled with cold cuts, cheeses, vegetables, or sweet spreads",
+        "origin_story": "Called the 'bread of the people,' piadina has been a staple of Romagna since the Middle Ages. This unleavened flatbread represents the soul of Romagna's rustic cuisine, prepared fresh daily and served warm, embodying the region's agricultural heritage and simple, honest cooking traditions.",
+        "where_to_find": "Ca' de Ven (in the heart of old city near Piazza del Popolo, ideal for lunch or dinner), throughout Ravenna's historic center, local markets"
+      },
+      {
+        "name": "Cappelletti in Brodo",
+        "description": "Small stuffed pasta 'hats' served in rich meat broth",
+        "origin_story": "A classic Romagna dish representing the region's tradition of filled pastas. The name means 'little hats' due to their shape. Traditionally served in homemade broth, this dish embodies 'cucina povera' (peasant cooking) transformed into beloved regional cuisine.",
+        "where_to_find": "Ristorante Alexander (near Porta Sisi, premier restaurant in historic building that was once a church and cinema), Osteria dei Battibecchi (local favorite for authentic Romagna), Ca' de Ven"
+      },
+      {
+        "name": "Passatelli",
+        "description": "Unique bread crumb pasta made from breadcrumbs, Parmigiano-Reggiano, eggs, and nutmeg, served in broth",
+        "origin_story": "A Romagna specialty showcasing the region's resourcefulness—using leftover bread transformed into delicate pasta. The mixture is pressed through a special tool creating worm-like strands. Represents authentic, warm Romagna home cooking.",
+        "where_to_find": "Ristorante Alexander (passatelli in brodo and other simple traditional dishes), Osteria del Tempo Perso (slow-food philosophy)"
+      },
+      {
+        "name": "Adriatic Seafood",
+        "description": "Grilled anchovies, clams, sole, and squid from the nearby Adriatic coast",
+        "origin_story": "Ravenna's proximity to the Adriatic Sea makes fresh seafood central to local cuisine. Simple grilling preparations highlight the quality of the catch.",
+        "where_to_find": "Fish restaurants throughout Ravenna, Osteria del Tempo Perso (fried shrimp in pasta Kataifi with Byzantine influences)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sangiovese di Romagna",
+        "description": "Strong, well-bodied red wine (DOCG) with notes reflecting Romagna's rolling hills and rural heritage",
+        "how_locals_drink_it": "The undisputed star of Romagna wine, embodying the strong and genuine character of the land. Unlike Tuscan Sangiovese, Romagna's version has unique nuances from its microclimate. Perfect pairing for rich Romagna dishes. Served at GiovinBacco Wine Festival and throughout trattorias. Locals drink it with piadina, cappelletti, and seafood dishes."
+      },
+      {
+        "name": "Albana di Romagna",
+        "description": "Golden wine with strength and smoothness balanced by freshness and tannins—unusual for a white wine",
+        "how_locals_drink_it": "First white wine in Italy to receive DOCG status (1987). Legend says Galla Placidia (Emperor Theodosius's daughter) declared it too noble for terracotta cups and demanded it be 'drunk in gold' (Bertinoro). Traditionally a sweet dessert wine for dipping ciambella cake, but modern dry versions are structured with fruit/flower scents, excellent with cheese-filled cappelletti. Served in golden cups at special occasions honoring the legend."
+      }
+    ],
+    "food_culture_notes": [
+      "Romagna cuisine is 'authentic and warm'—simple peasant dishes elevated through tradition and quality ingredients",
+      "Wine closely tied to rural culture and agricultural origin of the region",
+      "Traditional dishes include pasta e fagioli (pasta and beans), tripe, and zuppa inglese (trifle-like dessert)",
+      "Ciambella (ring cake) and brazadela are traditional cakes often dipped in sweet Albana wine",
+      "Squacquerone (soft local cheese) is a Romagna specialty",
+      "Saraghina (type of fish) and mussels are Adriatic coast specialties",
+      "Two rare local grape varieties: Centesimino and Uva Longanesi—unique to Ravenna, saved from extinction",
+      "Other regional wines: Trebbiano, Cagnina, Pagadebit, and Bursôn",
+      "Food philosophy emphasizes seasonal ingredients and slow preparation"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Basilica of San Vitale (Byzantine mosaics of Justinian and Theodora)",
+      "Mausoleum of Galla Placidia (blue starred sky mosaic)",
+      "Basilica di Sant'Apollinare Nuovo (UNESCO site with glittering Byzantine mosaics)",
+      "Piazza del Popolo (main square)",
+      "Porta Sisi (southern gate of historic center)"
+    ],
+    "atmosphere": [
+      "Glittering Byzantine gold and blue mosaics",
+      "Historic buildings converted to restaurants (churches, cinemas)",
+      "Slow food philosophy dining rooms",
+      "Ancient splendor of former Western Roman Empire capital",
+      "Wine festival celebrations"
+    ],
+    "colors": [
+      "Byzantine gold mosaics",
+      "Deep blue starred sky ceiling",
+      "Ruby red Sangiovese wine",
+      "Golden Albana wine",
+      "Warm golden piadina flatbread"
+    ],
+    "unique_modern": [
+      "Osteria del Tempo Perso's Byzantine-inspired dishes (fried shrimp in Kataifi)",
+      "Contemporary wine bars serving rare local grape varieties",
+      "GiovinBacco Wine Festival celebrating regional wines",
+      "Modern interpretations of medieval recipes",
+      "Blend of 1,500-year-old art with living culinary traditions"
+    ]
+  },
+  "wikipedia_search_term": "Ravenna",
+  "keywords_for_image": [
+    "Ravenna",
+    "Byzantine mosaics",
+    "piadina Romagnola",
+    "cappelletti",
+    "passatelli",
+    "Sangiovese",
+    "Albana wine",
+    "Romagna cuisine",
+    "San Vitale",
+    "Emilia-Romagna"
+  ],
+  "coordinates": {
+    "lat": 44.4184,
+    "lng": 12.2035
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ravenna+🇮🇹/@44.4184,12.2035,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravenna"
+  },
+  "location_id": 138
+}

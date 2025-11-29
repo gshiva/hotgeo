@@ -1,0 +1,94 @@
+{
+  "name": "Stavanger",
+  "country": "Norway",
+  "fun_fact": "Fun fact: Stavanger is Norway's 'Oil Capital' - the Norwegian Petroleum Museum is shaped like an oil platform. But the city's historic charm comes from Europe's best-preserved wooden house settlement (Gamle Stavanger) with 173 white wooden houses from the 18th century, all still inhabited.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fresh Norwegian Salmon",
+        "description": "Atlantic salmon grilled, smoked, or cured - served with dill, lemon, and potatoes",
+        "origin_story": "Norway's cold, pristine waters produce world-renowned salmon. Stavanger's proximity to fjords means incredibly fresh fish. Norwegian salmon farming revolutionized global seafood in the 1970s, starting near Stavanger. Locals eat it year-round but especially in summer. The pink flesh is rich, buttery, and clean-tasting.",
+        "where_to_find": "Fisketorget (Fish Market), Tango Bar & Kjøkken, or waterfront seafood restaurants near the harbor"
+      },
+      {
+        "name": "Smalahove (Sheep's Head)",
+        "description": "Salted, smoked, and boiled sheep's head - served whole with the brain, eyes, and all",
+        "origin_story": "This traditional Western Norwegian dish looks terrifying but is considered a delicacy. Originally peasant food (using every part of the animal), it became cultural heritage. Eaten especially before Christmas. The meat is tender, flavorful, though the appearance disturbs most foreigners. Locals start with the ears and cheeks (best parts), saving the eyes for last.",
+        "where_to_find": "Traditional Norwegian restaurants in Stavanger, especially November-December, or rural areas near Stavanger"
+      },
+      {
+        "name": "Raspeballer (Potato Dumplings)",
+        "description": "Large potato dumplings (mixture of raw and cooked potatoes) served with bacon, sausage, and rutabaga mash",
+        "origin_story": "Also called komle or klubb depending on region, these hearty dumplings sustained Norwegian farmers through harsh winters. The mixture of raw and cooked potatoes creates unique texture - dense and filling. Stavanger locals eat them on Thursdays (traditional dumpling day in Norway). They're comfort food when temperatures drop and darkness sets in.",
+        "where_to_find": "Traditional Norwegian restaurants, homestyle eateries, or Norwegian homes on Thursday evenings"
+      },
+      {
+        "name": "Bacalao (Klippfisk)",
+        "description": "Dried and salted cod stewed with tomatoes, onions, peppers, and potatoes - Portuguese-style dish that became Norwegian staple",
+        "origin_story": "Stavanger was Norway's center for clipfish (dried cod) export to Portugal and Spain. Portuguese bacalhau recipes returned with Norwegian sailors, adapted with local ingredients. This cultural exchange created Norway's version - less Mediterranean, more Nordic. The cod is rehydrated then slow-cooked until tender.",
+        "where_to_find": "Traditional restaurants in Stavanger, especially those serving regional Western Norwegian cuisine"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Aquavit (Akevitt)",
+        "description": "Clear Scandinavian spirit flavored with caraway, dill, and other botanicals - traditionally served ice-cold",
+        "how_locals_drink_it": "Aquavit is essential at Norwegian celebrations. Stavanger locals drink it frozen in small shot glasses, usually with rich foods like salmon or smalahove. The Linie Aquavit brand crosses the equator twice in oak barrels on ships (aging process) - a uniquely Norwegian tradition. Toast with 'Skål!' before drinking."
+      },
+      {
+        "name": "Norwegian Craft Beer",
+        "description": "Norway's booming craft beer scene - IPAs, stouts, and traditional Nordic farmhouse ales",
+        "how_locals_drink_it": "Despite high alcohol prices (beer can cost $12+ per pint), Norwegians love beer. Stavanger has craft breweries producing innovative beers. Locals drink them at waterfront pubs, especially in summer when sunlight lasts until midnight. The quality justifies the price - or so they tell themselves."
+      }
+    ],
+    "food_culture_notes": [
+      "Norwegian food prices are among world's highest - expect expensive dining even for simple meals",
+      "Fisketorget (Fish Market) near harbor sells fresh-caught seafood and prepared foods",
+      "Thursday is traditional dumpling day in Norway - many restaurants serve raspeballer",
+      "Gamle Stavanger (Old Stavanger) has cafes and restaurants in preserved 18th-century wooden buildings"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Gamle Stavanger - 173 preserved white wooden houses from 18th century",
+      "Pulpit Rock (Preikestolen) - 604-meter cliff with flat top overlooking Lysefjord, 25km from Stavanger",
+      "Stavanger Cathedral - Norway's oldest cathedral, dating to 1125",
+      "Norwegian Petroleum Museum - shaped like oil platform, tells story of North Sea oil"
+    ],
+    "atmosphere": [
+      "Oil capital of Norway - modern wealth mixed with historic charm",
+      "Gateway to famous Norwegian fjords (Lysefjord, Preikestolen)",
+      "White wooden houses create fairy-tale Old Town",
+      "Midnight sun in summer, polar darkness in winter"
+    ],
+    "colors": [
+      "white wooden houses of Gamle Stavanger",
+      "pink Norwegian salmon flesh",
+      "deep blue Norwegian fjords",
+      "grey North Sea waters"
+    ],
+    "unique_modern": [
+      "European Capital of Culture 2008",
+      "Pulpit Rock (Preikestolen) is one of Norway's most photographed landmarks - 604m sheer drop",
+      "Norwegian Petroleum Museum opened 1999 - shaped like oil platform on stilts",
+      "Swords in Rock monument - three bronze swords (10 meters tall) commemorating 872 Battle of Hafrsfjord"
+    ]
+  },
+  "wikipedia_search_term": "Stavanger",
+  "keywords_for_image": [
+    "stavanger gamle old town wooden houses",
+    "pulpit rock preikestolen norway",
+    "norwegian salmon grilled",
+    "stavanger harbor boats",
+    "norwegian petroleum museum"
+  ],
+  "coordinates": {
+    "lat": 58.97,
+    "lng": 5.7331
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Stavanger+🇳🇴/@58.97,5.7331,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stavanger"
+  },
+  "location_id": 331
+}

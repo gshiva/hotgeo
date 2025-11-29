@@ -1,0 +1,103 @@
+{
+  "name": "Murcia",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Murcia's 9th-century irrigation system (the Huerta) is still in use today - one of Europe's oldest functioning hydraulic networks. The ancient Water Tribunal (Consejo de Hombres Buenos) still regulates water usage, making it one of the oldest institutions in Europe. The city is called 'Europe's Orchard' for its year-round fruit and vegetable production.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Marinera",
+        "description": "The iconic Murcia tapa: a crunchy doughnut base (rosquilleta) topped with creamy Spanish potato salad and crowned with a salted anchovy. Simple, perfect, and utterly addictive.",
+        "origin_story": "Born on the Mar Menor coast, this tapa has conquered palates far beyond Murcia. It represents the region's connection to both sea and land - the anchovy from Mediterranean waters, the potato salad from huerta vegetables.",
+        "where_to_find": "Found at nearly every bar and tapa restaurant in Murcia, especially along the coast near Mar Menor"
+      },
+      {
+        "name": "Zarangollo",
+        "description": "Scrambled eggs cooked with Murcian garden vegetables - typically zucchini and onions, though every household makes it differently. Some add aubergines or potatoes.",
+        "origin_story": "A humble farmer's dish that showcases the incredible vegetables from the Huerta. It's so beloved that families guard their own secret variations.",
+        "where_to_find": "Traditional restaurants throughout Murcia, best at family-run establishments"
+      },
+      {
+        "name": "Arroz Caldero",
+        "description": "Rice cooked in a cauldron with fish stock from Mar Menor. Created by fishermen on the beach using fish that weren't good enough to sell - now it's a regional treasure.",
+        "origin_story": "Dating from the 19th century, fishermen at Mar Menor would prepare this dish on the beach in a caldero (cauldron). The rice absorbs intense seafood flavor from local catch.",
+        "where_to_find": "Coastal restaurants near Mar Menor, traditional rice houses"
+      },
+      {
+        "name": "Paparajotes",
+        "description": "Lemon tree leaves coated in egg-and-flour batter, fried until crispy, then dusted with sugar and cinnamon. You eat the crispy coating, not the leaf!",
+        "origin_story": "Of Arabic origin from Moorish rule, this dessert was traditionally eaten in Murcian farming households. The lemon leaf infuses flavor into the batter. Now it's an emblem of the region's confectionery.",
+        "where_to_find": "Traditional restaurants and pastry shops throughout Murcia"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "DO Jumilla Wine (Monastrell)",
+        "description": "Powerful, expressive red wines made from the Monastrell grape (85% of Jumilla's vines). Young wines are fruity with strong color; crianzas are fleshy with woody notes and chocolate.",
+        "how_locals_drink_it": "Paired with hearty Murcian stews, rice dishes, and grilled meats. Monastrell loves the Mediterranean sun and heat, giving wines that are ripe, rounded, silky with black fruit and spices."
+      },
+      {
+        "name": "Local Mediterranean Wines",
+        "description": "Murcia is home to three wine DOs - Bullas, Jumilla, and Yecla. All focus on robust, fruit-driven reds from Monastrell grapes.",
+        "how_locals_drink_it": "With caldero rice dishes, roasted vegetables from the huerta, and traditional meat pies"
+      }
+    ],
+    "food_culture_notes": [
+      "Called 'Europe's Orchard' - the Huerta produces vegetables, fruits, and flowers year-round",
+      "The 9th-century irrigation system (acequias and azarbes) still waters the farmland today",
+      "Rice from Calasparra has Denomination of Origin status - the prized 'bomba' rice is famous worldwide",
+      "Many vegetables are originally from the Middle East and Asia, introduced during Islamic rule",
+      "Traditional dwelling is the barraca - a thatched farmhouse decorated with jasmine and geraniums",
+      "Bando de la Huerta festival celebrates huertano culture with traditional dress and food",
+      "Grey mullet roe (huevas de mújol) is a local caviar specialty from Mar Menor"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cathedral of Murcia",
+      "The Huerta irrigation canals",
+      "Mar Menor lagoon",
+      "Plaza Cardenal Belluga",
+      "Traditional barracas (farmhouses)"
+    ],
+    "atmosphere": [
+      "Lush green market gardens",
+      "Ancient water wheels (norias)",
+      "Mediterranean coastline",
+      "Baroque architecture",
+      "Vibrant vegetable markets"
+    ],
+    "colors": [
+      "Deep green (huerta gardens)",
+      "Terracotta (roof tiles)",
+      "Deep purple (Monastrell grapes)",
+      "Azure blue (Mar Menor)",
+      "Golden yellow (lemon groves)"
+    ],
+    "unique_modern": [
+      "Thriving wine tourism in Jumilla",
+      "Farm-to-table restaurants showcasing huerta produce",
+      "Modern interpretations of Moorish dishes",
+      "Preserved Islamic irrigation heritage"
+    ]
+  },
+  "wikipedia_search_term": "Murcia",
+  "keywords_for_image": [
+    "Murcia huerta gardens",
+    "Mar Menor",
+    "paparajotes",
+    "Monastrell wine",
+    "Murcia Cathedral",
+    "irrigation canals Spain",
+    "marinera tapa",
+    "Mediterranean vegetables"
+  ],
+  "coordinates": {
+    "lat": 37.9922,
+    "lng": -1.1307
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Murcia+🇪🇸/@37.9922,-1.1307,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murcia"
+  },
+  "location_id": 102
+}

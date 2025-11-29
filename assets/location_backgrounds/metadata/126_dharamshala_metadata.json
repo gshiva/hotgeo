@@ -1,0 +1,106 @@
+{
+  "name": "Dharamshala",
+  "country": "India",
+  "region": "Himachal Pradesh",
+  "fun_fact": "Fun fact: Since the 1960s, Dharamshala has been the seat of the Tibetan government-in-exile and home to His Holiness the Dalai Lama. The nearby McLeod Ganj is known as 'Little Lhasa' - a vibrant center of Tibetan culture, Buddhism, and refugee heritage in the Himalayas.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Momos",
+        "description": "Tibetan dumplings, either steamed or fried, filled with vegetables or succulent meat, served with spicy chili sauce",
+        "origin_story": "Momos arrived in India with Tibetan refugees in the 1960s after the Chinese occupation of Tibet. What began as a cherished recipe from the homeland quickly became integral to Himachal's food landscape - a cultural bridge between Tibet and India.",
+        "where_to_find": "Tibet Kitchen (legendary spot in McLeod Ganj), Namgyal Café (near Dalai Lama's Temple), House of Tibet Cafe. A plate costs Rs 150-180 at most eateries."
+      },
+      {
+        "name": "Thukpa",
+        "description": "Hearty Tibetan noodle soup laden with vegetables or meat, seasoned with aromatic spices - ideal for chilly mountain weather",
+        "origin_story": "A traditional Himalayan dish designed for survival in harsh mountain climates, thukpa embodies the resourcefulness of Tibetan cuisine, combining warmth, nutrition, and flavor in a single bowl.",
+        "where_to_find": "Tibet Kitchen, Norling Restaurant (near Bhagsu Nag), Lhasa Cafe"
+      },
+      {
+        "name": "Sha Phaley",
+        "description": "Deep-fried or pan-fried bread stuffed with minced meat or vegetables - crispy outside, juicy and flavorful inside",
+        "origin_story": "A beloved Tibetan street food that pairs perfectly with butter tea, sha phaley represents the portable, hearty food culture necessary for life in the high Himalayas.",
+        "where_to_find": "Street vendors throughout McLeod Ganj, Tibet Kitchen"
+      },
+      {
+        "name": "Tingmo with Shapta",
+        "description": "Steamed, fluffy Tibetan bread served with spicy Shapta (stir-fried meat or tofu in Tibetan spices)",
+        "origin_story": "This combination highlights the unique textures of Tibetan cuisine - the soft, cloud-like tingmo contrasting with the bold, spicy shapta.",
+        "where_to_find": "Norling Restaurant, Tibet Kitchen, Namgyal Café"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Po Cha (Tibetan Butter Tea)",
+        "description": "Traditional salty tea made from tea leaves, yak butter, and salt - savory and creamy, sometimes described as more like a light soup than tea",
+        "how_locals_drink_it": "A regular part of Tibetan life. Locals enjoy several bowls before work. According to Tibetan custom, after each sip, the host refills the bowl to the brim. The butter provides caloric energy suited to high altitudes and prevents chapped lips. Created by boiling pu-erh tea for hours, then shaking with yak butter and salt."
+      },
+      {
+        "name": "Qabadi (Tibetan Sweet Tea)",
+        "description": "Sweet milk tea made from black tea, milk, sugar, and sometimes condensed milk - inspired by Indian chai but with distinctly Tibetan character",
+        "how_locals_drink_it": "Popular in Tibetan teahouses where locals gather to chat and relax. For young Tibetans, it carries a touch of modern lifestyle and urban culture. Tastes lighter and more refreshing than butter tea, more acceptable to tourists."
+      }
+    ],
+    "food_culture_notes": [
+      "Tibetan food is not just about taste but about tradition, culture, and survival in the harsh Himalayan climate",
+      "The cultural blend brought by Tibetan refugees who settled here in the 1960s has substantially influenced the local cuisine",
+      "Momo stalls are found in every market and street corner in Himachal Pradesh, often paired with steaming bowls of thukpa during chilly evenings",
+      "Butter tea drinking follows strict etiquette - guests never drain their bowl as it is constantly topped up by the host",
+      "The vibrant prayer flags, Buddhist monasteries, and Tibetan culture create a unique atmosphere distinct from the rest of India"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Dalai Lama's Temple Complex",
+      "Colorful Tibetan prayer flags fluttering in mountain winds",
+      "Buddhist monasteries with golden roofs",
+      "Snow-capped Dhauladhar mountain range backdrop",
+      "McLeod Ganj's winding mountain streets"
+    ],
+    "atmosphere": [
+      "Misty Himalayan peaks",
+      "Buddhist monks in maroon robes",
+      "Incense smoke from monasteries",
+      "Chilly mountain air",
+      "Spiritual and peaceful energy",
+      "Blend of Tibetan and Indian cultures"
+    ],
+    "colors": [
+      "Maroon and saffron (monk robes)",
+      "Multicolored prayer flags (blue, white, red, green, yellow)",
+      "Golden temple roofs",
+      "White snow-capped peaks",
+      "Deep green pine forests"
+    ],
+    "unique_modern": [
+      "Tibetan government-in-exile headquarters",
+      "International Buddhist meditation centers",
+      "Fusion cafes serving Tibetan-Italian cuisine",
+      "Backpacker hostels with mountain views",
+      "Yoga and spiritual retreats",
+      "Street vendors selling both momos and masala chai"
+    ]
+  },
+  "wikipedia_search_term": "Dharamshala",
+  "keywords_for_image": [
+    "Dharamshala",
+    "McLeod Ganj",
+    "Tibetan momos",
+    "prayer flags Himalayas",
+    "Dalai Lama temple",
+    "Tibetan butter tea",
+    "Buddhist monastery India",
+    "Dhauladhar mountains",
+    "Little Lhasa"
+  ],
+  "coordinates": {
+    "lat": 32.219,
+    "lng": 76.3234
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Dharamshala+🇮🇳/@32.219,76.3234,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dharamshala"
+  },
+  "location_id": 126
+}

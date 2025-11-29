@@ -1,0 +1,87 @@
+{
+  "name": "Aarhus",
+  "country": "Denmark",
+  "fun_fact": "Fun fact: Denmark's second-largest city is home to the iconic ARoS Rainbow Panorama - a 150-meter circular walkway that lets you see the city through every color of the rainbow, inspired by Dante's Divine Comedy!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "New Nordic Cuisine",
+        "description": "Aarhus has developed its own New Nordic food scene beyond Copenhagen's fame, with three Michelin-starred restaurants and hyperlocal ingredients from the Bay of Aarhus including jellyfish, lobster, and pungent seaweed.",
+        "origin_story": "The culinary scene developed its own identity thanks to the unique treats found in the waters of the Bay of Aarhus, providing ingredients that epitomize the farm-to-table ethos of New Nordic cuisine.",
+        "where_to_find": "Gastromé (Michelin-starred, garden-to-table), Restaurant Hærværk (Michelin Green Star for sustainability), Restaurant Frederikshøj (Michelin-starred), and Nordisk Spisehus (authentic Scandinavian by Denmark's National Culinary Team)"
+      },
+      {
+        "name": "Organic Nordic Plates",
+        "description": "Artistic and seasonal plates featuring local ingredients like cod with pumpkin, fennel and blackberry, or local mussels with potato, spinach and apple.",
+        "origin_story": "Aarhus chefs embrace the changing seasons, with menus that reflect the Nordic landscape and the Danish countryside's rhythms.",
+        "where_to_find": "L'Estragon (organic restaurant), Restaurant MellemRum (elegant Nordic with vegetarian options), Aarhus Central Food Market at Skt Knuds Torv"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Local Craft Beer",
+        "description": "Aarhus has a thriving craft beer scene with cozy bars throughout the city.",
+        "how_locals_drink_it": "Enjoyed in the city's many cozy bars and cafes, often paired with New Nordic small plates or traditional Danish open-faced sandwiches (smørrebrød)."
+      }
+    ],
+    "food_culture_notes": [
+      "Aarhus Central Food Market offers over 20 food stalls with everything from New Nordic porridge to traditional Danish open-faced sandwiches",
+      "The city has three Michelin-starred restaurants as of 2025: Gastromé, Hærværk, and Domestic",
+      "Restaurant Hærværk earned the Michelin Green Star 2025 for exceptional sustainability practices",
+      "Many restaurants grow their own ingredients or source strictly from local organic farms",
+      "The Bay of Aarhus provides unique hyperlocal ingredients like jellyfish and seaweed"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "ARoS Art Museum with Your Rainbow Panorama - circular glass walkway 52 meters in diameter with 360° rainbow-tinted views",
+      "Ron Mueck's Boy - oversized 5-meter-high sculpture of a crouching boy at ARoS",
+      "The 9 Spaces - basement gallery painted black representing Dante's 9 circles of hell",
+      "Aarhus waterfront and Bay of Aarhus",
+      "Historic Scandinavian architecture mixed with modern design"
+    ],
+    "atmosphere": [
+      "Cozy Scandinavian cafe culture",
+      "Viking Age heritage meets modern Nordic design",
+      "World-class cultural attractions in a charming mid-sized city",
+      "Colorful rainbow light filtering through Olafur Eliasson's panorama",
+      "Thriving university town energy (Denmark's second city)"
+    ],
+    "colors": [
+      "Rainbow spectrum from the ARoS panorama (red, orange, yellow, green, blue, indigo, violet)",
+      "Crisp white museum architecture",
+      "Deep blacks of The 9 Spaces gallery",
+      "Nordic coastal blues and grays",
+      "Natural earth tones of New Nordic cuisine"
+    ],
+    "unique_modern": [
+      "Pronunciation: 'Or-hoose' not 'Are-hoose'",
+      "The Rainbow Panorama cost DKK 60 million ($10.7 million) and was inaugurated in 2011",
+      "ARoS is one of the largest art museums in Northern Europe with 624,000 visitors in 2023",
+      "If you shout in the circular Rainbow Panorama on a quiet day, you can hear your voice travel around the space",
+      "Aarhus has been a thriving city since the Viking Age"
+    ]
+  },
+  "wikipedia_search_term": "Aarhus",
+  "keywords_for_image": [
+    "Aarhus rainbow panorama",
+    "ARoS art museum Denmark",
+    "New Nordic cuisine",
+    "Danish waterfront",
+    "Scandinavian design",
+    "colorful glass walkway",
+    "modern Nordic architecture",
+    "Bay of Aarhus",
+    "Denmark second city",
+    "Michelin restaurant Nordic"
+  ],
+  "coordinates": {
+    "lat": 56.1629,
+    "lng": 10.2039
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Aarhus+🇩🇰/@56.1629,10.2039,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aarhus"
+  },
+  "location_id": 121
+}

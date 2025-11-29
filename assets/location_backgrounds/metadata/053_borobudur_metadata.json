@@ -1,0 +1,125 @@
+{
+  "name": "Borobudur",
+  "country": "Indonesia (Central Java)",
+  "fun_fact": "Fun fact: Borobudur is the world's largest Buddhist temple, built in the 9th century with 2,672 relief panels and 504 Buddha statues, then mysteriously abandoned and hidden under volcanic ash and jungle for centuries until British ruler Sir Thomas Stamford Raffles was told of its location in 1814. Despite a 6.2 magnitude earthquake in 2006 that devastated Yogyakarta, the temple remained standing without moving an inch.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gudeg",
+        "description": "Sweet, tender young jackfruit braised for hours in palm sugar and coconut milk until caramelized, served with opor ayam (chicken in coconut milk), telur pindang (hard-boiled egg stew), and krechek (spicy beef skin)",
+        "origin_story": "Once reserved exclusively for Yogyakarta palace ceremonies, reflecting its royal Javanese heritage. It's a must-serve dish at Javanese weddings (Mantenan), symbolizing prosperity and abundance. Javanese cuisine is known for its sweetness, and gudeg embodies this preference perfectly",
+        "where_to_find": "Gudeg Pawon and Gudeg Permata (open at night from 9 PM), Gudeg Sagan (daytime), Bale Raos, and Ibu Ageng in Yogyakarta. Gudeg Pawon on Janturan Street is especially famous"
+      },
+      {
+        "name": "Nasi Tumpeng",
+        "description": "Cone-shaped yellow turmeric rice surrounded by an array of Indonesian side dishes - vegetables, eggs, chicken, and sambal",
+        "origin_story": "The cone shape represents mountains, sacred in Javanese culture. Served at celebrations and ceremonies, it's a symbol of gratitude and prosperity",
+        "where_to_find": "Resto Plataran Borobudur in Dusun Tanjungan, famous for their authentic presentation with views of the temple"
+      },
+      {
+        "name": "Kupat Tahu",
+        "description": "Rice dumplings and fried tofu with bean sprouts, all smothered in rich peanut sauce with sweet soy sauce",
+        "origin_story": "Popular street food near Borobudur, representing the blend of textures and flavors central to Javanese cuisine",
+        "where_to_find": "Street vendors near Borobudur temple and throughout Magelang"
+      },
+      {
+        "name": "Bakmi Jawa",
+        "description": "Javanese noodles with sweet-savory sauce, vegetables, and choice of chicken or beef",
+        "origin_story": "Reflects the blend of Chinese noodles with Javanese sweet flavors - a fusion that's been perfected over generations",
+        "where_to_find": "Local warungs (small restaurants) throughout Yogyakarta and near Borobudur"
+      },
+      {
+        "name": "Klepon",
+        "description": "Green sticky rice balls filled with liquid palm sugar, boiled and rolled in fresh grated coconut",
+        "origin_story": "Traditional Javanese sweet snack, the green color from pandan leaves. When you bite into it, the palm sugar bursts in your mouth",
+        "where_to_find": "Markets and street vendors throughout Central Java"
+      },
+      {
+        "name": "Peyek",
+        "description": "Crispy savory crackers studded with peanuts or anchovies, made from rice flour batter",
+        "origin_story": "Essential accompaniment to Javanese meals, providing textural contrast and salty crunch",
+        "where_to_find": "Sold at markets and served with gudeg and other main dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Wedang Ronde",
+        "description": "Warm ginger-based beverage with glutinous rice balls filled with peanuts, served in sweet ginger syrup with palm sugar",
+        "how_locals_drink_it": "Enjoyed in the cooler evenings around Yogyakarta and Magelang, especially during rainy season. The warm ginger soothes and the sweet rice balls provide comfort"
+      },
+      {
+        "name": "Wedang Uwuh",
+        "description": "Spiced herbal tea made with ginger, cloves, cinnamon, nutmeg, and pandan leaves - looks like 'trash' (uwuh) floating in water but tastes heavenly",
+        "how_locals_drink_it": "Served hot, often after meals as a digestive aid and warming drink"
+      },
+      {
+        "name": "Kopi Joss",
+        "description": "Strong Javanese coffee with a burning piece of charcoal dropped into it, creating a dramatic sizzle and unique smoky flavor",
+        "how_locals_drink_it": "A Yogyakarta specialty served at traditional coffee stalls, the charcoal is believed to reduce acidity and add health benefits"
+      }
+    ],
+    "food_culture_notes": [
+      "Javanese cuisine is notably sweet, reflecting the traditional preference of Yogyakarta's royal court",
+      "Food reflects blend of indigenous Javanese, Indian, Arabic, and Dutch colonial influences",
+      "Temples like Borobudur, Pawon, and Mendut are positioned in a straight line - ritual feasts likely connected these sacred sites",
+      "Gudeg preparation is time-intensive, requiring hours of slow cooking to achieve the perfect caramelization",
+      "The area called Kedu Plain near Borobudur is known as 'the garden of Java' for its agricultural fertility",
+      "Weddings and ceremonies feature elaborate spreads that maintain centuries-old traditions",
+      "Restaurants like Enam Langit by Plataran and Stupa Restaurant offer views of Borobudur while serving authentic Javanese cuisine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Borobudur temple with stupas and Buddha statues",
+      "Mount Merapi and Mount Merbabu volcanoes",
+      "Rice paddies and terraced fields",
+      "Progo and Elo rivers",
+      "Nearby Pawon and Mendut temples",
+      "Traditional Javanese villages"
+    ],
+    "atmosphere": [
+      "Sacred Buddhist pilgrimage site",
+      "Misty mountain mornings",
+      "Agricultural 'garden of Java' landscape",
+      "Ancient stone carvings and reliefs",
+      "Peaceful temple grounds at sunrise"
+    ],
+    "colors": [
+      "Gray volcanic stone of temple",
+      "Emerald green rice paddies",
+      "Gold of sunrise over temple stupas",
+      "Deep brown of volcanic soil",
+      "Orange and saffron of Buddhist offerings",
+      "White of temple mist and clouds"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage site tourism",
+      "Buddhist pilgrims celebrating Vesak Day",
+      "Modern restaurants with temple views",
+      "Blend of ancient monument and living agricultural landscape",
+      "Contemporary Javanese cultural performances"
+    ]
+  },
+  "wikipedia_search_term": "Borobudur",
+  "keywords_for_image": [
+    "Borobudur temple Java",
+    "Buddhist temple Indonesia",
+    "Yogyakarta gudeg",
+    "Javanese cuisine",
+    "Mount Merapi Java",
+    "rice terraces Central Java",
+    "ancient Buddhist stupas",
+    "Magelang Indonesia",
+    "sacred temple sunrise",
+    "Javanese royal cuisine"
+  ],
+  "coordinates": {
+    "lat": -7.6079,
+    "lng": 110.2038
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Borobudur+🇮🇩/@-7.6079,110.2038,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Borobudur"
+  },
+  "location_id": 53
+}

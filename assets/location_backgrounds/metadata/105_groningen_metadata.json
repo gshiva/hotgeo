@@ -1,0 +1,118 @@
+{
+  "name": "Groningen",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Groningen is a student city by heart - 25% of the population (57,000 out of 200,000 people) are students! It hosts Europe's largest student introduction week (Kei-Week) and has NO closing times for bars, so you can party until breakfast. The city also has the safest cycling infrastructure in the Netherlands and is the only Dutch city with intersections where all bikes get the green light simultaneously.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Eierbal (Egg Ball)",
+        "description": "Groningen's signature snack - a hard-boiled egg wrapped in soft curry-spiced filling, then breaded and deep-fried until golden. It's NOT officially Dutch because it's nearly impossible to find outside Groningen province!",
+        "origin_story": "A uniquely Groningen creation that locals guard fiercely. The curry spices reflect Dutch colonial connections to Indonesia, but the egg ball format is pure Groningen innovation.",
+        "where_to_find": "Snack bars throughout Groningen, markets on Vismarkt square (Tuesday, Friday, Saturday)"
+      },
+      {
+        "name": "Poffert",
+        "description": "A cake-like dessert typical of Groningen province - rich, dense, and distinctly Northern Dutch.",
+        "origin_story": "An old Groningen tradition that predates mass production. It's one of the few truly regional Dutch desserts that hasn't spread nationwide.",
+        "where_to_find": "WEEVA (the one restaurant in Groningen specializing in traditional Dutch cuisine)"
+      },
+      {
+        "name": "Stamppot",
+        "description": "One of the oldest Dutch dishes - mashed potatoes mixed with vegetables (often kale, sauerkraut, or endive) and served with sausage or bacon. Hearty winter comfort food.",
+        "origin_story": "Dating back centuries as farmer and working-class food. Every region has variations, but Groningen's student-friendly portions are legendary.",
+        "where_to_find": "Wadapartja (serving traditional stamppotten with homemade recipes since 1996), WEEVA"
+      },
+      {
+        "name": "Fresh Stroopwafel",
+        "description": "Two thin, crispy waffle cookies with caramel syrup between them. When bought fresh and hot from market stalls, they're transformative.",
+        "origin_story": "While stroopwafels are found throughout the Netherlands, nothing beats a fresh one from the Vismarkt. Place it on top of your coffee cup to warm it slightly.",
+        "where_to_find": "Food truck at Vismarkt (market on Tuesday, Friday, Saturday mornings)"
+      },
+      {
+        "name": "Groningen Mustard",
+        "description": "Unground, strong mustard that's distinctly Groningen. Much more intense than typical Dutch mustard.",
+        "origin_story": "Groningen's spice merchants developed this style centuries ago. The coarse texture and sharp bite make it perfect with Dutch cheese.",
+        "where_to_find": "Local markets, specialty food shops throughout Groningen"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Jenever (Dutch Gin)",
+        "description": "The Dutch national spirit - Groningen is one of the famous 'jenever cities' with the Hooghoudt distillery (since 1888) focusing exclusively on genever production.",
+        "how_locals_drink_it": "In a 'kopstoot' (headbutt) - jenever alongside beer as a chaser. Or a 'duikboot' (submarine) where you dip the jenever glass into the beer. Until the 1970s, jenever was THE student drink for its high alcohol and low price."
+      },
+      {
+        "name": "Brouwerij Martinus Beer",
+        "description": "Local microbrewery making specialty beers in the center of Groningen, named after the city's patron saint.",
+        "how_locals_drink_it": "At brown cafes and student bars throughout the city - supporting local brewing is part of Groningen pride"
+      },
+      {
+        "name": "1888 Punch",
+        "description": "Cocktail made with local Hooghoudt jenever, Lillet Blanc, ginger, grapefruit, and green tea - a modern take on jenever.",
+        "how_locals_drink_it": "At The Stockroom, a speakeasy bar in Groningen that honors the city's distilling heritage"
+      }
+    ],
+    "food_culture_notes": [
+      "25% of the city's 200,000 residents are students - making it one of Europe's most student-dominated cities",
+      "No closing times for bars and clubs - nightlife literally never stops",
+      "Cycling is king - it's the safest cycling city in the Netherlands",
+      "Drie Gezusters pub on Grote Markt is Europe's largest pub: 3,700 capacity, 20 bars under one roof",
+      "Vismarkt food market runs Tuesday, Friday, Saturday - fresh fish, produce, stroopwafels",
+      "Until the 1960s, Dutch drank more jenever than beer",
+      "Groningen's canals hide a graveyard of sunken bicycles from centuries of student life",
+      "The city is declared the healthiest in the Netherlands due to green spaces and cycling culture",
+      "Deep-fried snacks (frikandel, kroket, kaassoufflé) are student staples",
+      "Drop (licorice) is the acquired taste every Dutch child loves - internationals usually hate it"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Martinitoren (Martini Tower) - 97m tall with horse weathervane",
+      "Grote Markt square",
+      "Canals with traditional Dutch architecture",
+      "Drie Gezusters mega-pub",
+      "Groninger Museum (futuristic design)"
+    ],
+    "atmosphere": [
+      "Masses of bicycles everywhere",
+      "Canal-side brown cafes",
+      "Student bars packed at all hours",
+      "Market stalls on Vismarkt",
+      "Medieval streets meeting modern university buildings"
+    ],
+    "colors": [
+      "Brick red (traditional Dutch buildings)",
+      "Deep brown (jenever and beer)",
+      "Golden yellow (stroopwafel caramel)",
+      "Green (canals and parks)",
+      "Orange (Dutch national color, student celebrations)"
+    ],
+    "unique_modern": [
+      "Europe's largest student introduction week (Kei-Week)",
+      "24-hour nightlife with no closing times",
+      "Bike traffic lights that sync all cyclists",
+      "Hooghoudt Distillery (1888) with modern distilling techniques",
+      "Futuristic Groninger Museum contrasting medieval city center"
+    ]
+  },
+  "wikipedia_search_term": "Groningen",
+  "keywords_for_image": [
+    "Groningen Netherlands cycling",
+    "Martinitoren tower",
+    "Dutch jenever",
+    "eierbal snack",
+    "stroopwafel",
+    "Groningen canals",
+    "student city bicycles",
+    "Dutch market stalls"
+  ],
+  "coordinates": {
+    "lat": 53.2194,
+    "lng": 6.5665
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Groningen+🇳🇱/@53.2194,6.5665,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groningen"
+  },
+  "location_id": 105
+}

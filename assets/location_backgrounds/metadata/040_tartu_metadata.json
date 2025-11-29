@@ -1,0 +1,119 @@
+{
+  "name": "Tartu",
+  "country": "Estonia",
+  "fun_fact": "Fun fact: Estonian black rye bread (must leib) is so culturally sacred that when someone moves into a new home, Estonians bring bread and salt to a 'soolaleivapidu' (salted bread party). If you accidentally drop bread, you must kiss it as a sign of respect. There's even a marriage proposal saying: 'Paneme leivad ühte kappi' - 'we should keep our bread in the same cabinet.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Must Leib (Estonian Black Rye Bread)",
+        "description": "Dark rye bread that is an essential component of any traditional Estonian meal, made from rye cultivated in Estonia for over a thousand years",
+        "origin_story": "During the Middle Ages, Estonia was known across Europe as a major rye exporter. The Sangaste winter rye variety, created in 1875 at Sangaste Manor in South Estonia, is the oldest cultivated rye variety in the world. Rye has been central to Estonian agriculture for over a millennium.",
+        "where_to_find": "Look for 'Tartumaine Toit' label in Tartu stores (indicates local production). Best enjoyed with soups, alongside main courses, with Baltic herring on top, or with salted butter. Available at all local bakeries and restaurants."
+      },
+      {
+        "name": "Mulgipuder",
+        "description": "Rustic porridge of mashed barley and potatoes, often with bacon and sautéed onions, served with sour cream and rye bread",
+        "origin_story": "The ONLY Estonian national food on the UNESCO List of Intangible Cultural Heritage of Humanity. Traditionally associated with Southern Estonia, now enjoyed throughout the country as a typical home-cooked meal and common restaurant dish.",
+        "where_to_find": "Püssirohukelder (modern twist - serves it alongside French fries in a bun), Peasantry Museum Restaurant (inside Estonian National Museum, traditional Estonian meals in modern way with historic setting), traditional restaurants in Tartu"
+      },
+      {
+        "name": "Verivorst (Blood Sausage)",
+        "description": "Blood sausage made from pork, pig's blood, onions, barley, allspice, and marjoram, stuffed into pig's intestine - Estonia's national dish",
+        "origin_story": "Traditional winter meal, usually served during Christmas festivities when piles are roasted together with potatoes and pork. The name literally means 'blood sausage.' Considered THE national dish of Estonia.",
+        "where_to_find": "Served with lingonberry jam, butter, sauerkraut, or sour cream. Available at traditional Estonian restaurants, especially during winter and Christmas season. Restaurant Antonius (historic building blending old Estonian tastes with modern cooking)"
+      },
+      {
+        "name": "Kama",
+        "description": "Finely milled mixture of roasted barley, rye, oat, and pea flours - unique Estonian food product served as breakfast or snack",
+        "origin_story": "Not baked as bread, kama is mixed with sour milk or kefir as a quick meal. Its bittersweet taste also complements fresh fruit, coffee, and cocoa powder. Traditional Estonian breakfast staple.",
+        "where_to_find": "Krempel café (beloved by locals for freshly baked goods and traditional breakfast), local cafés throughout Tartu"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kali (Kvass)",
+        "description": "Estonia's national drink - low-alcohol, sour-sweet, fizzy beverage made from fermented rye bread, cross between beer and soda, also known as kvass or gira",
+        "how_locals_drink_it": "Dating back to medieval times, still popular among Estonians today. Made at home using birch sap, bread, berries, fruits, and dried ingredients. Commonly found at street food markets and festivals. Considered non-alcoholic but may have up to 1% alcohol after fermentation."
+      },
+      {
+        "name": "Vana Tallinn",
+        "description": "National drink of Estonia - sweet and strong spiced liqueur with hints of cinnamon and vanilla",
+        "how_locals_drink_it": "Served as a digestif or mixed in cocktails. The iconic Estonian spirit known worldwide."
+      },
+      {
+        "name": "Kasemahl (Birch Sap Beverage)",
+        "description": "Traditional drink made from birch sap, whose popularity peaked in the 20th century",
+        "how_locals_drink_it": "Seasonal drink harvested in spring when sap flows. Some Estonians still consume it as a traditional beverage."
+      }
+    ],
+    "food_culture_notes": [
+      "Tartu County is Estonia's annual culinary region, showcasing distinctive food cultures",
+      "'Tartumaine Toit' label in stores indicates products made or produced in Tartu County",
+      "Rye bread cultural practices: kissing dropped bread, 'soolaleivapidu' (salted bread party) for new homes, bread and marriage proposals",
+      "Traditional Estonian cuisine based on meat and potatoes, fish in coastal areas, now influenced by international foods",
+      "Peasantry Museum Restaurant inside Estonian National Museum offers history-focused dining",
+      "Restaurant Antonius occupies a historic building blending old Estonian tastes with modern cooking",
+      "Hõlm offers fine dining with innovative dishes crafted from local ingredients",
+      "Gunpowder Cellar (Püssirohukelder) housed in historic gunpowder store with cozy atmosphere",
+      "Estonian superstitions and proverbs centered around bread show its cultural importance",
+      "When entering a room where someone is eating, you say 'Jätku leiba' - 'May there always be bread'"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tartu University (oldest in Northern Europe)",
+      "Town Hall Square",
+      "Kissing Students Fountain",
+      "Estonian National Museum",
+      "Tartu Cathedral ruins",
+      "Toomemägi hill",
+      "Emajõgi River",
+      "Tartu City Market"
+    ],
+    "atmosphere": [
+      "University town intellectual vibe",
+      "Historic wooden architecture",
+      "Student culture energy",
+      "Riverside parks",
+      "Soviet-era modernism mixed with old town",
+      "Café culture",
+      "Museum and cultural focus"
+    ],
+    "colors": [
+      "Dark brown-black rye bread",
+      "Creamy white mulgipuder",
+      "Deep red verivorst",
+      "Golden kama powder",
+      "Amber kali/kvass",
+      "White birch trees",
+      "University building pastels"
+    ],
+    "unique_modern": [
+      "Estonian National Museum's contemporary architecture housing traditional restaurant",
+      "Modern twists on mulgipuder (served in buns with fries)",
+      "Fine dining with local Tartu ingredients",
+      "Historic gunpowder store converted to restaurant",
+      "UNESCO-listed traditional food preparation methods",
+      "Tartumaine Toit local food labeling system"
+    ]
+  },
+  "wikipedia_search_term": "Tartu",
+  "keywords_for_image": [
+    "Tartu Estonia university town",
+    "Estonian black rye bread must leib",
+    "mulgipuder Estonian porridge",
+    "verivorst blood sausage",
+    "Tartu Town Hall Square",
+    "Estonian National Museum",
+    "kali kvass fermented bread drink"
+  ],
+  "coordinates": {
+    "lat": 58.378,
+    "lng": 26.729
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tartu+🇪🇪/@58.378,26.729,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tartu"
+  },
+  "location_id": 40
+}

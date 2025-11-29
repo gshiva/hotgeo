@@ -1,0 +1,46 @@
+{
+  "name": "Münster",
+  "country": "🇩🇪",
+  "coordinates": {
+    "lat": 51.9607,
+    "lng": 7.6261
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Münster+🇩🇪/@51.9607,7.6261,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Münster"
+  },
+  "fun_fact": "Fun fact: Münster awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Münster cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Münster"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Münster landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 278
+}

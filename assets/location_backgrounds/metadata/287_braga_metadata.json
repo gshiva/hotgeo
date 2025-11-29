@@ -1,0 +1,94 @@
+{
+  "name": "Braga",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: Braga just earned its first Michelin star in February 2025 at Palatial restaurant under chef Rui Filipe - but the real local treasure is bacalhau à Sameiro, a codfish dish so beloved that Braga restaurants have perfected it over generations, each guarding their own secret seasoning recipe.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bacalhau à Sameiro",
+        "description": "Codfish dish with exquisite seasoning and tender texture, capturing the essence of traditional Portuguese cuisine.",
+        "origin_story": "Named after the Sameiro sanctuary near Braga, this codfish preparation represents Minho region's mastery of bacalhau (salted cod). Each restaurant has their own closely guarded recipe, but all emphasize fresh preparation and traditional seasoning.",
+        "where_to_find": "Arcoense (6km outside city center, renowned for traditional cuisine), Restaurante Cozinha da Sé (near cathedral, Michelin-recognized)"
+      },
+      {
+        "name": "Rojões à Minhota",
+        "description": "Marinated pork cubes fried to perfection with crispy edges and tender centers, accompanied by rice or potatoes.",
+        "origin_story": "A Minho region classic that showcases Northern Portuguese cooking - simple ingredients transformed through marination and precise frying technique. The dish is hearty, reflecting the agricultural heritage of the region.",
+        "where_to_find": "Arcoense (specializes in Minho-style rojões with Bisaro pork), Dona Júlia (traditional Minho dishes), Restaurante Bem-me-quer"
+      },
+      {
+        "name": "Cabrito Assado (Roast Kid Goat)",
+        "description": "Young goat slow-roasted in the oven until tender and falling off the bone, served with roasted potatoes.",
+        "origin_story": "A traditional Minho specialty that represents Northern Portugal's pastoral heritage. The kid goat is seasoned simply and roasted slowly, allowing the quality of the meat to shine.",
+        "where_to_find": "Arcoense (Padeiro-style roast kid), Dona Júlia (roast kid in the oven, traditional Minho preparation)"
+      },
+      {
+        "name": "Pudim Abade de Priscos",
+        "description": "Decadent local dessert pudding with a rich, custardy texture and caramel flavor.",
+        "origin_story": "Created by Abbot Manuel Joaquim Machado Rebelo in the 19th century in nearby Priscos, this pudding became a Braga specialty. The recipe uses port wine and bacon fat, creating a uniquely Portuguese dessert.",
+        "where_to_find": "Traditional restaurants throughout Braga, served as a signature dessert"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vinho Verde",
+        "description": "Slightly sparkling 'green wine' from the Minho region, crisp and refreshing with low alcohol.",
+        "how_locals_drink_it": "Paired with seafood and lighter dishes, especially bacalhau. The local production means Braga restaurants offer exceptional selections. Drunk young and cold."
+      },
+      {
+        "name": "Port Wine",
+        "description": "Portugal's famous fortified wine, though produced in Douro Valley, widely enjoyed in Braga.",
+        "how_locals_drink_it": "Served as an aperitif or digestif at traditional restaurants. Often paired with cheese courses or desserts like Pudim Abade de Priscos."
+      }
+    ],
+    "food_culture_notes": [
+      "Braga's cuisine follows generations of tradition with care and freshness in preparation",
+      "The city embraces both rustic traditional cooking and modern Michelin-recognized innovation",
+      "Minho region specialties dominate menus - rojões, cabrito, and bacalhau are point of pride",
+      "Palatial's Michelin star in 2025 put Braga on the fine dining map, but locals still treasure traditional family restaurants"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bom Jesus do Monte sanctuary",
+      "Braga Cathedral",
+      "Archbishop's Palace",
+      "Santa Barbara Garden"
+    ],
+    "atmosphere": [
+      "baroque religious architecture",
+      "Cávado River views",
+      "historic center charm",
+      "Portugal's oldest city energy"
+    ],
+    "colors": [
+      "baroque church gold",
+      "Minho valley green",
+      "terracotta rooftops",
+      "river blue"
+    ],
+    "unique_modern": [
+      "Michelin-starred emergence",
+      "boutique hotel dining",
+      "modern Minho fusion",
+      "sanctuary hilltop funicular"
+    ]
+  },
+  "wikipedia_search_term": "Braga",
+  "keywords_for_image": [
+    "Bom Jesus",
+    "bacalhau",
+    "Minho cuisine",
+    "baroque churches",
+    "Portuguese traditions"
+  ],
+  "coordinates": {
+    "lat": 41.5518,
+    "lng": -8.4229
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Braga+🇵🇹/@41.5518,-8.4229,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Braga"
+  },
+  "location_id": 287
+}

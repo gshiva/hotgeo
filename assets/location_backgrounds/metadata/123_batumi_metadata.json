@@ -1,0 +1,105 @@
+{
+  "name": "Batumi",
+  "country": "Georgia",
+  "fun_fact": "Fun fact: Batumi is home to the mesmerizing Ali and Nino statue - two 8-meter-tall moving figures that merge together every 10 minutes at 7 PM, telling the tragic love story between a Muslim Azerbaijani youth and a Christian Georgian princess!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Adjarian Khachapuri",
+        "description": "Batumi's signature dish - a boat-shaped bread filled with butter and cheese, topped with a runny egg. The boat shape represents Batumi's heritage as a Black Sea port town.",
+        "origin_story": "Batumi is the capital of Adjara, the namesake region for Adjarian khachapuri. Locals declare the boat-like shape is due to Batumi being a port town on the Black Sea.",
+        "where_to_find": "Retro (essential stop for the best Adjarian Khachapuri in Batumi), Porto Franco (serves the best iteration with unmatched taste and service)"
+      },
+      {
+        "name": "Khinkali",
+        "description": "Dumplings shaped like a pocket with various fillings, usually meat, though you can also find versions with mushrooms, salty cheese, or potatoes. Eaten by hand, holding the twisted top.",
+        "origin_story": "A beloved Georgian staple that showcases the country's dumpling-making tradition, with each region having its own variation.",
+        "where_to_find": "Tavaduri (famous for best khinkali in the city, including the mama khinkali - a giant khinkali filled with ten baby khinkali inside), Pirosmani (immaculate khinkali), Khinkali House Kalakuri (authentic, only meat and cheese varieties)"
+      },
+      {
+        "name": "Fresh Black Sea Seafood",
+        "description": "Being right by the Black Sea, Batumi offers exceptionally fresh and flavorful seafood, from fish to shellfish.",
+        "origin_story": "Batumi's location on the Black Sea coast makes it a prime destination for seafood lovers, with daily catches served at waterfront restaurants.",
+        "where_to_find": "Fishlandia (near the fish market with terrace overlooking the Black Sea, fresh seafood at reasonable prices)"
+      },
+      {
+        "name": "Georgian Classics",
+        "description": "Traditional Georgian dishes including kharcho (hearty soup), mtsvadi (grilled meat skewers), and fresh Georgian salad with tomatoes and cucumbers.",
+        "origin_story": "Georgian cuisine is one of the world's oldest, with recipes passed down through generations and influenced by the Silk Road.",
+        "where_to_find": "Kiziki (massive menu balancing authentic Georgian and international dishes), Panorama Restaurant (Georgian classics with breathtaking Black Sea views)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Georgian Wine",
+        "description": "Georgia is one of the world's oldest wine-producing regions, with 8,000 years of winemaking tradition using the qvevri (clay vessel) method.",
+        "how_locals_drink_it": "Served generously at restaurants like Khinkali House Kalakuri, paired with khinkali and other Georgian dishes. Wine pours are famously generous in Batumi."
+      }
+    ],
+    "food_culture_notes": [
+      "Batumi is famous for both beaches and architecture, but also its rich and diverse food scene",
+      "You can try everything from fresh Black Sea seafood to hot, cheesy khachapuri",
+      "Adjarian khachapuri is the regional specialty - boat-shaped bread with cheese, butter, and egg",
+      "Khinkali are eaten by hand - hold the twisted top, bite, sip the juice, then eat",
+      "Traditional Georgian restaurants serve food that feels like home cooking",
+      "The mama khinkali at Tavaduri is a spectacle - waiter cuts it open at your table to reveal baby khinkali inside"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ali and Nino statue - two 8-meter moving figures that merge every 10 minutes",
+      "Alphabet Tower - 130-meter structure with 33 Georgian letters in DNA helix design",
+      "Batumi Boulevard along the Black Sea coast",
+      "Batumi Miracle Park with 55-meter panoramic Ferris Wheel",
+      "Modern seaside architecture mixed with traditional Georgian elements",
+      "Black Sea waterfront promenade"
+    ],
+    "atmosphere": [
+      "Romantic Black Sea sunsets with Ali and Nino merging at 7 PM",
+      "Resort town energy with beaches and entertainment",
+      "Georgian hospitality and generous wine pours",
+      "Modern waterfront development meets traditional Caucasian culture",
+      "Vibrant nightlife with illuminated landmarks",
+      "Fresh sea breeze and coastal relaxation"
+    ],
+    "colors": [
+      "Deep blue of the Black Sea",
+      "Golden sunset light on the water",
+      "Metallic silver of Ali and Nino sculpture",
+      "Bright lights illuminating the Alphabet Tower at night",
+      "Golden-brown of khachapuri crust",
+      "Rich yellows of melted cheese and egg yolk"
+    ],
+    "unique_modern": [
+      "Ali and Nino was originally showcased at the 52nd Venice Biennale before coming to Batumi",
+      "The story is called the 'Caucasian Romeo and Juliet' - a Muslim-Christian love tragedy",
+      "The sculpture was created by Georgian artist Tamara Kvesitadze in 2010",
+      "Alphabet Tower cost $36 million to build and has a rotating 360° restaurant at the top",
+      "The tower's 33 letters represent the Georgian alphabet displayed in DNA double helix form",
+      "Romans called nearby islands 'the islands of the gods'",
+      "Batumi combines Soviet-era architecture with futuristic modern buildings"
+    ]
+  },
+  "wikipedia_search_term": "Batumi",
+  "keywords_for_image": [
+    "Batumi Ali and Nino statue",
+    "Alphabet Tower Georgia",
+    "Black Sea resort",
+    "Georgian khachapuri",
+    "Adjarian bread boat",
+    "khinkali dumplings",
+    "Batumi Boulevard",
+    "Georgian architecture",
+    "Caucasus seaside",
+    "Batumi Ferris wheel"
+  ],
+  "coordinates": {
+    "lat": 41.6168,
+    "lng": 41.6367
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Batumi+🇬🇪/@41.6168,41.6367,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Batumi"
+  },
+  "location_id": 123
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Nashville",
+  "country": "USA",
+  "fun_fact": "Fun fact: Nashville hot chicken was invented in the 1930s as revenge by Thornton Prince's jealous girlfriend who doused his fried chicken in cayenne pepper to punish him for a night out - but he loved it so much he opened a restaurant!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nashville Hot Chicken",
+        "description": "Crispy fried chicken coated in a fiery cayenne pepper paste, traditionally served on white bread with pickles. Heat levels range from 'Southern' (no heat) to 'Shut the Cluck Up' (extreme heat).",
+        "origin_story": "Born in the 1930s when Thornton Prince's scorned lover tried to teach him a lesson by making his beloved fried chicken unbearably spicy. The plan backfired - he loved it! Prince opened his chicken shack and the rest is culinary history. His great-niece André Prince Jeffries now runs Prince's Hot Chicken, which received a James Beard American Classic Award.",
+        "where_to_find": "Prince's Hot Chicken (the original since 1936), Hattie B's Hot Chicken (multiple locations since 2012, famous for their heat levels and pimento mac and cheese sides), Bolton's Spicy Chicken & Fish"
+      },
+      {
+        "name": "Meat and Three",
+        "description": "Traditional Southern plate featuring one meat and three vegetable sides - a Nashville lunch staple",
+        "origin_story": "Classic working-class lunch tradition from Nashville's honky tonk days",
+        "where_to_find": "Arnold's Country Kitchen, Swett's Restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sweet Tea",
+        "description": "Ice-cold black tea sweetened with copious amounts of sugar - the unofficial beverage of the South",
+        "how_locals_drink_it": "Served ice-cold in mason jars or tall glasses, often refilled for free at restaurants"
+      },
+      {
+        "name": "Tennessee Whiskey",
+        "description": "Smooth whiskey filtered through sugar maple charcoal, distinct from bourbon",
+        "how_locals_drink_it": "Neat, on the rocks, or in classic cocktails at honky tonks along Broadway"
+      }
+    ],
+    "food_culture_notes": [
+      "Nashville's 'Honky Tonk Highway' on Lower Broadway features live music from 10am to 3am with no cover charge - four blocks of non-stop country music",
+      "The city earned the nickname 'Music City' and has been home to the Grand Ole Opry since 1925",
+      "Tootsie's Orchid Lounge (opened 1960) got its famous purple exterior when a painter accidentally used the wrong color",
+      "Nashville was the first to have electric lighting in the South and is home to a full-scale replica of the Parthenon in Centennial Park",
+      "Hot chicken is traditionally eaten with white bread and pickles to help cut the heat"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ryman Auditorium (Mother Church of Country Music)",
+      "Broadway's neon-lit honky tonks with purple facades",
+      "Music City Walk of Fame stars",
+      "Batman Building (AT&T Building) skyline",
+      "Parthenon replica in Centennial Park"
+    ],
+    "atmosphere": [
+      "Neon-lit honky tonk bars spilling live music onto the streets",
+      "Pedal taverns cruising Broadway",
+      "Street performers with guitars and cowboy boots",
+      "BBQ smoke and hot chicken aromas",
+      "Southern hospitality with a rockabilly edge"
+    ],
+    "colors": [
+      "Neon pink, electric blue, and bright purple from honky tonk signs",
+      "Cayenne red and fiery orange from hot chicken",
+      "Deep golden brown of fried chicken crust",
+      "White bread and bright green pickles (classic hot chicken presentation)"
+    ],
+    "unique_modern": [
+      "Massive murals and street art in The Gulch neighborhood",
+      "Bachelorette party buses with cowboy hats and boots",
+      "Broadway's famous 'boots and hats' dress code culture",
+      "Prince's Hot Chicken's legacy as a James Beard American Classic"
+    ]
+  },
+  "wikipedia_search_term": "Nashville",
+  "keywords_for_image": [
+    "nashville hot chicken cayenne red",
+    "broadway honky tonk neon lights",
+    "tootsies orchid lounge purple",
+    "country music guitar cowboy boots",
+    "fried chicken pickles white bread",
+    "ryman auditorium music city",
+    "tennessee whiskey",
+    "southern comfort food"
+  ],
+  "coordinates": {
+    "lat": 36.1627,
+    "lng": -86.7816
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nashville+🇺🇸/@36.1627,-86.7816,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nashville"
+  },
+  "location_id": 166
+}

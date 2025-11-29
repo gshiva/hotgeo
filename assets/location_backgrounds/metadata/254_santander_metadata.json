@@ -1,0 +1,94 @@
+{
+  "name": "Santander",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Santander sits on the Bay of Biscay in Cantabria, where the mountains literally meet the sea - you can ski in the morning at Picos de Europa and eat fresh seafood on the beach by lunch.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Rabas",
+        "description": "Fried calamari served as generous portions, especially delicious when using magano or peludín squid varieties",
+        "origin_story": "Rabas are Santander's beloved pre-Sunday lunch tradition. Locals order them before family meals, especially when accompanied by a glass of Vermouth. Using the magano or peludín squid varieties (local types) makes them extraordinary - tender inside, crispy outside. They're so central to Cantabrian culture that they appear on nearly every menu.",
+        "where_to_find": "Mesón Puente Viejo (between Santander and Torrelavega - don't miss their rabas!), Marisquería Casa José (fishing district - huge portions), Casa Lita (300 types of pinchos daily)"
+      },
+      {
+        "name": "Cocido Montañés",
+        "description": "Hearty mountain stew with white beans, pork (bacon, ribs, chorizo), and leafy greens like cabbage or kale",
+        "origin_story": "This 'mountain stew' originated as fuel for workers in Cantabria's Picos de Europa mountains. Using leftover pork, especially the rich fatty cuts, with local white beans creates a deeply satisfying stew. It's mountain food - designed to provide calories for physical labor in cold weather. Now it's regional pride.",
+        "where_to_find": "Bodega Fuente Dé (most renowned budget restaurant in Santander - serves cocido montañés during the day, excellent cured meats), traditional Cantabrian restaurants"
+      },
+      {
+        "name": "Fresh Cantabrian Seafood",
+        "description": "Zamburiñas (queen scallops), langostinos (prawns), octopus, and whatever came from the Bay of Biscay that morning",
+        "origin_story": "Santander's fishing district pulls seafood directly from the Bay of Biscay's cold, nutrient-rich waters. The freshness is incomparable - restaurants like Casa José in the fishing district serve what arrived hours earlier. Cantabrians trust the catch so much they often prepare it simply.",
+        "where_to_find": "Marisquería Casa José (Santander's fishing district - zamburiñas, langostinos, Iberian ham croquettes, tender octopus), La Bombi (upscale seafood and regional classics)"
+      },
+      {
+        "name": "Cantabrian Pinchos",
+        "description": "Northern Spanish small bites - the Cantabrian version of Basque pintxos, creative and abundant",
+        "origin_story": "While Basque Country gets fame for pintxos, Santander has its own pincho culture. Casa Lita serves approximately 300 different types made fresh daily. The tradition of hopping between bars for different pinchos (pincho crawl) is evening entertainment.",
+        "where_to_find": "Casa Lita (huge array of northern Spanish pinchos - 300 types made daily with quality produce), tapas bars throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vermouth",
+        "description": "Aromatized fortified wine, often served on tap, popular before Sunday lunch",
+        "how_locals_drink_it": "The pre-Sunday lunch ritual pairs vermouth with rabas. Served over ice with an olive or orange peel, it's aperitif culture - stimulating appetite while socializing. Cantabrians take their vermouth traditions seriously."
+      },
+      {
+        "name": "Orujo",
+        "description": "Pomace brandy from grape skins, Cantabria's digestif - clear and potent",
+        "how_locals_drink_it": "Served after heavy meals like cocido montañés. Some versions are flavored with herbs or coffee. It's strong (40%+) and considered essential for digestion after rich mountain stews."
+      }
+    ],
+    "food_culture_notes": [
+      "The Bay of Biscay provides some of Spain's best seafood - cold Atlantic waters create exceptional flavor and texture",
+      "Santander dining culture mixes mountain (cocido montañés) and sea (rabas, fresh fish) - the region's dual geography on one plate",
+      "Pincho crawls are evening social events - hopping between bars for different specialties with drinks",
+      "Cañadío and Cenador de Amós are Michelin-mentioned restaurants bringing modern techniques to Cantabrian ingredients"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "El Sardinero beach",
+      "Palacio de la Magdalena",
+      "Cabo Mayor lighthouse",
+      "Picos de Europa mountains"
+    ],
+    "atmosphere": [
+      "bay coastline",
+      "belle époque elegance",
+      "fishing district authenticity",
+      "mountain backdrop"
+    ],
+    "colors": [
+      "Bay of Biscay blue",
+      "mountain green",
+      "golden beaches",
+      "red chorizo"
+    ],
+    "unique_modern": [
+      "Contemporary art at Centro Botín",
+      "Beach culture meets mountains",
+      "Gastronomic innovation",
+      "Summer festival scene"
+    ]
+  },
+  "wikipedia_search_term": "Santander,_Spain",
+  "keywords_for_image": [
+    "Santander Bay of Biscay",
+    "rabas fried calamari",
+    "Picos de Europa mountains",
+    "Spanish seafood",
+    "Cantabrian coast"
+  ],
+  "coordinates": {
+    "lat": 43.4623,
+    "lng": -3.81
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Santander+🇪🇸/@43.4623,-3.81,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santander,_Spain"
+  },
+  "location_id": 254
+}

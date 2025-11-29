@@ -1,0 +1,107 @@
+{
+  "name": "Philadelphia",
+  "country": "USA",
+  "region": "Pennsylvania",
+  "fun_fact": "Philadelphia invented the cheesesteak in 1930 when hot dog vendor Pat Olivieri threw beef on his grill. The famous rivalry between Pat's and Geno's (directly across the street from each other) has been going strong since 1966, both open 24/7. The city also invented the hoagie and is home to the Liberty Bell.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Philly Cheesesteak",
+        "description": "Thinly sliced ribeye steak, melted cheese (Cheez Whiz, American, or provolone), and optional grilled onions on an Italian roll",
+        "origin_story": "Invented in 1930 by Pat Olivieri at 9th & Wharton. A cab driver asked for one of Pat's beef sandwiches, and soon he had a following. Pat's has been family-owned for almost 90 years.",
+        "where_to_find": "Pat's King of Steaks (invented it, chops the meat) vs Geno's Steaks (across the street, doesn't chop meat). Locals also swear by Jim's, Tony Luke's, John's Roast Pork, and Angelo's in Bella Vista."
+      },
+      {
+        "name": "Hoagie",
+        "description": "Italian cold cuts, cheese, lettuce, tomato, onions, oil and vinegar on a long Italian roll",
+        "origin_story": "Also invented in Philadelphia during the early 20th century. The hoagie evolved alongside the cheesesteak, eventually creating the hoagie cheesesteak hybrid.",
+        "where_to_find": "Both Pat's and Geno's serve Italian hoagies. Look for Sarcone's rolls - the locals' favorite."
+      },
+      {
+        "name": "Roast Pork Sandwich",
+        "description": "Slow-roasted pork topped with sharp provolone and broccoli rabe on an Italian roll",
+        "origin_story": "Some Philly natives argue this is actually better than the cheesesteak. It's the local's secret favorite.",
+        "where_to_find": "John's Roast Pork, Tony Luke's, and Geno's all serve excellent versions"
+      },
+      {
+        "name": "Soft Pretzels",
+        "description": "Large, chewy pretzels with coarse salt, often served with yellow mustard",
+        "origin_story": "Philadelphia is famous for soft pretzels sold by street vendors throughout the city",
+        "where_to_find": "Street carts throughout the city, especially near Independence Hall"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Yuengling Lager",
+        "description": "America's oldest brewery (founded 1829), based in nearby Pottsville, PA",
+        "how_locals_drink_it": "The default beer order in Philly - just say 'Lager' and they'll know you mean Yuengling"
+      },
+      {
+        "name": "Birch Beer",
+        "description": "Sweet, root beer-like soda made from birch bark",
+        "how_locals_drink_it": "A regional specialty often found at cheesesteak shops and diners"
+      }
+    ],
+    "food_culture_notes": [
+      "How to order: 'wiz wit' = Cheez Whiz with onions, 'American witout' = American cheese without onions",
+      "Pat's chops the meat, Geno's doesn't - that's a key difference in the rivalry",
+      "Both Pat's and Geno's are open 24/7 and directly across from each other at 9th & Passyunk",
+      "Locals debate endlessly about the best cheesesteak - many say Jim's or Angelo's beat the famous two",
+      "Angelo's (opened 2019) uses Sarcone's seeded rolls and has already become a local favorite",
+      "The cheesesteak evolved into the hoagie cheesesteak, combining two Philly inventions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Liberty Bell and Independence Hall",
+      "Rocky Steps at Philadelphia Museum of Art",
+      "City Hall with 37-foot William Penn statue",
+      "Benjamin Franklin Parkway (modeled after Champs-Élysées)",
+      "Pat's and Geno's neon signs at 9th & Passyunk",
+      "Reading Terminal Market"
+    ],
+    "atmosphere": [
+      "Historic brick buildings and cobblestone streets",
+      "Bustling urban energy",
+      "Working-class authenticity",
+      "Passionate sports culture",
+      "Late-night food scene (24/7 cheesesteaks)"
+    ],
+    "colors": [
+      "Red brick colonial architecture",
+      "Green and white (Eagles colors)",
+      "Neon signs at Pat's and Geno's",
+      "Golden soft pretzels",
+      "Cheez Whiz orange-yellow"
+    ],
+    "unique_modern": [
+      "Craft brewery renaissance",
+      "Street art and murals",
+      "Angelo's modern take on traditional cheesesteaks",
+      "Food hall culture at Reading Terminal Market",
+      "Boutique cheesesteak shops"
+    ]
+  },
+  "wikipedia_search_term": "Philadelphia",
+  "keywords_for_image": [
+    "philly cheesesteak",
+    "pats king of steaks",
+    "genos steaks",
+    "liberty bell",
+    "rocky steps philadelphia",
+    "independence hall",
+    "philadelphia hoagie",
+    "philly soft pretzel",
+    "reading terminal market",
+    "philadelphia food"
+  ],
+  "coordinates": {
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Philadelphia+🇺🇸/@39.9526,-75.1652,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia"
+  },
+  "location_id": 112
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Zakopane",
+  "country": "Poland",
+  "region": "Tatra Mountains",
+  "fun_fact": "Fun fact: Zakopane is the heart of Górale (Highlander) culture, where traditional shepherds still make oscypek cheese using 15th-century techniques in mountain huts. The cheese is smoked for up to 14 days and has EU Protected Designation of Origin status!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Oscypek Cheese",
+        "description": "Smoked sheep's milk cheese with a chewy, almost rubbery texture similar to halloumi. Shaped like decorative Christmas baubles with intricate patterns.",
+        "origin_story": "Dating back to the 15th century, oscypek was created by Goral shepherds in mountain pastures ('halas') as a way to preserve milk during summer grazing. Takes 7 liters of sheep's milk to make one 600-800g piece.",
+        "where_to_find": "Sold on charcoal BBQ grills all along Krupówki Street, served hot with cranberry sauce on cardboard with a toothpick. Look for authentic oscypek with EU Protected Designation (not just 'serki góralskie')"
+      },
+      {
+        "name": "Kwaśnica (Sour Cabbage Soup)",
+        "description": "Intensely sour and salty soup made with pickled cabbage and meat (mutton or pork, often smoked ribs). On Poland's List of Traditional Products.",
+        "origin_story": "A warming highlander staple designed to fuel shepherds through harsh mountain winters. The intense flavor comes from fermented cabbage and slow-cooked mountain meats.",
+        "where_to_find": "Traditional highland restaurants throughout Zakopane, especially during winter months when it's most popular"
+      },
+      {
+        "name": "Placki Ziemniaczane (Mountain Potato Pancakes)",
+        "description": "Potato pancakes topped with wild chanterelle or forest mushroom sauce (in summer) or rich meat goulash. Served folded in half with sour cream.",
+        "origin_story": "In the Podhale mountain region, potato pancakes evolved beyond simple preparations to feature local forest mushrooms and hearty highland-style goulash.",
+        "where_to_find": "Local highland restaurants; look for seasonal chanterelle versions in summer, Hungarian-style pork goulash year-round"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Herbata Góralska (Highlander Tea)",
+        "description": "Mountain tea 'with electricity' - black tea mixed with vodka in 1:2 ratio (1 part tea, 2 parts vodka), often with sugar and lemon.",
+        "how_locals_drink_it": "Also called 'herbata z prądem' (tea with shocks/current). Popular at mountain huts and after skiing. Originally 2 parts vodka to 1 part tea for warmth in the mountains"
+      },
+      {
+        "name": "Mulled Wine",
+        "description": "Hot spiced wine served at cozy taverns and mountain lodges, perfect after a day skiing in the Tatras.",
+        "how_locals_drink_it": "Enjoyed at taverns throughout Zakopane, especially during winter. Part of the après-ski culture in the mountain resort town"
+      }
+    ],
+    "food_culture_notes": [
+      "Górale (Highlander) culture affects everything from architecture to dress to language",
+      "Traditional highlander cuisine is hearty, designed for mountain climate and shepherding lifestyle",
+      "Oscypek must meet strict EU requirements or it's just called 'Highlander cheese'",
+      "Wild mushroom season (summer) brings special chanterelle dishes",
+      "Food tours often include local beers or vodka alongside traditional dishes",
+      "Midnight Mass tradition at Wiktorówki glade features hot tea and 'alko-power'"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tatra Mountains backdrop",
+      "Traditional wooden highland architecture",
+      "Krupówki Street with charcoal grills",
+      "Mountain huts (halas) where cheese is smoked",
+      "Ski slopes and winter sports areas"
+    ],
+    "atmosphere": [
+      "Cozy mountain taverns with fireplaces",
+      "Charcoal smoke from oscypek grills",
+      "Snow-capped peaks",
+      "Traditional highlander music and regional costumes",
+      "Après-ski energy"
+    ],
+    "colors": [
+      "Golden-brown smoked oscypek",
+      "White snowy peaks",
+      "Deep brown wooden architecture",
+      "Cranberry sauce red",
+      "Forest green pine trees"
+    ],
+    "unique_modern": [
+      "EU-protected artisanal cheese making",
+      "Living folklore and highland traditions",
+      "Mountain resort spa culture",
+      "Year-round outdoor recreation hub"
+    ]
+  },
+  "wikipedia_search_term": "Zakopane",
+  "keywords_for_image": [
+    "Zakopane Poland oscypek cheese",
+    "Tatra Mountains highland",
+    "Polish Górale culture",
+    "Zakopane wooden architecture",
+    "Polish mountain food",
+    "Krupówki Street Zakopane"
+  ],
+  "coordinates": {
+    "lat": 49.2992,
+    "lng": 19.9496
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zakopane+🇵🇱/@49.2992,19.9496,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zakopane"
+  },
+  "location_id": 83
+}

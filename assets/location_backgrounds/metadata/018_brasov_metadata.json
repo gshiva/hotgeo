@@ -1,0 +1,95 @@
+{
+  "name": "Brasov",
+  "country": "Romania",
+  "fun_fact": "Fun fact: Sarmale (stuffed cabbage rolls) is so beloved in Romania that it's prepared for every major celebration - Christmas, birthdays, weddings - and Transylvanian families have passed down their secret recipes for generations!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sarmale",
+        "description": "Cabbage leaves stuffed with ground meat, rice, and spices, served with sour cream",
+        "origin_story": "Romania's unofficial national dish, essential for special occasions",
+        "where_to_find": "La Ceaun, Restaurant Mamaliguta, Sergiana"
+      },
+      {
+        "name": "Mici (Mititei)",
+        "description": "Small grilled skinless sausages of beef, pork, and spices",
+        "origin_story": "Romanian street food icon, served with mustard and fresh bread",
+        "where_to_find": "Street vendors, traditional restaurants throughout Brasov"
+      },
+      {
+        "name": "Ciorba de Fasole in Pita",
+        "description": "Bean soup served in a bread bowl",
+        "origin_story": "La Ceaun's specialty, recommended by locals",
+        "where_to_find": "La Ceaun in Piata Sfatului"
+      },
+      {
+        "name": "Papanași",
+        "description": "Fried cheese dumplings topped with sour cream and fruit jam",
+        "origin_story": "Traditional Romanian dessert",
+        "where_to_find": "Traditional restaurants, especially Sergiana"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Țuică",
+        "description": "Traditional plum brandy, Romania's national spirit",
+        "how_locals_drink_it": "As aperitif, especially in colder months"
+      },
+      {
+        "name": "Romanian Wine",
+        "description": "Transylvania has excellent wine regions",
+        "how_locals_drink_it": "With meals, Pilvax has excellent wine bar"
+      }
+    ],
+    "food_culture_notes": [
+      "Sergiana staff dress in folk costumes, menu in Saxon, Hungarian, Romanian",
+      "Hungarian influence strong - goulash soup common",
+      "Sub Tampa serves neo-traditional Transylvanian cuisine with modern twist",
+      "La Ceaun uses recipes from their own farms"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Black Church",
+      "Council Square (Piata Sfatului)",
+      "Mount Tampa",
+      "medieval city walls"
+    ],
+    "atmosphere": [
+      "Gothic architecture",
+      "cobblestone streets",
+      "Carpathian mountain backdrop",
+      "medieval towers"
+    ],
+    "colors": [
+      "Gothic stone gray",
+      "autumn forest colors",
+      "red rooftops",
+      "mountain green"
+    ],
+    "unique_modern": [
+      "cable car to Mount Tampa",
+      "Dracula tourism",
+      "bear watching tours"
+    ]
+  },
+  "wikipedia_search_term": "Brașov",
+  "keywords_for_image": [
+    "sarmale cabbage rolls",
+    "mici grilled sausages",
+    "Black Church",
+    "Council Square",
+    "Carpathian Mountains",
+    "medieval architecture",
+    "autumn colors"
+  ],
+  "coordinates": {
+    "lat": 45.6427,
+    "lng": 25.5887
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Brasov+🇷🇴/@45.6427,25.5887,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brașov"
+  },
+  "location_id": 18
+}

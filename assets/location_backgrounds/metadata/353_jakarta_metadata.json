@@ -1,0 +1,94 @@
+{
+  "name": "Jakarta",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Jakarta's National Monument (Monas) is a 132-meter obelisk topped with a flame covered in 50kg of gold leaf. It's been dubbed 'Sukarno's final erection' for its phallic shape, but the design symbolizes lingga and yoni (rice pestle and mortar) representing fertility and eternal life. It houses Indonesia's original independence flag from August 17, 1945, now too threadbare to fly",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nasi Goreng",
+        "description": "Indonesia's national dish - smoky fried rice with kecap manis (sweet soy sauce), shrimp paste, tamarind, chili, and whatever protein is available. Topped with a fried egg, served with prawn crackers and pickled vegetables",
+        "origin_story": "Born as a way to use leftover rice, nasi goreng became Indonesia's soul food. The key is wok hei (breath of wok) - that smoky char from high-heat frying. Kecap manis gives it the signature sweet-savory-umami flavor. Every street vendor has their own twist, every family recipe is 'most authentic'",
+        "where_to_find": "Plataran Menteng (Nasi Goreng Kampung - village style), street vendors throughout Pasar Baru and Kota Tua, 24-hour wartegs (home-cooked food stalls)"
+      },
+      {
+        "name": "Satay (Sate)",
+        "description": "Skewered and grilled meat (chicken, beef, lamb, or goat) marinated in turmeric and spices, charred over coconut shell charcoal, served with thick peanut sauce",
+        "origin_story": "Indonesia's street food king. The name comes from Tamil 'satai' meaning grilled meat. The secret is the marinade (turmeric, coriander, lemongrass) and cooking over coconut shell coals for that smoky sweetness. The peanut sauce has 100 variations - some sweet, some spicy, all addictive. You eat it with your hands, not a fork",
+        "where_to_find": "Warung Sate Shinta (local favorite), street vendors near Monas square, Kaum Jakarta (upscale presentation)"
+      },
+      {
+        "name": "Gado-Gado",
+        "description": "Indonesian salad of blanched vegetables (cabbage, bean sprouts, long beans), hard-boiled eggs, fried tofu, tempeh, and crackers, all smothered in rich peanut sauce",
+        "origin_story": "The name means 'mix-mix' in Jakarta's Betawi dialect. Originally called 'eating without rice,' though now served with lontong (compressed rice cakes). Gado-Gado Bon-Bin has been making it since 1960 with the same family recipe - the peanut sauce is the secret, thick and slightly sweet with palm sugar",
+        "where_to_find": "Gado-Gado Bon-Bin (since 1960, the original), Merah Putih (contemporary version), street vendors in Pasar Baru"
+      },
+      {
+        "name": "Rendang",
+        "description": "Slow-cooked beef simmered for hours in coconut milk with lemongrass, galangal, garlic, turmeric, ginger and chilies until the sauce reduces to a dark, caramelized coating",
+        "origin_story": "Originally from West Sumatra, rendang conquered Indonesia. The long cooking time (4-6 hours) was for preservation before refrigeration. CNN named it the world's most delicious food in 2011. The meat should be so tender it falls apart, the sauce should cling like lacquer. It's not curry, it's barely wet",
+        "where_to_find": "Plataran Menteng (traditional Padang-style), Kaum Jakarta (modern presentation), Padang restaurants throughout Jakarta"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kopi Tubruk (Indonesian Coffee)",
+        "description": "Strong black coffee where finely ground beans are boiled directly in the cup with sugar - no filtering. Thick, sweet, and muddy at the bottom",
+        "how_locals_drink_it": "Drink it slowly at warung kopi (coffee stalls), let the grounds settle. Never stir after the first mix. The last sip is pure mud, don't drink it. Often paired with kretek (clove cigarettes) and morning gossip. Adding condensed milk makes it kopi susu"
+      },
+      {
+        "name": "Es Teh Manis (Sweet Iced Tea)",
+        "description": "Super-sweet black tea served over ice - the default drink for Jakarta's sweltering heat. Often syrupy sweet to Western palates",
+        "how_locals_drink_it": "Ordered automatically with every meal. Ask for 'kurang manis' (less sweet) or you'll get diabetes in a glass. Street vendors pour it from height to create foam. It's cheaper than water and flows freely at every restaurant and street stall"
+      }
+    ],
+    "food_culture_notes": [
+      "Wartegs (Warung Tegal) are 24-hour home-cooking stalls with 20+ dishes - point at what you want, no menu needed",
+      "Jakarta's traffic is legendary - Gojek and Grab motorcycles are faster than cars for food delivery and getting around",
+      "Pasar Baru and Kota Tua are street food hotspots, best explored at night when the city cools down",
+      "The original independence flag from 1945 is housed in Monas and only taken out for Independence Day ceremonies"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Monas (National Monument) with 50kg gold flame",
+      "Merdeka Square surrounding Monas",
+      "Kota Tua (Old Town) with Dutch colonial buildings",
+      "Istiqlal Mosque (largest in Southeast Asia)"
+    ],
+    "atmosphere": [
+      "motorcycle traffic chaos",
+      "street food smoke and charcoal grills",
+      "tropical humidity and monsoon rains",
+      "Dutch colonial architecture meets modern skyscrapers"
+    ],
+    "colors": [
+      "golden flame (Monas)",
+      "dark caramel (rendang)",
+      "bright red-white (Indonesian flag)",
+      "muddy brown (kopi tubruk)"
+    ],
+    "unique_modern": [
+      "Monas monument with 50kg of gold (opened 1975)",
+      "Infamous traffic - motorcycles preferred over cars",
+      "Megacity of 30+ million people (metropolitan area)",
+      "Gojek and Grab ride-hailing dominance"
+    ]
+  },
+  "wikipedia_search_term": "Jakarta",
+  "keywords_for_image": [
+    "Jakarta Monas National Monument",
+    "nasi goreng Indonesian fried rice",
+    "satay skewers peanut sauce",
+    "Jakarta traffic motorcycles",
+    "gado-gado Indonesian salad"
+  ],
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Jakarta+🇮🇩/@-6.2088,106.8456,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jakarta"
+  },
+  "location_id": 353
+}

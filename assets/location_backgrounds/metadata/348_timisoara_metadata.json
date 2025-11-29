@@ -1,0 +1,94 @@
+{
+  "name": "Timisoara",
+  "country": "Romania",
+  "fun_fact": "Fun fact: Timișoara was the first city in Europe to have electric street lights in 1884 (second in the world after New York), beating Paris and London by years. In December 1989, it became the first Romanian city to overthrow communism, sparking the revolution that ended Ceaușescu's regime three days later",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sarmale (Cabbage Rolls)",
+        "description": "Tender cabbage leaves wrapped around a savory mix of ground pork, rice, and spices, slow-cooked for hours in rich tomato sauce. Served with sour cream, polenta, and spicy peppers",
+        "origin_story": "Romania's ultimate comfort food, traditionally made for Christmas and weddings. The recipe came from Ottoman times but was perfected by Romanian grandmothers who insist on using sauerkraut leaves, not fresh cabbage. Making sarmale is an all-day affair - families gather to roll hundreds at once",
+        "where_to_find": "Casa Timiș (traditional with sour cream and pepper), Casa Bunicii (grandmother's house - the name says it all), Miorita (huge portions, rustic decor)"
+      },
+      {
+        "name": "Mici (Mititei - Little Sausages)",
+        "description": "Small skinless grilled sausages made from a secret blend of beef, pork, lamb, garlic, and spices. Juicy, garlicky, and slightly smoky, always served with mustard and fresh bread",
+        "origin_story": "Born in Bucharest in the 1800s when an inn ran out of sausage casings and grilled the meat mixture anyway. The name means 'little ones.' Every Romanian claims their region makes them best. The secret is the meat-to-fat ratio and leaving them to rest overnight so spices penetrate. Grilled over charcoal, never gas",
+        "where_to_find": "Nora Restaurant (famous for generous mici portions), Miorita (absolutely massive servings), Beraria 700 (grilled fresh on outdoor grill since 1761)"
+      },
+      {
+        "name": "Papanași",
+        "description": "Fried sweet cheese doughnuts the size of your fist, topped with sour cream and sweet jam (usually blueberry or sour cherry). Crispy outside, fluffy inside, ridiculously indulgent",
+        "origin_story": "The Romanian dessert that makes tourists' eyes widen in shock at the portion size. Made with fresh cow cheese (telemea or brânză de vaci), these were originally peasant food but became restaurant favorites. The combo of sweet and sour is quintessentially Romanian",
+        "where_to_find": "Casa Bunicii & Craft Rooftop, Miorita, Casa Timiș (with traditional cozonac sweet bread too)"
+      },
+      {
+        "name": "Roast Duck with Red Wine Sauce",
+        "description": "Whole duck roasted until the skin crackles, served with rich red wine reduction and buttery polenta or mashed potatoes",
+        "origin_story": "Timișoara's Austro-Hungarian heritage shows in this dish - more refined than typical Romanian fare. The city was called 'Little Vienna' for good reason. Duck farming thrived around the Banat region's wetlands, making this a local specialty",
+        "where_to_find": "Casa Timiș (oven-baked duck with red wine sauce), Miorita (rustic preparation)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Țuică and Palincă (Fruit Brandy)",
+        "description": "Clear plum brandy (țuică is weaker ~25-30%, palincă is stronger 40-70%). Made from fermented plums, apricots, or pears. Burns going down but warms the soul",
+        "how_locals_drink_it": "Always served in small glasses before meals as an aperitif. Homemade batches are a point of pride - every Romanian grandfather has a secret recipe. Never refuse when offered, it's insulting. Toast with 'Noroc!' (Good luck!). Follow immediately with pickles or sausage"
+      },
+      {
+        "name": "Timișoreana Beer",
+        "description": "Local lager brewed in Timișoara since 1718 - Romania's oldest beer brand. Crisp, light, perfect for washing down mici and sarmale",
+        "how_locals_drink_it": "Served ice-cold in half-liter glasses. Beraria 700 has brewed house beer since 1761 in the old fortress. Beer culture here rivals Prague - the first brewery in present-day Romania was established in Timișoara in 1718. Pair with grilled meats, always"
+      }
+    ],
+    "food_culture_notes": [
+      "Timișoara is the only European city with three state theatres in different languages (Romanian, German, Hungarian) in one building - multicultural heritage",
+      "Called 'Little Vienna' for Secession and Baroque architecture - the Austro-Hungarian influence is everywhere, including food",
+      "The 1989 anti-communist revolution started here on December 15 with lit candles and peaceful protests",
+      "First European city with electric street lights (1884) - commemorative lamp still functions in 700 Market"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Piața Unirii (Union Square) with colorful Baroque buildings",
+      "Orthodox Cathedral with distinctive green-tiled domes",
+      "Beraria 700 in the old fortress",
+      "Reformed Church where 1989 revolution began"
+    ],
+    "atmosphere": [
+      "Austro-Hungarian elegance",
+      "charcoal smoke from mici grills",
+      "live music in beer halls",
+      "revolutionary spirit"
+    ],
+    "colors": [
+      "mustard yellow and terracotta (Baroque buildings)",
+      "emerald green (cathedral domes)",
+      "charred brown (grilled mici)",
+      "crimson red (sarmale sauce)"
+    ],
+    "unique_modern": [
+      "First European city with electric street lights (1884)",
+      "Birthplace of 1989 anti-communist revolution",
+      "Three-language state theatre (unique in Europe)",
+      "Romania's oldest beer tradition (since 1718)"
+    ]
+  },
+  "wikipedia_search_term": "Timișoara",
+  "keywords_for_image": [
+    "Timisoara Union Square Romania",
+    "Romanian sarmale cabbage rolls",
+    "mici Romanian sausages",
+    "Timisoara Baroque architecture",
+    "Orthodox Cathedral Timisoara"
+  ],
+  "coordinates": {
+    "lat": 45.7489,
+    "lng": 21.2087
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Timisoara+🇷🇴/@45.7489,21.2087,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timișoara"
+  },
+  "location_id": 348
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Brussels",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Brussels serves over 2,000 tons of mussels annually, and the traditional moules-frites was originally a poor man's meal - mussels were cheap and abundant in the North Sea, paired with fried potatoes (Belgium's true invention, not France's) to create what's now Belgium's unofficial national dish.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Moules-Frites (Mussels and Fries)",
+        "description": "Fresh North Sea mussels steamed in white wine, shallots, parsley, and butter, served with crispy Belgian fries and mayonnaise.",
+        "origin_story": "Belgium's unofficial national dish combines the country's two culinary claims to fame - mussels from the North Sea and perfectly fried potatoes (Belgium invented fries, despite the name). The dish evolved from working-class coastal cuisine to Brussels institution.",
+        "where_to_find": "Chez Léon (serving since 1893, five generations), Aux Armes de Bruxelles (established 1921, old-world charm), In't Spinnekopke (authentic bistro near Grand' Place)"
+      },
+      {
+        "name": "Grey Shrimp Croquettes",
+        "description": "Creamy béchamel sauce with tiny North Sea grey shrimp, coated in breadcrumbs and deep-fried until golden and crispy.",
+        "origin_story": "A Belgian specialty showcasing the prized grey shrimp from the North Sea. The croquettes must be crunchy outside, molten-creamy inside, with enough shrimp to taste the sea. They're everywhere in Brussels but quality varies wildly.",
+        "where_to_find": "Le Marmiton (serving for over three decades, dedicated to Belgian seafood), traditional brasseries"
+      },
+      {
+        "name": "Carbonnade Flamande",
+        "description": "Flemish beef stew slow-cooked in Belgian beer with onions, mustard, and spices. Rich, sweet-savory, deeply comforting.",
+        "origin_story": "A Flemish classic that uses Belgian brown ale to create a complex, slightly sweet sauce. The beer's maltiness tenderizes the beef and adds depth impossible to achieve otherwise. It's Belgian soul food.",
+        "where_to_find": "Aux Armes de Bruxelles, In't Spinnekopke (classic bistro character), traditional Belgian brasseries"
+      },
+      {
+        "name": "Moules Marinières at Taverne du Passage",
+        "description": "Perfect preparation of mussels in white wine, garlic, and parsley, served in the beautiful Art Deco setting of this 1928 establishment.",
+        "origin_story": "Taverne du Passage opened in 1928 in the stunning Galeries Royales Saint-Hubert and remains virtually unchanged. Their white-coated waiters serve classic Belgian cuisine in an Art Deco time capsule.",
+        "where_to_find": "Taverne du Passage (beautiful 19th-century arcade location, Art Deco room, opened 1928)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Belgian Beer (Trappist, Abbey, Lambic)",
+        "description": "Belgium produces over 1,500 different beers including Trappist ales, sour lambics, fruit beers, and strong abbey ales.",
+        "how_locals_drink_it": "Paired thoughtfully with food - blonde beers with mussels, brown ales with carbonnade, lambics as aperitifs. Each beer has its own glass shape designed to enhance aroma and flavor. Locals take beer as seriously as wine."
+      },
+      {
+        "name": "Jenever (Belgian Gin)",
+        "description": "Traditional Belgian/Dutch spirit flavored with juniper berries, the ancestor of modern gin.",
+        "how_locals_drink_it": "Served ice-cold in small glasses as a digestif after heavy Belgian meals. Often drunk neat, sometimes with a beer chaser. Popular in traditional brown cafés."
+      }
+    ],
+    "food_culture_notes": [
+      "Mussels are seasonal (early autumn to late winter) - this is the best time to visit Brussels for moules-frites",
+      "Belgian fries are double-fried (once at lower temp, once at high heat) for the perfect crispy-fluffy texture",
+      "Mayonnaise, not ketchup, is the traditional Belgian condiment for fries - ask for 'mayo'",
+      "Traditional Belgian restaurants are called brasseries - expect white-coated waiters, old-world charm, and generous portions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grand Place",
+      "Manneken Pis",
+      "Atomium",
+      "Royal Palace"
+    ],
+    "atmosphere": [
+      "Art Nouveau architecture",
+      "grand café culture",
+      "European capital energy",
+      "medieval guild halls"
+    ],
+    "colors": [
+      "Grand Place gold gilding",
+      "Belgian red brick",
+      "Art Deco pastels",
+      "beer amber hues"
+    ],
+    "unique_modern": [
+      "EU headquarters district",
+      "Comic strip murals",
+      "chocolate ateliers",
+      "gastropub beer pairing"
+    ]
+  },
+  "wikipedia_search_term": "Brussels",
+  "keywords_for_image": [
+    "Grand Place",
+    "moules-frites",
+    "Belgian beer",
+    "Art Nouveau",
+    "waffles"
+  ],
+  "coordinates": {
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Brussels+🇧🇪/@50.8503,4.3517,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brussels"
+  },
+  "location_id": 283
+}

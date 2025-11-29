@@ -1,0 +1,46 @@
+{
+  "name": "Bogotá",
+  "country": "🇨🇴",
+  "coordinates": {
+    "lat": 4.711,
+    "lng": -74.0721
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bogotá+🇨🇴/@4.711,-74.0721,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogotá"
+  },
+  "fun_fact": "Fun fact: Bogotá awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Bogotá cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Bogotá"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bogotá landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 316
+}

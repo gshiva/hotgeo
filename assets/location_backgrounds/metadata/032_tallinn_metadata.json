@@ -1,0 +1,106 @@
+{
+  "name": "Tallinn",
+  "country": "Estonia",
+  "fun_fact": "Fun fact: Tallinn is both a perfectly preserved 13th-century medieval city AND the world's most advanced digital society. Estonia was the first country to offer e-residency (digital citizenship for entrepreneurs worldwide) and has online voting, blockchain-based governance, and more startups per capita than anywhere in Europe - all while maintaining cobblestone streets and 26 medieval watchtowers from the Hanseatic League era.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kiluvõileib (Sprat Sandwich)",
+        "description": "An iconic open-faced sandwich featuring marinated Baltic Sea sprat fillet on dark rye bread, garnished with hard-boiled eggs, green onions, and fresh herbs.",
+        "origin_story": "Estonians take their sprat sandwiches seriously - the dish has its roots in the Baltic Sea's abundant sprat population and is served at all special occasions including weddings, funerals, birthdays, and New Year's Eve. The tradition reflects Estonia's coastal identity and the importance of preserved fish in surviving harsh winters.",
+        "where_to_find": "Rado in Old Town is Michelin-recognized and serves seasonal Estonian cooking. F-Hoone in Telliskivi Creative City offers traditional Estonian comfort dishes in a local institution setting. Rataskaevu 16 is perpetually fully booked for good reason."
+      },
+      {
+        "name": "Verivorst (Blood Sausage)",
+        "description": "Estonia's national dish - a traditional blood sausage made with barley, onions, allspice, marjoram, and blood. Typically served during winter holidays.",
+        "origin_story": "The winter holidays in Estonia would not be complete without verivorst. This dish evokes celebration and is a Christmas staple. The use of barley as filler and blood as protein reflects centuries of Baltic resourcefulness in preserving meat through long, harsh winters.",
+        "where_to_find": "During holiday season, Tallinn's Christmas Market fills the air with the scent of roasting verivorst, served fresh and sizzling. Pair it with Glögg (mulled wine) for the authentic experience. Lokál is known for excellent traditional preparations year-round."
+      },
+      {
+        "name": "Smažený Sýr / Fried Cheese (Praetud Juust)",
+        "description": "Aged cheese, fermented for six weeks, then pan-fried in butter until golden and crispy. Typically served with tartar sauce or ketchup.",
+        "origin_story": "Lokál is famous for their version - cheese aged for six weeks creates complex flavors that elevate this seemingly simple dish. It represents Estonian resourcefulness with dairy products and the influence of German and Slavic culinary traditions on Baltic cuisine.",
+        "where_to_find": "Lokál is hands-down the most popular spot, buzzing with Prague natives having loud, animated post-work conversations. U Kroka in southern neighborhoods is beloved by locals for traditional preparations."
+      },
+      {
+        "name": "Dark Rye Bread (Must Leib)",
+        "description": "Staple Estonian bread made from dark rye or wheat flour, undergoing fermentation up to 12 hours. Served alongside almost all traditional dishes.",
+        "origin_story": "Black bread plays a significant role in Estonian culture with many superstitions, traditions, and old sayings surrounding it. The slightly sweet, deeply earthy flavor comes from extensive fermentation. This bread sustained Estonians through Soviet occupation and remains a symbol of national identity.",
+        "where_to_find": "Every traditional Estonian restaurant serves it, but Leib Resto ja Aed (literally 'Bread Restaurant and Garden') specializes in sustainability and fresh, local ingredients including artisanal breads."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kama (with Buttermilk)",
+        "description": "Not technically a drink but a traditional ingredient - a flour mix of barley, rye, oat, and pea traditionally eaten with sour milk like buttermilk or kefir.",
+        "how_locals_drink_it": "Kama emerged from resourcefulness - after using different grains, leftovers were mixed together. It doesn't spoil and can become a snack within seconds. Modern Estonian chefs incorporate kama into desserts, but the traditional way is mixing it with buttermilk or kefir for breakfast."
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "Estonia has a growing craft beer scene influenced by Baltic, German, and Scandinavian brewing traditions.",
+        "how_locals_drink_it": "Estonians gather at local pubs and beer gardens to enjoy locally brewed beers alongside hearty traditional dishes. The pub culture reflects influences from Hanseatic League trading traditions."
+      }
+    ],
+    "food_culture_notes": [
+      "Lunchtime is the most important meal - Czechs often have simple breakfast and light dinner, but substantial lunch with traditional dishes under 200 CZK ($8.50)",
+      "Estonian cuisine reflects climate, geography, and history with German, Russian, and Scandinavian influences",
+      "Preservation methods (smoking, pickling, fermenting) are crucial for surviving harsh winters",
+      "Kohuke (chocolate-covered sweet curd) is a 70-year-old Soviet-era cult food, available in flavors like strawberry, caramel, coconut, and lemon",
+      "Tallinn's food scene is quickly becoming one of Europe's most exciting destinations with Michelin recognition but maintaining reasonable prices"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Medieval Old Town (UNESCO World Heritage)",
+      "26 watchtowers and city walls",
+      "Town Hall Square with Gothic architecture",
+      "St. Olaf's Church (once world's tallest building at 159m)",
+      "Telliskivi Creative City",
+      "Noblessner maritime district"
+    ],
+    "atmosphere": [
+      "Cobblestone streets and narrow alleyways",
+      "Medieval Hanseatic architecture",
+      "Digital innovation coexisting with history",
+      "Baltic Sea coastal identity",
+      "Vibrant startup culture in old buildings",
+      "Underground tunnels from 17th century"
+    ],
+    "colors": [
+      "Red terracotta roofs",
+      "Gray stone walls",
+      "Baltic Sea blue",
+      "Dark rye bread brown",
+      "Green medieval copper domes"
+    ],
+    "unique_modern": [
+      "E-residency digital ID system",
+      "Highest startups per capita in Europe",
+      "Blockchain-based governance",
+      "Farm-to-table Nordic sustainability movement",
+      "Creative City converted industrial spaces"
+    ]
+  },
+  "wikipedia_search_term": "Tallinn",
+  "keywords_for_image": [
+    "Tallinn Old Town",
+    "medieval watchtowers",
+    "Estonian rye bread",
+    "sprat sandwich",
+    "blood sausage",
+    "Hanseatic architecture",
+    "Baltic Sea",
+    "cobblestone streets",
+    "Town Hall Square",
+    "digital society medieval city"
+  ],
+  "coordinates": {
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tallinn+🇪🇪/@59.437,24.7536,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tallinn"
+  },
+  "location_id": 32
+}

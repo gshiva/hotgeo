@@ -1,0 +1,94 @@
+{
+  "name": "Ubud",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Ubud's name comes from the word 'ubad' meaning medicine - the town was historically known for its healing herbs and spiritual healers, making it Bali's center for traditional medicine and spirituality!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Babi Guling",
+        "description": "Whole roasted suckling pig stuffed with traditional spices, turmeric, and lemongrass",
+        "origin_story": "Originally reserved for ceremonies and temple offerings, now Bali's most famous dish. The pig is spit-roasted for hours until the skin is perfectly crispy",
+        "where_to_find": "Ibu Oka (Anthony Bourdain favorite near Ubud Palace), Babi Guling Pak Malen"
+      },
+      {
+        "name": "Bebek Betutu",
+        "description": "Duck stuffed with traditional spices, wrapped in banana leaves, slow-cooked for 12+ hours",
+        "origin_story": "A ceremonial dish requiring intensive preparation, traditionally cooked overnight in rice husks. The spice paste (betutu) is a closely guarded family secret",
+        "where_to_find": "Bebek Bengil (Dirty Duck Diner), Bebek Tepi Sawah with rice paddy views"
+      },
+      {
+        "name": "Lawar",
+        "description": "Finely chopped meat, vegetables, grated coconut, and spices mixed with fresh pig blood",
+        "origin_story": "An ancient Balinese dish served at ceremonies, the blood is believed to add vitality and is considered sacred",
+        "where_to_find": "Traditional warungs in Ubud Market area, ceremony days throughout Ubud"
+      },
+      {
+        "name": "Nasi Campur Bali",
+        "description": "Mixed rice plate with small portions of various Balinese dishes",
+        "origin_story": "The daily meal of Balinese people - each warung has their own combination of accompaniments",
+        "where_to_find": "Warung Biah Biah, Murni's Warung, local warungs throughout Ubud"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Kopi Luwak",
+        "description": "World's most expensive coffee made from beans eaten and excreted by civet cats",
+        "how_locals_drink_it": "Strong and black in small cups - Ubud is surrounded by plantations where you can try it ethically sourced"
+      },
+      {
+        "name": "Jamu",
+        "description": "Traditional Javanese herbal medicine drink made with turmeric, ginger, tamarind",
+        "how_locals_drink_it": "Ubud is famous for jamu healers - drink fresh from local vendors for health and vitality"
+      }
+    ],
+    "food_culture_notes": [
+      "Warungs (family-run eateries) serve the most authentic food at extremely low prices",
+      "Balinese eat with their right hand traditionally - the left hand is considered unclean",
+      "Food offerings (canang sari) are placed everywhere daily - never step on them",
+      "Many dishes feature sambal matah - raw shallot and lemongrass relish unique to Bali"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tegallalang Rice Terraces",
+      "Ubud Palace",
+      "Sacred Monkey Forest",
+      "Tirta Empul Temple"
+    ],
+    "atmosphere": [
+      "lush rice paddies",
+      "spiritual temples",
+      "artistic community",
+      "yoga retreats"
+    ],
+    "colors": [
+      "rice paddy green",
+      "temple gold",
+      "frangipani white",
+      "ceremonial yellow"
+    ],
+    "unique_modern": [
+      "artistic expat community",
+      "wellness tourism capital",
+      "Eat Pray Love fame"
+    ]
+  },
+  "wikipedia_search_term": "Ubud",
+  "keywords_for_image": [
+    "babi guling roasted pig",
+    "bebek betutu duck",
+    "rice terraces",
+    "temple offerings",
+    "Balinese ceremony",
+    "tropical greenery"
+  ],
+  "coordinates": {
+    "lat": -8.5069,
+    "lng": 115.2625
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bali+Ubud+🇮🇩/@-8.5069,115.2625,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ubud"
+  },
+  "location_id": 171
+}

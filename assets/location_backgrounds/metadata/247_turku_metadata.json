@@ -1,0 +1,94 @@
+{
+  "name": "Turku",
+  "country": "Finland",
+  "fun_fact": "Fun fact: Turku is Finland's oldest city (founded in 1229) and self-proclaimed 'restaurant capital of Finland' - it became the first Finnish city outside Helsinki to earn a Michelin star (Kaskis restaurant in 2019).",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Finnish Salmon",
+        "description": "Wild-caught Baltic salmon, often smoked or grilled, served with seasonal vegetables and dill cream sauce",
+        "origin_story": "Turku's location on the Archipelago Sea gives it access to pristine Baltic salmon. Finnish smoking traditions date back centuries when fish needed to be preserved for harsh winters. Today's preparations balance tradition with modern techniques.",
+        "where_to_find": "Kaskis (Michelin-starred, perched on Kaskenmäki hill - seasonal menus with local produce), Grädda (Imperial wooden house from 1832)"
+      },
+      {
+        "name": "Traditional Finnish Forest Flavors",
+        "description": "Dishes featuring wild mushrooms, berries, and game from Finnish forests - chanterelles, lingonberries, elk, and reindeer",
+        "origin_story": "Finnish cuisine is deeply connected to foraging. The 'everyman's right' (jokamiehenoikeus) allows anyone to pick wild berries and mushrooms, creating a culture where forest ingredients are treasured. Turku's restaurants elevate these humble ingredients to fine dining.",
+        "where_to_find": "Kaskis (36-seat gem showcasing southwest Finland's forest bounty), Suomalainen Pohja ('Finnish Base' - rustic hearty dishes with local ingredients)"
+      },
+      {
+        "name": "Archipelago Whitefish",
+        "description": "Delicate whitefish from the surrounding archipelago, simply prepared to showcase freshness",
+        "origin_story": "The Turku Archipelago Sea contains over 20,000 islands. Local whitefish from these pure waters has fed Turku for centuries. The long growing season and mineral-rich soil nearby also produce vibrant vegetables to accompany the fish.",
+        "where_to_find": "Suomalainen Pohja (cozy wood-accented interior like a Finnish summer house), riverside restaurants along River Aura"
+      },
+      {
+        "name": "Finnish Nordic Cuisine",
+        "description": "Modern interpretations of Finnish classics using hyperlocal ingredients - from sea buckthorn to rye bread",
+        "origin_story": "Turku hosted the MICHELIN Guide Ceremony for all Nordic Countries in June 2023, cementing its place as a culinary destination. Chefs celebrate pure ingredients from the archipelago's long growing season.",
+        "where_to_find": "Kaskis (first Michelin star outside Helsinki), Restaurant Kakolanruusu (in old Kakola prison courtyard - Finland's most fascinating setting)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Finnish Berry Liqueurs",
+        "description": "Cloudberry, lingonberry, and sea buckthorn liqueurs capturing summer's brief intensity",
+        "how_locals_drink_it": "Served as digestifs or mixed into cocktails. These capture the essence of Finnish summer when berries ripen in 24-hour daylight. Each berry has distinct flavors - cloudberries are golden and complex, sea buckthorn is tart and bright."
+      },
+      {
+        "name": "Finnish Craft Beer",
+        "description": "Local microbreweries creating innovative Nordic-style beers with foraged ingredients",
+        "how_locals_drink_it": "Enjoyed at riverside terraces during summer months. Turku's beer scene incorporates local berries, herbs, and even spruce tips into unique brews. Paired with traditional Finnish foods."
+      }
+    ],
+    "food_culture_notes": [
+      "Turku's culinary strength comes from the surrounding archipelago's pure ingredients and long growing season",
+      "Summer brings riverside terrace dining along the River Aura - a cherished tradition when Finns emerge from winter",
+      "The city emphasizes 'New Nordic' cuisine - local, seasonal, simple preparations that let quality ingredients shine",
+      "Note: Mustamakkara (blood sausage) is actually a Tampere specialty, not Turku - it's a common mix-up between Finland's two major southern cities"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Turku Castle (1280)",
+      "Turku Cathedral",
+      "River Aura",
+      "Archipelago Sea"
+    ],
+    "atmosphere": [
+      "riverside terraces",
+      "medieval fortress",
+      "midnight sun",
+      "archipelago islands"
+    ],
+    "colors": [
+      "Baltic blue",
+      "forest green",
+      "Nordic white nights",
+      "cloudberry gold"
+    ],
+    "unique_modern": [
+      "Michelin-starred Kaskis",
+      "2023 Nordic MICHELIN ceremony host",
+      "Contemporary art museums",
+      "Summer festival culture"
+    ]
+  },
+  "wikipedia_search_term": "Turku",
+  "keywords_for_image": [
+    "Turku Finland river",
+    "Finnish salmon",
+    "Nordic forest mushrooms",
+    "archipelago sea islands",
+    "Turku medieval castle"
+  ],
+  "coordinates": {
+    "lat": 60.4518,
+    "lng": 22.2666
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Turku+🇫🇮/@60.4518,22.2666,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turku"
+  },
+  "location_id": 247
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Tours",
+  "country": "France",
+  "fun_fact": "Fun fact: Tours was awarded the title 'International City of Gastronomy' and produces 80% of France's goat cheese - the Loire Valley's chalky soil creates the perfect terroir for both wine grapes and grazing goats.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Rillettes de Tours",
+        "description": "Luxuriously rich pork spread cooked slowly in fat for 6-12 hours, creating a rustic pâté with incredible depth",
+        "origin_story": "This IGP-certified specialty (protected since 2013) was born from Loire Valley frugality - slow-cooking tough pork cuts in their own fat preserved meat before refrigeration. Tours perfected the technique, and now hosts an annual festival celebrating this beloved spread.",
+        "where_to_find": "Covered market in central Tours (38 stalls with regional specialties), local charcuteries throughout the city, troglodyte cave restaurants near Amboise and Saumur"
+      },
+      {
+        "name": "Sainte-Maure-de-Touraine Goat Cheese",
+        "description": "Soft log-shaped goat cheese with a distinctive straw running through its center, covered in edible ash",
+        "origin_story": "Dating back to the 8th century, this PDO cheese from the Loire Valley is one of five protected goat cheeses from the region. The straw through the middle isn't decorative - it supports the delicate cheese and bears the producer's mark of authenticity.",
+        "where_to_find": "Loches market (Wednesday and Saturday - over 100 stallholders), Amboise Sunday riverside market, goat cheese farms south of Chinon (with tours and wine pairings)"
+      },
+      {
+        "name": "Fouées",
+        "description": "Warm, hollow flatbreads that puff up when baked, sliced open and stuffed with rillettes, goat cheese, or garlic butter",
+        "origin_story": "These traditional breads were baked in wood-fired ovens to test the temperature before the main bread. Locals discovered they made perfect edible pockets for leftovers. Now served in atmospheric troglodyte cave restaurants carved into limestone cliffs.",
+        "where_to_find": "Troglodyte cave restaurants near Amboise, Tours, Saumur, and Angers - dining in 16th-century refuges from the Wars of Religion"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Loire Valley Wines",
+        "description": "Crisp Sancerre, Chinon reds, and sparkling Vouvray from the 'Garden of France'",
+        "how_locals_drink_it": "Paired meticulously with local dishes - Sancerre with goat cheese, Chinon red with rillettes. Wine bars in Tours pour by the glass from hundreds of local producers. The chalky tuffeau soil creates distinctive minerality."
+      },
+      {
+        "name": "Cointreau",
+        "description": "Crystal-clear orange liqueur invented in nearby Angers, perfumed with sweet and bitter orange peels",
+        "how_locals_drink_it": "Enjoyed as a digestif after meals or in cocktails. The distillery in nearby Saint-Barthélemy-d'Anjou offers tours. Locals appreciate its creation story - Edouard Cointreau perfected the recipe in 1875."
+      }
+    ],
+    "food_culture_notes": [
+      "Tours' covered market (Les Halles) offers weekly cooking demonstrations teaching regional classics like rillettes and fouées",
+      "The Loire Valley's long growing season and mineral-rich soil produce exceptional vegetables, wild herbs, and berries",
+      "Rillons (pork belly chunks) belong to the 'Touraine Brotherhood of Rillons and Rillettes' - a culinary guild protecting traditions",
+      "Troglodyte restaurants are carved into the region's soft limestone cliffs - diners eat in caves that once sheltered religious refugees"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Cathédrale Saint-Gatien",
+      "Place Plumereau",
+      "Loire châteaux",
+      "Troglodyte caves"
+    ],
+    "atmosphere": [
+      "Renaissance architecture",
+      "riverside gardens",
+      "wine cellars",
+      "medieval half-timbered houses"
+    ],
+    "colors": [
+      "Loire river silver",
+      "tuffeau limestone white",
+      "vineyard green",
+      "goat cheese ivory"
+    ],
+    "unique_modern": [
+      "International City of Gastronomy designation",
+      "Contemporary art museums",
+      "Bustling weekly food markets",
+      "Loire à Vélo cycling route"
+    ]
+  },
+  "wikipedia_search_term": "Tours",
+  "keywords_for_image": [
+    "Tours Loire Valley",
+    "goat cheese sainte maure",
+    "French rillettes",
+    "troglodyte caves",
+    "Loire Valley vineyard"
+  ],
+  "coordinates": {
+    "lat": 47.3941,
+    "lng": 0.6848
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tours+🇫🇷/@47.3941,0.6848,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tours"
+  },
+  "location_id": 243
+}

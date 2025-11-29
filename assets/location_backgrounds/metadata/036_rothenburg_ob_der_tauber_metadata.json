@@ -1,0 +1,105 @@
+{
+  "name": "Rothenburg ob der Tauber",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Rothenburg's famous Schneeballen (snowball pastries) were originally reserved for weddings and church consecration festivals in the 18th century, not for everyday consumption. Today, the town has competing bakeries that have been hand-forming these fried dough balls for over 100 years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Schneeballen (Snowball Pastry)",
+        "description": "Deep-fried shortcrust pastry strips arranged in a crisscross pattern around a special iron form, creating a crispy ball 8-10cm in diameter, traditionally dusted with powdered sugar",
+        "origin_story": "Known in Franconia and Hohenlohe for at least 400 years, these pastries were served at weddings and Kirchweih festivals since the early 18th century. The name comes from their snowball-like appearance and white powdered sugar coating. Also called 'Storchennest' (stork's nest).",
+        "where_to_find": "Bäckerei Striffler (operating since 1924), Diller Schneeballenträume (three shops in Rothenburg), Walter Friedel bakery. Modern variations include chocolate, cinnamon, coconut, and marzipan coatings."
+      },
+      {
+        "name": "Fränkischer Sauerbraten (Franconian Pot Roast)",
+        "description": "Beef marinated for several days in vinegar, water, and spices, then slow-cooked until tender, served with rich black gravy, red cabbage, and potato dumplings (knödel)",
+        "origin_story": "Quintessential dish highlighting Franconian tradition. The multi-day marinating process tenderizes the meat and infuses it with deep, tangy flavor. The characteristic gooey consistency of potato dumplings provides the perfect complement.",
+        "where_to_find": "Zur Höll (To Hell Tavern - in Rothenburg's oldest building from 900s AD), Hotel Reichsküchenmeister, Gasthof Goldener Greifen (14th-century inn)"
+      },
+      {
+        "name": "Schäufele (Roast Pork Shoulder)",
+        "description": "Roasted pork shoulder with crackling skin, traditionally served with red cabbage and dumplings, a Bavarian and Franconian staple",
+        "origin_story": "Classic Franconian comfort food from the great Franconian and Hohenlohe cuisine, prepared with local ingredients and always influenced by the region's wine culture.",
+        "where_to_find": "Gasthof Goldener Greifen, Ratsstube (medieval restaurant in main square), Altfränkische Weinstube"
+      },
+      {
+        "name": "Franconian Specialties",
+        "description": "Local ingredients including Wettringer Tauberapfel, Franconian Grünkern (half-ripe spelt grain), products from Tauber mills, Franconian lamb, locally hunted deer, and even Tauber snails and Franconian saffron",
+        "origin_story": "The great Franconian cuisine has always been influenced by local wine production and uses ingredients specific to the Tauber valley and surrounding region.",
+        "where_to_find": "Hotel Reichsküchenmeister (known for attention to detail with local Franconian delicacies), Ratsstube (seasonal Franconian dishes)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Franconian Wine (Silvaner & Riesling)",
+        "description": "Franconian wine from local vineyards, especially Silvaner and Riesling varieties with distinct flavors from the unique geography and climate",
+        "how_locals_drink_it": "Enjoyed in romantic medieval wine cellars and taverns. The southernmost point of the wine-growing region is directly under Rothenburg's city wall at An der Eich. Take 90-minute vineyard tours at Glocke winery with the Thürauf family."
+      },
+      {
+        "name": "Franconian Red Beer",
+        "description": "Traditional red beer invented in Middle Franconia around 1300, brewed according to old traditions",
+        "how_locals_drink_it": "Brewed at Landwehr-Bräu in Reichelshofen (6km north of Rothenburg) since 1755. Historically, Rothenburg offered strong 'Lenten beer' to travelers and pilgrims during Lent."
+      }
+    ],
+    "food_culture_notes": [
+      "Medieval wine taverns like Zur Höll represent authentic Franconian dining experiences in historic settings",
+      "Wine and food pairings are central to Franconian cuisine - dishes have always been influenced by local wine culture",
+      "The town's culinary traditions are preserved in family-run establishments spanning generations",
+      "Schneeballen can last 8 weeks when packaged airtight, making them ideal souvenirs",
+      "Local bakeries compete in creating innovative Schneeballen flavors while maintaining traditional hand-forming methods"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Medieval town walls and towers",
+      "Half-timbered houses",
+      "Plönlein (iconic forked street)",
+      "Rothenburg Christmas Market",
+      "Historic wine cellars",
+      "Town square (Marktplatz)",
+      "Vineyards under city walls"
+    ],
+    "atmosphere": [
+      "Medieval romantic",
+      "Preserved historic architecture",
+      "Cobblestone streets",
+      "Colorful shutters",
+      "Gothic and Renaissance buildings",
+      "Authentic Bavarian charm",
+      "Candlelit tavern interiors"
+    ],
+    "colors": [
+      "Red roofs",
+      "Cream and ochre facades",
+      "Dark wooden beams",
+      "Golden Schneeballen pastries",
+      "Rich brown Sauerbraten gravy",
+      "Red cabbage purple"
+    ],
+    "unique_modern": [
+      "Competing Schneeballen bakeries with creative flavors",
+      "Wine cellar tours with winemakers",
+      "Medieval-themed dining experiences",
+      "Historic buildings converted to gourmet restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Rothenburg_ob_der_Tauber",
+  "keywords_for_image": [
+    "Rothenburg ob der Tauber medieval town",
+    "Schneeballen snowball pastry",
+    "Franconian wine tavern",
+    "Plönlein Rothenburg",
+    "medieval half-timbered houses Bavaria",
+    "Franconian Sauerbraten",
+    "traditional German pastry"
+  ],
+  "coordinates": {
+    "lat": 49.3779,
+    "lng": 10.1786
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rothenburg+🇩🇪/@49.3779,10.1786,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+  },
+  "location_id": 36
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Perth",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Western Australia has some of the most biodiverse vegetation on Earth, producing unique wildflower honeys you can't find anywhere else - and the Wildflower restaurant celebrates all six Indigenous Noongar seasons in its menu!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Western Australian Rock Lobster",
+        "description": "Fresh crayfish grilled with garlic butter",
+        "origin_story": "WA's pristine waters produce world-renowned rock lobster",
+        "where_to_find": "Fremantle seafood restaurants, upscale Perth dining"
+      },
+      {
+        "name": "Meat Pie",
+        "description": "Flaky pastry with beef, gravy, onions - Australian icon",
+        "origin_story": "Perth elevates classic with gourmet versions including kangaroo meat",
+        "where_to_find": "Bakeries throughout city, gourmet versions at cafes"
+      },
+      {
+        "name": "Fremantle Sardines",
+        "description": "Fresh sardines marinated with olive oil, lemon, and herbs",
+        "origin_story": "Caught fresh from Fremantle harbor",
+        "where_to_find": "Fremantle restaurants and fish markets"
+      },
+      {
+        "name": "Native Australian Cuisine",
+        "description": "Indigenous ingredients like bush tomato, lemon myrtle, wattleseed",
+        "origin_story": "Celebrating Nyoongar seasons and native ingredients",
+        "where_to_find": "Wildflower restaurant with Swan River views"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "WA Craft Beer",
+        "description": "Thriving craft brewery scene",
+        "how_locals_drink_it": "At breweries in Fremantle and throughout Perth"
+      },
+      {
+        "name": "Margaret River Wine",
+        "description": "World-class wines from nearby Margaret River region",
+        "how_locals_drink_it": "At wine bars and with meals"
+      }
+    ],
+    "food_culture_notes": [
+      "Twilight Food Market (October-March) transforms Friday nights in Forrest Place",
+      "Long Chim by David Thompson brings Bangkok street food",
+      "Emily Taylor in Fremantle fuses WA produce with Asian flavors",
+      "Old Shanghai food court has retro Chinese ambiance since decades"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Swan River",
+      "Kings Park",
+      "Elizabeth Quay",
+      "Fremantle port"
+    ],
+    "atmosphere": [
+      "beach lifestyle",
+      "outdoor dining",
+      "modern waterfront",
+      "relaxed vibe"
+    ],
+    "colors": [
+      "ocean blue",
+      "desert sand",
+      "wildflower purple",
+      "eucalyptus green"
+    ],
+    "unique_modern": [
+      "most isolated major city in world",
+      "stunning sunsets over Indian Ocean"
+    ]
+  },
+  "wikipedia_search_term": "Perth",
+  "keywords_for_image": [
+    "rock lobster",
+    "meat pie",
+    "Swan River",
+    "Kings Park",
+    "beach dining",
+    "sunset over ocean",
+    "modern waterfront"
+  ],
+  "coordinates": {
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Perth+🇦🇺/@-31.9505,115.8605,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perth"
+  },
+  "location_id": 20
+}

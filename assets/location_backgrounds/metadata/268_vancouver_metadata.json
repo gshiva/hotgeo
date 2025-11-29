@@ -1,0 +1,94 @@
+{
+  "name": "Vancouver",
+  "country": "Canada",
+  "fun_fact": "Fun fact: Vancouver has more sushi restaurants per capita than any city outside of Japan, and the California roll was actually invented here in the 1970s by Japanese chef Hidekazu Tojo - a fusion creation that revolutionized Western sushi.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Salmon Oshi Sushi at Miku",
+        "description": "Pressed BC wild sockeye salmon aburi-style (flame-seared) with jalapeño and Miku's signature sauce. The salmon is torched tableside for a smoky, buttery finish.",
+        "origin_story": "Miku pioneered the aburi (flame-seared) sushi technique in Vancouver, creating a signature style that's now copied worldwide. Using BC's legendary wild salmon, they transformed traditional Japanese oshi sushi into a West Coast icon.",
+        "where_to_find": "Miku (ranked #37 on Canada's 100 Best, waterfront location)"
+      },
+      {
+        "name": "Japadog",
+        "description": "Teriyaki hot dog with Japanese mayo, nori seaweed, and teriyaki sauce on a toasted bun.",
+        "origin_story": "Started by Japanese couple Noriki and Misa Tamura from a street cart in 2005, Japadog became a cult phenomenon by fusing Japanese flavors with Canadian street food. Now a global brand, it all started on Vancouver's streets.",
+        "where_to_find": "Japadog (multiple locations, original street carts still operating downtown)"
+      },
+      {
+        "name": "Dungeness Crab at Blue Water Cafe",
+        "description": "Fresh BC Dungeness crab served whole or as part of a seafood tower, highlighting the sweet, delicate meat with minimal seasoning.",
+        "origin_story": "Vancouver's proximity to the Pacific makes Dungeness crab a local treasure. Blue Water Cafe sources from sustainable BC fisheries, serving only what's in season and caught locally.",
+        "where_to_find": "Blue Water Cafe (specializes in locally sourced sustainable seafood), Joe Fortes Seafood & Chop House"
+      },
+      {
+        "name": "Modern Indian at Lila",
+        "description": "Contemporary Indian cuisine blending techniques from The Acorn's Shira Blustein and Vij's Meeru Dhalwala, featuring dishes that reinvent classics with local BC ingredients.",
+        "origin_story": "One of 2024's most exciting openings, Lila represents a new generation of Vancouver Indian cuisine - moving beyond traditional tandoori to embrace innovation while respecting culinary heritage.",
+        "where_to_find": "Lila (finalist for Air Canada's Best New Restaurants 2024)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "BC Craft Beer",
+        "description": "Vancouver's craft beer scene features IPAs, pilsners, and experimental brews made with local ingredients like Okanagan hops and BC fruit.",
+        "how_locals_drink_it": "Enjoyed at brewpub patios during Vancouver's (rare) sunny days. Locals favor sessionable beers under 5% ABV that pair with the city's diverse food scene."
+      },
+      {
+        "name": "Caesars",
+        "description": "Canada's national cocktail - vodka, Clamato juice, hot sauce, Worcestershire sauce, rimmed with celery salt and garnished elaborately.",
+        "how_locals_drink_it": "The ultimate brunch drink in Vancouver. Bartenders compete to create the most over-the-top garnishes - whole lobster tails, burger sliders, and seafood towers on the rim."
+      }
+    ],
+    "food_culture_notes": [
+      "Vancouver's food scene is defined by Pacific Rim fusion - Asian techniques meet Canadian ingredients",
+      "Sustainability and local sourcing aren't trends here, they're religion - menus change with seasons and ocean conditions",
+      "The city has Canada's largest Chinese population outside Asia, making Richmond's dim sum scene legendary",
+      "18 Vancouver restaurants made Canada's 100 Best List in 2024, with Published on Main earning a Michelin star"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Stanley Park seawall",
+      "Granville Island Public Market",
+      "Capilano Suspension Bridge",
+      "Science World geodesic dome"
+    ],
+    "atmosphere": [
+      "mountain-backed skyline",
+      "glassy harbor waterfront",
+      "rainforest-meets-city",
+      "multicultural street scenes"
+    ],
+    "colors": [
+      "Pacific Ocean blue",
+      "evergreen forest green",
+      "coastal fog grey",
+      "glass tower reflections"
+    ],
+    "unique_modern": [
+      "farm-to-table tasting menus",
+      "floating restaurants",
+      "craft brewery patios",
+      "Asian night markets"
+    ]
+  },
+  "wikipedia_search_term": "Vancouver",
+  "keywords_for_image": [
+    "Pacific Northwest",
+    "sushi",
+    "mountains and ocean",
+    "Granville Island",
+    "craft beer"
+  ],
+  "coordinates": {
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Vancouver+🇨🇦/@49.2827,-123.1207,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vancouver"
+  },
+  "location_id": 268
+}

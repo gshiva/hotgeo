@@ -1,0 +1,93 @@
+{
+  "name": "Addis Ababa",
+  "country": "Ethiopia",
+  "fun_fact": "Fun fact: Doro Wat recipes date back to the Aksumite Empire (circa 100-940 CE), one of the four great powers of the ancient world - making Ethiopian cuisine one of the oldest continuous culinary traditions on Earth!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Doro Wat",
+        "description": "Deeply spiced chicken stew with berbere and niter kibbeh (spiced butter), hard-boiled eggs",
+        "origin_story": "Ethiopia's national dish dating back to Sumerian times, mentioned in Babylonian Talmud",
+        "where_to_find": "Kategna Restaurant, Yod Abyssinia, Habesha 2000"
+      },
+      {
+        "name": "Injera",
+        "description": "Spongy fermented flatbread made from teff flour, used as plate and utensil",
+        "origin_story": "Made from teff, a grain native to Horn of Africa, cultivated since Aksumite era",
+        "where_to_find": "Every Ethiopian restaurant - food is served on top of injera"
+      },
+      {
+        "name": "Tibs",
+        "description": "Sautéed meat (lamb or beef) with onions, garlic, peppers, and mitmita spice",
+        "origin_story": "Simple, flavorful dish celebrated across Ethiopia",
+        "where_to_find": "Traditional restaurants throughout the city"
+      },
+      {
+        "name": "Kitfo",
+        "description": "Ethiopian steak tartare - raw minced beef with spiced butter and mitmita",
+        "origin_story": "Made from the softest, reddest parts of the meat",
+        "where_to_find": "Specialty restaurants, often served with ayib (fresh cheese)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ethiopian Coffee",
+        "description": "Coffee originated in Ethiopia - traditional ceremony involves roasting, grinding, brewing",
+        "how_locals_drink_it": "In buna (coffee) ceremonies that can last hours, served in small cups"
+      },
+      {
+        "name": "Tej",
+        "description": "Honey wine - Ethiopia's ancient mead",
+        "how_locals_drink_it": "From flask-shaped glasses called berele"
+      }
+    ],
+    "food_culture_notes": [
+      "Vegetables locally sourced, meat from freshly killed animals - nothing mass-produced",
+      "Wednesdays and Fridays are fasting days - shiro wat (chickpea stew) served instead",
+      "Yod Abyssinia designed like traditional hut with woven grass serving dishes",
+      "Sharing Doro Wat is communal - everyone eats from same large injera"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Holy Trinity Cathedral",
+      "National Museum",
+      "Merkato (largest open-air market in Africa)",
+      "Entoto Mountains"
+    ],
+    "atmosphere": [
+      "coffee ceremonies",
+      "traditional woven baskets",
+      "Orthodox churches",
+      "bustling markets"
+    ],
+    "colors": [
+      "injera beige",
+      "berbere red",
+      "coffee brown",
+      "Ethiopian green/yellow/red"
+    ],
+    "unique_modern": [
+      "Africa's diplomatic capital (AU headquarters)",
+      "high altitude city (2,400m)"
+    ]
+  },
+  "wikipedia_search_term": "Addis_Ababa",
+  "keywords_for_image": [
+    "doro wat chicken stew",
+    "injera flatbread",
+    "Ethiopian coffee ceremony",
+    "berbere spices",
+    "Merkato market",
+    "traditional woven baskets"
+  ],
+  "coordinates": {
+    "lat": 9.032,
+    "lng": 38.7469
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Addis+Ababa+🇪🇹/@9.032,38.7469,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Addis_Ababa"
+  },
+  "location_id": 16
+}

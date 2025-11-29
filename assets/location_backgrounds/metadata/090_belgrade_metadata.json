@@ -1,0 +1,123 @@
+{
+  "name": "Belgrade",
+  "country": "Serbia",
+  "fun_fact": "Fun fact: In Serbia, rakija (fruit brandy) is treated as medicine! When children have fevers, parents rub rakija on their chest to 'pull out high temperatures.' Sore throat? Wrap a cloth soaked in rakija around your neck. The traditional morning ritual in Serbian villages goes: first eat 1-2 teaspoons of slatko (caramelized fruit sugar), then drink coffee, then rakija. As locals humorously explain: 'Germs gather around slatko, coffee blacks them out, then rakija kills them all!' People even buried homemade rakija underground and dug it up for births or marriages. Every Serbian house has rakija—'without that, it's not home. It's cultural.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ćevapi (Ćevapčići)",
+        "description": "Small grilled minced meat sausages (beef and lamb) with smoky flavor from open flames. Served with somun flatbread, chopped onions, and a dollop of kajmak (creamy dairy spread).",
+        "origin_story": "The most iconic Serbian dish. These small meat portions are grilled over charcoal for that essential smoky taste. Ćevapi is the ultimate comfort food and street food, eaten at casual ćevabdžinica (ćevapi restaurants) throughout Belgrade.",
+        "where_to_find": "Kod Dekija and Walter are cult favorite ćevabdžinicas. Cirino Drvce (open 24/7) serves some of the best charcoal-grilled meats in the city, made with free-range bull meat. Tri Šešira in bohemian Skadarlija district (150+ years old) offers traditional versions."
+      },
+      {
+        "name": "Sarma",
+        "description": "Cabbage rolls stuffed with a mixture of minced meat, rice, and spices. Tangy, savory, and tender—warming body and soul.",
+        "origin_story": "The most popular winter meal and highly regarded dish in Serbian cuisine. Traditionally served in colder months, during Christmas, and at family gatherings. Sarma represents home cooking and grandmother's kitchen—it takes hours to prepare and is made with love.",
+        "where_to_find": "Zavičaj (revered as a cultural institution with huge portions and homemade cakes), family-run kafanas, Merak Balkan Cuisine (specializing in southern and eastern Serbian dishes)"
+      },
+      {
+        "name": "Pljeskavica",
+        "description": "A large, flavorful ground meat patty similar to a burger, often accompanied by kajmak and onions. Much bigger and more seasoned than a typical hamburger.",
+        "origin_story": "A Balkan grilling classic, pljeskavica showcases the Serbian love for charcoal-grilled meats and rich dairy. The patty is typically made from a mix of meats (beef, pork, lamb) and can be stuffed with cheese.",
+        "where_to_find": "Cirino Drvce for juicy, smoky pljeskavica made with free-range bull meat. Traditional kafanas and grills throughout the city."
+      },
+      {
+        "name": "Karađorđeva Šnicla",
+        "description": "A breaded and fried rolled pork or veal cutlet filled with kajmak. Rich, indulgent, and distinctly Serbian.",
+        "origin_story": "Named after Karađorđe, the Serbian revolutionary leader. This dish represents the Serbian tendency to make rich, hearty comfort food—it's basically a schnitzel rolled around creamy dairy and deep-fried to golden perfection.",
+        "where_to_find": "Tri Šešira, traditional Serbian restaurants, kafanas serving classic cuisine"
+      },
+      {
+        "name": "Slow-Cooked Dishes from Kafanas",
+        "description": "Veal under sač (lidded pan cooked over embers), mućkalika (stew of barbecued meat and vegetables), grilled veal liver.",
+        "origin_story": "Kafanas (Serbian pubs) have served these dishes for centuries. The 'new Balkan cuisine' movement, led by chefs like Vanja, revives and reclaims traditional ingredients and old-world cooking methods. Belgrade earned its first Michelin star and embraces slow food culture, transforming its culinary reputation.",
+        "where_to_find": "Mala Zvezdara (wood-burning grills, food sells out early!), Dragoljub (Vanja's homage to kafana tradition), traditional kafanas throughout Belgrade"
+      },
+      {
+        "name": "Ajvar",
+        "description": "A delicious relish made from red peppers, eggplant, garlic, and chili. Used as a condiment for grilled meats and bread.",
+        "origin_story": "A staple in every Serbian household, ajvar is made in late summer when peppers are abundant. Families spend days roasting and preparing large batches to preserve for winter—it's a communal, cultural event.",
+        "where_to_find": "Served as a condiment at every Serbian restaurant, available at markets and in jars at shops"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakija (Fruit Brandy)",
+        "description": "Clear brandy made from distilled, fermented fruit. Alcohol content normally 40% ABV, but homemade can be 50-80%. Types include šljivovica (plums—the most iconic), kajsija (apricots), dunja (quince), lozovača (grapes).",
+        "how_locals_drink_it": "Rakija is the soul of Serbia—'every house has some kind of rakija. Without that, it's not home. It's cultural.' In villages, people drink rakija with coffee when they wake up. The morning ritual: eat slatko (caramelized fruit), drink coffee, then rakija to 'kill all the germs.' Used medicinally—rubbed on children's chests for fevers, wrapped around necks for sore throats. People buried homemade rakija and dug it up for births or marriages. Belgrade's rakija scene includes Ambar (40+ varieties), Rakia Bar Belgrade (54 rakijas on a menu printed like a CD case), even Manastir Kovilj made by monks!"
+      },
+      {
+        "name": "Serbian Coffee (Turska Kafa, Domaća Kafa)",
+        "description": "Traditional Turkish-style coffee brewed using extra-finely ground coffee. Strong, thick, aromatic.",
+        "how_locals_drink_it": "Drinking coffee in Serbia does NOT mean drinking it quickly—it's a ritual that begins with the very act of preparing it. Coffee is drunk on every occasion, and it's basic courtesy to offer coffee to visitors. After finishing, there's a tradition of 'gledanje u šolju' (fortune telling): flip your cup upside down on a saucer, and when you pick it up, the coffee residue patterns supposedly foretell the future. Coffee culture is central to Serbian social life."
+      }
+    ],
+    "food_culture_notes": [
+      "Belgrade has transformed into the capital of 'new Balkan cuisine'—earning its first Michelin star and embracing slow food culture",
+      "The 'new Balkan cuisine' movement (led by chefs like Vanja) revives traditional ingredients and centuries-old kafana recipes",
+      "Serbian food reflects influences from Ottoman Empire to Austro-Hungarian traditions",
+      "Traditional dishes are hearty, flavorful, and 'almost always made with love'",
+      "Serbs are proud of their gastronomy and want people to understand 'where we come from and where we want to go'",
+      "The Slava (family feast for patron saint) is a distinctive Serbian tradition—recognized by UNESCO as Intangible Cultural Heritage",
+      "Bread is considered sacred—it's customary to break rather than cut it",
+      "Traditional folk music and kolo dance (circle dance) symbolize unity and joy at celebrations",
+      "Kafanas are cultural institutions, not just restaurants—they're where history, music, rakija, and food intersect",
+      "Grilled meats are central to Serbian cuisine—charcoal grilling is an art form",
+      "Kajmak (clotted cream) appears in countless dishes—a distinctly Balkan dairy product",
+      "Hospitality is intense—locals take pride in welcoming guests with abundant food and drink"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bohemian Skadarlija district",
+      "Traditional kafanas with live music",
+      "Beton Hala district (trendy waterfront)",
+      "Wood-burning grills in old restaurants",
+      "Belgrade's fortress and riverside"
+    ],
+    "atmosphere": [
+      "Charcoal smoke from ćevapi grills",
+      "Live folk music in kafanas",
+      "Rakija bottles lining bar shelves",
+      "Communal tables with shared platters",
+      "Old-world tavern ambiance",
+      "24/7 grill houses"
+    ],
+    "colors": [
+      "Golden-brown grilled meats",
+      "Clear rakija in small glasses",
+      "Dark Turkish coffee residue",
+      "Red ajvar relish",
+      "White kajmak cream",
+      "Charred, smoky ćevapi"
+    ],
+    "unique_modern": [
+      "Dragoljub's revival of centuries-old kafana favorites",
+      "Ambar's 40+ rakija varieties in Beton Hala",
+      "Rakia Bar Belgrade's CD-case menu with 54 rakijas",
+      "Michelin-starred restaurants embracing Balkan traditions",
+      "Mala Zvezdara's wood-burning grills (arrive early—food sells out!)",
+      "New Balkan cuisine movement blending old-world methods with modern presentation"
+    ]
+  },
+  "wikipedia_search_term": "Belgrade",
+  "keywords_for_image": [
+    "Belgrade Skadarlija district",
+    "Serbian ćevapi grill",
+    "Rakija fruit brandy",
+    "Balkan kafana",
+    "Belgrade fortress",
+    "Serbian traditional food",
+    "Charcoal grilled meat"
+  ],
+  "coordinates": {
+    "lat": 44.7866,
+    "lng": 20.4489
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Belgrade+🇷🇸/@44.7866,20.4489,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Belgrade"
+  },
+  "location_id": 90
+}

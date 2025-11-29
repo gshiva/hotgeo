@@ -1,0 +1,94 @@
+{
+  "name": "Lublin",
+  "country": "Poland",
+  "fun_fact": "Fun fact: Cebularz is so sacred to Lublin that it has its own museum—the Regional Museum of Cebularz teaches visitors the secrets of preparing this onion-poppy seed flatbread that's been made since the Middle Ages and is now protected by European Union law.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cebularz at Piekarnia Kuźmiuk",
+        "description": "Round wheat flatbread topped with caramelized onions and poppy seeds—crunchy, fragrant, and best eaten fresh from the oven",
+        "origin_story": "Cebularz dates to the Middle Ages, connected to Jewish cuisine. Since 2007 it's been a protected traditional product, and in 2014 the EU granted it Protected Geographical Indication status. Piekarnia Kuźmiuk makes 'Cebularz od Kuźmiuka®' with only natural ingredients and no preservatives",
+        "where_to_find": "Piekarnia Kuźmiuk (near Old Town)—the most famous bakery for authentic cebularz"
+      },
+      {
+        "name": "Pierogi Lubelskie",
+        "description": "Dumplings filled with buckwheat and cheese, cabbage and mushrooms, or seasonal fruit—Lublin calls itself 'the land of pierogi'",
+        "origin_story": "The Lublin region claims to be Poland's pierogi heartland. Lublin pierogi distinguish themselves with buckwheat-cheese filling, a combination unique to this area. Each grandmother guards her dough recipe",
+        "where_to_find": "Chata (modern take on traditional Polish), Święty Michał & Pub u Szewca (city center pubs serving regional food)"
+      },
+      {
+        "name": "Forszmak",
+        "description": "Thick, warming stew with various meats, pickled cucumbers, peppers, tomatoes, and onions—hearty and perfect for autumn and winter",
+        "origin_story": "This heavy meat stew reflects Lublin's harsh winters. The name comes from German, but the recipe evolved into something distinctly Polish. It's the kind of dish that sticks to your ribs",
+        "where_to_find": "Traditional restaurants in Lublin's Old Town, especially in fall and winter"
+      },
+      {
+        "name": "Schabowy po Lubelsku",
+        "description": "Pork chop breaded with an excessive number of eggs instead of breadcrumbs, making it look almost like an omelette coating",
+        "origin_story": "Lublin's pork chop defies the standard breading technique by using far more eggs, creating a puffy, golden coating that's uniquely local. It's excessive, but that's the point",
+        "where_to_find": "Local restaurants and cafes throughout Lublin"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Polish Vodka (Żubrówka, Wyborowa)",
+        "description": "Clear, strong vodka often flavored with bison grass (Żubrówka)—the spirit of Poland",
+        "how_locals_drink_it": "Served ice-cold in small glasses, accompanied by pickles and traditional snacks. Toasts are mandatory. Żubrówka (bison grass vodka) is Poland's most distinctive variety"
+      },
+      {
+        "name": "Kompot",
+        "description": "Sweet fruit drink made from stewed berries, apples, or plums—served warm in winter, cold in summer",
+        "how_locals_drink_it": "Homemade kompot appears on every Polish table, made from whatever fruit is in season. It's comfort in a glass, and every family recipe differs slightly"
+      }
+    ],
+    "food_culture_notes": [
+      "Cebularz can be bought in almost every grocery store in Lublin, but bakeries near Old Town make it best",
+      "The Regional Museum of Cebularz is a real place where you can learn the flatbread's medieval secrets",
+      "EU Protected Geographical Indication means authentic cebularz can only be made in Lublin",
+      "Pierogi in Lublin come with buckwheat-cheese filling you won't find elsewhere in Poland"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lublin Castle and Old Town",
+      "Krakowskie Przedmieście street",
+      "Trinitarian Tower",
+      "Grodzka Gate (connecting Old Town and Jewish Quarter)"
+    ],
+    "atmosphere": [
+      "medieval cobblestone streets",
+      "warm bakeries with fresh cebularz",
+      "cozy cafes with pierogi",
+      "autumn and winter stew warmth"
+    ],
+    "colors": [
+      "golden cebularz crust",
+      "dark poppy seeds",
+      "white pierogi dough",
+      "red-brick castle walls"
+    ],
+    "unique_modern": [
+      "Regional Museum of Cebularz preserving flatbread history",
+      "EU Protected Geographical Indication for cebularz (2014)",
+      "Chata restaurant's modern interpretation of Polish classics",
+      "Buckwheat-cheese pierogi unique to Lublin region"
+    ]
+  },
+  "wikipedia_search_term": "Lublin",
+  "keywords_for_image": [
+    "Lublin cebularz onion flatbread",
+    "Polish pierogi dumplings",
+    "Lublin Castle Old Town",
+    "poppy seeds Polish food",
+    "medieval Poland architecture"
+  ],
+  "coordinates": {
+    "lat": 51.2465,
+    "lng": 22.5684
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lublin+🇵🇱/@51.2465,22.5684,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lublin"
+  },
+  "location_id": 224
+}

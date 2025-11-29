@@ -1,0 +1,113 @@
+{
+  "name": "Johannesburg",
+  "country": "South Africa",
+  "fun_fact": "Fun fact: Shisa nyama literally means 'burnt meat' in Zulu and represents South Africa's unique buy-and-braai culture. At these township venues, everyone from CEOs to general workers choose their own meat from the butchery and have it barbecued to exact specifications. It's one place that doesn't grade you on who you are in the outside world - true equality over open flames!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kota (Quarter Loaf)",
+        "description": "A hollowed-out quarter loaf of bread stuffed with chips (fries), Russian sausages, polony, patties, atchar (spicy pickle), and cheese - messy, filling, and loved across generations",
+        "origin_story": "An evolving township street food burger that embodies township flavor. Popular fillings around Johannesburg include mince and mash, fish and chips, available at roadside spazas and backyard eateries. Ntsitsi's, started in 1996, now offers over 50 variations of kotas on their menu",
+        "where_to_find": "Ntsitsi's in Soweto (50+ kota variations since 1996); Dosa Hut for South Indian versions; available at roadside spazas throughout townships"
+      },
+      {
+        "name": "Shisa Nyama (Braai)",
+        "description": "Buy-and-braai style venue where you select your own meat from the butchery and have it barbecued with boerewors (spicy beef/lamb sausage), mieliepap (maize porridge), and chakalaka (spicy vegetable relish)",
+        "origin_story": "Shisa nyama (burnt meat in Zulu) is found across South Africa but Soweto's venues are legendary. People from all walks of life flock here for the vibe, loud music, and loads of braaied meat with fatty cuts to prevent drying. A true South African social institution",
+        "where_to_find": "Chaf Pozi at the base of Orlando Towers in Soweto (open shisa nyama with good local food, cold beer, township music); Mash Braai House in upmarket Joburg (lamb chops, pap, skopo - sheep's head); Orlando Towers restaurant (on tourist itineraries for authentic local meals)"
+      },
+      {
+        "name": "Bunny Chow",
+        "description": "A hollowed-out loaf of white bread filled with curry and a serving of salad on the side",
+        "origin_story": "Originated in Durban in the 1940s among the large Indian South African community. Created as a portable meal for workers, it became beloved nationwide. Though from Durban, Johannesburg has some of the best bunny chows outside the coastal city",
+        "where_to_find": "The Spice Kitchen ('home of authentic Durban Indian curries' - arguable best lamb bunny chow in Johannesburg); The Indian Bay Leaf Restaurant in Fordsburg (hidden gem at 57 Mint Rd); Banjaara (excellent bunny chows and masala chips)"
+      },
+      {
+        "name": "Pap en Vleis",
+        "description": "Comforting maize porridge (pap) topped with savory meat - a street food staple",
+        "origin_story": "A cornerstone of South African comfort food, combining indigenous African maize porridge with grilled meats. Found at shisa nyamas and street stalls throughout Johannesburg",
+        "where_to_find": "Mash Braai House; Chaf Pozi; street food stalls throughout Maboneng and Soweto"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Umqombothi (Traditional African Beer)",
+        "description": "Traditional South African beer brewed from maize, sorghum, and yeast, with a distinctive sour taste and cloudy appearance",
+        "how_locals_drink_it": "Served at shisa nyamas and traditional restaurants in Soweto. Often drunk from communal containers at social gatherings"
+      },
+      {
+        "name": "Amarula Cream Liqueur",
+        "description": "Sweet cream liqueur made from the African marula fruit, often called 'African Irish Cream'",
+        "how_locals_drink_it": "Served over ice as a dessert drink, or mixed into coffee. A uniquely South African spirit enjoyed after meals"
+      }
+    ],
+    "food_culture_notes": [
+      "Food is the easiest entry into South African culture - when people taste kota, shisa nyama, or magwinya (fried dough) for the first time, they connect with history, struggles, and celebrations",
+      "Johannesburg is a melting pot of cultures reflected in its food scene - from traditional braai to bunny chow to modern fusion",
+      "Soweto has rich cultural heritage with authentic cuisine experiences like Orlando Towers restaurant with great music, fresh braaied meat, and long communal tables showing true South African hospitality",
+      "The three things you'll find at a shisa nyama: alcohol, loud music, and loads of braaied meat",
+      "Maboneng Precinct is the coolest neighbourhood in Johannesburg with vibrant mix of art, culture, and incredible food",
+      "Pata Pata in Maboneng serves all the African staples in a fantastic neighborhood setting",
+      "Other local staples include mogodu (tripe stew), samp and beans, and sosaties (skewered meats, often lamb or mutton)",
+      "Sakhumzi Restaurant on Vilakazi Street in Soweto can accommodate up to 2,000 people and offers package deals for tourists"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Orlando Towers in Soweto",
+      "Vilakazi Street",
+      "Maboneng Precinct street art",
+      "Constitutional Hill",
+      "Johannesburg skyline",
+      "Township communities",
+      "Gold mine headgears"
+    ],
+    "atmosphere": [
+      "Open-fire braais with smoke rising",
+      "vibrant township energy",
+      "communal dining tables",
+      "live music venues",
+      "street food vendors",
+      "colorful murals",
+      "bustling markets"
+    ],
+    "colors": [
+      "Orange-red flames of braai fires",
+      "golden maize pap",
+      "bright chakalaka vegetables",
+      "rainbow nation diversity",
+      "colorful township houses",
+      "charred meat browns",
+      "green landscapes"
+    ],
+    "unique_modern": [
+      "Shisa nyama buy-and-braai culture erasing social hierarchies",
+      "50+ kota variations at one restaurant",
+      "Michelin-worthy township food",
+      "Art and food fusion in Maboneng",
+      "Orlando Towers as dining destination"
+    ]
+  },
+  "wikipedia_search_term": "Johannesburg",
+  "keywords_for_image": [
+    "Johannesburg skyline",
+    "Soweto Orlando Towers",
+    "braai fire South Africa",
+    "kota township food",
+    "shisa nyama",
+    "bunny chow curry",
+    "Maboneng street art",
+    "South African barbecue",
+    "township culture",
+    "Vilakazi Street"
+  ],
+  "coordinates": {
+    "lat": -26.2041,
+    "lng": 28.0473
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Johannesburg+🇿🇦/@-26.2041,28.0473,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannesburg"
+  },
+  "location_id": 65
+}

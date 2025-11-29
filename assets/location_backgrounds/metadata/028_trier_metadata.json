@@ -1,0 +1,106 @@
+{
+  "name": "Trier",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Founded in 17 BC as Augusta Treverorum, Trier is Germany's oldest city. The Porta Nigra (Black Gate from 170 AD) is held together by just a few iron rods and gravity - no mortar! In 1030, a Greek monk named Simeon had himself locked inside the gate to become a hermit. After his death and canonization, the gate was converted into a double church, which ironically saved it from being demolished for building materials like other Roman structures.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Trierer Schwenksteak",
+        "description": "Marinated pork steak, often enjoyed with a refreshing glass of Mosel Riesling wine",
+        "origin_story": "A local Trier delicacy that showcases the region's pork traditions paired with the world-famous wines from the Mosel Valley. Trier sits in the oldest wine-growing area in Germany, and this pairing represents centuries of culinary heritage.",
+        "where_to_find": "Traditional restaurants throughout Trier's old town, especially wine taverns serving regional specialties"
+      },
+      {
+        "name": "Trierer Spießbraten",
+        "description": "Spit-roasted pork with traditional German accompaniments",
+        "origin_story": "A classic preparation method that dates back to medieval times in the Rhineland-Palatinate region. The slow roasting creates tender, flavorful meat that pairs perfectly with local Riesling.",
+        "where_to_find": "Alt-Trier in the Old Town (serves classic dishes with local beers), traditional German restaurants"
+      },
+      {
+        "name": "Blutwurst with Apple Compote",
+        "description": "Blood sausage served with fried potatoes and sweet apple compote",
+        "origin_story": "A traditional Rhineland dish that balances the rich, savory sausage with the sweetness of apples - a classic German flavor combination that reflects resourceful use of all parts of the animal.",
+        "where_to_find": "Traditional German restaurants like Alt-Trier and local Gasthauses"
+      },
+      {
+        "name": "Mosel Wine-Marinated Pomace Meat",
+        "description": "Tender, aromatic roast marinated for days in wine-pomace broth",
+        "origin_story": "The most famous Mosel specialty, this dish reflects the region's wine heritage. In modern Mosel cuisine, the meat is marinated for days in fine wine-pomace broth until it acquires incomparable flavor - a technique influenced by Mediterranean and French haute cuisine since Roman times.",
+        "where_to_find": "Weinwirtschaft Friedrich-Wilhelm (wine restaurant in city center), Weinstube Kesselstatt (650-year-old wine tradition)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Mosel Riesling Wine",
+        "description": "World-famous white wine from the Mosel Valley, offering ideal conditions for growing Riesling grapes",
+        "how_locals_drink_it": "Trier is the largest city in the Mosel Valley and serves as the 'Wine Capital of the Mosel.' Wine cellars offer guided tastings where you can learn about local viticulture. Vereinigte Hospitien has Germany's oldest wine cellar dating back to Roman times."
+      },
+      {
+        "name": "Viez (Apple Wine)",
+        "description": "Traditional apple cider with high proportion of wooden apples, giving it a tart taste (5.5-6.5% alcohol)",
+        "origin_story": "Around Trier and the Saar region, apples supply this 'national drink.' UNESCO designated Viez as intangible cultural heritage in 2024. Traditionally served in the 'Poarz' - a white stone jug.",
+        "where_to_find": "Cubiculum (casual cellar pub great for Viez), served pure or mixed with cola, sparkling water, or lemonade in many restaurants"
+      }
+    ],
+    "food_culture_notes": [
+      "Trier has its own beer purity law from 1156 - 360 years before Bavaria's Reinheitsgebot - the first in German beer history",
+      "Weinstube Kesselstatt has a 650-year-old wine-making tradition with historic wine cellar and outdoor garden",
+      "Kartoffel Kiste specializes in potato dishes from scalloped potatoes to potato breads and soups",
+      "Teerdisch (Gräwes) is a mixture of sauerkraut, bacon, and mashed potatoes that winemakers brought to vineyards as snacks hundreds of years ago",
+      "Walnut bread, walnut pâté, and walnut cake are typical Mosel dishes",
+      "Villa Weißhaus offers traditional German meals with panoramic views above the city",
+      "Bitburger Wirtshaus serves regional delicacies from the famous local brewery"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Porta Nigra (170 AD Roman city gate)",
+      "Roman Imperial Baths",
+      "Cathedral of St. Peter",
+      "Church of Our Lady",
+      "Karl Marx birthplace house (Karl-Marx-Haus museum)",
+      "Nine UNESCO World Heritage Sites"
+    ],
+    "atmosphere": [
+      "Roman ruins and medieval churches",
+      "Mosel Valley vineyards",
+      "Charming market squares",
+      "Ancient wine cellars",
+      "Historic old town quarter"
+    ],
+    "colors": [
+      "Black stone of Porta Nigra",
+      "Green Mosel Valley vineyards",
+      "Golden Riesling wine",
+      "Red Roman brick",
+      "Autumn plum tones"
+    ],
+    "unique_modern": [
+      "Capital of Western Roman Empire 293-395 AD",
+      "Population reached 75,000-100,000 in 4th century",
+      "Oldest beer purity law in Germany (1156)",
+      "UNESCO designated Viez as cultural heritage (2024)",
+      "Germany's oldest wine cellar still in operation"
+    ]
+  },
+  "wikipedia_search_term": "Trier",
+  "keywords_for_image": [
+    "Trier Germany",
+    "Porta Nigra",
+    "Mosel Valley",
+    "Riesling wine",
+    "Roman ruins Germany",
+    "medieval cathedral",
+    "German sausages",
+    "wine vineyards"
+  ],
+  "coordinates": {
+    "lat": 49.7596,
+    "lng": 6.6441
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Trier+🇩🇪/@49.7596,6.6441,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trier"
+  },
+  "location_id": 28
+}

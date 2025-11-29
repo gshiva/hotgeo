@@ -1,0 +1,117 @@
+{
+  "name": "Linz",
+  "country": "Austria",
+  "fun_fact": "Fun fact: Linzer Torte is the world's OLDEST CAKE RECIPE, with the earliest known recipe dating to 1653 in a manuscript from Countess Anna Margarita Sagramosa at Admont Abbey—making this almond-spiced pastry with red currant jam over 370 years old!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Linzer Torte",
+        "description": "Crumbly shortbread pastry made with ground nuts (hazelnuts, walnuts, or almonds), cinnamon, and lemon zest, filled with red currant jam and topped with a lattice crust",
+        "origin_story": "The oldest known cake in the world! The earliest recipe from 1653 was found in Codex 35/31 at Admont Abbey, adapted from Countess Anna Margarita Sagramosa's manuscript. Later recipes from 1696 were long thought to be the oldest. Originally made with red currant jam, though raspberry and apricot are now common. It's the oldest cake named after a city. The Jindrak bakery in Linz produces over 100,000 Linzertorte cakes annually using traditional methods.",
+        "where_to_find": "Jindrak bakery (makes the 'Original' Linzer Torte, over 100,000 annually), cafés throughout Linz, traditionally served with whipped cream and sugar dusting"
+      },
+      {
+        "name": "Knödel (Austrian Dumplings)",
+        "description": "Boiled dumplings in countless varieties—bread-based, potato, sweet, or savory—served with sauerkraut",
+        "origin_story": "True Hall of Fame representatives of Austrian cuisine, originating from former Austro-Hungarian Empire crownlands Bohemia and Moravia (today's Czech Republic). Introduced to Austria by Bohemian and Moravian cooks and nannies working in bourgeois households. Knödel are traditional and beloved in Austria for good reason—appearing in every form from appetizer to dessert.",
+        "where_to_find": "Restaurants near Marketplatz specializing in regional cuisine, Grubers Kehlberghof, Wirtshaus Steuerberg"
+      },
+      {
+        "name": "Germknödel",
+        "description": "Large yeast dumplings filled with plum jam (Powidl), topped with melted butter, poppy seeds, and powdered sugar or vanilla sauce",
+        "origin_story": "A rich, filling dessert dumpling that represents Austrian comfort food at its finest. The sweet yeast dough steamed and filled with traditional plum preserve showcases Austria's mastery of sweet dumplings.",
+        "where_to_find": "Traditional Austrian restaurants throughout Linz, especially near Marketplatz"
+      },
+      {
+        "name": "Topfenknödel",
+        "description": "Sweet curd cheese (quark) dumplings rolled in fried breadcrumbs and dusted with powdered sugar",
+        "origin_story": "A beloved Austrian dessert that transforms simple cheese into an elegant sweet treat, showcasing resourcefulness of Austrian cuisine.",
+        "where_to_find": "Austrian restaurants specializing in traditional cuisine"
+      },
+      {
+        "name": "Mostbratl",
+        "description": "Traditional roast pork marinated in cider (Most) and seasoned with garlic, caraway, and mustard",
+        "origin_story": "Particularly popular in rural Upper Austria (Linz's region), this dish represents the connection between local cider production and meat preparation traditions.",
+        "where_to_find": "Grubers Kehlberghof restaurant, restaurants near Marketplatz"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Austrian Wine (Riesling)",
+        "description": "White wine from Riesling grapes cultivated in the Linz vicinity for hundreds of years",
+        "how_locals_drink_it": "Themed wine tours are held at Burg Linz Castle where visitors taste the best regional wines paired with traditional dishes prepared from old recipes. Riesling has been grown near Linz for centuries, representing the region's winemaking heritage."
+      },
+      {
+        "name": "Austrian Beer",
+        "description": "Local beers from historic breweries",
+        "how_locals_drink_it": "Beer is enjoyed at traditional restaurants alongside hearty meals. Wirtshaus Steuerberg is noted for its impressive selection of beer varieties. A historic brewery near Marketplatz offers tours with tastings. Beer pairs perfectly with meat sausages and Knödel."
+      }
+    ],
+    "food_culture_notes": [
+      "Linzer Torte holds the title of oldest cake in the world—a true Austrian classic (over 370 years old)",
+      "Linzer Torte is traditionally served with whipped cream and light dusting of sugar",
+      "The Jindrak bakery is particularly famous for producing the 'Original' Linzer Torte",
+      "Linzer Torte is a holiday treat in Austrian, Czech, Swiss, German, and Tirolean Christmas traditions",
+      "Knödel originated from Bohemia and Moravia (Czech lands) within Austro-Hungarian Empire",
+      "Knödel varieties: Semmelknödel (bread), Serviettenknödel (cloth-wrapped), Topfenknödel (cheese), Germknödel (yeast), Marillenknödel (apricot), Speckknödel (bacon)",
+      "Marketplatz is location of largest market in town featuring meat delicacies and cheeses from local farms",
+      "Historic brewery near Marketplatz offers tours and tastings",
+      "Burg Linz Castle hosts themed wine tours with regional dishes from old recipes",
+      "Most interesting regional cuisine restaurants found near Marketplatz",
+      "Mühlviertler Hasenöhrl is a vegetarian fried pastry shaped like rabbit's ear—despite the name",
+      "Upper Austrian specialties emphasize hearty, filling dishes suited to alpine climate"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Marketplatz (largest market in Linz)",
+      "Burg Linz Castle (wine tours)",
+      "Historic brewery near Marketplatz",
+      "Danube River waterfront",
+      "Upper Austrian countryside"
+    ],
+    "atmosphere": [
+      "Traditional Austrian coffeehouse culture",
+      "Historic market squares with local produce",
+      "Castle wine cellars for tastings",
+      "Cozy wood-paneled restaurants",
+      "Alpine Upper Austrian heritage"
+    ],
+    "colors": [
+      "Golden lattice-topped Linzer Torte",
+      "Red currant jam filling",
+      "Powdered sugar on dumplings",
+      "Amber Austrian beer",
+      "White Riesling wine"
+    ],
+    "unique_modern": [
+      "Grubers Kehlberghof (Austrian cuisine with seasonal updates)",
+      "Wirtshaus Steuerberg (national dishes plus home-cooked meals, impressive beer selection)",
+      "Modern interpretations of 370-year-old Linzer Torte recipe",
+      "Jindrak's industrial-scale production (100,000+ cakes yearly) of traditional recipe",
+      "Blend of medieval castle traditions with contemporary dining"
+    ]
+  },
+  "wikipedia_search_term": "Linz",
+  "keywords_for_image": [
+    "Linz",
+    "Linzer Torte",
+    "oldest cake",
+    "Austrian dumplings",
+    "Knödel",
+    "Germknödel",
+    "Upper Austria",
+    "Danube",
+    "Austrian pastry",
+    "red currant jam"
+  ],
+  "coordinates": {
+    "lat": 48.3069,
+    "lng": 14.2858
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Linz+🇦🇹/@48.3069,14.2858,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linz"
+  },
+  "location_id": 140
+}

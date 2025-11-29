@@ -1,0 +1,116 @@
+{
+  "name": "Kotor",
+  "country": "Montenegro",
+  "fun_fact": "Fun fact: Njeguški pršut (prosciutto) from the mountain village of Njeguši above Kotor takes almost a year to produce. The pigs are slaughtered in November, the legs are salted and brined for 15 days, then smoked in a smokehouse with a fire tended around the clock for four months. What makes it legendary is the unique combination of salty Adriatic sea air and cool mountain breezes during the drying process.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Njeguški Pršut (Njeguši Prosciutto)",
+        "description": "Air-dried, smoked ham with unique flavor from the combination of salty sea air and mountain breezes during the year-long production process",
+        "origin_story": "Originating in the limestone Lovćen mountains village of Njeguši, high above Kotor. The climate creates perfect conditions for curing. The fire in the smokehouse is tended 24/7 for four months. This centuries-old tradition produces Montenegro's most famous delicacy.",
+        "where_to_find": "Kod Pera na Bukovicu (Montenegro's oldest restaurant near Serpentine Road, family-run with on-site curing), Konoba Scala Santa (oldest restaurant in Kotor, opened 1931), Konoba Portun (artisanal cheese and cured meat platters)"
+      },
+      {
+        "name": "Crni Rižot (Black Risotto)",
+        "description": "Seafood risotto with distinctive black color from squid ink, made with squid, mussels, clams, or shrimp, slowly cooked to absorb the rich briny essence",
+        "origin_story": "Venetian roots from Italy's medieval rule over the Adriatic coast. Popular along Montenegro and Croatia's coastline. The squid ink creates dramatic color and deep seafood flavor.",
+        "where_to_find": "Cesarica (family-run by local fisherman with daily fresh catch from the bay), coastal restaurants in Kotor Old Town"
+      },
+      {
+        "name": "Fresh Adriatic Seafood",
+        "description": "Grilled or cooked sea bass, mackerel, bream, octopus, mussels, and squid - freshly caught and much-celebrated stars of coastal Montenegrin gastronomy",
+        "origin_story": "Montenegro's Adriatic coast provides daily fresh catches. Traditional preparation emphasizes the quality of fresh ingredients with simple grilling or stewing in olive oil.",
+        "where_to_find": "Cesarica (fisherman-owned, unparalleled freshness, candlelit dinners, mussels and squid particularly tasty), Konoba Scala Santa (fish soup and fish stew are beloved), Konoba Portun (platform on the bay, grilled octopus and Adriatic fish)"
+      },
+      {
+        "name": "Njeguški Steak",
+        "description": "Veal schnitzel stuffed with Njeguški prosciutto and cheese - Montenegro's award-winning fusion dish",
+        "origin_story": "Created by Milovan Stojanovic, Tito's (Yugoslavia's President) personal chef. Won gold medal at the 1986 Culinary World Cup in Luxembourg. Combines the region's famous prosciutto with Austrian schnitzel tradition.",
+        "where_to_find": "Traditional restaurants in Kotor region, Kod Pera na Bukovicu (Njeguši region)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakija",
+        "description": "Montenegro's national drink - potent fruit brandy made from grapes, used for everything from weddings to funerals to curing the common cold",
+        "how_locals_drink_it": "Smokehouses tours in Njeguši conclude with rakija shots. Used for toasting meals and celebrations. Locals believe it has medicinal properties. Served at room temperature in small glasses."
+      },
+      {
+        "name": "Vranac (Red Wine)",
+        "description": "Autochthonous (native) red grape varietal producing Montenegro's signature red wines",
+        "how_locals_drink_it": "Paired with hearty meat dishes and slow-cooked lamb. Part of long, relaxed Montenegrin dinners between 7-9pm where conversation and grazing over food and wine are encouraged."
+      },
+      {
+        "name": "Krstač (White Wine) & Nikšićko Beer",
+        "description": "Krstač is native white wine varietal. Nikšićko is Montenegro's most popular pale lager beer",
+        "how_locals_drink_it": "Krstač pairs with fresh seafood. Nikšićko beer is commonly consumed with casual meals and at taverns (konobes)."
+      }
+    ],
+    "food_culture_notes": [
+      "Montenegro's cuisine blends coastal Mediterranean flavors with hearty mountain fare",
+      "Dinner time is usually between 7-9pm; coastal resorts like Kotor have restaurants open late in summer",
+      "Long, hearty lunches and dinners are encouraged - relaxing and enjoying conversation while grazing",
+      "Konobes (local taverns) represent authentic Montenegrin dining culture",
+      "Kotor City Market (between Sea and Southern gates) is the place to find fresh local ingredients",
+      "Get off the beaten path to avoid tourist traps - local spots sell out by mid-afternoon",
+      "Fresh seafood is the star of coastal cuisine, while Njeguši region specializes in cured meats",
+      "Staples throughout Montenegro: čevapi (grilled minced meat sausages), kačamak (cornmeal and cheese mash)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Kotor Bay (Boka Kotorska)",
+      "Medieval Old Town walls",
+      "St. Tryphon Cathedral",
+      "Kotor Fortress on mountainside",
+      "Serpentine Road to Njeguši",
+      "Lovćen mountain",
+      "Dobrota waterfront",
+      "Kotor City Market"
+    ],
+    "atmosphere": [
+      "Dramatic bay and mountain setting",
+      "Medieval stone architecture",
+      "Cobblestone Old Town lanes",
+      "Waterfront dining platforms",
+      "Mountain village smokehouses",
+      "Adriatic coastal charm",
+      "Candlelit family-run restaurants"
+    ],
+    "colors": [
+      "Deep blue Adriatic waters",
+      "Gray limestone mountains",
+      "Black squid ink risotto",
+      "Red-pink prosciutto",
+      "Terracotta roofs",
+      "White stone walls",
+      "Silver-blue fresh fish"
+    ],
+    "unique_modern": [
+      "Family-owned restaurants with fishermen bringing daily catch",
+      "Smokehouse tours with prosciutto tastings",
+      "Platform dining over the bay",
+      "Historic buildings converted to atmospheric taverns",
+      "Farm-to-table with on-site curing at mountain restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Kotor",
+  "keywords_for_image": [
+    "Kotor Bay Montenegro",
+    "Njeguski prsut prosciutto",
+    "black risotto squid ink",
+    "Kotor Old Town medieval walls",
+    "Adriatic seafood grilled octopus",
+    "Lovćen mountain Njeguši",
+    "Montenegro rakija"
+  ],
+  "coordinates": {
+    "lat": 42.4246,
+    "lng": 18.7712
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kotor+🇲🇪/@42.4246,18.7712,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kotor"
+  },
+  "location_id": 38
+}

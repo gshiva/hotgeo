@@ -1,0 +1,94 @@
+{
+  "name": "Milford Sound",
+  "country": "New Zealand",
+  "fun_fact": "Fun fact: Milford Sound is technically a fiord, not a sound (carved by glaciers, not rivers). Rudyard Kipling called it the 'eighth wonder of the world,' and it receives about 7 meters (23 feet) of rain annually - creating hundreds of temporary waterfalls!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Blue Cod",
+        "description": "Delicate white fish caught in Fiordland waters, pan-fried with butter and lemon",
+        "origin_story": "The pristine waters of Fiordland produce exceptional seafood - blue cod is New Zealand's most prized eating fish",
+        "where_to_find": "Milford Sound Lodge, cruise boats serve fresh catch, Te Anau restaurants"
+      },
+      {
+        "name": "Crayfish (NZ Rock Lobster)",
+        "description": "Sweet, succulent lobster from cold Fiordland waters - often simply grilled with garlic butter",
+        "origin_story": "Fiordland crayfish are renowned - the cold, clean waters produce incredible flavor",
+        "where_to_find": "Te Anau restaurants, some cruise operators, Bluff to the south"
+      },
+      {
+        "name": "Venison",
+        "description": "Farm-raised New Zealand deer, lean and flavorful, often served with berry sauces",
+        "origin_story": "Red deer were introduced for hunting and are now farmed - Fiordland region specializes in wild game",
+        "where_to_find": "Redcliff Restaurant (Te Anau), Fat Duck (Te Anau), high-end NZ restaurants"
+      },
+      {
+        "name": "Meat Pie",
+        "description": "Classic NZ comfort food - flaky pastry filled with savory meat and gravy",
+        "origin_story": "A New Zealand institution - every roadside shop and bakery has their version",
+        "where_to_find": "Miles Better Pies (Te Anau), any NZ bakery"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Central Otago Pinot Noir",
+        "description": "World-class Pinot Noir from nearby Central Otago - the world's southernmost wine region",
+        "how_locals_drink_it": "With lamb or venison - these wines rival Burgundy"
+      },
+      {
+        "name": "Flat White",
+        "description": "Espresso with microfoam milk - invented in Australia/NZ (they argue about it)",
+        "how_locals_drink_it": "Essential kiwi coffee culture - every café serves them perfectly"
+      }
+    ],
+    "food_culture_notes": [
+      "Te Anau (gateway town) has all dining options - Milford itself is remote",
+      "Pack a lunch for Milford day trips - limited food options on-site",
+      "Cruise boats sometimes offer fresh-caught seafood",
+      "Food in this region is simple but exceptionally fresh and high quality"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mitre Peak",
+      "Stirling Falls",
+      "Bowen Falls",
+      "Lady Bowen Falls"
+    ],
+    "atmosphere": [
+      "pristine wilderness",
+      "dramatic fiord cliffs",
+      "waterfalls everywhere",
+      "mystical rain and mist"
+    ],
+    "colors": [
+      "deep fiord blue-green",
+      "rainforest emerald",
+      "waterfall white",
+      "misty grey"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage",
+      "underwater observatory",
+      "scenic flight destination",
+      "dark sky reserve"
+    ]
+  },
+  "wikipedia_search_term": "Milford_Sound",
+  "keywords_for_image": [
+    "Milford Sound Mitre Peak",
+    "fiord waterfalls",
+    "New Zealand wilderness",
+    "cruise boat fiord",
+    "rainforest cliffs"
+  ],
+  "coordinates": {
+    "lat": -44.6717,
+    "lng": 167.9261
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Milford+Sound+🇳🇿/@-44.6717,167.9261,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milford_Sound"
+  },
+  "location_id": 362
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Stuttgart",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Maultaschen, Stuttgart's famous 'Swabian ravioli,' were invented by monks at Maulbronn Monastery to hide meat during Lent from God's watchful eye—earning them the nickname 'Herrgottsbescheißerle' (little God-cheaters)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Maultaschen",
+        "description": "Large pasta pockets filled with spinach, ground meat, onions, and herbs—Swabia's answer to ravioli",
+        "origin_story": "Invented by Maulbronn Monastery monks in the 15th century as a clever way to circumvent the Lenten ban on meat. The noodle 'purse' supposedly hid the meat filling from God. Also called 'Herrgottsbescheißerle' (little God-cheaters). Today served pan-fried in butter or in broth, with vegetarian and salmon variations now popular.",
+        "where_to_find": "Tauberquelle (city center on Torstraße), Zum Spätzleschwob (traditional rustic atmosphere, all varieties of Maultaschen), Gasthaus Bären (Swabian tapas including Maultaschen)"
+      },
+      {
+        "name": "Spätzle",
+        "description": "Soft egg noodles made from a simple dough of flour, egg and water, scraped or pressed into boiling water",
+        "origin_story": "The foundation of Swabian cuisine for centuries. Käsespätzle (cheese spätzle) layers fresh noodles with caramelized onions and Emmental cheese, baked and topped with crispy fried onions. Also the essential side for Zwiebelrostbraten (onion roast beef).",
+        "where_to_find": "Zum Spätzleschwob (specialist in the land of Spätzle), Tauberquelle (Zwiebelrostbraten mit Spätzle), Carl's Brauhaus (Schlossplatz location)"
+      },
+      {
+        "name": "Gaisburger Marsch",
+        "description": "Thick stew with ox meat, potatoes and Spätzle that originated in Stuttgart's Gaisburg district",
+        "origin_story": "So beloved by soldiers stationed remotely that they would make the long march back to Gaisburg just to eat this hearty stew—hence the name 'Gaisburg March.'",
+        "where_to_find": "Traditional Swabian restaurants throughout Stuttgart, especially near Marketplatz"
+      },
+      {
+        "name": "Zwiebelrostbraten",
+        "description": "Roast beef in rich gravy flavored with garlic and onions, served with Spätzle or fried potatoes",
+        "origin_story": "The traditional Sunday dinner in Swabian households, representing celebration and family gathering.",
+        "where_to_find": "Tauberquelle, traditional restaurants near Marketplatz"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Trollinger Wine",
+        "description": "Bright ruby-red wine unique to Württemberg, served cold like a deep rosé, dry but sweeter than typical dry wines",
+        "how_locals_drink_it": "Ordered as a 'Viertele' (quarter liter, 250ml) served in a glass mug with a green handle. Found at every festival, wine bar, and Besenwirtschaft (traditional broom tavern). Swabians consume twice as much wine as the rest of Germany. As poet Friedrich von Schiller wrote: 'A Württemberger without wine—is that a real Württemberger?'"
+      },
+      {
+        "name": "Viertele (Wine Serving)",
+        "description": "Traditional quarter-liter serving of local wine (Trollinger, Lemberger, Riesling, Müller-Thurgau)",
+        "how_locals_drink_it": "The standard wine measure in Stuttgart. Served in distinctive glass mugs at Besenwirtschaften (seasonal taverns marked by a broom above the door), wine bars along Marketplace and Schiller Square. Often accompanied by simple hearty food in cozy 'Gemütlichkeit' atmosphere."
+      }
+    ],
+    "food_culture_notes": [
+      "Besenwirtschaften are seasonal wine taverns (marked by a broom/Besen) where local winemakers serve their own wines with simple food—a uniquely Swabian tradition",
+      "Stuttgart region produces more wine than anywhere else in Germany, with 43 acres of city-owned vineyards",
+      "Trollinger wine is grown almost exclusively in Württemberg and ubiquitous in the region",
+      "Swabian cuisine emphasizes hearty, simple 'grandmother's cooking' with meat, noodles, and lentils",
+      "Lentils and Spätzle (Linsen mit Spätzle) with sausages is considered an absolute Swabian classic",
+      "Schupfnudeln (finger-shaped potato dumplings) are lovingly called 'Bubaspitzle' in Swabia"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Schlossplatz (main palace square)",
+      "Marketplatz (historic market square)",
+      "Schiller Square",
+      "Kirchstraße (church street)",
+      "Cannstatter Volksfest grounds (Germany's second-largest beer festival)"
+    ],
+    "atmosphere": [
+      "Besenwirtschaft taverns with broom signs",
+      "Traditional glass Viertele mugs with green handles",
+      "Wine terraces and beer gardens",
+      "Rustic Swabian dining rooms",
+      "Vineyard-covered hills surrounding the city"
+    ],
+    "colors": [
+      "Ruby red Trollinger wine",
+      "Golden spätzle and maultaschen",
+      "Green-handled wine glasses",
+      "Warm wood tones of traditional taverns"
+    ],
+    "unique_modern": [
+      "Fine dining at Zirbelstube, Olivo, and Wielandshöhe restaurants",
+      "Modern takes on Maultaschen (salmon, vegetarian varieties)",
+      "200+ breweries in Baden-Württemberg beer culture",
+      "Mix of automotive industry heritage with wine country tradition"
+    ]
+  },
+  "wikipedia_search_term": "Stuttgart",
+  "keywords_for_image": [
+    "Stuttgart",
+    "Maultaschen",
+    "Spätzle",
+    "Swabian cuisine",
+    "Trollinger wine",
+    "Viertele glass",
+    "Besenwirtschaft",
+    "German wine region",
+    "Baden-Württemberg",
+    "Zwiebelrostbraten"
+  ],
+  "coordinates": {
+    "lat": 48.7758,
+    "lng": 9.1829
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Stuttgart+🇩🇪/@48.7758,9.1829,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuttgart"
+  },
+  "location_id": 136
+}

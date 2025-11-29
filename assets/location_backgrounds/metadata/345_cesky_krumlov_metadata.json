@@ -1,0 +1,94 @@
+{
+  "name": "Cesky Krumlov",
+  "country": "Czechia",
+  "fun_fact": "Fun fact: Český Krumlov Castle has a moat guarded by real live bears - a tradition dating back to 1707 when the Schwarzenberg family kept bears as a status symbol. The castle also houses a perfectly preserved Baroque theatre from 1766 with original stage equipment, costumes, and sets still intact",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Svíčková (Marinated Beef Sirloin)",
+        "description": "Czech Republic's national dish - tender beef sirloin in a silky cream sauce made from root vegetables, served with bread dumplings (knedlíky), a dollop of cranberry jam, and a slice of lemon with whipped cream",
+        "origin_story": "Created in the 19th century as Czech haute cuisine, this dish showcases the Czech talent for making heavy food elegant. The sauce requires hours of slow-cooking vegetables into a purée, then straining it to silk. Every Czech grandmother argues about the 'correct' ratio of cream to vegetables",
+        "where_to_find": "Don Julius Restaurant (known for traditional Czech dishes), local taverns in the Old Town, Krčma v Šatlávské ulici"
+      },
+      {
+        "name": "Trdelník (Chimney Cake)",
+        "description": "Sweet spiral pastry wrapped around a wooden rod, grilled over charcoal until golden, then rolled in cinnamon sugar, walnuts, or coconut - served hot and crispy on the outside, soft inside",
+        "origin_story": "Despite being marketed as 'old Czech tradition,' trdelník is actually a recent Transylvanian import that became a Czech tourist sensation in the 2000s. Locals will tell you it's not authentic Czech, but it's now so popular that it's become part of Český Krumlov's identity. Fresh-made ones are irresistible",
+        "where_to_find": "MLS Crêperie (five locations throughout town, made fresh to order), street vendors in Old Town square"
+      },
+      {
+        "name": "Pečená Kachna (Roast Duck)",
+        "description": "Whole duck roasted until the skin is crispy and the meat falls off the bone, served with red and white sauerkraut, bread dumplings, and sometimes bacon",
+        "origin_story": "Czech duck roasting is an art form - the bird is seasoned with caraway seeds and marjoram, then slow-roasted for hours. It's traditional Sunday lunch food, and Czech families will drive hours to a restaurant known for doing it right. The crispy skin is prized above all",
+        "where_to_find": "Don Julius Restaurant (confit duck is their specialty), Krčma v Šatlávské ulici (fire-roasted meats)"
+      },
+      {
+        "name": "Bohemian Potato Pancakes (Bramboráky)",
+        "description": "Crispy fried potato pancakes loaded with garlic, marjoram, and sometimes bacon - golden brown and served with sour cream or as a side to meat dishes",
+        "origin_story": "Peasant food from South Bohemia, these pancakes were a way to stretch ingredients. The secret is grating the potatoes fresh and squeezing out ALL the water, then frying them in lard (never oil). Modern versions are smaller and crispier than the traditional dinner-plate-sized ones",
+        "where_to_find": "Don Julius Restaurant (highly recommended), traditional Czech taverns"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Czech Pilsner Beer",
+        "description": "Golden lager beer - Czechia invented pilsner-style beer in 1842, and locals take their beer seriously. Expect a perfect pour with a thick foam head",
+        "how_locals_drink_it": "Served in half-liter glasses, always fresh from the tap. Czechs are the world's heaviest beer drinkers per capita. In Czech taverns, the waiter keeps bringing fresh beers until you put a coaster on top of your glass. Never toast - just make eye contact and drink"
+      },
+      {
+        "name": "Becherovka",
+        "description": "Bitter herbal liqueur from Karlovy Vary (nearby spa town) - tastes like Christmas spices mixed with medicine. 38% alcohol, bright amber color",
+        "how_locals_drink_it": "Served ice-cold as a digestive after heavy meals. Mix it with tonic water for a 'Beton' (concrete) - the Czech answer to gin and tonic. The recipe is a secret formula of 20+ herbs and spices, known only to two people"
+      }
+    ],
+    "food_culture_notes": [
+      "Český Krumlov is a UNESCO World Heritage site with architecture frozen in the medieval, Renaissance, and Baroque periods",
+      "The town's name means 'crooked meadow' from Middle High German, referring to the horseshoe bend of the Vltava River",
+      "Artist Egon Schiele (student of Gustav Klimt) lived and worked here - his mother was from Český Krumlov",
+      "Despite being tiny (population 13,000), the town attracts over 2 million tourists per year, creating a bizarre tourist-vs-local food scene"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Český Krumlov Castle (second largest in Czechia)",
+      "Medieval town center with colorful Renaissance buildings",
+      "Vltava River horseshoe bend",
+      "Castle tower with painted Renaissance facade"
+    ],
+    "atmosphere": [
+      "fairytale medieval streets",
+      "cobblestones and red-tiled roofs",
+      "bears in the castle moat",
+      "sweet smell of trdelník grilling"
+    ],
+    "colors": [
+      "terracotta and ochre (building facades)",
+      "emerald green (Vltava River)",
+      "golden brown (roasted trdelník)",
+      "cream and burgundy (svíčková sauce)"
+    ],
+    "unique_modern": [
+      "Perfectly preserved Baroque theatre from 1766 with original sets",
+      "Live bears in castle moat (tradition since 1707)",
+      "UNESCO World Heritage Site since 1992",
+      "Czech Republic's second most visited castle"
+    ]
+  },
+  "wikipedia_search_term": "Český_Krumlov",
+  "keywords_for_image": [
+    "Cesky Krumlov castle tower",
+    "trdelnik chimney cake Czech",
+    "Vltava River Cesky Krumlov",
+    "medieval Czech town",
+    "svickova Czech beef"
+  ],
+  "coordinates": {
+    "lat": 48.8127,
+    "lng": 14.3175
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cesky+Krumlov+🇨🇿/@48.8127,14.3175,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Český_Krumlov"
+  },
+  "location_id": 345
+}

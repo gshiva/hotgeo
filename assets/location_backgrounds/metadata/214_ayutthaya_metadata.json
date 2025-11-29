@@ -1,0 +1,93 @@
+{
+  "name": "Ayutthaya",
+  "country": "Thailand",
+  "fun_fact": "Fun fact: Ayutthaya was once one of the world's largest cities with a population of 1 million in 1700 - bigger than London or Paris at the time! The Burmese burned it to the ground in 1767, leaving the haunting ruins we see today.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Boat Noodles (Kuay Teow Rua)",
+        "description": "Small bowls of pork or beef noodle soup with blood, served rapidly",
+        "origin_story": "Originally sold from boats on the canals - Ayutthaya's klongs were once its highways. Bowls are small so you eat many",
+        "where_to_find": "Boat noodle restaurants near Wat Mahathat, floating restaurants"
+      },
+      {
+        "name": "Roti Sai Mai",
+        "description": "Thin roti pancake filled with colorful candy floss threads",
+        "origin_story": "Ayutthaya's signature sweet - Muslim traders brought roti, Thais added the cotton candy filling. Pink, green, and white threads",
+        "where_to_find": "Stalls along U Thong Road, especially near Chao Phrom Market"
+      },
+      {
+        "name": "Hoy Tod",
+        "description": "Crispy mussel or oyster pancake with egg and bean sprouts",
+        "origin_story": "A popular street food throughout Thailand, excellent along the river",
+        "where_to_find": "Chao Phrom Night Market, riverside restaurants"
+      },
+      {
+        "name": "Giant River Prawns",
+        "description": "Enormous freshwater prawns grilled with their heads intact",
+        "origin_story": "The Chao Phraya River produces massive prawns - Ayutthaya is famous for them",
+        "where_to_find": "Riverside restaurants, especially Ban Kao restaurant"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Nam Krajiab",
+        "description": "Iced roselle (hibiscus) drink, ruby red and refreshing",
+        "how_locals_drink_it": "At temples and street stalls - perfect for temple-hopping in the heat"
+      },
+      {
+        "name": "Cha Yen",
+        "description": "Thai iced tea with condensed milk",
+        "how_locals_drink_it": "From street vendors in plastic bags"
+      }
+    ],
+    "food_culture_notes": [
+      "Ayutthaya Night Market near ruins has excellent street food",
+      "Elephant riding was once popular but ethical concerns now prevail",
+      "Easy day trip from Bangkok (80km) - many food tours available",
+      "Chao Phrom Market is the local favorite for authentic food"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Wat Mahathat (Buddha head in tree)",
+      "Wat Phra Si Sanphet",
+      "Ayutthaya Historical Park",
+      "Wat Chaiwatthanaram"
+    ],
+    "atmosphere": [
+      "ancient ruins",
+      "temple-filled",
+      "cycling tourists",
+      "river setting"
+    ],
+    "colors": [
+      "brick red ruins",
+      "Buddha gold",
+      "tropical green",
+      "sunset orange"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage",
+      "Bangkok day trip",
+      "Buddha head in tree roots"
+    ]
+  },
+  "wikipedia_search_term": "Ayutthaya_Historical_Park",
+  "keywords_for_image": [
+    "Wat Mahathat Buddha head tree",
+    "boat noodles",
+    "roti sai mai candy",
+    "temple ruins",
+    "giant river prawns"
+  ],
+  "coordinates": {
+    "lat": 14.3532,
+    "lng": 100.5776
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ayutthaya+🇹🇭/@14.3532,100.5776,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayutthaya_Historical_Park"
+  },
+  "location_id": 214
+}

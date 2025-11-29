@@ -1,0 +1,94 @@
+{
+  "name": "Penang George Town",
+  "country": "Malaysia",
+  "fun_fact": "Fun fact: George Town is ranked #39 on TasteAtlas's list of the 100 Best Food Regions in the World, and locals are so serious about their char kway teow that debates about which stall makes the best version can last for hours - some say it's worth the trip to Penang for this single dish alone.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Char Kway Teow",
+        "description": "Flat rice noodles stir-fried over intense heat with prawns, cockles, Chinese sausage, eggs, bean sprouts, and chives in dark soy sauce",
+        "origin_story": "Most people agree you find the best char kway teow in Penang. The key is the 'wok hei' (breath of the wok) - that smoky flavor from cooking over extremely high heat. At Ah Leng, they make it with duck eggs for an even richer, creamier texture",
+        "where_to_find": "Ah Leng Char Koay Teow (duck egg version for RM12.50), numerous hawker stalls throughout George Town"
+      },
+      {
+        "name": "Penang Assam Laksa",
+        "description": "Spicy and tangy fish-based noodle soup made with mackerel and tamarind juice, garnished with fresh mint, pineapple, and torch ginger flower",
+        "origin_story": "This is Penang's most iconic dish - so beloved that it's ranked among the world's best soups. The tamarind gives it a mouth-puckering sourness that's addictive",
+        "where_to_find": "Joo Hooi Cafe (popular spot, RM5 per bowl)"
+      },
+      {
+        "name": "Nasi Kandar",
+        "description": "Steamed rice served with a variety of curries and side dishes - the name comes from the kandar (pole) used to carry rice and curry by street vendors",
+        "origin_story": "Hameediyah restaurant has been serving nasi kandar since 1907, making it Malaysia's oldest nasi kandar joint. The recipe has been passed down through generations",
+        "where_to_find": "Hameediyah (open since 1907 - Malaysia's oldest), numerous 24-hour nasi kandar shops"
+      },
+      {
+        "name": "Nyonya/Peranakan Cuisine",
+        "description": "Unique fusion of Chinese and Malay cooking created by the Straits-Chinese Peranakan community - complex spice pastes and rich coconut-based dishes",
+        "origin_story": "When Chinese immigrants married local Malay women centuries ago, they created a unique cuisine. Auntie Gaik Lean's Old School Eatery serves traditional Peranakan dishes exactly as they were made generations ago",
+        "where_to_find": "Auntie Gaik Lean's Old School Eatery (Michelin-recognized), Ivy's Nyonya Cuisine"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cendol",
+        "description": "Sweet dessert drink with green pandan jelly noodles, red beans, shaved ice, and coconut milk drizzled with palm sugar syrup",
+        "how_locals_drink_it": "Consumed as a cooling treat in Penang's tropical heat, especially in the afternoon. The contrast of ice-cold sweetness with chewy green jelly is irresistible"
+      },
+      {
+        "name": "Teh Tarik",
+        "description": "Pulled tea - strong black tea with condensed milk, poured back and forth between cups to create a frothy head",
+        "how_locals_drink_it": "At mamak stalls and kopitiams (coffee shops) throughout the day. The 'pulling' cools the tea and creates a signature froth on top"
+      }
+    ],
+    "food_culture_notes": [
+      "George Town is the food capital of Southeast Asia with Malay, Chinese, Indian, and Peranakan influences",
+      "Hawker centers are the heart of Penang food culture - Chulia Street and Padang Brown are legendary",
+      "Hot Bowl White Curry Mee on Jalan Rangoon is featured in the Michelin guide",
+      "Plan at least 3 days to explore the UNESCO World Heritage area and its food scene"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Clan Jetties on stilts",
+      "Khoo Kongsi clan house",
+      "Street art murals",
+      "UNESCO Heritage Georgetown"
+    ],
+    "atmosphere": [
+      "hawker stalls with wok smoke",
+      "colonial shophouses",
+      "rickshaw rides",
+      "incense from Chinese temples"
+    ],
+    "colors": [
+      "vibrant street art",
+      "deep orange curry",
+      "bright green pandan cendol",
+      "golden char kway teow"
+    ],
+    "unique_modern": [
+      "street art becoming tourist attraction",
+      "heritage shophouses converted to boutique hotels",
+      "traditional hawkers mixing with hipster cafes",
+      "UNESCO preservation meeting modern Malaysia"
+    ]
+  },
+  "wikipedia_search_term": "George_Town,_Penang",
+  "keywords_for_image": [
+    "Penang George Town",
+    "char kway teow",
+    "street art Penang",
+    "hawker food",
+    "colonial architecture Malaysia"
+  ],
+  "coordinates": {
+    "lat": 5.4141,
+    "lng": 100.3288
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Penang+George+Town+🇲🇾/@5.4141,100.3288,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+  },
+  "location_id": 307
+}

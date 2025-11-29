@@ -1,0 +1,94 @@
+{
+  "name": "Phuket Town",
+  "country": "Thailand",
+  "fun_fact": "Fun fact: Phuket's Hokkien noodles come from a restaurant that's been using the same recipe since 1946—some restaurants are over 100 years old, still serving the fourth generation of the same family, and locals will fight over which shop makes the best Mee Hokkien.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Hokkien Mee at Mee Ton Poe",
+        "description": "Thick egg noodles stir-fried in dark soy sauce with pork, seafood, and Chinese cabbage, topped with a fried egg—smoky, savory, and intensely flavorful",
+        "origin_story": "Mee Ton Poe has been Phuket's first-ever Hokkien noodle restaurant since 1946, near the Surin Circle clock tower. Chinese immigrants from Fujian province brought this dish, and the Phuket version became its own thing entirely",
+        "where_to_find": "Mee Ton Poe (since 1946), Mee Sapam (since 1952), Ko Yoon, Som Chit (over 100 years old, 4th generation), or Lock Tien (50+ years in business)"
+      },
+      {
+        "name": "Dim Sum at Boonrat Dim Sum",
+        "description": "Steamed pork, crab, and shrimp dumplings, seaweed-wrapped pork, and countless varieties from original 1917 Guangzhou recipes",
+        "origin_story": "Boonrat has been serving dim sum since 1917—yes, over a century. They open at 6am and close at 10am, so locals arrive early or miss out. The recipes came straight from Guangzhou and never changed",
+        "where_to_find": "Boonrat Dim Sum (6-10am only!), Hun Dim Sum, or Super Dim Sum & Noodle at Central Festival Phuket"
+      },
+      {
+        "name": "Phuket-Style Hokkien Noodle Soup at Lock Tien",
+        "description": "Yellow noodles in rich broth with pork and seafood, topped with a fried egg—the soup version of the stir-fried classic",
+        "origin_story": "Lock Tien is like a semi-indoor food court serving Peranakan and Hokkien favorites for over 50 years. Thais from Bangkok consider it a must-eat destination. The noodle soup version shows the Chinese-Peranakan fusion that defines Phuket",
+        "where_to_find": "Lock Tien (near Phuket Town center)—arrive early, locals pack this place"
+      },
+      {
+        "name": "Mee Sapam's Seafood Hokkien",
+        "description": "Stir-fried Hokkien noodles with fresh prawns, squid, and fish in dark sauce—excellent ingredients at shockingly cheap prices (around 70 THB)",
+        "origin_story": "Mee Sapam opened in 1952 and became famous for using premium seafood while keeping prices affordable. Locals swear by the freshness and value",
+        "where_to_find": "Mee Sapam (near Phuket Town)—famous since 1952"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chinese Tea at Dim Sum Shops",
+        "description": "Hot jasmine or oolong tea served in traditional teacups alongside dim sum—the proper Cantonese way",
+        "how_locals_drink_it": "Always paired with morning dim sum at places like Boonrat. The tea cuts through the richness of dumplings and helps digestion. Locals linger over multiple rounds"
+      },
+      {
+        "name": "Thai Iced Tea",
+        "description": "Sweet, creamy orange tea served over crushed ice—the Thai beverage that tourists know, but locals drink constantly",
+        "how_locals_drink_it": "Grabbed from street vendors or ordered with Hokkien noodles to balance the salty, savory flavors. The sweetness is essential in tropical heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Phuket's food culture is Chinese-Peranakan, not typical Thai—expect Hokkien noodles and dim sum, not pad thai",
+      "Phuket is a UNESCO City of Gastronomy, recognized for preserving tin-mining-era Chinese immigrant food culture",
+      "Hokkien Mee restaurants open early and close when they run out—some only serve breakfast",
+      "The fourth-generation Som Chit Restaurant (over 100 years old) proves that family recipes here are sacred"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sino-Portuguese architecture in Old Town",
+      "Colorful shophouse facades",
+      "Phuket's clock tower at Surin Circle",
+      "Chinese temples and shrines"
+    ],
+    "atmosphere": [
+      "steamy dim sum baskets",
+      "wok-fried noodles with smoky aroma",
+      "early morning food court energy",
+      "pastel-colored colonial buildings"
+    ],
+    "colors": [
+      "dark caramel soy sauce on noodles",
+      "white steamed dumpling wrappers",
+      "pastel pink, blue, yellow shophouses",
+      "golden fried egg yolk"
+    ],
+    "unique_modern": [
+      "Fourth-generation family restaurants still thriving",
+      "6am dim sum queues at century-old Boonrat",
+      "UNESCO City of Gastronomy designation",
+      "Chinese-Peranakan fusion preserved from tin-mining era"
+    ]
+  },
+  "wikipedia_search_term": "Phuket_City",
+  "keywords_for_image": [
+    "Phuket Old Town Sino-Portuguese",
+    "Hokkien mee stir-fry noodles",
+    "dim sum steamer baskets",
+    "colorful shophouses Phuket",
+    "Chinese Peranakan food"
+  ],
+  "coordinates": {
+    "lat": 7.8804,
+    "lng": 98.3923
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Phuket+Town+🇹🇭/@7.8804,98.3923,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phuket_City"
+  },
+  "location_id": 221
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Prague",
+  "country": "Czechia (Czech Republic)",
+  "fun_fact": "Fun fact: The Czech Republic has led the world in beer consumption per capita every single year since 1993. In 2005, Czechs consumed a record 163.5 liters (327 beers) per person. Beer is cheaper than water in Prague - a pint of local beer costs about 14 koruna while bottled water costs 35 koruna. Czech brewing heritage dates to 993 AD at Břevnov Monastery, and in 1842, the world's first golden pilsner beer (Pilsner Urquell) was created in Plzeň, revolutionizing global beer forever.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Svíčková (Marinated Beef Sirloin)",
+        "description": "Slices of pork tenderloin with rich, savory cream sauce topped with cranberry sauce, served with knedlíky (potato dumplings). One of the most beloved Czech dishes.",
+        "origin_story": "Svíčková represents Czech comfort food at its finest - slow-cooked beef in a vegetable-based cream sauce that requires hours of preparation. The combination of savory gravy, tart cranberries, and fluffy dumplings embodies Czech culinary traditions where hearty, filling meals sustained people through long Central European winters.",
+        "where_to_find": "Lokál (most popular Czech pub in Prague, buzzing with locals and animated conversations), U Kroka (beloved local restaurant in quiet southern neighborhood), Ferdinanda (secluded spot favored by locals, destined for rave reviews), beer gardens throughout the city pair it with pilsner."
+      },
+      {
+        "name": "Vepřo Knedlo Zelo (Roast Pork with Dumplings and Cabbage)",
+        "description": "The most popular meal in Czech cuisine - slow-roasted pork with fluffy potato/bread dumplings (knedlíky) and sweet-sour braised cabbage.",
+        "origin_story": "This is THE national dish that defines Czech home cooking. Pork, potatoes, and cabbage were affordable staples that could feed families through harsh winters. The knedlíky (dumplings) are essential - they soak up the rich pork juices and cabbage. Often made for Czech Sunday lunches as a family tradition.",
+        "where_to_find": "U Zlatého Tygra (The Golden Tiger - historic pub in Old Town, authentic atmosphere with Czech beer), Lokál, U Tunelu (bustling Karlín neighborhood restaurant popular with locals), traditional hospodas throughout Prague. Best at lunch when Czechs eat their main meal."
+      },
+      {
+        "name": "Kulajda (Creamy Dill Soup)",
+        "description": "Creamy soup with mushrooms, potatoes, and a poached egg, offering unique balance of tangy and savory flavors from fresh dill.",
+        "origin_story": "Kulajda represents Czech resourcefulness - a hearty soup made from foraged mushrooms, garden dill, and potatoes. The poached egg adds richness while dill provides signature Czech herbal flavor. This comfort soup reflects Bohemian forest culture and seasonal cooking traditions.",
+        "where_to_find": "Výčep in Vinohrady (pub-style spot with hunted/caught/grown ingredients), Óda in Vinohrady (reinvents Czech cuisine with local ingredients), traditional restaurants serving daily-changing lunch menus for under 200 CZK ($8.50)."
+      },
+      {
+        "name": "Pork Knuckle (Vepřové Koleno)",
+        "description": "Slow-roasted pork shank with crispy skin, served with pickles, cabbage slaw, and pickled pearl onions. One of the foods Prague is known for.",
+        "origin_story": "This massive, show-stopping dish represents Czech beer hall culture - it's meant to be shared over multiple pints of pilsner. The hours-long roasting creates fall-apart tender meat with impossibly crispy skin. It's a feast that embodies Czech conviviality and the tradition of gathering at hospodas for hours.",
+        "where_to_find": "U Tunelu in Karlín, traditional beer halls throughout Old Town, Lokál. Almost always paired with fresh pilsner and eaten with hands in authentic hospoda style."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pilsner Urquell",
+        "description": "The world's first golden pilsner beer, created in 1842 in Plzeň. The original light-colored lager that inspired imitations worldwide.",
+        "how_locals_drink_it": "Pilsner Urquell is served throughout Prague at traditional hospodas (pubs) and beer gardens, always fresh and cold. Czechs drink it leisurely over hours of conversation, often accompanied by traditional dishes like goulash, sausages, or svíčková. U Zlatého Tygra is a local favorite for pairing pilsner with authentic food. The Pilsner Urquell Experience museum opened in Prague in 2023, showcasing brewing history."
+      },
+      {
+        "name": "Czech Beer (Gambrinus, Staropramen, Budvar, Bernard)",
+        "description": "Major Czech beer brands beyond Pilsner Urquell. Gambrinus is consumed in largest quantity, but many Czechs are partial to various local brews.",
+        "how_locals_drink_it": "Beer gardens are integral to social life in Czech cities, providing relaxed environments for friends and families to enjoy brews for hours. Czech beer culture dates to 993 AD with over 1,000 years of brewing heritage. U Fleků microbrewery has the longest continuous brewing history in Prague since 1499."
+      },
+      {
+        "name": "Becherovka",
+        "description": "Herbal liquor from Karlovy Vary spa town using 20+ herbs and spices (cinnamon, anise, clove). Tastes 'like Christmas' and has been popular for medicinal use since the 19th century.",
+        "how_locals_drink_it": "Any local pub offers Becherovka, typically served as a digestif after heavy Czech meals. The complex herbal blend is considered both medicinal and celebratory, reflecting Czech spa town wellness traditions."
+      }
+    ],
+    "food_culture_notes": [
+      "Lunchtime is the most important meal - Czechs have simple breakfast and light dinner, but substantial traditional lunch often under 200 CZK ($8.50) with daily-changing menus",
+      "Czech cuisine features hearty pork/beef-based dishes with knedlíky (dumplings) reflecting harsh winter climate survival",
+      "Beer gardens and hospodas are central to Czech social life - gathering spots for hours-long meals and conversation",
+      "Trdelník (sweet cinnamon pastry) is often sold to tourists but not traditionally Czech",
+      "Preservation techniques (pickling, fermentation) are essential - cabbage, pickles, and preserved meats appear in most dishes",
+      "Czech beer culture dates to 993 AD with 1,000+ years of brewing heritage and deepest traditions in Europe"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Prague Castle (lit at night thanks to Rolling Stones)",
+      "Astronomical Clock (Prague Orloj)",
+      "Charles Bridge",
+      "Old Town Square",
+      "Vinohrady and Karlín neighborhoods",
+      "U Fleků brewery (since 1499)",
+      "Beer gardens and hospodas"
+    ],
+    "atmosphere": [
+      "Medieval Gothic architecture",
+      "Bohemian forest culture",
+      "Convivial beer hall gatherings",
+      "Cobblestone historic streets",
+      "Traditional hospoda wood interiors",
+      "Central European winter heartiness",
+      "Baroque and Gothic church spires"
+    ],
+    "colors": [
+      "Golden pilsner beer",
+      "Red brick Gothic towers",
+      "Creamy svíčková sauce",
+      "Green dill and cabbage",
+      "Amber Becherovka liquor",
+      "Crispy brown pork knuckle skin"
+    ],
+    "unique_modern": [
+      "World's highest beer consumption per capita since 1993",
+      "Birthplace of pilsner beer (1842)",
+      "Beer cheaper than water",
+      "Óda and Výčep reinventing Czech cuisine with local ingredients",
+      "Seifert's Brunch authentic Czech breakfast with natural wines",
+      "Pilsner Urquell Experience museum (2023)"
+    ]
+  },
+  "wikipedia_search_term": "Prague",
+  "keywords_for_image": [
+    "Prague beer culture",
+    "pilsner Urquell",
+    "Czech hospoda pub",
+    "svickova dumplings",
+    "pork knuckle",
+    "Prague Castle",
+    "beer garden",
+    "knedliky Czech dumplings",
+    "Astronomical Clock",
+    "Czech comfort food"
+  ],
+  "coordinates": {
+    "lat": 50.0755,
+    "lng": 14.4378
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Prague+🇨🇿/@50.0755,14.4378,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prague"
+  },
+  "location_id": 35
+}

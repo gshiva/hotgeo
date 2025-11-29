@@ -1,0 +1,46 @@
+{
+  "name": "Würzburg",
+  "country": "🇩🇪",
+  "coordinates": {
+    "lat": 49.7913,
+    "lng": 9.9534
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Würzburg+🇩🇪/@49.7913,9.9534,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Würzburg"
+  },
+  "fun_fact": "Fun fact: Würzburg awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Würzburg cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Würzburg"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Würzburg landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 37
+}

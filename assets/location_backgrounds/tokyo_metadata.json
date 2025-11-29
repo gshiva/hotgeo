@@ -1,0 +1,142 @@
+{
+  "location_id": 0,
+  "name": "Tokyo",
+  "country": "Japan",
+  "coordinates": {
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tokyo",
+    "google_maps": "https://www.google.com/maps/place/Tokyo,+Japan/@35.6762,139.6503,12z"
+  },
+  "fun_fact": "Tokyo has more Michelin-starred restaurants (212) than any other city in the world—yet its most beloved local dish, monjayaki, has never earned a single star. This gooey, runny pancake was originally called 'mojiyaki' (grilled letters) because children in the Tsukishima neighborhood would practice writing characters in the batter before eating it!",
+  "historical_evolution": {
+    "summary": "From humble fishing village Edo to world's largest metropolis in 260 years",
+    "periods": [
+      {
+        "era": "Pre-1603",
+        "name": "Fishing Village",
+        "description": "Small fishing settlement called Edo at the head of Tokyo Bay"
+      },
+      {
+        "era": "1603-1868",
+        "name": "Edo Period",
+        "description": "Tokugawa shogunate transforms Edo into world's largest city (1M+ population). Birth of yatai street food culture feeding bachelor workers. The 'Four Kings of Edo' emerge: soba, eel, tempura, sushi."
+      },
+      {
+        "era": "1868-1945",
+        "name": "Meiji to WWII",
+        "description": "Renamed Tokyo ('Eastern Capital'). Meat ban lifted—sukiyaki born in Asakusa. Kissaten coffee culture emerges. City destroyed twice: 1923 earthquake and WWII bombing."
+      },
+      {
+        "era": "1945-present",
+        "name": "Modern Tokyo",
+        "description": "Post-war reconstruction. Hoppy invented (1948) as affordable beer alternative. Conveyor belt sushi invented (1950s). Becomes world's most Michelin-starred city."
+      }
+    ]
+  },
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Monjayaki",
+        "description": "Runny savory pancake cooked on iron griddle, eaten with tiny metal spatulas. Originated in Tsukishima where 75+ restaurants line 'Monja Street'.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Monjayaki",
+        "origin_story": "Children practiced writing letters in the gooey batter—originally called 'mojiyaki' (grilled letters)"
+      },
+      {
+        "name": "Fukagawa Meshi",
+        "description": "Hearty clam rice bowl with miso broth and leeks. Fast food for Edo-period fishermen working the clam beds near the Sumida River mouth.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fukagawa-meshi",
+        "origin_story": "Ranked among Japan's top 5 regional rice dishes, unchanged since the 1700s"
+      },
+      {
+        "name": "Chanko Nabe",
+        "description": "Protein-rich hot pot—the diet of sumo wrestlers. Contains fish or chicken with seasonal vegetables in savory broth.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chankonabe",
+        "origin_story": "Born in Ryogoku sumo stables during Meiji era. Many restaurants run by retired wrestlers."
+      },
+      {
+        "name": "Edomae Tempura",
+        "description": "Tokyo-style tempura fried in sesame oil blend (not plain vegetable oil like Kyoto), served with mentsuyu dipping sauce.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tempura",
+        "origin_story": "Heavier sesame flavor developed to complement Tokyo Bay's richer seafood"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Hoppy",
+        "description": "Beer-flavored low-alcohol drink mixed with shochu. Working-class Tokyo invention from 1948 post-war era.",
+        "origin_year": 1948,
+        "how_to_drink": "Pour 'Soto' (Hoppy) and 'Naka' (shochu) yourself to adjust strength"
+      },
+      {
+        "name": "Melon Cream Soda",
+        "description": "Electric green melon soda with vanilla ice cream scoop and maraschino cherry. Icon of Showa-era kissaten coffee shops.",
+        "origin_year": 1902,
+        "origin_story": "Invented at Shiseido Parlour in Ginza—Japan's first soda fountain inside a pharmacy"
+      },
+      {
+        "name": "Lemon Chuhai",
+        "description": "Shochu mixed with soda and fresh lemon. The ubiquitous izakaya refresher.",
+        "how_to_drink": "Best enjoyed under red lanterns in Omoide Yokocho's narrow alleys"
+      }
+    ],
+    "food_culture_notes": [
+      "Omoide Yokocho ('Memory Lane', aka 'Piss Alley') - narrow alleys of tiny yakitori stalls near Shinjuku",
+      "Yatai street stall culture born here—feeding Edo's 1.5:1 male population who couldn't cook",
+      "Tsukishima's Monja Street has 75+ monjayaki restaurants in one neighborhood",
+      "Ryogoku district near Sumo Stadium is chanko nabe central"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": ["Tokyo Tower", "Tokyo Skytree", "Senso-ji Temple", "Shibuya Crossing"],
+    "atmosphere": ["Red paper lanterns", "Neon signs", "Narrow yokocho alleys", "Steam from food stalls"],
+    "colors": ["Warm orange sunset", "Neon pink and blue", "Red lantern glow", "Green melon soda"]
+  },
+  "image_prompt_used": "A Studio Ghibli inspired travel illustration of Tokyo Japan featuring HISTORICAL EVOLUTION from Edo period yatai street stalls feeding workers in background fading into modern neon Shinjuku and Tokyo Tower, AUTHENTIC TOKYO FOOD in foreground monjayaki sizzling on iron griddle with small metal spatulas and fukagawa meshi clam rice bowl with miso broth and chanko nabe sumo hot pot steaming, UNIQUE DRINKS bright green melon cream soda in tall glass with cherry and hoppy beer bottles from 1948, kissaten retro coffee shop atmosphere, silhouettes of people at izakaya under red lanterns seen from distance, Omoide Yokocho narrow alley with yakitori smoke, NO hands NO feet NO fingers, soft watercolor textures, dreamy golden hour lighting, Miyazaki environmental detail, 16x9 cinematic",
+  "sources": [
+    {
+      "title": "Tokyo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tokyo",
+      "used_for": "General history, population, facts"
+    },
+    {
+      "title": "Monjayaki - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monjayaki",
+      "used_for": "Monjayaki origin and preparation"
+    },
+    {
+      "title": "GO TOKYO Official Guide - Local Food",
+      "url": "https://www.gotokyo.org/en/see-and-do/drinking-and-dining/tokyo-local-food/index.html",
+      "used_for": "Authentic local dishes, chanko nabe, fukagawa meshi"
+    },
+    {
+      "title": "Edo Period Food Culture - Kokoro Care",
+      "url": "https://kokorocares.com/blogs/blog/life-in-edo-a-prominent-era-of-establishing-japanese-food-culture",
+      "used_for": "Historical food evolution, yatai culture"
+    },
+    {
+      "title": "Tokyo Cuisine Historical Overview - KaguAruoo",
+      "url": "https://kaguaruoo.com/blog/2023/09/03/tokyo-cuisine-a-historical-overview/",
+      "used_for": "Edo to modern food transition"
+    },
+    {
+      "title": "Cream Soda History - TokyoTreat",
+      "url": "https://tokyotreat.com/blog/cream-soda-in-japan-an-interesting-history",
+      "used_for": "Shiseido Parlour origin story"
+    },
+    {
+      "title": "Japanese Drinks Guide - Japanese Taste",
+      "url": "https://int.japanesetaste.com/blogs/japanese-taste-blog/your-complete-guide-to-must-try-drinks-in-japan",
+      "used_for": "Hoppy history, chuhai culture"
+    },
+    {
+      "title": "Tokyo Facts - Trip To Japan",
+      "url": "https://www.triptojapan.com/blog/15-interesting-facts-about-tokyo",
+      "used_for": "Fun facts, Michelin stars"
+    }
+  ],
+  "generated_at": "2024-11-27",
+  "image_file": "sample_tokyo_v3.png"
+}

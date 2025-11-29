@@ -1,0 +1,131 @@
+{
+  "name": "Pisa",
+  "country": "Italy",
+  "fun_fact": "Fun fact: While tourists flock to the Leaning Tower, locals know Pisa's real treasure is its cucina povera (peasant cooking) - like Cecina, a chickpea flatbread allegedly invented by accident by hungry sailors in the 1700s on the Gulf of Pisa, and Torta co' Bischeri, a 16th-century 'pilgrim cake' created to welcome travelers on the Via Francigena!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cecina (Chickpea Flatbread)",
+        "description": "A thin, crispy flatbread (0.5cm thick) made from chickpea flour, water, salt, and olive oil, baked until golden",
+        "origin_story": "Legend says cecina originated by accident in the 13th century on the Gulf of Pisa. It goes by different names along the Tuscan coast: 'Cecina' in Pisa, 'Torta di ceci' in Livorno, 'Calda calda' in Carrara",
+        "where_to_find": "Street vendors throughout Pisa, traditional trattorias, La Grotta"
+      },
+      {
+        "name": "Bordatino alla Pisana",
+        "description": "Rich winter soup incorporating fish broth, legumes, pork rinds, buckwheat, wild herbs, and vegetables - the seminal Pisan first course",
+        "origin_story": "According to legend, hungry sailors perfected this recipe during sea voyages in the 1700s. Called 'Bordatino' because it was traditionally made and eaten 'a bordo' (on board) boats transporting corn",
+        "where_to_find": "Trattoria Da Stelio (since 1965), Osteria dei Cavalieri, traditional trattorias"
+      },
+      {
+        "name": "Pici Cacio e Pepe",
+        "description": "Thick, hand-rolled spaghetti served with the simple yet classic combination of cheese and black pepper",
+        "origin_story": "Pici are a rustic Tuscan pasta tradition. La Grotta's version is especially popular among locals, served in their medieval grotto dining room",
+        "where_to_find": "La Grotta (medieval grotto restaurant), Osteria dei Cavalieri"
+      },
+      {
+        "name": "Tripe alla Pisana",
+        "description": "Offal braised in a rich vegetable and stock broth with tomatoes, herbs, and pork belly",
+        "origin_story": "One of Pisa's most popular examples of cucina povera (peasant's cooking), showcasing how resourceful cooking can transform humble ingredients into beloved dishes",
+        "where_to_find": "Traditional trattorias, Trattoria Da Stelio"
+      },
+      {
+        "name": "White Truffle Risotto",
+        "description": "Slow Food town San Miniato's exceptional white truffles shaved over Tuscan rice varieties cooked in stock with butter and Parmesan",
+        "origin_story": "The Pisan take on risotto showcases Tuscany's prized white truffles from nearby San Miniato, creating a delectable seasonal specialty",
+        "where_to_find": "Il Toscano, La PergOletta, upscale Tuscan restaurants"
+      },
+      {
+        "name": "Torta co' Bischeri (Pilgrim Cake)",
+        "description": "Soft cream made with white rice, dark chocolate, pine nuts, candied fruit, raisins, and spices in shortcrust pastry with decorative folds ('bischeri') on the edge",
+        "origin_story": "Created in the 16th century for an important religious festival to welcome pilgrims arriving from the Via Francigena. The cake's distinctive edge folds resemble guitar tuning heads. Secured a protected quality brand in 2007",
+        "where_to_find": "Traditional pasticcerie (pastry shops) throughout Pisa"
+      },
+      {
+        "name": "Fresh Seafood",
+        "description": "Catch of the day from the Tyrrhenian Sea, prepared simply to showcase freshness",
+        "origin_story": "La Scaletta, steps from the Leaning Tower, is run by chef patron Dino Ricci who advocates for high-quality seafood and award-winning champagne pairings",
+        "where_to_find": "La Scaletta (near Leaning Tower), coastal trattorias"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Tuscan Wine",
+        "description": "Curated wine selections from Tuscany's renowned vineyards, featuring Chianti, Brunello di Montalcino, and Super Tuscans",
+        "how_locals_drink_it": "Paired with multi-course meals at refined restaurants like Il Toscano and La PergOletta, or enjoyed during aperitivo hour"
+      },
+      {
+        "name": "Aperitivo",
+        "description": "Essential early-evening tipple (Aperol Spritz, Negroni, prosecco) served with complimentary antipasti including salami, prosciutto, and local cheeses",
+        "how_locals_drink_it": "After work, Pisans head to their favorite bar for aperitivo. The price of your drink often includes a selection of antipasti, making it a beloved Italian tradition"
+      },
+      {
+        "name": "Award-Winning Champagne",
+        "description": "High-quality champagne selections paired with fresh seafood",
+        "how_locals_drink_it": "Enjoyed at upscale seafood restaurants like La Scaletta, often paired with the catch of the day"
+      }
+    ],
+    "food_culture_notes": [
+      "Pisan cuisine is a combination of land and sea recipes, blessed with quality fresh ingredients from both the Tyrrhenian coast and Tuscan countryside",
+      "Cucina povera (peasant cooking) is celebrated, not hidden - dishes like tripe and bordatino showcase resourceful, flavorful cooking",
+      "If you ask locals where to dine near the Tower, they whisper: 'Osteria dei Cavalieri' - located in a 13th-century tower house with separate menus for meat and fish",
+      "Trattoria Da Stelio (run by namesake Stelio since 1965) is made for long meals that run deep into the afternoon with sunny terrace dining",
+      "The aperitivo tradition is essential - early-evening drinks with complimentary food are a daily ritual for Pisans",
+      "La PergOletta has been serving traditional Tuscan cuisine since 1959 with refined, candle-lit atmosphere and flawless white tablecloths",
+      "Ribollita (Tuscan bread and vegetable soup) was traditionally the Friday menu to avoid meat, then 'reboiled' (ribollita) for Saturday and Sunday"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Leaning Tower of Pisa (yes, it exists!)",
+      "Piazza dei Miracoli",
+      "Medieval grotto restaurant interiors",
+      "13th-century tower houses",
+      "Arno River views",
+      "Historic Tuscan architecture"
+    ],
+    "atmosphere": [
+      "Medieval dining rooms with exposed brick and stone ceilings",
+      "Sunny terrace lunches that stretch into afternoon",
+      "Bustling aperitivo hour with locals",
+      "Intimate candle-lit trattorias",
+      "Market stalls with fresh Tuscan produce",
+      "Casual-sophisticated Tuscan dining culture"
+    ],
+    "colors": [
+      "Golden cecina flatbread crust",
+      "Rich tomato red sauces",
+      "Deep chocolate brown of Torta co' Bischeri",
+      "Green Tuscan countryside",
+      "Warm terracotta building facades",
+      "White marble of Piazza dei Miracoli"
+    ],
+    "unique_modern": [
+      "Cucina povera elevated to fine dining",
+      "Medieval grottos as intimate restaurants",
+      "13th-century tower house dining rooms",
+      "Farm-to-table Tuscan produce focus",
+      "Hand-rolled pasta traditions",
+      "Aperitivo culture blending social and culinary traditions"
+    ]
+  },
+  "wikipedia_search_term": "Pisa",
+  "keywords_for_image": [
+    "Pisa Tuscany food beyond tower",
+    "cecina chickpea flatbread golden",
+    "Tuscan countryside produce",
+    "medieval grotto restaurant Pisa",
+    "Italian aperitivo tradition",
+    "Tuscan rustic cuisine",
+    "Pisa historic architecture dining",
+    "authentic Tuscan trattoria"
+  ],
+  "coordinates": {
+    "lat": 43.7228,
+    "lng": 10.4017
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pisa+🇮🇹/@43.7228,10.4017,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pisa"
+  },
+  "location_id": 154
+}

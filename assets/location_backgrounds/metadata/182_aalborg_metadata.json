@@ -1,0 +1,92 @@
+{
+  "name": "Aalborg",
+  "country": "Denmark",
+  "fun_fact": "Fun fact: Aalborg has been producing aquavit (akvavit) since 1846, and Aalborg Akvavit is one of the world's most famous spirits - the distillery even has a 'Line Aquavit' that crosses the equator twice by ship before being sold, as the rocking motion is believed to improve the flavor!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stegt Flæsk med Persillesovs",
+        "description": "Crispy fried pork belly with parsley sauce and potatoes - Denmark's national dish",
+        "origin_story": "Voted Denmark's national dish in 2014. Simple, hearty, and absolutely beloved. The pork must be perfectly crispy",
+        "where_to_find": "Fusion, Nordisk Spisehus, traditional Danish restaurants"
+      },
+      {
+        "name": "Smørrebrød",
+        "description": "Open-faced sandwiches on dark rye bread with elaborate toppings",
+        "origin_story": "The Danish lunch tradition - toppings range from pickled herring to roast beef with remoulade",
+        "where_to_find": "Café Svinkløv Badehotel, Restaurant Fusion, traditional frokost spots"
+      },
+      {
+        "name": "Røget Ål",
+        "description": "Smoked eel, a traditional Danish delicacy",
+        "origin_story": "Limfjord (the fjord Aalborg sits on) has been famous for eel fishing for centuries",
+        "where_to_find": "Limfjords restaurants, traditional Danish restaurants"
+      },
+      {
+        "name": "Flødeboller",
+        "description": "Chocolate-covered marshmallow treats, a Danish favorite",
+        "origin_story": "A beloved Danish sweet - the marshmallow sits on a thin wafer base",
+        "where_to_find": "Bakeries throughout Aalborg, especially Svends Brunkager"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Aalborg Akvavit",
+        "description": "The world-famous caraway-flavored spirit, distilled in Aalborg since 1846",
+        "how_locals_drink_it": "Ice cold, in one shot, often followed by beer. Essential at Christmas and holidays. Traditional toast: 'Skål!'"
+      },
+      {
+        "name": "Line Aquavit",
+        "description": "Premium aquavit that crosses the equator twice in oak barrels on ships",
+        "how_locals_drink_it": "The sea voyage matures it - each bottle lists the ship and route it sailed"
+      }
+    ],
+    "food_culture_notes": [
+      "Aalborg Spirits Factory is Denmark's oldest distillery - tours available",
+      "Jomfru Ane Gade is Denmark's longest party street with bars and restaurants",
+      "New Nordic cuisine has influenced Aalborg's modern dining scene",
+      "Limfjord shellfish (especially oysters) are increasingly celebrated"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Jomfru Ane Gade",
+      "Aalborg Tower",
+      "Lindholm Høje Viking burial ground",
+      "Limfjord waterfront"
+    ],
+    "atmosphere": [
+      "Viking heritage",
+      "student city energy",
+      "waterfront cafés",
+      "historic half-timbered houses"
+    ],
+    "colors": [
+      "aquavit amber",
+      "Limfjord blue",
+      "red brick",
+      "Viking grey"
+    ],
+    "unique_modern": [
+      "longest bar street in Denmark",
+      "UTZON Center (Jørn Utzon designed)"
+    ]
+  },
+  "wikipedia_search_term": "Aalborg",
+  "keywords_for_image": [
+    "Aalborg akvavit",
+    "smørrebrød Danish sandwich",
+    "Limfjord waterfront",
+    "Jomfru Ane Gade",
+    "Viking heritage"
+  ],
+  "coordinates": {
+    "lat": 57.0488,
+    "lng": 9.9217
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Aalborg+🇩🇰/@57.0488,9.9217,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aalborg"
+  },
+  "location_id": 182
+}

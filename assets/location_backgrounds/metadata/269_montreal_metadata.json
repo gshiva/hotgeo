@@ -1,0 +1,94 @@
+{
+  "name": "Montreal",
+  "country": "Canada",
+  "fun_fact": "Fun fact: Montreal-style bagels are boiled in honey-sweetened water and baked in wood-fired ovens, making them sweeter, denser, and smaller than New York bagels - a technique brought by Jewish immigrants in 1919 that hasn't changed in over a century.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Poutine",
+        "description": "Crispy fries topped with squeaky cheese curds and rich brown gravy. The authentic version requires fresh curds that squeak when bitten.",
+        "origin_story": "Born in rural Quebec in the 1950s, poutine was considered low-class until Montreal elevated it to art form. Now it's Quebec's most famous export, with endless variations from foie gras to lobster.",
+        "where_to_find": "Chez Tousignant (all-beef poutine with housemade potato buns), La Banquise (24/7 with 30+ varieties)"
+      },
+      {
+        "name": "Montreal Smoked Meat Sandwich",
+        "description": "Thick-cut, hand-sliced smoked brisket on rye bread with mustard. The meat is cured for 10 days, smoked, and steamed until fork-tender.",
+        "origin_story": "Created by Jewish immigrants from Romania in the 1920s, Montreal smoked meat is distinct from pastrami with its unique spice blend and smoking technique. It's a cultural institution that defines the city.",
+        "where_to_find": "Schwartz's Deli (the 1928 original, always a line), Main Deli Steak House"
+      },
+      {
+        "name": "Tourtière",
+        "description": "Traditional meat pie made with pork, beef, or veal, spiced with cinnamon, cloves, and allspice, baked in flaky pastry.",
+        "origin_story": "A Quebecois Christmas tradition dating back to the 1600s, tourtière was originally made with wild game and passenger pigeons. Each family guards their own secret spice blend.",
+        "where_to_find": "La Binerie (serving since 1938), La Part des Anges (contemporary version)"
+      },
+      {
+        "name": "Authentic Thai Noodles at Bangluck",
+        "description": "Traditional Thai street noodles like kuay tiew heng (rice noodles with soy sauce, pork, and fried fish balls) and kuay tiew tomyum (spicy-sour soup).",
+        "origin_story": "Opened in 2024 by Thai couple Chita and Nim, Bangluck deliberately avoids tourist dishes like pad Thai, instead serving the authentic noodle shop experience found on Bangkok's streets.",
+        "where_to_find": "Bangluck (one of Montreal's best new restaurants of 2024)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Caribou",
+        "description": "Traditional Quebec winter drink made with red wine, whisky (or brandy), maple syrup, and spices.",
+        "how_locals_drink_it": "Consumed hot during winter festivals, especially Carnaval de Québec. Often served from a boot-shaped flask. It's dangerously smooth and deceptively strong."
+      },
+      {
+        "name": "Sortilège (Maple Whisky)",
+        "description": "Canadian whisky blended with pure Quebec maple syrup, creating a smooth, sweet spirit.",
+        "how_locals_drink_it": "Sipped neat or on ice, particularly after dinner. Also popular in cocktails at Montreal's natural wine bars like Mon Lapin."
+      }
+    ],
+    "food_culture_notes": [
+      "Montreal has a unique food culture split between French bistro traditions and Jewish deli heritage",
+      "The city's bagel wars (St-Viateur vs Fairmount) have divided locals since the 1950s - both use wood-fired ovens operating 24/7",
+      "Natural wine bars and farm-to-table restaurants dominate the Mile End and Plateau neighborhoods",
+      "Quebec laws require menus to be in French first, but Montreal's food scene is decidedly international"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mount Royal",
+      "Notre-Dame Basilica",
+      "Old Montreal cobblestone streets",
+      "Olympic Stadium tower"
+    ],
+    "atmosphere": [
+      "French bistro terraces",
+      "European-style cafes",
+      "historic stone buildings",
+      "colorful Plateau staircases"
+    ],
+    "colors": [
+      "grey Montreal stone",
+      "autumn maple red",
+      "bistro burgundy",
+      "snow white winters"
+    ],
+    "unique_modern": [
+      "natural wine bars",
+      "converted fire station restaurants",
+      "Jean-Talon Market halls",
+      "underground city passages"
+    ]
+  },
+  "wikipedia_search_term": "Montreal",
+  "keywords_for_image": [
+    "poutine",
+    "smoked meat",
+    "French bistro",
+    "maple syrup",
+    "Old Montreal"
+  ],
+  "coordinates": {
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Montreal+🇨🇦/@45.5017,-73.5673,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montreal"
+  },
+  "location_id": 269
+}

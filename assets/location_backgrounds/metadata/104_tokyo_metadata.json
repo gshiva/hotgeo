@@ -1,0 +1,117 @@
+{
+  "name": "Tokyo",
+  "country": "Japan",
+  "fun_fact": "Fun fact: Tokyo has more Michelin stars than Paris and New York COMBINED, yet some of the best food comes from tiny hole-in-the-wall joints and street stalls. The city has 5+ million vending machines selling everything from hot canned coffee to mystery items wrapped in white paper. Tsukiji Market handled over 2,000 tons of seafood daily before moving to Toyosu in 2018.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Edomae Sushi",
+        "description": "Tokyo's original sushi style using fish from Tokyo Bay (Edo Bay). Fresh seafood is salted, vinegar-pickled, steamed, boiled, or marinated to intensify flavors - not just served raw.",
+        "origin_story": "Originated in late Edo period (around 1800). 'Edomae' means 'in front of Edo' referring to Edo Castle and Tokyo Bay. These preservation techniques were developed before refrigeration, creating deeper, more complex flavors than modern sushi.",
+        "where_to_find": "Tsukiji Outer Market sushi stalls, high-end sushi restaurants in Ginza, traditional Edomae specialists throughout Tokyo"
+      },
+      {
+        "name": "Monjayaki",
+        "description": "Tokyo's runny pancake - a liquid batter mixed with cabbage, seafood, and meat, cooked on a hot grill. You scrape it off the grill with a small spatula and eat it directly.",
+        "origin_story": "A distinctly Tokyo dish, especially associated with the Tsukishima neighborhood. It's more casual and playful than okonomiyaki - the cooking process is interactive and social.",
+        "where_to_find": "Tsukishima's 'Monjayaki Street' (dozens of restaurants), izakayas in downtown Tokyo"
+      },
+      {
+        "name": "Chanko Nabe",
+        "description": "The protein-rich hot pot that fuels sumo wrestlers - fish or chicken with seasonal vegetables in a healthy, flavorful broth.",
+        "origin_story": "Sumo wrestlers eat this in huge quantities to build muscle and weight. Despite its association with size, it's actually very healthy and balanced.",
+        "where_to_find": "Specialty restaurants around Kokugikan Sumo Stadium in Ryogoku (many run by ex-sumo wrestlers)"
+      },
+      {
+        "name": "Tsukemen",
+        "description": "Cold ramen noodles served with hot dipping soup - Tokyo's innovative take on ramen. The noodles are thick and chewy.",
+        "origin_story": "Created in Tokyo's Nakano ward. It's part of Tokyo's fierce ramen innovation - Ikebukuro, Shibuya, and Shinjuku are known as battlegrounds in the ramen scene.",
+        "where_to_find": "Ramen shops in Nakano, Shinjuku, Shibuya"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Highball (Whiskey & Soda)",
+        "description": "Japanese whiskey mixed with sparkling soda water and ice. Simple, refreshing, and insanely popular at every izakaya.",
+        "how_locals_drink_it": "It's standard to start with 'Toriaezu, biiru' (beer for now) then switch to highballs throughout the meal. The whiskey revival around 2000 made highballs a staple. Perfect with greasy izakaya food."
+      },
+      {
+        "name": "Sake (Nihonshu)",
+        "description": "Rice wine brewed with water and koji mold. Besides major brands, there are countless local rice wines (jizake). Can be drunk hot, room temperature, or cold.",
+        "how_locals_drink_it": "Temperature depends on the sake grade and season. Premium sake is usually chilled; cheaper sake is often warmed. Pair with sushi, grilled fish, and traditional Japanese dishes."
+      },
+      {
+        "name": "Lemon Sour (Chu-hai)",
+        "description": "Shochu or vodka mixed with lemon juice and soda water. Refreshing, not too sweet, and especially popular with women.",
+        "how_locals_drink_it": "At izakayas throughout the night. It's lighter than highballs and comes in many fruit flavors (ume, peach, grapefruit), but lemon is the classic."
+      },
+      {
+        "name": "Nama Biiru (Draft Beer)",
+        "description": "Fresh draft beer - the customary way to start any izakaya meal in Japan.",
+        "how_locals_drink_it": "Order immediately upon sitting down, even before looking at the menu. Say 'Toriaezu, biiru!' (Beer for now!). Everyone toasts with 'Kanpai!' before drinking."
+      }
+    ],
+    "food_culture_notes": [
+      "Tokyo has more Michelin stars than any city in the world, but street food and tiny shops are equally revered",
+      "Slurping soba and ramen is encouraged - it's the best way to appreciate the aroma",
+      "Yokocho (narrow drinking alleys) like Golden-Gai, Omoide Yokocho in Shinjuku are where locals drink",
+      "Izakaya culture is about small plates, lots of drinks, and social bonding after work",
+      "It's common to order 'Toriaezu, biiru' (beer for now) before even looking at the menu",
+      "Tsukiji Outer Market still operates with 400+ shops selling fresh seafood and street food",
+      "5+ million vending machines throughout Tokyo sell hot and cold drinks, snacks, beer",
+      "Despite crowds, everyone walks and boards trains in orderly fashion",
+      "Most Japanese don't eat while walking (except at festivals) - food deserves full attention",
+      "Namiyoke Shrine at Tsukiji protects fishermen and market workers from waves"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Tsukiji/Toyosu Fish Market",
+      "Shibuya Crossing",
+      "Tokyo Tower",
+      "Senso-ji Temple",
+      "Shinjuku's Golden-Gai and Omoide Yokocho"
+    ],
+    "atmosphere": [
+      "Narrow izakaya alleys packed with tiny bars",
+      "Neon signs reflecting on wet streets",
+      "Steam rising from ramen bowls",
+      "Sushi chefs behind counters",
+      "Vending machines on every corner"
+    ],
+    "colors": [
+      "Neon pink and blue (nightlife)",
+      "Deep red (tuna at fish markets)",
+      "White and black (sushi rice and nori)",
+      "Golden amber (whiskey highballs)",
+      "Green (matcha, wasabi)"
+    ],
+    "unique_modern": [
+      "5+ million vending machines selling everything",
+      "Robot restaurants and themed cafes",
+      "Street fashion in Harajuku",
+      "Michelin-starred sushi counters with 8 seats",
+      "Conveyor belt sushi meeting fine dining"
+    ]
+  },
+  "wikipedia_search_term": "Tokyo",
+  "keywords_for_image": [
+    "Tokyo Tsukiji fish market",
+    "Edomae sushi",
+    "izakaya Japan",
+    "Shibuya crossing",
+    "ramen bowl steam",
+    "Japanese vending machines",
+    "monjayaki",
+    "Tokyo neon lights"
+  ],
+  "coordinates": {
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tokyo+🇯🇵/@35.6762,139.6503,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tokyo"
+  },
+  "location_id": 104
+}

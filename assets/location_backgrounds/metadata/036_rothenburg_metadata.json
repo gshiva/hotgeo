@@ -1,0 +1,46 @@
+{
+  "name": "Rothenburg",
+  "country": "🇩🇪",
+  "coordinates": {
+    "lat": 49.3779,
+    "lng": 10.1786
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rothenburg+🇩🇪/@49.3779,10.1786,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rothenburg"
+  },
+  "fun_fact": "Fun fact: Rothenburg awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Rothenburg cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Rothenburg"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Rothenburg landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 36
+}

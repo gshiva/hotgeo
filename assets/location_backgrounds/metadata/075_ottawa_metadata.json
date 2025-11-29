@@ -1,0 +1,135 @@
+{
+  "name": "Ottawa",
+  "country": "Canada",
+  "fun_fact": "Fun fact: Ottawa's Rideau Canal transforms into the world's largest naturally frozen skating rink every winter! The 7.8-kilometer UNESCO World Heritage skateway has the equivalent surface area of 90 Olympic hockey rinks. Since 1971, nearly one million visitors glide down the canal each winter (averaging 20,000 daily), skating past Parliament Hill while munching on hot BeaverTails and sipping hot chocolate.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "BeaverTails",
+        "description": "Iconic Canadian fried dough pastry stretched into a beaver tail shape, topped with cinnamon sugar, chocolate hazelnut spread, maple, or s'mores",
+        "origin_story": "Born in 1978 in Ottawa's ByWard Market when the Hooker family turned their Killaloe, Ontario recipe for fried dough into a business. The first stand opened in ByWard Market, and now BeaverTails stands pop up along the frozen Rideau Canal in winter. President Obama famously ate one in 2009, creating the 'Obama Cookie' at Moulin de Provence bakery.",
+        "where_to_find": "Original ByWard Market location, stands along Rideau Canal Skateway in winter. A true Ottawa tradition - gliding down the canal on skates then warming up with a piping hot BeaverTail while viewing Parliament Hill."
+      },
+      {
+        "name": "Poutine",
+        "description": "The iconic Canadian comfort food: mountain of golden fries topped with squeaky cheese curds and rich brown gravy",
+        "origin_story": "Born in rural Quebec in the 1950s, poutine crossed the Ottawa River to become an Ottawa staple. The name means 'a mess' in Quebec slang. Ottawa offers creative variations reflecting the city's diversity.",
+        "where_to_find": "Throughout Ottawa in endless variations: butter chicken poutine (Indian-inspired), duck confit poutine (gourmet), peameal bacon poutine (Ontario twist). ByWard Market has numerous poutineries."
+      },
+      {
+        "name": "Shawarma",
+        "description": "Middle Eastern spit-roasted meat wrapped in pita with tahini, garlic sauce, pickles, and vegetables",
+        "origin_story": "Ottawa is called the 'Shawarma Capital of Canada' with over 200 restaurants serving this Middle Eastern delicacy. The city's vibrant multiculturalism and large Lebanese community made shawarma an Ottawa obsession, especially as late-night food.",
+        "where_to_find": "Shawarma Palace, Shawarma Station, and dozens of spots in ByWard Market. Open late for post-bar cravings. Ottawans are extremely particular about their shawarma loyalties."
+      },
+      {
+        "name": "Peameal Bacon",
+        "description": "Canadian back bacon rolled in cornmeal, creating Ontario's signature bacon - leaner and meatier than American bacon",
+        "origin_story": "Originally rolled in ground yellow peas (hence 'peameal'), this Toronto-born specialty became an Ottawa favorite. The cornmeal creates a slightly crunchy crust when pan-fried.",
+        "where_to_find": "ByWard Market vendors, breakfast restaurants. Try it in a sandwich, on eggs Benedict, or in peameal bacon poutine for an Ontario twist."
+      },
+      {
+        "name": "Tourtière",
+        "description": "Traditional French-Canadian meat pie spiced with cinnamon, cloves, and savory herbs - a Christmas and New Year's tradition",
+        "origin_story": "This Quebec classic has deep roots in French-Canadian culture dating back centuries. Each family guards their secret spice blend. Essential for réveillon (Christmas Eve feast).",
+        "where_to_find": "ByWard Market during holidays, French-Canadian restaurants, Quebec-style bistros. Often served with pickled beets and ketchup."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Canadian Craft Beer",
+        "description": "Ottawa's thriving craft beer scene showcases Canadian brewing innovation",
+        "how_locals_drink_it": "Brewpubs in ByWard Market and Elgin Street. Beyond Beer in ByWard Market offers hundreds of local craft options. Patios in summer, cozy pubs in winter."
+      },
+      {
+        "name": "Maple Whisky",
+        "description": "Canadian whisky infused with maple syrup - quintessentially Canadian",
+        "how_locals_drink_it": "Neat or on the rocks, celebrating Canada's maple heritage. Many Ottawa bars feature local maple-infused spirits and cocktails."
+      },
+      {
+        "name": "Hot Chocolate on the Canal",
+        "description": "Rich, steaming hot chocolate served at BeaverTails stands and warming huts along the Rideau Canal Skateway",
+        "how_locals_drink_it": "Essential fuel for skating the 7.8km canal. Pairs perfectly with a cinnamon-sugar BeaverTail in -20°C weather."
+      }
+    ],
+    "food_culture_notes": [
+      "ByWard Market (established 1826) is Canada's oldest and largest farmers' market - epicenter of Ottawa food culture",
+      "Bilingual city - menus and food culture reflect both English and French Canadian traditions",
+      "Winter food culture revolves around the Rideau Canal - skating, BeaverTails, hot chocolate, Winterlude festival",
+      "Shawarma loyalty runs deep - Ottawans have fierce allegiances to their favorite spots",
+      "Strong Lebanese, Vietnamese, Chinese, and Indian communities create diverse food scene",
+      "Government town culture - power lunch spots, diplomatic dining, formal restaurants",
+      "The 'Obama Cookie' at Moulin de Provence - maple leaf shortbread with red/white icing - became famous when Obama bought one in 2009",
+      "Winterlude festival (first three weekends of February) celebrates northern culture with food, ice sculptures, skating"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Parliament Hill - Gothic Revival buildings overlooking the canal",
+      "Rideau Canal - UNESCO World Heritage Site, world's largest skating rink in winter",
+      "ByWard Market - historic 1826 market hall, bustling with vendors and restaurants",
+      "Fairmont Château Laurier - castle-like hotel beside Parliament",
+      "National Gallery of Canada - distinctive glass architecture",
+      "Peace Tower - iconic clock tower at Parliament",
+      "Ottawa Locks - where canal meets Ottawa River",
+      "Winterlude Ice Sculptures - massive ice art during February festival"
+    ],
+    "atmosphere": [
+      "Rideau Canal Skateway - thousands skating past Parliament in winter",
+      "BeaverTails stands with steam rising in frozen air",
+      "ByWard Market bustling - farmers, craftspeople, restaurant patios",
+      "Bilingual street signs and menus (English/French)",
+      "Government buildings mixing with hipster cafés and shawarma joints",
+      "Skating to work down the canal (truly Canadian)",
+      "Summer festivals on Parliament lawn",
+      "Cozy warming huts along the frozen canal"
+    ],
+    "colors": [
+      "Red and white of Canadian flag everywhere",
+      "Green copper roofs of Parliament buildings",
+      "Golden-brown of fresh BeaverTails",
+      "White snow and ice of Rideau Canal",
+      "Red brick of ByWard Market buildings",
+      "Autumn orange and red of Gatineau Park across the river",
+      "Deep amber of maple syrup",
+      "Blue-grey of winter sky over frozen canal"
+    ],
+    "unique_modern": [
+      "Skating to work phenomenon - canal as commuter route",
+      "Shawarma Capital distinction - 200+ shawarma restaurants for 1 million people",
+      "BeaverTails global expansion from humble Ottawa market origins",
+      "Obama Cookie tourism - Presidential pastry endorsement",
+      "Winterlude - one of Canada's biggest winter festivals since 1979",
+      "UNESCO World Heritage canal as daily recreation space",
+      "Bilingual government town culture mixing with multicultural food scene",
+      "Climate adaptation - embracing brutal winters with canal skating culture",
+      "ByWard Market transformation - from farmers market to dining/nightlife destination while maintaining heritage"
+    ]
+  },
+  "wikipedia_search_term": "Ottawa",
+  "keywords_for_image": [
+    "Rideau Canal skating",
+    "BeaverTails Ottawa",
+    "Parliament Hill Ottawa",
+    "ByWard Market",
+    "Canadian poutine",
+    "Winterlude festival",
+    "Château Laurier",
+    "shawarma Ottawa",
+    "Peace Tower",
+    "frozen canal",
+    "Canadian maple",
+    "ice skating rink",
+    "Ottawa winter",
+    "UNESCO World Heritage"
+  ],
+  "coordinates": {
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ottawa+🇨🇦/@45.4215,-75.6972,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ottawa"
+  },
+  "location_id": 75
+}

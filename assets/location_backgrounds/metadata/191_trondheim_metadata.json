@@ -1,0 +1,93 @@
+{
+  "name": "Trondheim",
+  "country": "Norway",
+  "fun_fact": "Fun fact: Trondheim was named European Region of Gastronomy 2022 and is considered Norway's food capital - it's home to the world's most northern Michelin-starred restaurants and the country's culinary university!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Sodd",
+        "description": "Traditional meat soup with meatballs, served with boiled potatoes and flatbread",
+        "origin_story": "A Trøndelag specialty served at celebrations, weddings, and holidays. The meatballs are seasoned with nutmeg and ginger",
+        "where_to_find": "Traditional restaurants, especially during holidays and festivals"
+      },
+      {
+        "name": "Rakfisk",
+        "description": "Fermented trout, a traditional Norwegian delicacy",
+        "origin_story": "An ancient preservation method - fish is salted and fermented for months. Strong smell but beloved by locals",
+        "where_to_find": "Traditional restaurants, Ravnkloa Fish Market"
+      },
+      {
+        "name": "Sveler",
+        "description": "Thick Norwegian pancakes, smaller and fluffier than American pancakes",
+        "origin_story": "Central Norway specialty, served with butter, sugar, jam, or brunost (brown cheese)",
+        "where_to_find": "Cafés throughout Trondheim, ferry boats, mountain lodges"
+      },
+      {
+        "name": "Stockfish (Tørrfisk)",
+        "description": "Air-dried unsalted cod, preserved for months in the cold Norwegian air",
+        "origin_story": "Vikings traded stockfish across Europe - Trondheim was a major trading post. Rehydrated and cooked in various ways",
+        "where_to_find": "Traditional restaurants, Ravnkloa Fish Market"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Karsk",
+        "description": "Strong coffee with moonshine or vodka - a Central Norway specialty",
+        "how_locals_drink_it": "At traditional cafés or farmhouses - the ratio is often 50-50 coffee to alcohol"
+      },
+      {
+        "name": "Norwegian Craft Beer",
+        "description": "Trondheim has excellent microbreweries including E.C. Dahls",
+        "how_locals_drink_it": "At local brewpubs and bars in the warehouse district"
+      }
+    ],
+    "food_culture_notes": [
+      "European Region of Gastronomy 2022 - Norway's official food capital",
+      "Ravnkloa Fish Market is the heart of Trondheim's seafood scene",
+      "Home to NTNU's culinary education programs",
+      "Local ingredients from fjords, farms, and forests celebrated"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Nidaros Cathedral",
+      "Old Town Bridge (Gamle Bybro)",
+      "Bakklandet wooden houses",
+      "Kristiansten Fortress"
+    ],
+    "atmosphere": [
+      "colorful wooden warehouses",
+      "river reflections",
+      "Gothic cathedral",
+      "student city energy"
+    ],
+    "colors": [
+      "wooden house colors",
+      "cathedral grey",
+      "Nidelva river blue",
+      "Nordic pastel"
+    ],
+    "unique_modern": [
+      "bike lift up steep hills",
+      "food capital of Norway",
+      "university city"
+    ]
+  },
+  "wikipedia_search_term": "Trondheim",
+  "keywords_for_image": [
+    "Nidaros Cathedral",
+    "colorful warehouses",
+    "Nidelva river",
+    "Norwegian seafood",
+    "Bakklandet wooden houses"
+  ],
+  "coordinates": {
+    "lat": 63.4305,
+    "lng": 10.3951
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Trondheim+🇳🇴/@63.4305,10.3951,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trondheim"
+  },
+  "location_id": 191
+}

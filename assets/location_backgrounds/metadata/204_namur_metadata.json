@@ -1,0 +1,93 @@
+{
+  "name": "Namur",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Namur's Citadel is one of the largest fortifications in Europe - it's been fought over so many times (by Romans, Spanish, French, Dutch, and Germans) that it's called 'the Terrace of Europe', offering views of the confluence of the Sambre and Meuse rivers!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Flamiche au Fromage",
+        "description": "Cheese tart from the Namur region, similar to quiche but with local cheese",
+        "origin_story": "A Wallonian specialty - the word comes from Flemish 'flammekueche' but the Namur version uses local cheeses",
+        "where_to_find": "La Petite Fugue, Fenêtre sur Cour, traditional Walloon restaurants"
+      },
+      {
+        "name": "Escavêche",
+        "description": "Fried fish in spiced vinegar marinade - a Meuse River specialty",
+        "origin_story": "A preservation technique from before refrigeration - river fish is fried then marinated for days",
+        "where_to_find": "Traditional restaurants, especially during festivals"
+      },
+      {
+        "name": "Boulets à la Liégeoise",
+        "description": "Meatballs in sweet-sour sauce with Liège sirop (apple-pear syrup)",
+        "origin_story": "From nearby Liège, this dish is popular throughout Wallonia. The sweet syrup sauce is unique",
+        "where_to_find": "Le Temps des Cerises, brasseries throughout Namur"
+      },
+      {
+        "name": "Belgian Frites",
+        "description": "Double-fried Belgian fries, served with mayo and various sauces",
+        "origin_story": "Belgium claims to have invented fries - Namur has excellent friteries",
+        "where_to_find": "Fritkot stalls throughout the city, especially near Place d'Armes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Belgian Abbey Beer",
+        "description": "Wallonia has several Trappist and abbey breweries nearby",
+        "how_locals_drink_it": "At cafés throughout Namur - try Chimay or Rochefort from nearby abbeys"
+      },
+      {
+        "name": "Péket",
+        "description": "Juniper-flavored spirit from the Walloon region",
+        "how_locals_drink_it": "As digestif or in cocktails - similar to genever but distinctly Walloon"
+      }
+    ],
+    "food_culture_notes": [
+      "Confluence of Sambre and Meuse rivers means fresh river fish",
+      "The Citadel has restaurants with panoramic views",
+      "Sunday morning market at Place du Marché aux Légumes",
+      "Walloon cuisine is heartier than Flemish"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Citadel of Namur",
+      "Saint Aubain Cathedral",
+      "Confluence of rivers",
+      "Old Town"
+    ],
+    "atmosphere": [
+      "river confluence views",
+      "massive fortress",
+      "Walloon capital",
+      "French-speaking charm"
+    ],
+    "colors": [
+      "citadel stone",
+      "river blue",
+      "forest green",
+      "Belgian red brick"
+    ],
+    "unique_modern": [
+      "capital of Wallonia",
+      "university town",
+      "telecommunications center"
+    ]
+  },
+  "wikipedia_search_term": "Namur",
+  "keywords_for_image": [
+    "Citadel fortress",
+    "Meuse River",
+    "Belgian frites",
+    "Walloon town",
+    "river confluence"
+  ],
+  "coordinates": {
+    "lat": 50.4674,
+    "lng": 4.872
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Namur+🇧🇪/@50.4674,4.872,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namur"
+  },
+  "location_id": 204
+}

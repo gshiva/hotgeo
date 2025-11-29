@@ -1,0 +1,94 @@
+{
+  "name": "Thessaloniki",
+  "country": "Greece",
+  "fun_fact": "Fun fact: Thessaloniki is Greece's foodie capital and UNESCO City of Gastronomy - locals say the food here is better than Athens because of Turkish, Balkan, and Jewish influences from the 1922 population exchange.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bougatsa",
+        "description": "Flaky phyllo pastry filled with sweet semolina custard, topped with powdered sugar and cinnamon, or savory with cheese/meat",
+        "origin_story": "Bougatsa came from Byzantine times but exploded after the 1922 population exchange when Greeks from Asia Minor brought the recipe. Thessaloniki has over 1,000 bougatsa-selling spots - it's the breakfast of champions. The traditional sweet custard version is iconic, but cheese, meat, and even chocolate versions exist now.",
+        "where_to_find": "Bougatsa Giannis (136 Mitropoleos Street), Mpantis (city's most delicious bougatsa for decades), Serraikon (reputation for best in Thessaloniki), Estrella (famous bougatsan - baked croissant with custard and seasonal fruits)"
+      },
+      {
+        "name": "Pita Gyro Sandwich",
+        "description": "Pork or chicken gyro meat from vertical rotisserie, wrapped in pita with fries, tomatoes, onions, and spicy cheese sauce (tirokafteri)",
+        "origin_story": "Thessaloniki's gyro is famously larger than Athens' souvlaki. The pita works extra hard to wrap around all the ingredients. Instead of classic tzatziki, Northern Greeks prefer spicy cheese sauce (tirokafteri). The meat-to-bread-to-fries ratio is an art form perfected over generations.",
+        "where_to_find": "Street food vendors throughout the city - locals know gyros is served traditional way with fries and onions in pita, only souvlaki goes with tzatziki"
+      },
+      {
+        "name": "Pulpo a la Gallega (Grilled Octopus)",
+        "description": "Fresh octopus grilled to tender perfection with olive oil and lemon, or as part of meze spreads",
+        "origin_story": "As a harbor city, Thessaloniki's seafood is legendary. The octopus here is 'truly in a league of its own.' Grilled simply to let freshness shine, or served as part of meze spreads. The Kalamaria district specializes in upscale seafood with especially tasty grilled octopus.",
+        "where_to_find": "Ouzeri Aristotelous (charming waterfront taverna with freshest seafood), Kalamaria seaside district (upscale seafood restaurants and trendy cafes), Ladadika district tavernas"
+      },
+      {
+        "name": "Meze Spreads",
+        "description": "Multiple small plates - tzatziki, taramosalata, melitzanosalata (eggplant), fava, grilled octopus, mussels, fried calamari",
+        "origin_story": "Meze culture in Thessaloniki reflects multicultural heritage - Turkish mezze tradition meets Greek seafood and Balkan flavors. Sharing many small plates with wine or ouzo is how Thessalonians socialize. It's not a meal, it's an event lasting hours.",
+        "where_to_find": "Ladadika district (Morichovou Square, Katouni or Vaiou streets - traditional tavernas), Bit Bazaar (small square filled with family-run restaurants), waterfront tavernas"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ouzo",
+        "description": "Anise-flavored Greek spirit that turns milky white when mixed with water",
+        "how_locals_drink_it": "Served with meze - never drunk without food. Mixed with water and ice, sipped slowly while grazing on small plates. The ritual of sharing meze and ouzo can last all afternoon. Ouzeri (ouzo bars) are social institutions."
+      },
+      {
+        "name": "Local Wine",
+        "description": "Northern Greek wines from Naoussa and nearby regions - robust reds and crisp whites",
+        "how_locals_drink_it": "Paired with meze and seafood. Northern Greece produces excellent wines that pair perfectly with rich meze spreads. Locals drink it throughout meals, taking time to enjoy food and conversation."
+      }
+    ],
+    "food_culture_notes": [
+      "Meze portions cost €3-6 each; a chosen set runs €12-20 for 3-5 dishes. Main courses €12-22. Very affordable dining.",
+      "Thessaloniki locals insist their food is better than Athens due to multicultural influences from Turkish, Balkan, and Jewish communities",
+      "Ladadika and Bit Bazaar are THE neighborhoods for authentic tavernas and family-run restaurants",
+      "Morning bougatsa is ritual - locals grab one on the way to work from their favorite spot among 1,000+ vendors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "White Tower",
+      "Rotunda",
+      "Aristotelous Square",
+      "Byzantine walls"
+    ],
+    "atmosphere": [
+      "waterfront promenades",
+      "Byzantine heritage",
+      "multicultural legacy",
+      "foodie paradise"
+    ],
+    "colors": [
+      "Aegean blue",
+      "bougatsa golden phyllo",
+      "White Tower white",
+      "meze variety colors"
+    ],
+    "unique_modern": [
+      "UNESCO City of Gastronomy",
+      "Vibrant university city",
+      "Contemporary art scene",
+      "Beach club culture nearby"
+    ]
+  },
+  "wikipedia_search_term": "Thessaloniki",
+  "keywords_for_image": [
+    "Thessaloniki White Tower",
+    "bougatsa Greek pastry",
+    "gyro pita sandwich",
+    "Greek meze spread",
+    "waterfront Greece"
+  ],
+  "coordinates": {
+    "lat": 40.6401,
+    "lng": 22.9444
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Thessaloniki+🇬🇷/@40.6401,22.9444,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thessaloniki"
+  },
+  "location_id": 264
+}

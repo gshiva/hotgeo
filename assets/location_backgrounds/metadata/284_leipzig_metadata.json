@@ -1,0 +1,94 @@
+{
+  "name": "Leipzig",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Leipzig's Auerbachs Keller restaurant, operating since 1530, is where Goethe set a famous scene in 'Faust' - the restaurant became so legendary from the literary reference that it's now Germany's second-most famous restaurant, with tourists and locals drinking in vaulted cellars where Mephistopheles supposedly appeared.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Leipziger Allerlei",
+        "description": "Mixed vegetables (peas, carrots, asparagus, morels) in a creamy sauce, traditionally topped with crayfish. A delicate, refined vegetable dish.",
+        "origin_story": "Created in Leipzig in the 19th century, legend says the dish was invented to appear humble and avoid hosting expensive state guests - by highlighting vegetables over meat, Leipzig could appear less wealthy. Ironically, it's now a prized specialty requiring premium ingredients.",
+        "where_to_find": "Barthels Hof (500+ years serving Saxon cuisine, elevated Allerlei to an art form), Auerbachs Keller (since 1530, Goethe's haunt)"
+      },
+      {
+        "name": "Leipziger Lerche",
+        "description": "Shortcrust pastry filled with marzipan, almonds, and cherries, topped with a lattice crust. Sweet, nutty, distinctly Saxon.",
+        "origin_story": "Originally a pastry shaped like skylarks (lerche), which were hunted near Leipzig until 1876 when the King of Saxony banned the practice. Bakers created this almond pastry as a replacement, keeping the name but saving the birds.",
+        "where_to_find": "Traditional bakeries and cafes throughout Leipzig, served at Saxon restaurants as dessert"
+      },
+      {
+        "name": "Gose Beer",
+        "description": "Traditional Leipzig sour wheat beer brewed with coriander and salt, tart and refreshing.",
+        "origin_story": "Gose nearly went extinct but was revived in Leipzig in the 1980s. The Bayerischer Bahnhof brewery is the modern birthplace of Gose brewing in Leipzig, bringing back this centuries-old local style.",
+        "where_to_find": "Bayerischer Bahnhof (modern birthplace of Gose brewing, cultural renaissance hub, serves Saxon and Bavarian cuisine)"
+      },
+      {
+        "name": "Saxon Quarkkeulchen",
+        "description": "Pan-fried potato fritters combining mashed potatoes, quark cheese, raisins, and cinnamon-sugar. Can be served sweet or savory.",
+        "origin_story": "A Saxon specialty found throughout the region, showing the resourcefulness of traditional cooking - transforming simple potatoes and quark into something special through technique.",
+        "where_to_find": "Traditional Saxon restaurants, Ratskeller (opened 1904, 700 seats in new town hall basement)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Gose Beer",
+        "description": "Leipzig's signature brew - sour, salty, spiced with coriander. Uniquely refreshing and polarizing.",
+        "how_locals_drink_it": "Served at Bayerischer Bahnhof and traditional Leipzig beer halls. It's an acquired taste, but locals love the tart, salty complexity. Best enjoyed with Saxon cuisine."
+      },
+      {
+        "name": "Federweißer Wine",
+        "description": "Young, partially fermented wine served during autumn when onion pie (Zwiebelkuchen) is in season.",
+        "how_locals_drink_it": "A seasonal tradition - drunk cloudy, sweet, and still fermenting, paired with Zwiebelkuchen (German onion pie). Only available in autumn when new wine is being made."
+      }
+    ],
+    "food_culture_notes": [
+      "Leipzig's food reflects its history as a trade city - blending Saxon traditions with influences from across Germany",
+      "Auerbachs Keller's fame from Goethe's 'Faust' makes it a pilgrimage site for literature lovers and food enthusiasts",
+      "The city has both hearty Saxon cuisine and Michelin-starred innovation (Falco has two stars)",
+      "Gose beer revival represents Leipzig's cultural renaissance - taking historic traditions and making them contemporary"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Thomas Church (Bach's church)",
+      "Monument to the Battle of Nations",
+      "Leipzig Opera House",
+      "Old Town Hall"
+    ],
+    "atmosphere": [
+      "classical music heritage",
+      "historic trade fair tradition",
+      "vaulted cellar restaurants",
+      "cultural renaissance energy"
+    ],
+    "colors": [
+      "Saxon sandstone yellow",
+      "vaulted cellar stone grey",
+      "Gose beer cloudy yellow",
+      "autumn market colors"
+    ],
+    "unique_modern": [
+      "Michelin-starred innovation",
+      "craft beer revival",
+      "contemporary Saxon cuisine",
+      "Bach musical heritage"
+    ]
+  },
+  "wikipedia_search_term": "Leipzig",
+  "keywords_for_image": [
+    "Auerbachs Keller",
+    "Gose beer",
+    "Saxon cuisine",
+    "Bach heritage",
+    "trade city"
+  ],
+  "coordinates": {
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Leipzig+🇩🇪/@51.3397,12.3731,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leipzig"
+  },
+  "location_id": 284
+}

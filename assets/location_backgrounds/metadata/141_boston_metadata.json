@@ -1,0 +1,85 @@
+{
+  "name": "Boston",
+  "country": "United States",
+  "fun_fact": "Fun fact: Union Oyster House, America's oldest continuously operating restaurant (since 1826), started serving clam chowder in 1836 and now serves over 10,000 gallons per year. Boston pioneered cream-based 'New England' clam chowder, building on Indigenous peoples' clear broth-style chowders that date back hundreds of years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "New England Clam Chowder",
+        "description": "A thick, creamy white soup made with fresh quahog clams, diced potatoes, salt pork or bacon, and rich cream. The hallmarks are sacrosanct: milky-white creamy base, chopped clams, diced potatoes.",
+        "origin_story": "Indigenous tribes in Massachusetts made clear broth-style chowders with quahogs (local clams) hundreds of years ago. English settlers incorporated their traditions, swapping corn and beans for potatoes. By 1751, a recipe appeared in a Boston newspaper. Union Oyster House began serving it in 1836, cementing Boston as the chowder capital.",
+        "where_to_find": "Union Oyster House (oldest, 10,000+ gallons/year), Atlantic Fish Company (bread bowl version, Back Bay), Yankee Lobster Company (family-owned Seaport gem), James Hook & Co (2-time Boston Chowder Fest champs), Neptune Oyster"
+      },
+      {
+        "name": "Lobster Roll",
+        "description": "Fresh lobster meat dressed lightly with mayonnaise, served in a toasted, buttered New England-style split-top bun. Can be served cold (mayo-based) or warm (butter-based).",
+        "origin_story": "Born from Boston's coastal heritage and fishing traditions, lobster rolls celebrate the simplicity and freshness of New England seafood. The split-top bun design allows for maximum lobster-to-bread ratio.",
+        "where_to_find": "Luke's Lobster Back Bay, Neptune Oyster, Yankee Lobster Company, James Hook & Co (Seaport District)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Sam Adams Boston Lager",
+        "description": "Boston's iconic craft beer, brewed locally since 1984. A Vienna-style lager with rich amber color and balanced malt-hop flavor.",
+        "how_locals_drink_it": "Paired with seafood, especially clam chowder and lobster rolls. Available at nearly every Boston restaurant and often enjoyed during Red Sox games at Fenway Park."
+      }
+    ],
+    "food_culture_notes": [
+      "Boston's seafood culture reflects its deep fishing heritage - the city has been a maritime hub since colonial times",
+      "Chowder has 'been part of Boston culture for a long time and represents what New England is. It's a hearty, simple dish' (Chef Jeremy Sewall)",
+      "The Seaport District has transformed into a bustling food destination while maintaining authentic fishing traditions",
+      "Boston cannoli in the North End (Little Italy) are another iconic treat, especially from Mike's Pastry and Modern Pastry",
+      "Faneuil Hall Marketplace and Quincy Market offer concentrated food experiences with many local vendors"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Union Oyster House historic storefront",
+      "Boston Harbor and fishing boats",
+      "Faneuil Hall and Quincy Market",
+      "Red brick buildings of Back Bay",
+      "Seaport District waterfront",
+      "Freedom Trail red line"
+    ],
+    "atmosphere": [
+      "Nautical décor and seafaring heritage",
+      "Colonial-era architecture",
+      "Bustling casual eateries",
+      "Harbor views and waterfront dining",
+      "Maritime blue and white color schemes"
+    ],
+    "colors": [
+      "Cream white (clam chowder)",
+      "Deep blue (New England waters)",
+      "Red brick (historic buildings)",
+      "Lobster red",
+      "Maritime navy blue"
+    ],
+    "unique_modern": [
+      "Family-owned seafood shacks in modern Seaport",
+      "Bread bowl presentations at contemporary restaurants",
+      "Chowder festivals celebrating the tradition",
+      "Farm-to-table interpretations of classic dishes"
+    ]
+  },
+  "wikipedia_search_term": "Boston",
+  "keywords_for_image": [
+    "boston clam chowder",
+    "lobster roll new england",
+    "boston harbor seafood",
+    "union oyster house",
+    "faneuil hall marketplace",
+    "boston waterfront",
+    "new england cuisine",
+    "quahog clams"
+  ],
+  "coordinates": {
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Boston+🇺🇸/@42.3601,-71.0589,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boston"
+  },
+  "location_id": 141
+}

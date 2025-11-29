@@ -1,0 +1,126 @@
+{
+  "name": "Leuven",
+  "country": "Belgium",
+  "region": "Flemish Brabant",
+  "fun_fact": "Leuven is home to the Oude Markt, nicknamed 'the longest bar in the world' with over 40 bars and 4,000 seats in one rectangular square (174m x 35m)! The city is also the birthplace of Stella Artois (founded 1366), and hosts KU Leuven - the oldest Catholic university in the world, founded in 1425. It's the undisputed capital of Belgian beer culture.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stoemp",
+        "description": "Traditional Flemish mashed potatoes mixed with vegetables (often carrots, leeks, or Brussels sprouts) served with sausage",
+        "origin_story": "Classic Belgian comfort food, especially popular in university towns during cold months",
+        "where_to_find": "Domus (traditional Flemish dishes), De Klimop near the train station"
+      },
+      {
+        "name": "Stoofvlees (Flemish Beef Stew)",
+        "description": "Beef slowly braised in Belgian beer with onions, mustard, and spices, often served with fries",
+        "origin_story": "The national dish of Belgium - tender beef cooked for hours in dark Belgian beer creates rich, complex flavors",
+        "where_to_find": "Domus (known for excellent stooflees), traditional restaurants around Oude Markt"
+      },
+      {
+        "name": "Vol-au-vent",
+        "description": "Puff pastry shell filled with chicken or veal in creamy mushroom sauce",
+        "origin_story": "Classic Belgian-French dish, a staple of traditional Flemish cuisine",
+        "where_to_find": "Domus serves traditional vol-au-vent"
+      },
+      {
+        "name": "Game Croquettes",
+        "description": "Crispy breaded croquettes filled with game meat (venison, wild boar)",
+        "origin_story": "Belgian croquettes are elevated to an art form, especially in university towns with hunting traditions",
+        "where_to_find": "De Klimop (Martelarenplein 5, near rail station)"
+      },
+      {
+        "name": "Belgian Fries (Friet)",
+        "description": "Thick-cut potatoes double-fried to perfection, crispy outside and fluffy inside",
+        "origin_story": "Belgium invented fries (despite the name 'French fries') - served in paper cones with various sauces",
+        "where_to_find": "Frituur stands throughout Leuven, especially around Oude Markt"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Stella Artois",
+        "description": "World-famous pilsner lager brewed in Leuven since 1366 (under various names)",
+        "how_locals_drink_it": "At the brewery tour, you can taste it straight from the tank and get the exclusive unfiltered version. The 9.4% Grand Cru is given to tour guests in a presentation case."
+      },
+      {
+        "name": "Con Domus & Met Domus",
+        "description": "House-brewed beers at Domus restaurant - unique to this establishment",
+        "how_locals_drink_it": "Domus is one of the few restaurants brewing its own beer on-site - try both their flagship brews"
+      },
+      {
+        "name": "Abbey Beers from Park Abbey",
+        "description": "Beers from Braxatorium Parcensis at the historic Park Abbey",
+        "how_locals_drink_it": "The vaulted cellar taproom at Park Abbey offers the best selection - worth the taxi ride outside town center"
+      },
+      {
+        "name": "Microbrewery Beers",
+        "description": "Craft beers from De Coureur and Brouwerij Adept",
+        "how_locals_drink_it": "Leuven's microbrewery scene is thriving - locals explore these alongside the historic breweries"
+      }
+    ],
+    "food_culture_notes": [
+      "Leuven was once home to 30+ breweries at the start of the last century - beer culture runs deep",
+      "Oude Markt has been the city center since 1150 when it received market rights",
+      "The 'Barmen's Race' during the Hapje Tapje food festival (August) is the highlight of summer",
+      "Students drive the bar culture - with 4,000 seats in Oude Markt alone",
+      "De Hoorn restaurant sits on the site of the original Stella Artois brewery - you can drink Stella from the tank among the copper brewhouse vessels",
+      "The Stella Artois brewery tour includes underground cellars with oak vats that once hosted orchestra concerts",
+      "International visitors always rave about the authentic Belgian atmosphere, food, and beer selection"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Oude Markt (Old Market Square) - 'longest bar in the world'",
+      "Stella Artois Brewery and visitor center",
+      "Town Hall (Stadhuis) with ornate Gothic architecture",
+      "KU Leuven University buildings (founded 1425)",
+      "Park Abbey with Braxatorium Parcensis brewery",
+      "De Kotmadam statue (1985) on Oude Markt",
+      "Sint-Janspomp and Collegepomp water pumps"
+    ],
+    "atmosphere": [
+      "Lively student town energy",
+      "Medieval market square atmosphere",
+      "Historic brewery copper vessels and oak vats",
+      "University town intellectual culture",
+      "Bustling bar terraces",
+      "Annual festivals and concerts (Beleuvenissen every Friday in July)"
+    ],
+    "colors": [
+      "Stella Artois red and gold branding",
+      "Golden Belgian beers",
+      "Red-brown Flemish brick architecture",
+      "Green and copper brewery equipment",
+      "Historic stone and timber buildings"
+    ],
+    "unique_modern": [
+      "Interactive brewery tours at Stella Artois",
+      "Microbrewery renaissance (De Coureur, Brouwerij Adept)",
+      "Contemporary student culture meets medieval history",
+      "Craft beer bars alongside traditional establishments",
+      "Summer food festivals like Hapje Tapje"
+    ]
+  },
+  "wikipedia_search_term": "Leuven",
+  "keywords_for_image": [
+    "leuven oude markt",
+    "stella artois brewery",
+    "leuven belgium",
+    "belgian beer culture",
+    "flemish beef stew",
+    "leuven university",
+    "longest bar in the world",
+    "belgian fries",
+    "domus leuven",
+    "park abbey leuven"
+  ],
+  "coordinates": {
+    "lat": 50.8798,
+    "lng": 4.7005
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Leuven+🇧🇪/@50.8798,4.7005,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leuven"
+  },
+  "location_id": 115
+}

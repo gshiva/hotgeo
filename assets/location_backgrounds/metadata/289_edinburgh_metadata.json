@@ -1,0 +1,94 @@
+{
+  "name": "Edinburgh",
+  "country": "UK",
+  "fun_fact": "Fun fact: Traditional haggis was banned in the United States from 1971 to 2022 because it contains sheep lungs - but Edinburgh restaurants kept serving the authentic recipe, and locals claim you haven't truly tried haggis unless you've eaten it in Scotland with a dram of whisky and a recitation of Robert Burns' 'Address to a Haggis.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Haggis, Neeps & Tatties",
+        "description": "Sheep's heart, liver, and lungs minced with onions, oatmeal, suet, and spices, cooked in sheep's stomach. Served with mashed turnips (neeps) and potatoes (tatties).",
+        "origin_story": "Scotland's national dish has been celebrated since Robert Burns wrote 'Address to a Haggis' in 1786. The mixture creates a rich, savory, slightly spicy flavor that's distinctly Scottish. While the ingredients sound intimidating, properly prepared haggis is delicious and central to Scottish identity.",
+        "where_to_find": "The Arcade Bar (considered best in capital, 100+ whiskeys), Makars Mash Bar (TripAdvisor Awards 2018-2024), The Haggis Box (Royal Mile, takeaway boxes)"
+      },
+      {
+        "name": "Princess Diana Style Haggis",
+        "description": "Haggis served with special cream sauce infused with tomatoes, onions, and Drambuie liqueur.",
+        "origin_story": "A modern Edinburgh creation at The Arcade Bar that elevates traditional haggis with a luxurious Drambuie cream sauce. The name honors Princess Diana, and the dish represents contemporary Scottish cooking respecting tradition while innovating.",
+        "where_to_find": "The Arcade Bar (specializes in haggis variations, vegetarian versions available)"
+      },
+      {
+        "name": "Haggis Bon Bons at The Doric",
+        "description": "Small balls of haggis rolled in pinhead oats, deep-fried, served with string potatoes and creamed turnips.",
+        "origin_story": "The Doric, built in the 17th century and serving classic Scottish dishes since the 18th century, modernized haggis presentation with these bite-sized appetizers. They maintain tradition while making haggis approachable for first-timers.",
+        "where_to_find": "The Doric (historic pub serving since 18th century)"
+      },
+      {
+        "name": "Cullen Skink",
+        "description": "Traditional Scottish soup made with smoked haddock, potatoes, onions, and cream. Thick, warming, coastal comfort food.",
+        "origin_story": "Originating from the town of Cullen in northeastern Scotland, this soup represents Scottish fishing heritage. The smoked haddock gives it a distinctive flavor that's become an Edinburgh staple.",
+        "where_to_find": "The Halfway House (one of Edinburgh's smallest pubs, award-winning), traditional Scottish pubs throughout the city"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Scottish Whisky",
+        "description": "Single malts and blended Scotch whiskies from regions across Scotland - Speyside, Highland, Islay, Lowland.",
+        "how_locals_drink_it": "Paired with haggis as tradition demands. The Arcade Bar has over 100 whiskeys. Locals drink whisky neat or with a splash of water, never ice. Whisky and haggis together is the ultimate Scottish experience."
+      },
+      {
+        "name": "Irn-Bru",
+        "description": "Scotland's 'other national drink' - a bright orange, sweet carbonated soft drink with an indescribable flavor.",
+        "how_locals_drink_it": "Consumed as a hangover cure and general refreshment. Fiercely protected as Scottish identity. Made in Scotland from girders (according to the advertising)."
+      }
+    ],
+    "food_culture_notes": [
+      "Burns Night (January 25) is when haggis reaches peak importance - restaurants are packed with people celebrating Robert Burns",
+      "Vegetarian and vegan haggis is widely available and taken seriously - Makars and others offer excellent plant-based versions",
+      "Live music accompanies dining at many traditional pubs like The White Hart (nightly live music)",
+      "Edinburgh's food scene blends centuries-old traditions (The Doric since 17th century) with contemporary innovation (Wedgwood fine dining)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Edinburgh Castle",
+      "Royal Mile",
+      "Arthur's Seat",
+      "Holyrood Palace"
+    ],
+    "atmosphere": [
+      "medieval Old Town",
+      "Georgian New Town elegance",
+      "bagpipe street performers",
+      "festival city energy"
+    ],
+    "colors": [
+      "Edinburgh stone grey",
+      "tartan plaids",
+      "whisky amber",
+      "castle fortress dark"
+    ],
+    "unique_modern": [
+      "literary pub culture",
+      "festival fringe venues",
+      "contemporary Scottish cuisine",
+      "whisky bar renaissance"
+    ]
+  },
+  "wikipedia_search_term": "Edinburgh",
+  "keywords_for_image": [
+    "Edinburgh Castle",
+    "haggis",
+    "Royal Mile",
+    "Scottish whisky",
+    "tartan"
+  ],
+  "coordinates": {
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Edinburgh+🇬🇧/@55.9533,-3.1883,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edinburgh"
+  },
+  "location_id": 289
+}

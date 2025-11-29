@@ -1,0 +1,120 @@
+{
+  "name": "Vientiane",
+  "country": "Laos",
+  "fun_fact": "Fun fact: Laos has the HIGHEST sticky rice consumption per capita in the world - 171kg annually per person! Sticky rice (khao niew) is so central to Lao culture that it's eaten at every meal, served in traditional woven baskets. Meanwhile, Beer Lao dominates 98% of the beer market and is made with locally grown jasmine rice. The golden Pha That Luang stupa is covered in 500 kilos of gold leaf and contains Buddha's breast bone!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Larb (Laab/Laap)",
+        "description": "Laos' national dish - minced meat salad (pork, chicken, beef, or fish) mixed with lime juice, fresh herbs, roasted rice powder for crunch, and chili. Local versions include bile for unique bitterness",
+        "origin_story": "The most popular dish in Laos. Unlike Thai Isaan larb, Lao larb is heavier on the herbs. The name 'larb' means fortune and good luck, symbolizing wishes for a peaceful, lucky life. The roasted rice powder adds distinctive texture and nutty flavor",
+        "where_to_find": "Pa Kam Tan restaurant in Vientiane (excellent larb), Kualao (traditional set menus with cultural performances). Local markets have fresh larb throughout the day. Try Laab Muu (pork), Laab Ped (duck), Laab Pla (fish)"
+      },
+      {
+        "name": "Sticky Rice (Khao Niew)",
+        "description": "The staple of every Lao meal - starchy, bouncy-textured glutinous rice eaten with hands, rolled into balls and dipped in sauces or used to scoop meat/fish",
+        "origin_story": "Laos consumes more sticky rice per capita than anywhere on Earth (171kg/year/person). Deeply embedded in culture, religion, and festivities. Served in traditional woven Laos Ep Khao baskets. Unlike long grain rice, it's specifically prepared for hand-eating and has been the foundation of Lao cuisine for centuries",
+        "where_to_find": "Literally everywhere - street food stalls, local markets, high-end restaurants. Morning Market (Talat Sao), Vientiane Night Market (riverside stalls), Ban Anou Market"
+      },
+      {
+        "name": "Khao Jee Pa Tay (Lao Baguette)",
+        "description": "French colonial inheritance - crispy baguette filled with pate, spring onion, coriander, julienned vegetables, and various proteins",
+        "origin_story": "A delicious fusion of French colonialism and Lao flavors. The crispy French-style baguette gets filled with Southeast Asian ingredients creating a unique Vientiane street food staple",
+        "where_to_find": "Street stalls throughout Vientiane, especially at morning and night markets. A breakfast and lunch favorite"
+      },
+      {
+        "name": "Tam Mak Hoong (Papaya Salad)",
+        "description": "Spicy green papaya salad with lime, fish sauce, chili, and fresh herbs - Lao version of the Southeast Asian classic",
+        "origin_story": "A staple accompaniment to sticky rice and grilled meats, offering refreshing contrast to rich dishes",
+        "where_to_find": "Morning Market (Talat Sao), Ban Anou Market, street food stalls city-wide"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Beer Lao",
+        "description": "National beer made from locally grown jasmine fragrant rice with hops and yeast from Germany. Varieties include Beer Lao, Beer Lao Dark, and Beer Lao Gold",
+        "how_locals_drink_it": "Established 1973 by Lao Brewery Company in Vientiane as alternative to expensive imports. Now accounts for 98% of Lao beer market! Cultural institution at daily gatherings, celebrations, festivals, family events. Go-to beverage at That Luang Festival and local markets/fairs. Groups of friends and family gather at eateries enjoying cold Beer Lao - it's everywhere"
+      },
+      {
+        "name": "Lao-Lao (Lao Whiskey)",
+        "description": "Traditional rice whiskey made by fermenting and distilling sticky rice, reaching up to 40% alcohol. National drink alongside Beer Lao",
+        "origin_story": "Integral part of Lao culture, shared during celebrations and ceremonies. Strong and flavorful, representing traditional Lao distilling heritage. Green-tinted version distilled over raspberry leaves also exists",
+        "how_locals_drink_it": "Best Lao Lao in Vientiane found at Ban Xanghai where dozens sell as distributors. Shared communally at celebrations. Weaker version called Lao-hai is drunk from communal earthenware pots with long reed straws (traditional Khomu ethnic group style)"
+      },
+      {
+        "name": "Paksong Coffee",
+        "description": "High-quality Arabica and Robusta coffee from Bolaven Plateau (95% of Lao coffee production) with rich, smooth flavor and low acidity",
+        "origin_story": "Bolaven Plateau called 'golden land' for coffee due to fertile volcanic soil and cool climate creating perfect conditions. Prepared with metal or traditional cotton filter, served with condensed milk instead of regular milk or sugar",
+        "how_locals_drink_it": "In Vientiane, seek Le Trio coffee at Pimphone Market (Setthathirath Road) for higher quality. Locals prefer condensed milk to reduce bitterness"
+      }
+    ],
+    "food_culture_notes": [
+      "Sticky rice eaten with HANDS at every meal - this is essential to Lao dining culture",
+      "Laos has highest sticky rice consumption on Earth (171kg per person annually)",
+      "Beer Lao dominates with 98% market share - truly the national beer",
+      "Traditional woven baskets (Ep Khao) hold and serve sticky rice",
+      "Larb symbolizes good fortune and luck in Lao culture",
+      "French colonial influence visible in baguettes and coffee culture",
+      "95% of coffee comes from Bolaven Plateau in southern Laos",
+      "Lao-hai drunk communally from earthenware pots with reed straws"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Pha That Luang (Great Golden Stupa - 45m tall, 500kg gold leaf, Buddha's breast bone)",
+      "Buddha Park/Xieng Khuan (200+ Hindu/Buddhist sculptures, 40m reclining Buddha)",
+      "Giant pumpkin structure (hell/earth/heaven levels)",
+      "Mekong River waterfront",
+      "Traditional woven sticky rice baskets",
+      "French colonial architecture"
+    ],
+    "atmosphere": [
+      "Sticky rice culture omnipresent",
+      "Beer Lao at every gathering and festival",
+      "That Luang Festival (3 days, thousands of monks, Buddhist ceremonies)",
+      "Mekong River setting",
+      "French colonial meets Buddhist traditions",
+      "Street food markets (morning, night, Ban Anou)",
+      "Buddha Park surrealism (Hindu-Buddhist fusion by priest-shaman)"
+    ],
+    "colors": [
+      "Golden Pha That Luang stupa",
+      "Amber Beer Lao tones",
+      "Green fresh herbs and papaya salad",
+      "White sticky rice in woven baskets",
+      "Saffron monk robes at That Luang",
+      "Mekong brown river waters",
+      "Buddha Park concrete sculptures and green surroundings"
+    ],
+    "unique_modern": [
+      "98% Beer Lao market dominance",
+      "World's highest sticky rice consumption (171kg/person/year)",
+      "Buddha Park's giant pumpkin with hell/earth/heaven levels",
+      "500kg gold leaf on Pha That Luang",
+      "Jasmine rice used in beer production",
+      "Traditional cotton coffee filters still used",
+      "That Luang Festival draws thousands annually",
+      "200+ concrete Hindu-Buddhist sculptures at Buddha Park"
+    ]
+  },
+  "wikipedia_search_term": "Vientiane",
+  "keywords_for_image": [
+    "pha that luang golden stupa",
+    "lao sticky rice basket",
+    "larb minced meat salad",
+    "beer lao jasmine rice",
+    "buddha park xieng khuan",
+    "mekong river vientiane",
+    "lao baguette street food",
+    "vientiane night market"
+  ],
+  "coordinates": {
+    "lat": 17.9757,
+    "lng": 102.6331
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Vientiane+🇱🇦/@17.9757,102.6331,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vientiane"
+  },
+  "location_id": 80
+}

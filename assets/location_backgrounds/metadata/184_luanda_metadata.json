@@ -1,0 +1,94 @@
+{
+  "name": "Luanda",
+  "country": "Angola",
+  "fun_fact": "Fun fact: Luanda was once the world's most expensive city for expatriates - a simple pizza could cost $50 and a 2-bedroom apartment $15,000/month during the oil boom! Today it's more affordable but remains Angola's vibrant, music-filled capital.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Muamba de Galinha",
+        "description": "Chicken stewed in palm oil with okra, garlic, and chili - Angola's national dish",
+        "origin_story": "Muamba sauce is the heart of Angolan cuisine - the word means 'sauce' in Kimbundu. Palm oil gives it the distinctive orange color",
+        "where_to_find": "Restaurante Cozinha de Avó, Pimms, traditional Angolan restaurants"
+      },
+      {
+        "name": "Calulu",
+        "description": "Fish or meat stewed with dried fish, okra, tomatoes, and sweet potato leaves",
+        "origin_story": "A traditional dish showing Portuguese and African fusion - the dried fish adds intense umami",
+        "where_to_find": "Local restaurants in Ilha do Cabo, Mercado do Kinaxixi area"
+      },
+      {
+        "name": "Mufete",
+        "description": "Grilled fish (often tilapia) served with farofa (cassava flour), beans, and palm oil sauce",
+        "origin_story": "A coastal favorite - the fish is often grilled over charcoal on the beach",
+        "where_to_find": "Beachfront restaurants on Ilha de Luanda, Cais de Quatro"
+      },
+      {
+        "name": "Funge",
+        "description": "Smooth cassava flour porridge, the essential accompaniment to all stews",
+        "origin_story": "Like fufu or ugali in other African countries - eaten by rolling pieces and scooping stew",
+        "where_to_find": "Served with virtually every traditional meal across Luanda"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cuca Beer",
+        "description": "Angola's most popular beer, light lager perfect for the tropical climate",
+        "how_locals_drink_it": "Ice cold at bars and beach clubs, often with grilled seafood"
+      },
+      {
+        "name": "Kissangua",
+        "description": "Traditional fermented drink made from corn flour and sugar",
+        "how_locals_drink_it": "At celebrations and markets - mildly alcoholic and slightly sour"
+      }
+    ],
+    "food_culture_notes": [
+      "Portuguese colonial influence strong - bacalhau (salt cod) still popular",
+      "Palm oil is essential - gives food distinctive color and flavor",
+      "Ilha de Luanda (the island/peninsula) is the food and nightlife hub",
+      "Semba and kizomba music fills restaurants - eating is a social, musical experience"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Fortaleza de São Miguel",
+      "Marginal promenade",
+      "Ilha de Luanda",
+      "Iron Palace"
+    ],
+    "atmosphere": [
+      "Portuguese colonial buildings",
+      "modern skyscrapers",
+      "beach bars",
+      "vibrant nightlife"
+    ],
+    "colors": [
+      "palm oil orange",
+      "Atlantic blue",
+      "colonial yellow",
+      "modern glass"
+    ],
+    "unique_modern": [
+      "oil wealth architecture",
+      "contrast of wealth and markets",
+      "kizomba dance culture"
+    ]
+  },
+  "wikipedia_search_term": "Luanda",
+  "keywords_for_image": [
+    "muamba de galinha",
+    "grilled fish",
+    "palm oil",
+    "Ilha de Luanda beach",
+    "Portuguese colonial",
+    "Atlantic coast"
+  ],
+  "coordinates": {
+    "lat": -8.8383,
+    "lng": 13.2344
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Luanda+🇦🇴/@-8.8383,13.2344,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luanda"
+  },
+  "location_id": 184
+}

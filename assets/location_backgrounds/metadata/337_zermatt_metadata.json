@@ -1,0 +1,94 @@
+{
+  "name": "Zermatt",
+  "country": "Switzerland",
+  "fun_fact": "Fun fact: Zermatt has banned gasoline vehicles since 1947 to preserve air quality - only electric vehicles, horse-drawn carriages, and bicycles are allowed. The village sits at 1,620m altitude with the iconic Matterhorn (4,478m) towering above. It's one of the world's most expensive ski resorts.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Raclette",
+        "description": "Half-wheel of Raclette cheese melted and scraped onto boiled potatoes, pickled onions, and cornichons",
+        "origin_story": "Raclette originated in the Valais canton where Zermatt is located. Alpine shepherds would melt cheese by the fire, scraping (racler means 'to scrape') the melted part onto bread. Modern restaurants use electric raclette grills or traditional half-wheels melted tableside. The cheese is nutty, creamy, stretchy. Zermatt locals eat it after skiing.",
+        "where_to_find": "Chez Vrony (mountain restaurant accessible by cable car), Snowboat (fondue igloo restaurant), or traditional Valais restaurants in Zermatt village"
+      },
+      {
+        "name": "Fondue Valaisanne",
+        "description": "Cheese fondue specific to Valais region - blend of local cheeses melted with white wine and kirsch, served with bread cubes",
+        "origin_story": "Valais fondue uses local cheeses like Raclette and Gomser, different from classic Swiss fondue. The high altitude and dry climate of Zermatt make cheese fondue especially comforting. Swiss fondue etiquette is serious: stir in figure-8 pattern, never double-dip, if you drop bread you buy drinks. Locals eat it as dinner after a day on the slopes.",
+        "where_to_find": "Restaurant Whymper-Stube, Cervo Puro, or mountain huts accessible by ski lifts"
+      },
+      {
+        "name": "Cholera (Valais Vegetable Pie)",
+        "description": "Savory pie with potatoes, leeks, apples, onions, and cheese in pastry crust - despite the name, it's delicious",
+        "origin_story": "The name comes from cholera epidemic in 1830s when villagers had to use whatever ingredients were left during quarantine - potatoes, leeks, cheese. The result was surprisingly good. It became Valais regional specialty. The sweet-savory combination (apples with cheese and potatoes) is uniquely Alpine.",
+        "where_to_find": "Traditional Valais restaurants in Zermatt, mountain huts, or local bakeries"
+      },
+      {
+        "name": "Rösti with Alpine Cheese",
+        "description": "Crispy potato pancake topped with melted Alpine cheese, sometimes with bacon or a fried egg",
+        "origin_story": "While rösti is Swiss national dish, Zermatt's version uses local Valais cheeses. After skiing or hiking at altitude, the combination of crispy potatoes and melted cheese is deeply satisfying. The high calorie count is justified when you've burned thousands of calories on the slopes.",
+        "where_to_find": "Chez Vrony (famous for rösti with view of Matterhorn), mountain restaurants, or village eateries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Glühwein (Mulled Wine)",
+        "description": "Red wine heated with cinnamon, cloves, star anise, orange, and sugar - served steaming hot",
+        "how_locals_drink_it": "Essential après-ski drink in Zermatt. After a day skiing under the Matterhorn, skiers gather at outdoor bars drinking glühwein from ceramic mugs. The spiced wine warms frozen hands and spirits. The mug deposit system encourages lingering. Some bars serve it with a shot of schnapps (Jägertee)."
+      },
+      {
+        "name": "Williamine (Pear Brandy)",
+        "description": "Clear pear brandy from Valais region - aromatic, strong (40% alcohol), with whole pear inside bottle",
+        "how_locals_drink_it": "Made from Williams pears grown in Valais, Williamine is the regional digestif. The whole pear inside the bottle grows there - farmers place the bottle over the bud on the tree. Locals sip it ice-cold after fondue or raclette. It's smooth, fruity, and deceptively strong."
+      }
+    ],
+    "food_culture_notes": [
+      "Zermatt is one of world's most expensive destinations - a beer can cost $12-15, fondue $30-50 per person",
+      "Mountain restaurants accessible by cable car offer spectacular Matterhorn views with traditional Valais cuisine",
+      "Après-ski culture is huge - outdoor bars, mulled wine, and partying in ski boots",
+      "Electric vehicles only - even delivery trucks and taxis are electric or horse-drawn"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Matterhorn - 4,478m pyramid-shaped peak, one of world's most photographed mountains",
+      "Gornergrat Railway - cogwheel train to 3,089m viewpoint (highest open-air railway in Europe)",
+      "Klein Matterhorn cable car - reaches 3,883m (highest cable car station in Europe)",
+      "Hängebrücke - suspension bridge at 3,883m with Matterhorn views"
+    ],
+    "atmosphere": [
+      "Car-free alpine village at 1,620m altitude",
+      "Luxury ski resort with designer boutiques and 5-star hotels",
+      "Matterhorn dominates every view - visible from most parts of town",
+      "Year-round skiing on glaciers, summer hiking in alpine meadows"
+    ],
+    "colors": [
+      "pristine white snow year-round on Matterhorn",
+      "golden melted raclette cheese",
+      "dark wooden chalets with geranium-filled window boxes",
+      "brilliant blue alpine sky"
+    ],
+    "unique_modern": [
+      "Gasoline vehicles banned since 1947 - only electric vehicles, horse carriages, and bikes",
+      "Klein Matterhorn cable car reaches 3,883m - highest in Europe",
+      "First ascent of Matterhorn in 1865 by Edward Whymper ended in tragedy (4 climbers died descending)",
+      "Zermatt hosted filming of several James Bond movies"
+    ]
+  },
+  "wikipedia_search_term": "Zermatt",
+  "keywords_for_image": [
+    "matterhorn mountain zermatt",
+    "raclette cheese melted",
+    "zermatt village car free",
+    "gornergrat railway matterhorn",
+    "swiss fondue pot"
+  ],
+  "coordinates": {
+    "lat": 46.0207,
+    "lng": 7.7491
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zermatt+🇨🇭/@46.0207,7.7491,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zermatt"
+  },
+  "location_id": 337
+}

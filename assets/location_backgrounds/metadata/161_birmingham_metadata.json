@@ -1,0 +1,95 @@
+{
+  "name": "Birmingham",
+  "country": "United Kingdom",
+  "fun_fact": "Fun fact: Birmingham INVENTED the Balti curry in 1977! Not imported from Pakistan or India, but created right here by Mohammed Arif at Adil's restaurant in Sparkbrook. This fusion dish became so iconic that Birmingham's Balti Triangle ranked #26 on a list of '40 things to do before you die,' beating the Eiffel Tower!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Birmingham Balti",
+        "description": "The legendary curry that put Birmingham on the culinary map. Cooked fast over high heat in a flat-bottomed pressed steel bowl, using vegetable oil (not ghee) with fresh spices. Served sizzling hot in the same balti bowl it's cooked in, ready in under 10 minutes.",
+        "origin_story": "Invented in 1977 by Mohammed Arif at Adil's restaurant in Sparkbrook. The Balti was a brilliant fusion: inspired by Kashmiri recipes but adapted for Western tastes with faster cooking and less ghee. The specially-designed balti bowl was manufactured in Birmingham's Washwood Heath area and is still made there today. By the 1990s, the Balti Triangle had over 30 authentic balti houses attracting 20,000 diners weekly. In 2015, Birmingham's Balti received EU Protected Name Status.",
+        "where_to_find": "Balti Triangle (Sparkbrook/Moseley area). APAB-certified authentic restaurants: Shababs (Ladypool Road) - the standard bearer since 1987 with henna-patterned wallpaper and glass-topped tables; Royal Watan (Pershore Road, est. 1984); Shahi Nan Kebab House (Stratford Road) - now a Pakistani street food restaurant. The original Adil's has sadly closed as the next generation wasn't interested in running it."
+      },
+      {
+        "name": "The Birmingham Scoop",
+        "description": "The proper way to eat a balti: mopping up the curry with naan bread fresh from the oven. This technique is so quintessentially Birmingham that locals coined the term 'Birmingham scoop' for it.",
+        "origin_story": "Born from balti culture in the Triangle. Since baltis are served in their cooking bowl (keeping food piping hot), diners needed the perfect vehicle to enjoy every drop - enter the naan bread scoop.",
+        "where_to_find": "Any authentic balti house in the Triangle. Order a plain or garlic naan alongside your balti and scoop away!"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Proper British Tea",
+        "description": "Strong, builder's tea with milk and sugar. Birmingham being England's second city has serious tea culture. Many balti houses serve traditional masala chai as well.",
+        "how_locals_drink_it": "With your balti meal, locals might order a lassi (yogurt drink) or stick to water, saving the tea for after. The Balti Triangle came alive in the 90s with BYO culture since many restaurants didn't have alcohol licenses."
+      },
+      {
+        "name": "Mango Lassi",
+        "description": "Sweet, creamy yogurt drink blended with mango pulp. Perfectly cooling alongside a spicy balti.",
+        "how_locals_drink_it": "Served chilled in a tall glass. The sweetness and creaminess balance the heat of the curry. Traditional accompaniment at authentic balti houses."
+      }
+    ],
+    "food_culture_notes": [
+      "The Balti Triangle (Ladypool Road, Stoney Lane, Stratford Road) is a cultural landmark in southeast Birmingham, though sadly declining from 30+ restaurants in the 1990s to just a handful today",
+      "Authentic baltis MUST be served in the balti bowl they're cooked in - if it's not, it's not real",
+      "Birmingham's curry culture predates the balti: Abdul Aziz served curry and rice to policemen and lawyers from a café on Steelhouse Lane as early as 1945",
+      "The balti bowl builds up layers of flavor as it's used over time, like a well-seasoned wok",
+      "A 2005 tornado damaged many Balti Triangle restaurants; most reopened by 2006 but rising rents and changing trends continue to threaten this unique culinary heritage",
+      "APAB (Association of Pakistani and Balti Restaurants) badges mark truly authentic establishments bound by traditional preparation methods"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Balti Triangle neighborhood with Ladypool Road signage",
+      "Traditional balti bowl - flat-bottomed pressed steel with flat handles",
+      "Victorian architecture of Birmingham's industrial heritage",
+      "Cadbury World (Birmingham is home to Cadbury chocolate)",
+      "Birmingham's canals (more canal miles than Venice)",
+      "Bullring shopping center with its distinctive Selfridges building"
+    ],
+    "atmosphere": [
+      "Sizzling balti bowls arriving at tables",
+      "Steam rising from freshly cooked curry",
+      "Naan bread torn for 'the Birmingham scoop'",
+      "Glass-topped tables at authentic balti houses like Shababs",
+      "Henna-patterned wallpaper and Pakistani decor",
+      "Multicultural Southeast Birmingham streets"
+    ],
+    "colors": [
+      "Rich curry oranges and reds",
+      "Golden naan bread",
+      "Bright green cilantro garnish",
+      "Metallic steel of balti bowls",
+      "Deep red brick of Victorian Birmingham buildings"
+    ],
+    "unique_modern": [
+      "The Birmingham Balti Bowl Company still manufactures the authentic bowls in Washwood Heath",
+      "EU Protected Name Status badge (granted 2015)",
+      "APAB certification badges at authentic restaurants",
+      "Modern Pakistani street food reinventions (like at Shahi Nan Kebab House)",
+      "Begum in Moseley - 'new kids on the block' keeping balti tradition alive"
+    ]
+  },
+  "wikipedia_search_term": "Birmingham",
+  "keywords_for_image": [
+    "Birmingham balti curry",
+    "balti bowl steel",
+    "Birmingham Balti Triangle",
+    "Pakistani curry UK",
+    "naan bread curry",
+    "Birmingham England architecture",
+    "Ladypool Road Birmingham",
+    "authentic balti restaurant",
+    "Birmingham second city",
+    "multicultural British food"
+  ],
+  "coordinates": {
+    "lat": 52.4862,
+    "lng": -1.8904
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Birmingham+🇬🇧/@52.4862,-1.8904,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Birmingham"
+  },
+  "location_id": 161
+}

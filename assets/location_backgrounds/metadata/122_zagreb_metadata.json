@@ -1,0 +1,103 @@
+{
+  "name": "Zagreb",
+  "country": "Croatia",
+  "fun_fact": "Fun fact: Zagreb's St. Mark's Church has one of Europe's most photographed roofs - colorful tiles forming the medieval coats of arms of Croatia, Dalmatia and Slavonia, plus the emblem of Zagreb, constructed in 1880!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Štrukli",
+        "description": "The quintessential Zagreb comfort food - stretchy dough (preferably homemade) filled with cottage cheese, sour cream, and sometimes eggs, culminating in a perfectly crunchy crust balanced with a gooey warm filling.",
+        "origin_story": "This traditional cheese-filled dough dish is so beloved in Zagreb that an entire restaurant (La Štruk) is devoted to it, offering both boiled (kuhani) and baked (zapečeni) varieties.",
+        "where_to_find": "La Štruk (specializes exclusively in štrukli with sweet and savory flavors: cheese, blueberries, apples-cinnamon, walnuts-honey, roasted paprika, truffle paste, pumpkin seeds)"
+      },
+      {
+        "name": "Zagrebački Odrezak (Zagreb Cutlet)",
+        "description": "This regional classic consists of cheese and ham sandwiched between slices of veal (or pork/turkey), which is rolled, breaded, and fried to perfection - reminiscent of a stuffed Vienna schnitzel or cordon bleu.",
+        "origin_story": "A traditional Croatian dish that became Zagreb's signature, showing the city's Austro-Hungarian culinary influences.",
+        "where_to_find": "Gostionica Ficlek (uses house-cooked ham from Dolac Marketplace), Vinodol (one of Zagreb's crowning restaurants)"
+      },
+      {
+        "name": "Turkey with Mlinci",
+        "description": "Turkey (or duck) served with 'mlinci' - thin, usually homemade, dried flatbread broken into pieces and mixed with the roasted turkey juices, becoming soft and delicious while carrying the turkey flavor.",
+        "origin_story": "A classic of traditional Croatian cuisine in Zagreb and northern Croatia, this has become a trademark of Christmas meals and family gatherings.",
+        "where_to_find": "Vinodol (recommended for the tastiest turkey with mlinci in city center), traditional family restaurants in Upper and Lower Town"
+      },
+      {
+        "name": "Sir i Vrhnje",
+        "description": "A beloved snack among locals - fresh locally made cheese mixed with sour cream, often with garlic mixed in and paprika sprinkled on top, served with fresh bread for dipping.",
+        "origin_story": "This humble dish represents Zagreb's love of simple, quality ingredients and social eating.",
+        "where_to_find": "Local bistros, Dolac Market area, traditional Croatian restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Croatian Wine",
+        "description": "Croatia has excellent local wines, often enjoyed with meals in Zagreb's restaurants.",
+        "how_locals_drink_it": "Paired with traditional dishes at restaurants like Vinodol and Pod Zidom, or enjoyed at wine bars throughout the city."
+      }
+    ],
+    "food_culture_notes": [
+      "Zagreb's cuisine is influenced by neighboring Austria, Hungary, Italy, and Turkey",
+      "Dolac Market is called 'the stomach of Zagreb' - farmers gather daily except Sunday (best on Saturday mornings)",
+      "Upper Town and Lower Town house numerous excellent local restaurants",
+      "Traditional restaurants serve food that grandmothers and mothers would lovingly prepare",
+      "Pingvin is Zagreb's famous late-night sandwich spot - the most popular fast-food restaurant in the capital",
+      "Peka is a traditional cooking method using a clay or iron bell over open flames, making incredibly tender meat"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Mark's Church with colorful tiled roof featuring Croatian coat of arms",
+      "Upper Town (Gornji Grad) - medieval architecture and government buildings",
+      "Dolac Market - vibrant outdoor farmers market",
+      "Croatian Parliament and Government Palace at St. Mark's Square",
+      "Gothic portal with 15 sculpted figures at St. Mark's Church",
+      "Romanesque window from 13th century on church's south facade"
+    ],
+    "atmosphere": [
+      "Medieval Upper Town with cobblestone streets",
+      "Lively Lower Town with cafes and restaurants",
+      "Saturday and Sunday guard-changing ceremony at St. Mark's Church at noon",
+      "Centuries-long traditions and incomparable cuisine",
+      "Austro-Hungarian architectural influences",
+      "Vibrant market culture at Dolac"
+    ],
+    "colors": [
+      "Red, white, and blue tiles of St. Mark's Church roof",
+      "Red and white Croatian checkerboard (šahovnica) pattern",
+      "Colorful fresh produce at Dolac Market",
+      "Warm yellows and oranges of Upper Town buildings",
+      "Golden-brown of crispy fried cutlets"
+    ],
+    "unique_modern": [
+      "St. Mark's Church dates to the 13th century but got its famous roof in 1880",
+      "The church survived a 2020 Zagreb earthquake with damages",
+      "Guard-changing ceremony happens every weekend at noon from late April to October",
+      "Inside are frescoes by Croatian artist Jozo Kljaković and sculptures by Ivan Meštrović",
+      "The church was once considered for demolition but is now Zagreb's most iconic building",
+      "Red background on Zagreb's coat of arms on the roof (official is blue) reflects 18th century tradition"
+    ]
+  },
+  "wikipedia_search_term": "Zagreb",
+  "keywords_for_image": [
+    "Zagreb St Mark Church",
+    "colorful tiled roof Croatia",
+    "Croatian coat of arms",
+    "Upper Town Zagreb",
+    "Dolac Market",
+    "štrukli cheese pastry",
+    "Zagreb cutlet",
+    "medieval Croatian architecture",
+    "Austro-Hungarian buildings",
+    "Croatian traditional food"
+  ],
+  "coordinates": {
+    "lat": 45.815,
+    "lng": 15.9819
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zagreb+🇭🇷/@45.815,15.9819,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zagreb"
+  },
+  "location_id": 122
+}

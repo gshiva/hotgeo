@@ -1,0 +1,119 @@
+{
+  "name": "Cork",
+  "country": "Ireland",
+  "fun_fact": "Fun fact: The English Market has been Cork's food hub since 1788, making it one of the oldest municipal markets in the world! Celebrity chef Rick Stein called it 'the best covered market in the UK and Ireland.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Drisheen and Tripe",
+        "description": "Traditional Cork blood sausage (drisheen) and tripe - authentic, old-school Irish fare that represents Cork's culinary heritage",
+        "origin_story": "These traditional Cork foods have been sold in the English Market since the 18th century, representing the city's working-class food traditions and nose-to-tail eating philosophy",
+        "where_to_find": "English Market (the traditional source since 1788), still available at market stalls alongside modern artisan products"
+      },
+      {
+        "name": "Spiced Beef",
+        "description": "Cork's signature cured beef, heavily spiced and traditionally served during Christmas but available year-round",
+        "origin_story": "A uniquely Cork tradition dating back centuries, this spiced and salted beef reflects the city's historic role as a provisioning port",
+        "where_to_find": "English Market vendors, traditional butchers throughout Cork city"
+      },
+      {
+        "name": "Frank Hederman's Smoked Salmon",
+        "description": "Expertly crafted smoked salmon from one of Ireland's most renowned fish smokers",
+        "origin_story": "Frank Hederman Smokehouse represents Cork's coastal heritage and modern artisan food movement. The city's location on the River Lee estuary provides access to exceptional seafood.",
+        "where_to_find": "English Market stalls, Frank Hederman Smokehouse (one of Ireland's most renowned smokehouses)"
+      },
+      {
+        "name": "Toonsbridge Dairy Cheeses",
+        "description": "Award-winning artisan cheeses from Cork's renowned cheesemaking tradition",
+        "origin_story": "Cork is home to some of Ireland's best-known cheesemakers including Carrigaline Farmhouse Cheese, Durrus Cheese, Gubbeen, and Coolea. The lush countryside provides ideal conditions for dairy farming.",
+        "where_to_find": "English Market (The Real Olive Company's stall and other vendors), Toonsbridge Dairy, artisan cheese shops throughout Cork"
+      },
+      {
+        "name": "Café Paradiso Vegetarian Cuisine",
+        "description": "Innovative vegetarian dishes showcasing local farm produce with spontaneous, seasonal menus",
+        "origin_story": "Chef Dennis Cotter put Cork vegetarian cuisine on the map at one of Europe's best vegetarian restaurants, sourcing from farms just outside the city",
+        "where_to_find": "Café Paradiso (one of the best vegetarian restaurants in Europe)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Irish Whiskey and Craft Beer",
+        "description": "Cork's pub culture celebrates Irish whiskey and locally brewed craft beers",
+        "how_locals_drink_it": "Enjoyed in traditional pubs throughout the city, often paired with hearty Irish food"
+      },
+      {
+        "name": "Irish Coffee",
+        "description": "Coffee with Irish whiskey, sugar, and cream - perfect for Cork's rainy days",
+        "how_locals_drink_it": "A warming drink enjoyed in cafés and restaurants, especially after exploring the English Market"
+      }
+    ],
+    "food_culture_notes": [
+      "Cork is known as the food capital of Ireland - spearheaded the Irish food revolution",
+      "English Market opened in 1788, one of the oldest municipal markets in the world",
+      "Phenomenal range of produce from artisan cheese to smoked fish",
+      "Eight Michelin Guide restaurants including four with one star and one with two stars",
+      "Myrtle Allen was Ireland's first female Michelin-star chef, legacy continues with Darina Allen (Ballymaloe Cookery School) and Rachel Allen",
+      "Blessed with lush countryside for dairy and livestock plus rich seafood from coastal location",
+      "Age-old traditions and new thinking create a food-centered way of life",
+      "Cast of creative chefs under watchful eye of Cork's food community",
+      "English Market has quality meats, fish, herbs, spices, fruit, vegetables, baked goods, specialty cheeses",
+      "Traditional fare includes buttered eggs, battlebord (dried salted ling - member of cod family)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Saint Fin Barre's Cathedral - Gothic Revival with three spiky spires, 1,260+ sculptures, built 1865-1879",
+      "English Market - Victorian covered market with ornate ironwork and fountain",
+      "River Lee flowing through the city center",
+      "Blackrock Castle on the banks of the River Lee",
+      "Cobbled streets and Georgian architecture",
+      "University College Cork campus"
+    ],
+    "atmosphere": [
+      "Bustling English Market with sensory feast of fresh produce and local delicacies",
+      "Peaceful cathedral with stained glass and Bath stone walls",
+      "Intimate artisan food shops and creative restaurants",
+      "Historic quarter showing Cork's heritage and culture",
+      "Ballymaloe Cookery School tradition of food education",
+      "Friendly food community with shared culinary pride"
+    ],
+    "colors": [
+      "Warm golden light in English Market",
+      "Rich greens of Irish countryside and River Lee",
+      "Creamy whites and yellows of artisan cheeses",
+      "Silver-pink of smoked salmon",
+      "Grey Gothic stonework of Saint Fin Barre's with colorful stained glass",
+      "Earthy browns of traditional spiced beef"
+    ],
+    "unique_modern": [
+      "English Market blends 1788 heritage with modern artisan food movement",
+      "Michelin-starred restaurants alongside traditional market stalls",
+      "Café Paradiso's farm-to-table vegetarian innovation",
+      "Best-known cheesemakers creating international award winners",
+      "Renowned fish smokers using traditional techniques",
+      "Rick Stein's endorsement putting Cork on international food map",
+      "Cooking schools and food tours celebrating Cork culinary heritage"
+    ]
+  },
+  "wikipedia_search_term": "Cork_(city)",
+  "keywords_for_image": [
+    "English Market Cork",
+    "Irish artisan cheese",
+    "smoked salmon Ireland",
+    "Saint Fin Barre Cathedral",
+    "River Lee Cork",
+    "Victorian market hall",
+    "Irish food capital",
+    "traditional Irish butcher",
+    "Ballymaloe"
+  ],
+  "coordinates": {
+    "lat": 51.8985,
+    "lng": -8.4756
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cork+🇮🇪/@51.8985,-8.4756,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cork_(city)"
+  },
+  "location_id": 158
+}

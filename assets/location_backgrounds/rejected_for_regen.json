@@ -1,0 +1,32 @@
+{
+  "to_regenerate": [
+    {
+      "location_id": 4,
+      "name": "Toledo",
+      "country": "\ud83c\uddea\ud83c\uddf8",
+      "previous_seed": 400,
+      "attempt": 1,
+      "problems": [
+        "Face visible on left side"
+      ],
+      "suggestions": [
+        "Regenerate with different seed"
+      ]
+    },
+    {
+      "location_id": 9,
+      "name": "Wellington",
+      "country": "\ud83c\uddf3\ud83c\uddff",
+      "previous_seed": 900,
+      "attempt": 1,
+      "problems": [
+        "Face visible on left side"
+      ],
+      "suggestions": [
+        "Regenerate with different seed"
+      ]
+    }
+  ],
+  "total_to_regenerate": 2,
+  "last_updated": "2025-11-27T17:57:38.308588"
+}

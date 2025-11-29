@@ -1,0 +1,94 @@
+{
+  "name": "Funchal",
+  "country": "Portugal",
+  "fun_fact": "Fun fact: Funchal is the only place in the world where traditional wicker toboggan sleds (carros de cesto) are still used - two 'carreiros' in white uniforms push tourists downhill at 48 km/h on a 2km journey from Monte to Livramento. The tradition started in the 1850s as transportation for locals.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Espetada",
+        "description": "Skewered beef chunks (traditionally from prime cuts) grilled over laurel wood, hung dramatically from hooks, served with bolo do caco (garlic bread)",
+        "origin_story": "This Madeiran specialty uses laurel wood (native to the island) for grilling, giving the meat a unique aromatic flavor. The beef skewers hang from special hooks above the table - a dramatic presentation. Traditionally eaten at festivals and celebrations, now served at every Madeiran restaurant. Locals argue whether to season with just salt or add garlic.",
+        "where_to_find": "O Celeiro in Funchal's Old Town, Armazém do Sal (historic salt warehouse restaurant), or traditional Madeiran restaurants"
+      },
+      {
+        "name": "Lapas (Limpets)",
+        "description": "Grilled limpets (sea snails) served in their shells with garlic butter and lemon",
+        "origin_story": "These volcanic rock-clinging mollusks are Madeira's iconic seafood. Harvesting them from crashing Atlantic waves is dangerous work. The meat is chewy, briny, intensely oceanic. Locals eat them as appetizers with Coral beer. Prying them off rocks requires skill - they clamp down when disturbed.",
+        "where_to_find": "Beachfront restaurants in Funchal, Restaurante do Forte, or seafood spots near the marina"
+      },
+      {
+        "name": "Bolo do Caco",
+        "description": "Flatbread cooked on a basalt stone slab, split open and slathered with garlic butter - served with almost everything",
+        "origin_story": "Caco refers to the flat basalt stone used for cooking. This sweet potato flatbread has been Madeiran staple for centuries. The garlic butter (manteiga de alho) is generous - bread glistening with it. Locals eat it with espetada, soup, or just by itself. The sweet potato gives subtle sweetness.",
+        "where_to_find": "Every restaurant in Funchal - it's mandatory with espetada, or bakeries throughout the city"
+      },
+      {
+        "name": "Black Scabbard Fish (Espada Preta)",
+        "description": "Deep-sea fish with terrifying appearance, usually served fried with banana and passion fruit sauce - surprisingly delicious",
+        "origin_story": "This prehistoric-looking fish lives 800-1200 meters deep in Madeira's waters. Fishermen use special hooks on long lines. The fish is jet black with huge teeth - nightmare fuel. But the white flesh is delicate, mild, and flaky. Serving it with fried banana is uniquely Madeiran - sweet and savory combination works brilliantly.",
+        "where_to_find": "Restaurante do Forte, Santa Maria seafood restaurant, or traditional Madeiran restaurants in Funchal"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Madeira Wine",
+        "description": "Fortified wine aged in oak barrels, ranging from dry (Sercial) to sweet (Malmsey) - oxidized, complex, can age for centuries",
+        "how_locals_drink_it": "Madeira wine has been produced since the 1400s. The unique 'estufagem' aging process heats the wine, creating oxidized flavors that allow it to age indefinitely - bottles from the 1800s are still drinkable. Locals drink dry versions as aperitifs, sweet versions as dessert wine. Used in cooking traditional Madeiran dishes."
+      },
+      {
+        "name": "Poncha",
+        "description": "Traditional Madeiran cocktail of aguardente (sugarcane distillate), honey, lemon juice, and sometimes passion fruit or other fruits",
+        "how_locals_drink_it": "Pronounced 'pon-shah,' this is Madeira's national drink. Originally fishermen's remedy for colds, now drunk recreationally. The aguardente is strong (40%+ alcohol), honey sweetens it, citrus balances. Locals drink it at poncha bars (tabernas) in Funchal's Old Town. Beware - it's deceptively strong."
+      }
+    ],
+    "food_culture_notes": [
+      "Mercado dos Lavradores (Workers Market) is Funchal's vibrant market selling exotic fruits (custard apples, monstera deliciosa), fresh fish, and flowers",
+      "Madeira grows tropical fruits year-round due to mild climate - passionfruit, guavas, and bananas everywhere",
+      "Portuguese tradition of petiscos (small plates) is strong - lapas, bolo do caco, and pickles as bar snacks",
+      "Funchal's restaurants often have terraces with dramatic Atlantic Ocean or mountain views"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Monte Palace Tropical Garden - exotic plants from around the world with azulejos (Portuguese tiles)",
+      "Cabo Girão - Europe's highest sea cliff at 580 meters with glass-floor viewpoint",
+      "Funchal Cathedral (Sé) - 16th-century Gothic cathedral with carved ceiling",
+      "CR7 Museum - dedicated to Cristiano Ronaldo (born in Madeira)"
+    ],
+    "atmosphere": [
+      "Subtropical island climate - mild year-round (19-25°C)",
+      "Steep hillsides covered with terraced vineyards and banana plantations",
+      "Levadas (irrigation channels) crisscross the island - popular hiking trails",
+      "Atlantic waves crashing against volcanic cliffs"
+    ],
+    "colors": [
+      "vibrant tropical flowers - birds of paradise, orchids, bougainvillea",
+      "blue Atlantic Ocean",
+      "volcanic black sand beaches",
+      "colorful painted doors and azulejos in Old Town"
+    ],
+    "unique_modern": [
+      "Wicker toboggan rides from Monte - 'carreiros' in white uniforms push tourists downhill at 48km/h since 1850s",
+      "Cristiano Ronaldo was born in Funchal - airport named after him (Madeira Airport Cristiano Ronaldo)",
+      "Funchal's New Year's Eve fireworks show holds Guinness World Record for largest fireworks display",
+      "Cable car from Funchal to Monte offering panoramic views over the city"
+    ]
+  },
+  "wikipedia_search_term": "Funchal",
+  "keywords_for_image": [
+    "funchal madeira wicker toboggan",
+    "espetada skewers madeira",
+    "cabo girao cliff funchal",
+    "bolo do caco garlic bread",
+    "madeira wine barrels"
+  ],
+  "coordinates": {
+    "lat": 32.6669,
+    "lng": -16.9241
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Funchal+🇵🇹/@32.6669,-16.9241,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Funchal"
+  },
+  "location_id": 330
+}

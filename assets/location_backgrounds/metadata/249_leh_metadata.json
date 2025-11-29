@@ -1,0 +1,94 @@
+{
+  "name": "Leh",
+  "country": "India",
+  "fun_fact": "Fun fact: Leh sits at 11,500 feet (3,500m) altitude in the Himalayas where oxygen is 40% less than sea level - locals drink butter tea throughout the day not just for taste, but because the fat and salt help prevent altitude sickness.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Thukpa",
+        "description": "Hearty noodle soup with vegetables or meat in a richly spiced broth, made with wheat or barley flour noodles",
+        "origin_story": "Thukpa is the staple food of Ladakh, born from Tibetan Buddhist culinary traditions. In Leh's extreme cold and high altitude, hot soupy dishes are essential. The rich, spiced broth not only satisfies hunger but warms the body in temperatures that can drop to -20°C in winter.",
+        "where_to_find": "The Tibetan Kitchen (heart of Leh - steaming momos and soul-warming thukpa with traditional decor), Lamayuru Restaurant (Fort Road), Gesmo Restaurant (Old Leh Road - famous for Ladakhi Thali)"
+      },
+      {
+        "name": "Momos",
+        "description": "Tibetan dumplings filled with vegetables or meat, either steamed or fried, served with spicy dipping sauce",
+        "origin_story": "Momos arrived in Leh with Tibetan Buddhist culture centuries ago. The dumpling-making technique represents communal cooking - families gather to fold hundreds of momos together. Whether steamed or crispy-fried, they're Leh's favorite snack and comfort food.",
+        "where_to_find": "The Tibetan Kitchen (locals' favorite for authentic momos), Sky Wok Restaurant (serves the biggest momos in Leh - fresh and hot), Norlakh Restaurant (Leh Main Bazaar - affordable and mouthwatering)"
+      },
+      {
+        "name": "Butter Tea (Po Cha / Gur-Gur Chai)",
+        "description": "Salty tea made with tea leaves, milk, butter, and salt - not sweet, but warming and energizing",
+        "origin_story": "Butter tea is essential Ladakhi culture, not just a beverage. In extreme altitude and cold, the high-fat content provides calories and warmth while salt helps retain fluids at high elevation. Tibetan Buddhist monks drink it throughout the day to maintain energy during meditation and work.",
+        "where_to_find": "The Tibetan Kitchen (authentic preparation), Lamayuru Restaurant (known for traditional butter tea), most monasteries and guesthouses"
+      },
+      {
+        "name": "Ladakhi Thali",
+        "description": "Complete platter featuring skyu (pasta-like dough with vegetables), momos, thukpa, and local bread",
+        "origin_story": "The thali represents Ladakh's complete cuisine on one plate. Skyu uses hand-pulled dough pieces (like Italian pasta) in vegetable stew - a dish unique to Ladakh. This platter showcases how Ladakhi cooking adapted Tibetan techniques to local ingredients.",
+        "where_to_find": "Gesmo Restaurant (Old Leh Road - cozy ambiance, friendly staff), Namza Dining (beautiful heritage-style restaurant with Silk Route-inspired forgotten recipes)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Chhang (Barley Beer)",
+        "description": "Traditional fermented barley beverage, mildly alcoholic and slightly sour",
+        "how_locals_drink_it": "Served at room temperature in wooden vessels during festivals and celebrations. Locals consider it both beverage and food - it's nutritious and provides calories needed at high altitude. Often homemade by families."
+      },
+      {
+        "name": "Sea Buckthorn Juice",
+        "description": "Bright orange juice from berries that grow wild in Ladakh's harsh climate, tangy and rich in vitamin C",
+        "how_locals_drink_it": "Served fresh or as syrup. Sea buckthorn thrives in Ladakh's extreme conditions and locals prize it for health benefits at high altitude. The vitamin C content helps with altitude acclimatization."
+      }
+    ],
+    "food_culture_notes": [
+      "Food in Leh is incredibly affordable - a meal for two costs 500-800 rupees ($7-11 USD)",
+      "Most dishes are designed to combat altitude and cold - high in fat, salt, and carbohydrates for energy",
+      "Leh Market is the best place for street food - momos, thukpa, and khambir (Ladakhi bread) from vendors",
+      "Tibetan Buddhist influence means many restaurants offer excellent vegetarian options alongside meat dishes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Leh Palace",
+      "Shanti Stupa",
+      "Magnetic Hill",
+      "Pangong Lake"
+    ],
+    "atmosphere": [
+      "prayer flags",
+      "Buddhist monasteries",
+      "snow-capped peaks",
+      "high desert plains"
+    ],
+    "colors": [
+      "saffron robes",
+      "turquoise mountain lakes",
+      "white snow peaks",
+      "prayer flag colors"
+    ],
+    "unique_modern": [
+      "Adventure tourism hub",
+      "Motorcycle culture (Royal Enfield riders)",
+      "Homestay experiences",
+      "Sustainable tourism initiatives"
+    ]
+  },
+  "wikipedia_search_term": "Leh",
+  "keywords_for_image": [
+    "Leh Ladakh Himalayas",
+    "Tibetan momos",
+    "butter tea",
+    "prayer flags mountains",
+    "Leh Palace"
+  ],
+  "coordinates": {
+    "lat": 34.1526,
+    "lng": 77.5771
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Leh+🇮🇳/@34.1526,77.5771,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leh"
+  },
+  "location_id": 249
+}

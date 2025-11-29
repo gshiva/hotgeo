@@ -1,0 +1,95 @@
+{
+  "name": "Galway",
+  "country": "Ireland",
+  "fun_fact": "Fun fact: Galway hosts the International Oyster Festival every September, dating back to 1954 - featuring the World Oyster Opening Championship where competitors shuck 30 oysters as fast as possible. The festival consumes over 8,000 dozen oysters during the weekend-long celebration of seafood and Guinness.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Galway Bay Oysters",
+        "description": "Fresh native oysters from Galway Bay, served raw with lemon, Tabasco, and brown bread - sweet, briny, and creamy",
+        "origin_story": "Galway's oyster tradition dates back centuries. The native European oysters (Ostrea edulis) from Galway Bay and Clarenbridge are world-renowned. Oysters take 3 years to grow from seed to plate in the cold Atlantic waters. Moran's Oyster Cottage has been serving Clarenbridge oysters for 250+ years. The annual International Oyster Festival (since 1954) celebrates this heritage with oyster-shucking competitions.",
+        "where_to_find": "Moran's Oyster Cottage (250-year-old thatched cottage in Clarenbridge), McDonagh's (since 1902, four generations), McSwiggan's (Galway's first oyster bar), or O'Dowd's Seafood Bar in Roundstone (family-run since 1906)"
+      },
+      {
+        "name": "Seafood Chowder",
+        "description": "Creamy soup loaded with salmon, mussels, haddock, prawns, and vegetables, served with crusty brown bread for dipping",
+        "origin_story": "Irish chowder evolved from fishing communities using the day's catch in one pot with potatoes, cream, and butter. Galway's version showcases Atlantic seafood - whatever fishermen brought in that morning. Each pub guards their recipe. The thick, rich chowder warms you after walking Connemara's windswept coast.",
+        "where_to_find": "The King's Head (crowned Ireland's Best for Sustainable Sourcing 2024), Donnelly's of Barna (legendary Galway Bay Seafood Chowder), Guy's Bar (traditional Connemara Chowder with homemade brown bread), or Quay Street Kitchen"
+      },
+      {
+        "name": "Fish and Chips",
+        "description": "Fresh Atlantic haddock or cod in crispy beer batter, served with thick-cut chips and tartar sauce",
+        "origin_story": "While fish and chips is British, Galway's version uses fish caught hours earlier from Galway Bay. The batter is often made with Guinness or local stout, creating extra-crispy coating. It's beach food after walking the Promenade or pub food after live trad music sessions.",
+        "where_to_find": "McDonagh's (chipper side established 1902, locals' favorite), O'Dowd's Seafood Bar, or waterfront chippers"
+      },
+      {
+        "name": "Connemara Lamb",
+        "description": "Tender lamb from Connemara mountain sheep, slow-roasted or in Irish stew with potatoes, carrots, and pearl barley",
+        "origin_story": "Connemara sheep graze on Atlantic-facing mountains, eating wild herbs and heather that flavor the meat. Irish stew is peasant food turned national dish - using affordable lamb cuts, potatoes, onions, and root vegetables slow-cooked until falling apart. It's comfort food for rainy Galway evenings.",
+        "where_to_find": "Traditional pubs throughout Galway, Ard Bia at Nimmos, or Aniar (Michelin-starred, modern Irish)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Guinness dark stout pint with thick creamy white head",
+        "description": "Iconic dark black Irish stout with thick creamy white head - smooth, slightly bitter, with coffee and chocolate notes. NOT a pale lager - this is a jet-black stout beer.",
+        "how_locals_drink_it": "Galway pubs pour Guinness with the 'two-part pour' - fill 3/4, let it settle, then top it off. Never rush a Guinness. Locals drink it during trad music sessions (traditional Irish music) at historic pubs like Tig Cóilí or The Crane Bar. The perfect pint takes 119.5 seconds to pour. Oysters and Guinness is the classic pairing."
+      },
+      {
+        "name": "Irish Whiskey",
+        "description": "Smooth triple-distilled whiskey from Ireland - brands like Jameson, Tullamore Dew, or Connemara peated whiskey",
+        "how_locals_drink_it": "Irish whiskey is triple-distilled (smoother than Scotch). Locals drink it neat or in Irish Coffee (whiskey, coffee, sugar, cream). Connemara whiskey is rare Irish peated whiskey. After oysters and Guinness, a whiskey nightcap while listening to fiddles and tin whistles is proper Galway evening ritual."
+      }
+    ],
+    "food_culture_notes": [
+      "Galway named European Region of Gastronomy 2018 for culinary heritage and innovation",
+      "DK Connemara Oysters offers farm tours - learn 3-year oyster growing process and shuck your own",
+      "Trad music sessions pair with pints and oysters - music, seafood, and craic (fun) are inseparable",
+      "Brown bread (wheaten bread) is essential - dense, slightly sweet soda bread served with everything"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Spanish Arch - 16th-century remnant of city walls on River Corrib",
+      "Salthill Promenade - 2km seaside walk with views of Galway Bay and Aran Islands",
+      "Claddagh - traditional fishing village, origin of Claddagh ring",
+      "Connemara - wild, rugged landscape of mountains, bogs, and Atlantic coast west of Galway"
+    ],
+    "atmosphere": [
+      "Bohemian arts city with street performers and buskers on Shop Street",
+      "Trad music every night in multiple pubs - fiddles, bodhráns, tin whistles",
+      "Atlantic storms rolling in from Galway Bay",
+      "Colorful painted buildings along Quay Street and Latin Quarter"
+    ],
+    "colors": [
+      "grey Atlantic skies and stormy seas",
+      "vibrant painted shopfronts - reds, yellows, blues",
+      "creamy Guinness head",
+      "green Connemara hills"
+    ],
+    "unique_modern": [
+      "International Arts Festival every July - largest arts festival in Ireland",
+      "Galway Film Fleadh - major international film festival",
+      "Galway Races in late July - horse racing 'festival' with massive social scene",
+      "Gateway to Aran Islands, Cliffs of Moher, and Wild Atlantic Way coastal route"
+    ]
+  },
+  "wikipedia_search_term": "Galway",
+  "keywords_for_image": [
+    "galway bay oysters on ice with lemon",
+    "irish seafood chowder with brown bread",
+    "dark black guinness stout pints with thick creamy white head NOT pale lager",
+    "salthill promenade galway bay",
+    "colorful painted irish pub fronts",
+    "spanish arch galway"
+  ],
+  "coordinates": {
+    "lat": 53.2707,
+    "lng": -9.0568
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Galway+🇮🇪/@53.2707,-9.0568,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Galway"
+  },
+  "location_id": 333
+}

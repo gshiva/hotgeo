@@ -1,0 +1,112 @@
+{
+  "name": "Rijeka",
+  "country": "Croatia",
+  "fun_fact": "Fun fact: Rijeka's name means 'river' in Croatian, Italian (Fiume), and Slovene (Reka). This Adriatic port city was so fiercely contested throughout history that it changed rulers between the Holy Roman Empire, Venice, Austria, Italy, and Yugoslavia multiple times. In 1866, the world's first torpedo factory opened here, and in 1912, the RMS Carpathia (famous for rescuing Titanic survivors) was sailing to Rijeka when it received the distress call.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Crni Rižot (Black Risotto)",
+        "description": "Adriatic cuttlefish-ink risotto that turns jet black with a deep, briny seafood flavor. The dish showcases Rijeka's Venetian culinary heritage with its creamy, squid-ink-infused rice.",
+        "origin_story": "This Venetian-inspired dish reflects centuries of Italian influence on Rijeka's cuisine. The port city's proximity to the Kvarner Gulf provides fresh cuttlefish daily, and local cooks have perfected the balance of seafood, olive oil, and aromatic herbs.",
+        "where_to_find": "Bistro Mornar (seafood bistro famous for just-caught fish grilled with olive oil), Konoba Feral, and Konoba Nebuloza for modern takes on traditional seafood."
+      },
+      {
+        "name": "Maneštra",
+        "description": "A hearty, thick vegetable and bean soup/stew featuring smoked meat or corn. This rustic dish represents the working-class, authentic side of Rijeka cuisine that locals actually eat.",
+        "origin_story": "Traditional Croatian peasant food that sustained port workers and fishermen. Each family has their own recipe, often passed down through generations, using whatever vegetables are in season.",
+        "where_to_find": "Konoba Tarsa (hidden suburban tavern popular with locals for lavish platters), Fiume (tucked next to the fish market, fills with locals at lunch), small eateries near the Central Market (Placa)."
+      },
+      {
+        "name": "Peka (Octopus or Lamb Under the Bell)",
+        "description": "Slow-cooked meat or octopus with potatoes and vegetables prepared beneath a bell-shaped metal lid covered with hot coals. The cooking method creates incredibly tender, smoky flavors.",
+        "origin_story": "Ancient Dalmatian cooking technique from coastal Croatia. The 'ispod peke' (under the bell) method requires hours of slow cooking and must be ordered in advance. It's traditionally a communal dish for groups.",
+        "where_to_find": "Konoba Tarsa (specializes in traditional peka), restaurants in hillside settlements above Rijeka and the Opatija Riviera towns (Volosko, Lovran) - worth the short trip for authentic atmosphere."
+      },
+      {
+        "name": "Surlice with Smoked Tuna or Goulash",
+        "description": "Special local hand-rolled pasta noodles served with rich smoked tuna, lamb stew, or Istrian goulash. The noodles are thicker than typical pasta and have a rustic, chewy texture.",
+        "origin_story": "Surlice are unique to the Kvarner region. These hand-twisted noodles were traditionally made by local grandmothers and paired with whatever protein was available - whether from the sea or the mountains.",
+        "where_to_find": "Local konobas (taverns) throughout Rijeka, especially Konoba Ribica (authentic tavern specializing in homemade pasta and fresh seafood)."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Malvazija (Istrian White Wine)",
+        "description": "Crisp, dry white wine from nearby Istria and Kvarner with citrus and floral notes. Perfectly pairs with seafood.",
+        "how_locals_drink_it": "Locals drink Malvazija chilled with seafood lunches, especially on sunny waterfront terraces. It's the default wine choice for crni rižot and grilled fish."
+      },
+      {
+        "name": "Rakija (Fruit Brandy)",
+        "description": "Strong fruit brandy in various flavors: šljiva (plum), loza (grape), travarica (herb-infused), and medovača (honey). Crystal clear or amber-colored depending on aging.",
+        "how_locals_drink_it": "Served as a digestif after heavy meals in small glasses. Locals sip it slowly, not as a shot. Often homemade and offered as a gesture of hospitality - refusing is considered rude."
+      },
+      {
+        "name": "Teran (Istrian Red Wine)",
+        "description": "Robust, tannic red wine from Istria with deep ruby color and earthy, fruity flavors. High in iron content.",
+        "how_locals_drink_it": "Paired with rich meat dishes, pršut (prosciutto), and local cheeses. Locals say it aids digestion and is good for your blood."
+      }
+    ],
+    "food_culture_notes": [
+      "Rijeka's cuisine is a beautiful blend of Venetian/Italian seafood traditions and hearty Croatian mountain food from the interior",
+      "The Central Market (Placa) is where locals shop - fresh produce, cheeses, cured meats, with small eateries serving authentic minestrone and daily specials",
+      "Konobas (traditional taverns) are where locals actually eat - look for places filled with Croatian speakers, not just tourists",
+      "Kvarner scampi are prized local seafood - sweet, delicate, and only found in this region",
+      "Blue fish like sardines are affordable, delicious, and actually what locals eat daily (not just expensive shellfish)",
+      "Pršut (Croatian prosciutto), Paški sir cheese, and local olive oil are point of pride",
+      "For the best meals, travel to hillside inns above Rijeka or Opatija Riviera towns - wonderfully atmospheric",
+      "At lunch, many restaurants offer daily specials that workers come for - this is the authentic local experience"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Trsat Castle overlooking the city",
+      "Croatian National Theatre Building (1885, one of Europe's first to use electric light bulbs)",
+      "Bustling port with cargo ships and ferry terminals",
+      "Central Market (Placa) with colorful produce stalls",
+      "Venetian-influenced architecture in the old town",
+      "Kvarner Bay waterfront promenade"
+    ],
+    "atmosphere": [
+      "Working port city vibe - authentic, not overly touristy",
+      "Mix of Venetian elegance and Yugoslav industrial grit",
+      "Waterfront cafes and konobas with Adriatic views",
+      "Multi-ethnic linguistic heritage (Croatian, Italian, Fiuman Venetian dialect)",
+      "Lively fish market mornings",
+      "Carnival season (late January-March) with UNESCO-protected Zvončari traditions"
+    ],
+    "colors": [
+      "Azure Adriatic waters of Kvarner Bay",
+      "Jet black of crni rižot",
+      "Terracotta and ochre of Venetian buildings",
+      "Deep ruby red of Teran wine",
+      "Silver-grey of fresh Adriatic fish on market ice",
+      "Golden amber of rakija"
+    ],
+    "unique_modern": [
+      "European Capital of Culture 2020 with 'Port of Diversity' program",
+      "Blend of working-class port authenticity with cultural renaissance",
+      "Young culinary scene modernizing traditional recipes at places like Konoba Nebuloza",
+      "Historic torpedo factory site (world's first, 1866) as industrial heritage"
+    ]
+  },
+  "wikipedia_search_term": "Rijeka",
+  "keywords_for_image": [
+    "Rijeka Croatia port",
+    "Trsat Castle Rijeka",
+    "Kvarner Bay Adriatic",
+    "crni rizot black risotto",
+    "Croatian seafood market",
+    "Venetian architecture Croatia",
+    "Rijeka waterfront",
+    "konoba tavern Croatia"
+  ],
+  "coordinates": {
+    "lat": 45.3271,
+    "lng": 14.4422
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Rijeka+🇭🇷/@45.3271,14.4422,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rijeka"
+  },
+  "location_id": 96
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "fun_fact": "Fun fact: Anthony Bourdain called fermented shark (hákarl) 'the single worst, most disgusting and terrible tasting thing' he'd ever eaten - yet it's been Iceland's national dish for over 1,000 years! Early Icelanders buried toxic shark meat to ferment it, making it edible.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pylsur (Icelandic Hot Dog)",
+        "description": "Sometimes called Iceland's unofficial national dish - unique hot dogs made from blend of lamb, beef, and pork, served 'með öllu' (with everything): mustard, ketchup, deep-fried onions, creamy remoulade, and crispy raw onions",
+        "origin_story": "The Danish brought hot dogs to Iceland in early 20th century, but Iceland had no pig farms. So Icelanders adapted by blending local lamb with beef and pork, creating their own unique version that became a national icon.",
+        "where_to_find": "Bæjarins Beztu Pylsur ('The Best in Town') - famous stand visited by Bill Clinton and the Kardashians. Order 'eina með öllu' for the true Reykjavik experience. Found throughout the city but this stand is legendary."
+      },
+      {
+        "name": "Hákarl (Fermented Shark)",
+        "description": "National dish of Iceland - Greenland shark cured through particular fermentation process and hung to dry for 4-5 months. Strong ammonia-rich smell and fishy taste make it an acquired taste.",
+        "origin_story": "Born out of Viking-era ingenuity and resourcefulness. Shark eaten fresh is toxic, so early Icelanders developed fermentation by burying the meat, allowing it to ferment, then hanging it to dry - making the toxic edible. Represents survival during harsh winters when nothing would grow.",
+        "where_to_find": "Readily available in Icelandic stores year-round. Most often served as part of Þorramatur (traditional food selection at midwinter Þorrablót festival). Typically served with shot of Brennivín (Iceland's national spirit). Many restaurants offer it as a cultural experience."
+      },
+      {
+        "name": "Fresh Icelandic Lamb",
+        "description": "Free-range Icelandic lamb roasted or slow-cooked, tender and flavorful from sheep that graze on herbs and grasses in pristine landscapes",
+        "origin_story": "Lamb has been central to Icelandic survival since Viking settlement. The Icelandic sheep breed is virtually unchanged for over 1,000 years, giving unique flavor.",
+        "where_to_find": "New Nordic Cuisine restaurants throughout Reykjavik, showcasing modern techniques with traditional ingredients"
+      },
+      {
+        "name": "Fresh Atlantic Fish",
+        "description": "Cod, haddock, Arctic char, and other fish from pristine Icelandic waters, often simply prepared to highlight quality",
+        "origin_story": "Iceland's fishing heritage centers cuisine on exceptionally fresh seafood from cold North Atlantic waters",
+        "where_to_find": "Restaurants throughout Reykjavik's Old Harbour area, fish markets"
+      },
+      {
+        "name": "Skyr",
+        "description": "Traditional Icelandic cultured dairy product similar to thick yogurt but technically a cheese - high protein, low fat, slightly tangy",
+        "origin_story": "Brought to Iceland by Vikings over 1,000 years ago, skyr has been a staple of Icelandic diet through harsh winters",
+        "where_to_find": "Every grocery store, cafés, served at breakfast throughout Iceland with berries and honey"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Brennivín",
+        "description": "Iceland's signature spirit - unsweetened schnapps made from fermented grain or potato mash, flavored with caraway seeds. Nicknamed 'Black Death'.",
+        "how_locals_drink_it": "Traditionally served ice-cold as a shot alongside fermented shark (hákarl) to cut the strong ammonia taste. Part of Þorrablót midwinter feast tradition."
+      },
+      {
+        "name": "Icelandic Craft Beer",
+        "description": "Thriving craft beer scene despite beer being banned until 1989",
+        "how_locals_drink_it": "Enjoyed in Reykjavik's vibrant pub scene, celebrating Iceland's young but passionate brewing culture"
+      }
+    ],
+    "food_culture_notes": [
+      "Icelandic cuisine centers on lamb, fish, and dairy - result of ingredients and resources available",
+      "Similar to other Nordic countries - based on what could survive harsh climate",
+      "Globalization brought ideas that coupled with traditional ingredients created remarkable New Nordic Cuisine",
+      "Many ethnic and modern dynamic restaurants in Reykjavik",
+      "Traditional preserved foods (fermented shark, sour ram's testicles, boiled sheep's head) typically eaten only during Þorrablót midwinter feast",
+      "Þorrablót festival commemorates when early settlers ate cured, pickled leftover bits to survive long winters when nothing would grow",
+      "Hot dog culture is deeply embedded - found at gas stations, street stands, celebrations",
+      "Hákarl is point of pride and tourist challenge - locals rarely eat it outside festivals",
+      "New Nordic Cuisine trend showcases Icelandic ingredients with modern techniques"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hallgrímskirkja - 74.5m tall Lutheran church with rocket-like design inspired by Icelandic basalt columns",
+      "Harpa Concert Hall - geometric glass panels reflecting sunlight and Northern Lights, designed by Olafur Eliasson",
+      "Sun Voyager sculpture on waterfront",
+      "Old Harbour with fishing boats and maritime heritage",
+      "Leif Erikson statue by Alexander Calder in front of Hallgrímskirkja",
+      "Colorful houses and corrugated iron buildings",
+      "Mount Esja backdrop"
+    ],
+    "atmosphere": [
+      "Vibrant Skólavörðustígur Street near Hallgrímskirkja with local boutiques and design stores",
+      "Old Harbour area blending fishing heritage with modern restaurants",
+      "Northern Lights dancing in winter sky (October-March)",
+      "Midnight sun in summer preventing darkness",
+      "Minimalist Nordic design aesthetic throughout city",
+      "Small but mighty cultural scene (Iceland Symphony Orchestra, Icelandic Opera at Harpa)",
+      "Artists like Björk, Sigur Rós, Laufey from Reykjavik music scene"
+    ],
+    "colors": [
+      "White concrete of Hallgrímskirkja glowing against sky",
+      "Geometric glass of Harpa reflecting aurora greens and blues",
+      "Colorful corrugated iron houses (red, blue, yellow, green)",
+      "Grey-black basalt rock formations",
+      "Deep blues and greens of Northern Lights",
+      "Golden midnight sun in summer",
+      "White steam from geothermal vents"
+    ],
+    "unique_modern": [
+      "Hallgrímskirkja's 5,275-pipe organ used in regular concerts",
+      "Harpa's 714 glass panels mirroring rocky basalt landscape",
+      "New Nordic Cuisine movement showcasing traditional ingredients with modern techniques",
+      "Northern Lights museum celebrating science and mythology",
+      "Beer culture thriving after 1989 legalization (was banned!)",
+      "Bæjarins Beztu hot dog stand visited by international celebrities and politicians",
+      "Geothermal heating throughout the city",
+      "Design-forward Nordic aesthetic in restaurants and shops",
+      "Blend of 1,000-year Viking traditions with cutting-edge contemporary culture"
+    ]
+  },
+  "wikipedia_search_term": "Reykjavik",
+  "keywords_for_image": [
+    "Hallgrimskirkja church",
+    "Icelandic hot dog pylsur",
+    "fermented shark hakarl",
+    "Northern Lights aurora",
+    "Harpa concert hall glass",
+    "Icelandic lamb",
+    "volcanic landscape",
+    "Nordic design",
+    "geothermal Iceland"
+  ],
+  "coordinates": {
+    "lat": 64.1466,
+    "lng": -21.9426
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Reykjavik+🇮🇸/@64.1466,-21.9426,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reykjavik"
+  },
+  "location_id": 160
+}

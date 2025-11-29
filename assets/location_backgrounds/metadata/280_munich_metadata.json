@@ -1,0 +1,94 @@
+{
+  "name": "Munich",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Munich's beer purity law (Reinheitsgebot) from 1516 is the world's oldest food regulation still in effect - it mandates that beer can only contain water, barley, and hops, and Munich breweries still follow it religiously, making the city's beer gardens living museums of medieval brewing.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Weisswurst with Sweet Mustard and Pretzel",
+        "description": "Bavarian veal sausage poached (never grilled) and served with sweet mustard, a pretzel, and Weissbier. The sausage skin is peeled before eating.",
+        "origin_story": "Invented in Munich in 1857 when a butcher ran out of sheep intestine for bratwurst and used pork casing instead. The delicate veal mixture couldn't handle frying, so he poached them. Traditionally eaten before noon - locals say 'Weisswurst shouldn't hear the church bells ring at noon.'",
+        "where_to_find": "Served at most Bavarian taverns and beer gardens throughout Munich, especially traditional spots like Viktualienmarkt"
+      },
+      {
+        "name": "Schweinshaxe (Pork Knuckle)",
+        "description": "Slow-roasted pork knuckle with impossibly crispy skin and tender, juicy meat inside. Served with potato dumplings and sauerkraut.",
+        "origin_story": "The ultimate Bavarian beer garden food. The knuckle is roasted for hours until the skin becomes crackling-crispy. It's massive - often over a pound of meat - designed to fuel long afternoons of beer drinking.",
+        "where_to_find": "Augustiner Keller (over 200 years old, 5,000+ seats), Königlicher Hirschgarten (world's largest beer garden)"
+      },
+      {
+        "name": "Obatzda",
+        "description": "Bavarian cheese spread made with Camembert, butter, paprika, and onions. Served with pretzels or radishes.",
+        "origin_story": "A beer garden staple that transforms leftover Camembert into something magical. The name comes from Bavarian dialect meaning 'mashed up.' It's the perfect accompaniment to beer - salty, creamy, and traditionally eaten in the self-service area of beer gardens.",
+        "where_to_find": "Self-service areas of beer gardens: Chinesischer Turm (7,000 seats in English Garden), Augustiner Keller, Viktualienmarkt"
+      },
+      {
+        "name": "Steckerlfisch (Grilled Fish on a Stick)",
+        "description": "Whole mackerel grilled over an open flame on a wooden stick, brushed with herbs and oil.",
+        "origin_story": "A Munich beer garden favorite that brings the ocean to landlocked Bavaria. The fish is butterflied, skewered on a stick (Steckerl), and grilled over beechwood, creating a smoky, herbal flavor.",
+        "where_to_find": "Beer gardens throughout Munich, especially Viktualienmarkt beer garden (central location)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bavarian Weissbier (Hefeweizen)",
+        "description": "Cloudy wheat beer with notes of banana and clove, served in tall vase-shaped glasses.",
+        "how_locals_drink_it": "Always poured correctly - glass tilted, bottle held high, creating a thick foam crown. Drunk year-round but especially refreshing in summer beer gardens. Traditionally paired with Weisswurst for breakfast."
+      },
+      {
+        "name": "Helles (Munich Lager)",
+        "description": "Pale, golden lager that's smooth, malty, and slightly sweet. Munich's everyday beer.",
+        "how_locals_drink_it": "Served in 1-liter Maßkrüge (beer mugs) at beer gardens and halls. Locals can drink several Mass in a sitting. The six major Munich breweries (Augustiner, Hofbräu, Löwenbräu, Paulaner, Spaten, Hacker-Pschorr) rotate serving at Viktualienmarkt."
+      }
+    ],
+    "food_culture_notes": [
+      "Beer gardens have self-service areas where you can bring your own food - it's traditional and perfectly acceptable",
+      "The Reinheitsgebot (beer purity law from 1516) is taken seriously - Munich beer contains only water, barley, hops, and yeast",
+      "Viktualienmarkt beer garden is unique - it's the only one that doesn't belong to a single brewery; Munich's six breweries take turns",
+      "Brass bands play in beer garden towers on sunny days, especially at Chinesischer Turm in the English Garden"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Marienplatz Glockenspiel",
+      "English Garden",
+      "Nymphenburg Palace",
+      "BMW Welt"
+    ],
+    "atmosphere": [
+      "chestnut tree beer gardens",
+      "Bavarian brass bands",
+      "checkered tablecloths",
+      "alpine-style architecture"
+    ],
+    "colors": [
+      "Bavarian blue and white",
+      "beer hall wood tones",
+      "golden beer",
+      "lush English Garden green"
+    ],
+    "unique_modern": [
+      "world's largest beer gardens",
+      "BMW museum design",
+      "contemporary Bavarian fusion",
+      "high-tech meets tradition"
+    ]
+  },
+  "wikipedia_search_term": "Munich",
+  "keywords_for_image": [
+    "beer garden",
+    "Weisswurst",
+    "Marienplatz",
+    "Bavarian pretzels",
+    "English Garden"
+  ],
+  "coordinates": {
+    "lat": 48.1351,
+    "lng": 11.582
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Munich+🇩🇪/@48.1351,11.582,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Munich"
+  },
+  "location_id": 280
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Las Palmas",
+  "country": "Spain (Canary Islands)",
+  "fun_fact": "Fun fact: Las Palmas locals say they're 'more Canarian than gofio' - an ancient expression of pride referencing the roasted corn flour that sustained islanders for centuries, originally brought by the indigenous Guanche people.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Papas Arrugadas con Mojo",
+        "description": "Small wrinkled potatoes boiled in seawater-level saltiness, served with two vibrant mojo sauces - red (rojo) with paprika and chili, green (verde) with cilantro and parsley",
+        "origin_story": "Traditionally boiled in actual seawater by fishermen and farmers. The volcanic soil of the Canary Islands gives these potatoes a unique flavor that makes them central to every meal - locals say 'if papas arrugadas aren't part of the meal, you haven't eaten'",
+        "where_to_find": "Bodegón Pachichi in Las Palmas is famous for their mojo picón, so popular locals buy half-liter takeaway portions"
+      },
+      {
+        "name": "Gofio",
+        "description": "Roasted corn or grain flour that's mixed into everything - stirred into warm milk for breakfast, shaped into dough balls (pella) to eat with meals, or made into gofio escaldado with fish broth",
+        "origin_story": "The staple food of Canarians for centuries, so iconic there's an expression 'I'm more Canarian than gofio.' Still produced locally and added to countless dishes",
+        "where_to_find": "Available at Mercado Central in Las Palmas and used in traditional dishes at local tascas"
+      },
+      {
+        "name": "Ropa Vieja",
+        "description": "Hearty stew made with meat, vegetables, potatoes and chickpeas - the most popular dish in the Canary Islands",
+        "origin_story": "Name means 'old clothes' because it was traditionally made from leftovers, transforming yesterday's meal into today's comfort food",
+        "where_to_find": "Traditional Canarian restaurants throughout Las Palmas serve this as a daily staple"
+      },
+      {
+        "name": "Sancocho Canario",
+        "description": "Light, healthy dish of broiled whole fish served alongside papas arrugadas and gofio",
+        "origin_story": "Reflects the Canarian dependence on fresh local seafood, prepared simply to let the fish shine",
+        "where_to_find": "Coastal restaurants and tascas in Las Palmas' fishing neighborhoods"
+      },
+      {
+        "name": "Queso Asado",
+        "description": "Soft but firm goat or sheep cheese, grilled to perfection with a crispy crust on the outside",
+        "origin_story": "Canary Islands have a long tradition of raising goats and sheep, mastering artisanal cheese-making over centuries",
+        "where_to_find": "Mercado Central, San Mateo market, Mercadillo de Teror, and Recova de Gáldar for artisan cheeses"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Ron Miel (Honey Rum)",
+        "description": "Sweet golden liqueur made from rum blended with at least 2% natural Canarian honey, ranging from 20-45% alcohol",
+        "how_locals_drink_it": "Served ice-cold as shots with a sprinkle of lime juice, or as an aperitif/digestif. Ron Miel Guanche is the most consumed liqueur in Gran Canaria. The iconic Arehucas Distillery has been making it since 1885"
+      },
+      {
+        "name": "Tropical Beer",
+        "description": "The pride of Las Palmas and Gran Canaria's local brewery",
+        "how_locals_drink_it": "Served cold with tapas and traditional dishes, especially popular in beach-side bars"
+      },
+      {
+        "name": "Cidre Breton with Currant Liqueur",
+        "description": "Breton cider mixed with blackcurrant liqueur",
+        "how_locals_drink_it": "Popular aperitif in Las Palmas' bars"
+      }
+    ],
+    "food_culture_notes": [
+      "Papas arrugadas appear at every meal - locals consider them as essential as pasta is to Italians",
+      "Mojo sauce originated in the Canary Islands and spread worldwide - two varieties (red and green) are served with almost everything",
+      "The volcanic soil gives Canarian potatoes and produce a unique flavor found nowhere else",
+      "Ron Miel has protected EU status - only Canarian-made honey rum can use this name",
+      "Traditional tascas (small bars) serve local dishes in authentic settings with locals buying mojo sauce to-go",
+      "Markets like Mercado Central are central to food culture, selling fresh local produce and artisan cheeses"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Vegueta old town with colonial architecture",
+      "Las Canteras Beach - urban beach with palm-lined promenade",
+      "Colorful historic buildings",
+      "Atlantic Ocean waterfront",
+      "Volcanic landscapes nearby"
+    ],
+    "atmosphere": [
+      "Year-round spring climate",
+      "Beach city energy",
+      "Spanish colonial heritage mixed with island culture",
+      "Outdoor cafes and tascas",
+      "Markets filled with local produce"
+    ],
+    "colors": [
+      "Ocean blues and turquoise",
+      "Sandy beiges and volcanic grays",
+      "Bright tropical building colors - yellows, oranges, pinks",
+      "Deep green palm trees",
+      "Golden honey rum amber"
+    ],
+    "unique_modern": [
+      "Urban beach culture",
+      "Modern marina contrasting with old town",
+      "Vibrant street life and tapas scene",
+      "Year-round outdoor dining"
+    ]
+  },
+  "wikipedia_search_term": "Las_Palmas",
+  "keywords_for_image": [
+    "Las Palmas Gran Canaria",
+    "papas arrugadas mojo sauce",
+    "Canary Islands food",
+    "Las Canteras beach",
+    "Vegueta old town",
+    "Atlantic island city",
+    "volcanic landscape Canaries",
+    "Spanish colonial architecture Canary Islands",
+    "ron miel honey rum",
+    "traditional Canarian tasca"
+  ],
+  "coordinates": {
+    "lat": 28.1236,
+    "lng": -15.4366
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Las+Palmas+🇪🇸/@28.1236,-15.4366,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Las_Palmas"
+  },
+  "location_id": 51
+}

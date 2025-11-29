@@ -1,0 +1,95 @@
+{
+  "name": "Oslo",
+  "country": "Norway",
+  "fun_fact": "Fun fact: Brunost (brown cheese) was invented by farmer's wife Anne Hov in the 1860s and became so important to Norway's economy that she received the King's Medal for Merit in 1933 - Norwegians eat it for breakfast, lunch, dinner, and even on waffles!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fårikål",
+        "description": "Slow-cooked lamb and cabbage stew with peppercorns - Norway's national dish",
+        "origin_story": "Voted national dish in 1970s radio program, celebrated last Thursday of September",
+        "where_to_find": "Dovrehallen Restaurant (Thursday specialty), Kaffistova"
+      },
+      {
+        "name": "Brunost",
+        "description": "Sweet caramel-like brown cheese made from whey, goat's and cow's milk",
+        "origin_story": "Created by Anne Hov in 1863, she received King's Medal for Merit",
+        "where_to_find": "Every grocery store, Harald's Vaffel serves it on waffles"
+      },
+      {
+        "name": "Pølse i Lompe",
+        "description": "Sausage wrapped in soft potato flatbread",
+        "origin_story": "Norwegian street food classic",
+        "where_to_find": "Syverkiosken (legendary, widespread consensus on best)"
+      },
+      {
+        "name": "Pinnekjøtt",
+        "description": "Salted and dried lamb ribs steamed over birch branches",
+        "origin_story": "Traditional Christmas Eve dish",
+        "where_to_find": "Restaurants during Christmas season"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Aquavit",
+        "description": "Caraway-spiced Scandinavian spirit",
+        "how_locals_drink_it": "Chilled, especially with festive meals"
+      },
+      {
+        "name": "Norwegian Coffee",
+        "description": "Norway has one of world's highest coffee consumptions per capita",
+        "how_locals_drink_it": "Throughout the day, strong and black"
+      }
+    ],
+    "food_culture_notes": [
+      "Dovrehallen at Storgata 22 is haven of Norwegian gastronomic heritage",
+      "Mathallen Oslo in Vulkan district is food hall in renovated industrial warehouse",
+      "Seasonal eating important - fårikål in autumn, pinnekjøtt at Christmas",
+      "Kaffistova offers cafeteria-style traditional dishes by day"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Oslo Opera House",
+      "Vigeland Sculpture Park",
+      "Akershus Fortress",
+      "Oslo Fjord"
+    ],
+    "atmosphere": [
+      "Nordic minimalism",
+      "waterfront dining",
+      "outdoor terraces in summer",
+      "cozy winter interiors"
+    ],
+    "colors": [
+      "fjord blue",
+      "Nordic white",
+      "forest green",
+      "wooden brown"
+    ],
+    "unique_modern": [
+      "Barcode buildings",
+      "Mathallen food hall",
+      "Aker Brygge waterfront"
+    ]
+  },
+  "wikipedia_search_term": "Oslo",
+  "keywords_for_image": [
+    "fårikål lamb stew",
+    "brunost brown cheese on bread",
+    "waffles",
+    "Oslo Opera House",
+    "Oslo Fjord",
+    "Nordic design",
+    "waterfront"
+  ],
+  "coordinates": {
+    "lat": 59.9139,
+    "lng": 10.7522
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Oslo+🇳🇴/@59.9139,10.7522,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oslo"
+  },
+  "location_id": 19
+}

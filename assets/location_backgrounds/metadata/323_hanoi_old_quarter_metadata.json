@@ -1,0 +1,94 @@
+{
+  "name": "Hanoi Old Quarter",
+  "country": "Vietnam",
+  "fun_fact": "Fun fact: The Nguyen dynasty taxed buildings based on street frontage, leading Hanoians to build 'tube houses' - narrow facades (sometimes just 2-3 meters wide) that stretch deep and high with multiple courtyards, creating the Old Quarter's distinctive narrow architecture that survives 2,000 years later.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pho",
+        "description": "Aromatic beef or chicken broth poured over rice noodles, topped with thinly sliced meat, fresh herbs (Thai basil, cilantro, sawtooth coriander), lime, and chili",
+        "origin_story": "Born in early 20th century Hanoi, possibly from French pot-au-feu influence during colonial rule. Street vendors balanced bamboo poles with pots of simmering broth, selling bowls at dawn. Hanoi pho is more subtle and refined than southern versions - fewer garnishes, clearer broth, focus on beef. Locals eat it for breakfast, slurping loudly to show appreciation.",
+        "where_to_find": "Phở Gia Truyền Bát Đàn (considered best in Hanoi, 50,000 VND per bowl), Pho Thin (unique preparation - beef stir-fried with garlic before adding to soup), Pho Hang Trong (8 Hàng Trống, open 3-8PM), or Phở Sướng at 24B Ngo Trung Yen"
+      },
+      {
+        "name": "Bun Cha",
+        "description": "Grilled pork patties and pork belly served over rice vermicelli with dipping broth (nước chấm), fresh herbs, and pickled vegetables",
+        "origin_story": "Invented in Hanoi's Old Quarter in the 1950s, possibly on Gia Ngu Street near Hang Be Market. The first vendor grilled pork over charcoal, creating smoky patties dunked in sweet-sour-spicy broth. It became Obama and Anthony Bourdain's famous meal in 2016 at Bun Cha Huong Lien - now called the 'Obama bowl.' True Hanoians eat it only at lunch.",
+        "where_to_find": "Gia Ngu Street near Hang Be Market (original location, open 10:30AM-2:30PM), Bun Cha 74 Hang Quat (generous portions, secret marinade), Bun Cha Ta at 21 Nguyen Huu Huan (top ten street food), or Bun Cha Dac Kim (famous crab spring rolls)"
+      },
+      {
+        "name": "Banh Mi",
+        "description": "Vietnamese baguette sandwich with pâté, Vietnamese cold cuts, pickled daikon and carrot, cucumber, cilantro, and chili sauce",
+        "origin_story": "French colonizers brought baguettes, Vietnamese added local ingredients. The perfect banh mi has a crispy crust from rice flour-wheat mix, airy inside from high humidity during baking. The filling balance is an art: rich pâté, savory meats, tangy pickles, fresh herbs, spicy chilies. Street carts assemble them to order in 30 seconds.",
+        "where_to_find": "Street vendors throughout Old Quarter (look for charcoal grills and crowds), Banh Mi 25 on Hang Ca Street (tourist famous but good), or local carts near Dong Xuan Market"
+      },
+      {
+        "name": "Egg Coffee (Cà Phê Trứng)",
+        "description": "Vietnamese coffee topped with thick, creamy foam made from whipped egg yolk, sugar, and condensed milk - tastes like liquid tiramisu",
+        "origin_story": "Invented in 1946 at Giang Cafe when milk was scarce after French departure. Bartender Nguyen Van Giang whipped egg yolks with sugar and condensed milk to create foam topping for coffee. The original cafe still operates, run by his descendants. Drink it hot or iced, but always sip through the foam - never stir.",
+        "where_to_find": "Cafe Giang (original location since 1946), Cafe Dinh, or Hanoi Social Club"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bia Hoi",
+        "description": "Fresh draft lager brewed daily, matured briefly, delivered by motorbike - the world's cheapest beer",
+        "how_locals_drink_it": "Hanoians gather at plastic tables on sidewalks (bia hoi corners) after work, drinking from small glasses while snacking on peanuts or grilled meats. The beer costs around 5,000-10,000 VND (20-40 cents USD). It's weak (3% alcohol) so locals drink many glasses. Peak time is 4-7PM. The beer is gone when the keg runs out."
+      },
+      {
+        "name": "Vietnamese Iced Coffee (Cà Phê Sữa Đá)",
+        "description": "Strong dark roast coffee dripped through a metal filter (phin) over condensed milk, served over ice",
+        "how_locals_drink_it": "The phin drips coffee slowly - patience is part of the ritual. Sit at a sidewalk cafe watching motorbikes stream past while coffee drips. Stir the condensed milk from bottom, creating a sweet-bitter swirl. Hanoians drink it morning and afternoon. Some prefer hot version (cà phê sữa nóng) in cooler months."
+      }
+    ],
+    "food_culture_notes": [
+      "Each street in the '36 Streets' historically specialized in one craft - Hang Bac (silver), Hang Gai (silk), Hang Tre (bamboo)",
+      "Street food timing matters: pho for breakfast (6-9AM), bun cha for lunch (11AM-2PM), bia hoi for evening (4-7PM)",
+      "Plastic stools and low tables are standard - squat down with locals, ignore the lack of amenities",
+      "Cash only at most stalls - meals cost $1-3 USD, look for busy stalls with high turnover for freshness"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lake of the Restored Sword (Hoan Kiem Lake) with red bridge to Ngoc Son Temple",
+      "Dong Xuan Market - Vietnam's oldest and largest market since colonial times",
+      "Hang Bac Street - one of Vietnam's oldest streets, silver casting since 13th century",
+      "Train Street - railway line with Vietnamese-Korean street art murals between buildings"
+    ],
+    "atmosphere": [
+      "2,000-year-old quarter evolving from snake-infested swamp to bustling craft guilds",
+      "Narrow 'tube houses' from dynasty-era frontage taxes",
+      "Motorbikes weaving through pedestrians on streets named for ancient trades",
+      "Bia hoi corners with plastic furniture spilling onto sidewalks at dusk"
+    ],
+    "colors": [
+      "red and gold of temple doors and lanterns",
+      "golden morning light filtering through narrow alleyways",
+      "vibrant herb greens in pho bowls",
+      "pastel French colonial buildings mixed with Vietnamese architecture"
+    ],
+    "unique_modern": [
+      "Hang Gai (Silk Street) has 100+ silk shops - tailors make bespoke suits in 24 hours",
+      "Cheapest beer in the world - bia hoi at 20-40 cents USD per glass",
+      "Obama and Bourdain ate bun cha at Bun Cha Huong Lien in 2016 - now the 'Obama bowl'",
+      "Cafe Giang invented egg coffee in 1946 during milk shortage - still family-run"
+    ]
+  },
+  "wikipedia_search_term": "Old_Quarter,_Hanoi",
+  "keywords_for_image": [
+    "hanoi old quarter tube houses",
+    "pho vietnamese soup",
+    "bun cha grilled pork",
+    "bia hoi street corner",
+    "egg coffee ca phe trung"
+  ],
+  "coordinates": {
+    "lat": 21.0285,
+    "lng": 105.8542
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hanoi+Old+Quarter+🇻🇳/@21.0285,105.8542,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Old_Quarter,_Hanoi"
+  },
+  "location_id": 323
+}

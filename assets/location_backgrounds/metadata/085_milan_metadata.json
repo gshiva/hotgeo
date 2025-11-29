@@ -1,0 +1,104 @@
+{
+  "name": "Milan",
+  "country": "Italy",
+  "region": "Lombardy",
+  "fun_fact": "Fun fact: Milan is the birthplace of the Negroni Sbagliato ('wrong Negroni'), invented by mistake in 1972 when bartender Mirko Stocchetto accidentally grabbed sparkling wine instead of gin. The city is also Italy's largest rice producer, perfecting risotto alla Milanese!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Risotto alla Milanese",
+        "description": "Luxuriously creamy saffron-perfumed risotto made with bone marrow and cheese. The signature golden color comes from precious saffron threads.",
+        "origin_story": "Legend says this dish originated in the 16th century when an apprentice working on the Duomo's stained-glass windows added saffron to white rice. Milan sits in the Po Valley, Italy's largest rice-producing region.",
+        "where_to_find": "Ratanà in Porta Nuova (famed for their version); Trattoria Milanese on Via Santa Marta for classic old-school preparation; Monzù Bistrot for contemporary seafood risotto"
+      },
+      {
+        "name": "Ossobuco with Risotto",
+        "description": "Rich, slow-cooked veal shank braised until fall-off-the-bone tender, traditionally served alongside saffron risotto Milanese.",
+        "origin_story": "A classic Milanese pairing that showcases the region's expertise with both rice and veal, representing the city's culinary heritage.",
+        "where_to_find": "Ratanà for particularly rich ossobuco with historic fine-dining experience; Al Garghet (Via Selvanesco 36) for quality traditional preparation in rustic countryside setting; Monzù Bistrot for tender slow-cooked version"
+      },
+      {
+        "name": "Cotoletta alla Milanese",
+        "description": "Breaded veal cutlet, golden and crispy, pounded thin and fried to perfection. A Milanese staple found at every traditional trattoria.",
+        "origin_story": "One of Milan's most iconic dishes, the cotoletta represents the city's love of simple but perfectly executed classics.",
+        "where_to_find": "Al Garghet for traditional preparation; Trattoria Milanese for old-school versions; Osteria La Piola for classic trattoria style"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Negroni Sbagliato",
+        "description": "Equal parts Campari, sweet red vermouth, and sparkling wine (Prosecco) instead of gin. Served with orange slice and famously large ice cube.",
+        "how_locals_drink_it": "Invented and still served at Bar Basso, the historic birthplace (over 500 cocktails on menu). Enjoy during aperitivo around 7pm at bars throughout Milan, especially in Navigli canal district"
+      },
+      {
+        "name": "Classic Aperitivo",
+        "description": "Milan is the godfather of Italian aperitivo culture. Negroni (gin, vermouth, Campari) and Spritz are standards, paired with complimentary food spreads.",
+        "how_locals_drink_it": "Aperitivo culture starts at 7pm - the drink costs €6-15 and includes meats, cheeses, vegetables, breads. Head to Osteria Alla Concorrenza for natural wines; Madama Hostel & Bistrot for cocktails; Navigli canals for open-air patios"
+      },
+      {
+        "name": "Franciacorta Sparkling Wine",
+        "description": "Lombardy's answer to Champagne - high-quality sparkling wine from just outside Milan, often served during aperitivo.",
+        "how_locals_drink_it": "Popular choice at Milan's aperitivo bars and enoteche, representing regional pride in Lombard wine production"
+      }
+    ],
+    "food_culture_notes": [
+      "Milan invented and perfected aperitivo culture in the 1930s with 'futurist mixing'",
+      "Aperitivo is about stimulating appetite before dinner, not replacing it",
+      "The rise of aperitivo associated with Campari's invention in nearby Novara in 1860",
+      "Po Valley rice production makes Milan the expert in risotto",
+      "Traditional trattorias have 90% local customers, slightly grumpy senior staff, and all the classics",
+      "Best aperitivo areas: Navigli (bohemian canals), Porta Nuova (modern district), Isola"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Duomo cathedral with Gothic spires",
+      "Navigli canals with outdoor patios",
+      "Porta Nuova and Bosco Verticale (vertical forest towers)",
+      "Piazza Gae Aulenti modern district",
+      "Historic Bar Basso",
+      "Fashionable shopping districts"
+    ],
+    "atmosphere": [
+      "Fashion capital sophistication",
+      "Aperitivo hour buzz (7pm onwards)",
+      "Old-school trattoria warmth with red checkered tablecloths",
+      "Modern finance and design energy",
+      "Canal-side drinking culture",
+      "Historic wine bars with natural wines"
+    ],
+    "colors": [
+      "Golden saffron risotto",
+      "Deep red Campari and Negroni",
+      "Orange peel garnishes",
+      "Amber Franciacorta bubbles",
+      "White marble Duomo",
+      "Green Navigli canal waters"
+    ],
+    "unique_modern": [
+      "Birthplace of the viral Negroni Sbagliato (TikTok fame)",
+      "Aperitivo culture evolution beyond Aperol Spritz",
+      "Natural wine bars like Osteria Alla Concorrenza",
+      "Contemporary restaurants merging tradition with innovation",
+      "Design Week restaurant openings"
+    ]
+  },
+  "wikipedia_search_term": "Milan",
+  "keywords_for_image": [
+    "Milan Italy risotto alla Milanese saffron",
+    "Negroni Sbagliato Bar Basso Milan",
+    "Milan aperitivo culture Navigli canals",
+    "Duomo di Milano cathedral",
+    "Milanese ossobuco veal",
+    "Milan fashion capital dining"
+  ],
+  "coordinates": {
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Milan+🇮🇹/@45.4642,9.19,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milan"
+  },
+  "location_id": 85
+}

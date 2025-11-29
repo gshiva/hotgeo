@@ -1,0 +1,94 @@
+{
+  "name": "Kuala Lumpur",
+  "country": "Malaysia",
+  "fun_fact": "Fun fact: The Petronas Twin Towers' foundation required the single largest continuous concrete pour in Malaysian history - 13,200 cubic meters poured non-stop for 54 hours per tower, creating foundations that plunge 120 meters deep into what was once Malaysia's earliest horse racing track.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Char Kuey Teow",
+        "description": "Flat rice noodles wok-fried at blistering heat with prawns, cockles, Chinese sausage, bean sprouts, and crispy pork lard - the hallmark is 'wok hei', that smoky, charred aroma",
+        "origin_story": "Originally created by Chinese immigrants in Penang as a cheap, filling meal for dockworkers, char kuey teow became a KL obsession. The secret is the wok temperature - it must be scorching hot to achieve the elusive wok hei without turning the noodles mushy.",
+        "where_to_find": "Blue Boy Vegetarian Food Court in Blue Boy Mansion (cooked by Ah Wa for nearly 40 years, legendary vegetarian version), Steven's Fried Kuey Teow at Nam Chuan Coffee Shop in Bangsar, or Lai Foong Restaurant (operating since 1956)"
+      },
+      {
+        "name": "Nasi Lemak",
+        "description": "Fragrant coconut rice served with sambal (spicy chili paste), fried anchovies, peanuts, boiled egg, and cucumber - Malaysia's national dish",
+        "origin_story": "Meaning 'fatty rice' in Malay, nasi lemak was originally a farmer's breakfast to fuel long days in the paddy fields. The coconut cream-cooked rice provides sustained energy, while sambal adds the kick. Each hawker's sambal recipe is a closely guarded secret.",
+        "where_to_find": "Village Park Restaurant in Damansara Utama (legendary version), Nasi Lemak Peel Road in Maluri (Chinese-style since 1970s with wild boar option), Nasi Lemak Wanjo or Nasi Lemak Antarabangsa in Kampung Baru, or Madam Kwan's in KLCC Suria"
+      },
+      {
+        "name": "Bak Kut Teh",
+        "description": "Pork rib soup simmered for hours in a fragrant broth of herbs, spices, garlic, and sometimes medicinal ingredients - served with fried dough sticks (you tiao) for dipping",
+        "origin_story": "Created by Hokkien Chinese laborers working in tin mines and rubber plantations, bak kut teh ('meat bone tea') was meant to restore strength after grueling shifts. The herbal broth was believed to have medicinal properties. Today, families debate whether Klang-style (darker, more herbal) or Teochew-style (peppery, lighter) is superior.",
+        "where_to_find": "Lot 10 Hutong Food Court in Bukit Bintang, or venture to Klang (30 minutes from KL) where the dish originated"
+      },
+      {
+        "name": "Satay",
+        "description": "Skewered and grilled meat (chicken, beef, or mutton) served with peanut sauce, cucumber, onion, and ketupat (compressed rice cakes)",
+        "origin_story": "Adapted from Indonesian satay by Malay street vendors, KL's version features a sweeter peanut sauce and is grilled over charcoal for smoky flavor. Satay is the ultimate communal food - friends gather around the grill, order dozens of skewers, and argue about whether chicken or mutton is better.",
+        "where_to_find": "Kampung Baru for Satay Padang, Petaling Street (Chinatown) hawker stalls, or Capitol Cafe"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Teh Tarik",
+        "description": "Strong black tea mixed with condensed milk, 'pulled' by pouring between two containers to create a frothy top",
+        "how_locals_drink_it": "The name means 'pulled tea' and the theatrical pouring technique isn't just for show - it cools the tea and creates a creamy foam. Locals drink it at mamak stalls (Indian-Muslim eateries) while watching football matches, gossiping, or working late into the night. The longer the pull, the more respect for the tea master."
+      },
+      {
+        "name": "Cendol",
+        "description": "Shaved ice dessert drink with green rice flour jelly noodles, coconut milk, palm sugar syrup, and red beans",
+        "how_locals_drink_it": "Not quite a drink, not quite a dessert - cendol is KL's antidote to tropical heat. Locals slurp it at hawker centers during the sweltering afternoon lull. The green pandan-flavored jelly noodles look like worms but taste heavenly when mixed with the sweet gula melaka (palm sugar)."
+      }
+    ],
+    "food_culture_notes": [
+      "Mamak culture is uniquely Malaysian - 24-hour Indian-Muslim eateries where all races gather for roti canai, teh tarik, and nasi kandar",
+      "Hawker centers and food courts are where authentic food lives - air-conditioned restaurants often cater to tourists with diluted flavors",
+      "Kampung Baru is the traditional Malay village within the city, preserved since 1899, where wooden houses serve some of KL's most authentic Malay food",
+      "Petaling Street (Chinatown) transforms at night into a sizzling food paradise with woks firing and vendors shouting orders"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Petronas Twin Towers - world's tallest twin skyscrapers at 451.9m with sky bridge on 41st-42nd floors",
+      "Batu Caves - 140-year-old Hindu temple in limestone cave with 272 rainbow-colored steps and giant golden Murugan statue",
+      "Merdeka Square - colonial-era cricket field where Malaysian flag was first raised in 1957",
+      "KL Tower - 421m telecommunications tower offering 360° city views"
+    ],
+    "atmosphere": [
+      "Tropical heat and humidity year-round with sudden afternoon thunderstorms",
+      "Mix of futuristic skyscrapers, British colonial buildings, and traditional kampung villages",
+      "Call to prayer from mosques blending with traffic noise and hawker center sizzle",
+      "Petronas Towers built on former Selangor Turf Club horse racing grounds"
+    ],
+    "colors": [
+      "gleaming silver and blue glass of Petronas Towers",
+      "vibrant rainbow steps of Batu Caves",
+      "golden dome of Sultan Abdul Samad Building",
+      "neon signs and lanterns of Petaling Street at night"
+    ],
+    "unique_modern": [
+      "Petronas Towers' Islamic geometric design - floor plates shaped as eight-pointed stars from interlocking squares",
+      "Towers built in construction race between Japanese (Hazama) and South Korean (Samsung) companies",
+      "French climber Alain Robert scaled Tower Two with bare hands in under 2 hours (2009)",
+      "Towers opened August 31, 1999 and won Tripadvisor Traveller's Choice 2024 award at 25th anniversary"
+    ]
+  },
+  "wikipedia_search_term": "Kuala_Lumpur",
+  "keywords_for_image": [
+    "petronas twin towers kuala lumpur",
+    "nasi lemak sambal",
+    "char kuey teow wok",
+    "batu caves rainbow stairs",
+    "teh tarik pulled tea"
+  ],
+  "coordinates": {
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kuala+Lumpur+🇲🇾/@3.139,101.6869,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  },
+  "location_id": 319
+}

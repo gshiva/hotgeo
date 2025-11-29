@@ -1,0 +1,94 @@
+{
+  "name": "Pondicherry",
+  "country": "India",
+  "fun_fact": "Fun fact: Pondicherry remained French until 1954 - nine years after India's independence - and the city is literally divided into two halves: the French Quarter (Ville Blanche) with pastel colonial buildings and the Indian Quarter (Ville Noire). Street signs are still in French and Tamil, and locals speak both languages fluently",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pondicherry Fish Assad Curry (Creole)",
+        "description": "The quintessential Pondy dish - coconut milk-laden fish curry flavored with star anise, curry leaves, and finished with lime. It's neither fully French nor fully Tamil - it's pure Creole fusion",
+        "origin_story": "Born from 250 years of French-Tamil intermarriage and cultural blending. French colonists married local women who adapted French techniques to Tamil ingredients. The result is Creole cuisine - a dying art that older residents now teach in cooking classes to preserve these fading recipes",
+        "where_to_find": "Villa Shanti (14 Suffren Street, White Town), Le Dupleix (Suffren Street), local Creole cooking classes in French Quarter homes"
+      },
+      {
+        "name": "Meen Puyabaise (Tamil Bouillabaisse)",
+        "description": "French bouillabaisse transformed with turmeric, tamarind, and coconut milk - chunks of local fish in a golden-orange broth that's both familiar and completely foreign to French palates",
+        "origin_story": "When French sailors craved their homeland's seafood stew, Tamil cooks recreated it with local spices. Traditional Marseille bouillabaisse got a South Indian makeover with curry leaves and kokum. It became so popular that even French residents preferred this version",
+        "where_to_find": "Villa Shanti (European-Asian fusion), Le Café (Goubert Ave Beach Road), Bay of Buddha (White Town with ocean views)"
+      },
+      {
+        "name": "Kadugu Yerra (Mustard Prawn)",
+        "description": "Plump local prawns cooked in a thick gravy where French mustard seeds meet Tamil coconut - the sharp, earthy kick of mustard balanced by sweet coconut base",
+        "origin_story": "The perfect symbol of Pondicherry's dual soul. French colonists brought their love of Dijon mustard, while coastal Tamil cooks relied on coconut for everything. Someone combined them, and magic happened. This dish exists nowhere else in the world",
+        "where_to_find": "Kasha Ki Aasha (23 Surcouf Street - European fusion), local Creole restaurants, Villa Shanti"
+      },
+      {
+        "name": "French Croissants and Baguettes",
+        "description": "Authentic French pastries made daily - buttery, flaky croissants and crusty baguettes that transport you straight to Paris, but served with Tamil filter coffee",
+        "origin_story": "French bakers taught local apprentices who kept the traditions alive even after 1954. Pondicherry is the only place in India where you can get genuinely authentic French bread and pastries, made using techniques passed down for generations",
+        "where_to_find": "Baker Street (Bussy Street - famous for croissants and gourmet sandwiches), The Indian Kaffe Express (123 Bussy Street - coffee and crepes), Le Café (Beach Road)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "French Filter Coffee (Café au Lait meets Tamil Filter Coffee)",
+        "description": "A hybrid brew - French café au lait technique applied to South Indian filter coffee beans, creating a drink that's neither French nor Tamil but uniquely Pondy",
+        "how_locals_drink_it": "Served in traditional French cups but made with Tamil Peaberry beans. Locals drink it at breakfast with croissants, combining the best of both worlds. The older generation still prefers traditional 'meter coffee' poured from great heights"
+      },
+      {
+        "name": "Pondicherry Beer and French Wine",
+        "description": "Local craft beer from Pondicherry breweries alongside French wines that are easier to find here than anywhere else in India due to the city's import privileges",
+        "how_locals_drink_it": "Beer with Tamil meals, wine with French dinners - often at the same restaurant. Pondicherry has more relaxed alcohol laws than other parts of India, inherited from French times. Seaside cafes serve chilled rosé with sunset views"
+      }
+    ],
+    "food_culture_notes": [
+      "Creole cuisine is sadly dying out - younger generations prefer pure French or pure Indian food, not the hybrid dishes their grandparents created",
+      "You can eat a French croissant for breakfast, Creole fish curry for lunch, and Tamil thali for dinner, all within a few blocks",
+      "The French Quarter has yellow buildings with blue shutters - mandatory colonial-era color codes still enforced today",
+      "Nearby Auroville (founded 1968) is an experimental international township promoting unity and sustainable living, adding another layer of global fusion to the food scene"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "French Quarter (Ville Blanche) with pastel colonial buildings",
+      "Promenade Beach and Gandhi statue (one of Asia's biggest)",
+      "Sri Aurobindo Ashram on Rue de la Marine",
+      "Auroville's Matri Mandir (golden spherical meditation center)"
+    ],
+    "atmosphere": [
+      "bicycles on quiet cobblestone streets",
+      "bougainvillea cascading from colonial balconies",
+      "French Quarter cafes with wicker chairs",
+      "Bay of Bengal ocean breeze"
+    ],
+    "colors": [
+      "mustard yellow and white (French colonial buildings)",
+      "cerulean blue (shutters and doors)",
+      "golden turmeric (in curries)",
+      "pastel pink and mint green (painted facades)"
+    ],
+    "unique_modern": [
+      "Bilingual street signs in French and Tamil",
+      "Auroville experimental township (founded 1968)",
+      "Only Indian city where French is actively spoken",
+      "Named 2028 European Capital of Culture alongside Skopje"
+    ]
+  },
+  "wikipedia_search_term": "Pondicherry",
+  "keywords_for_image": [
+    "Pondicherry French Quarter colonial",
+    "Creole fish curry Pondicherry",
+    "Auroville Matri Mandir",
+    "French India yellow buildings",
+    "Pondicherry beach promenade"
+  ],
+  "coordinates": {
+    "lat": 11.9416,
+    "lng": 79.8083
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pondicherry+🇮🇳/@11.9416,79.8083,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pondicherry"
+  },
+  "location_id": 346
+}

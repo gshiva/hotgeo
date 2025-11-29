@@ -1,0 +1,106 @@
+{
+  "name": "Hamburg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Hamburg has over 1,000 years of beer brewing history and was once the most important brewing center of the Hanseatic League with 500+ breweries. Weißbier (wheat beer) is actually a Hamburg invention from the 14th century, not Bavaria! Between the 13th-15th centuries, Hamburg produced more beer than any other city 'far and wide.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Labskaus",
+        "description": "Hamburg's signature sailor's dish made with potatoes, corned beef or salted meat, beets, and onions, typically served with a fried egg, pickles, and pickled herring fillets",
+        "origin_story": "Originated in the 16th century as a meal for sailors who were out at sea for a long time. It's cooked from long-lasting ingredients that wouldn't spoil on extended voyages, creating a unique pink-colored hash that's deeply ingrained in Hamburg's maritime culinary history.",
+        "where_to_find": "Old Commercial Room restaurant in St Pauli serves the best Labskaus—this is THE place to 'get' Hamburg's port culture"
+      },
+      {
+        "name": "Fischbrötchen",
+        "description": "Simple yet delectable fish sandwich featuring fresh locally sourced fish (herring, mackerel, or salmon) served in a crispy roll",
+        "origin_story": "The snack Hamburg dockworkers used to have during the day. This street food staple embodies the city's maritime identity in the simplest form.",
+        "where_to_find": "Altona Fish Market (Fischmarkt) operating every Sunday morning since 1703, or Brücke 10 for the best fischbrötchen in Hamburg"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Alsterwasser",
+        "description": "Refreshing shandy-style drink made by mixing equal parts beer and lemon soda—light, fizzy, and slightly sweet, named after the city's Alster river",
+        "how_locals_drink_it": "A favorite among Hamburgers, especially during warm summer months by the Alster lakes. Called 'Radler' in other parts of Germany, but in Hamburg, it's Alsterwasser."
+      },
+      {
+        "name": "Astra Beer",
+        "description": "Hamburg's iconic local Pils with the motto 'Astra. Was dagegen?' (Astra. Got a problem with that?). Market leader alongside Holsten, representing St. Pauli football club culture",
+        "how_locals_drink_it": "Drunk by St. Pauli supporters (while Holsten is for HSV fans). The ASTRA brewery pub serves craft beers, tapas, and offers brewing seminars. Astra likes to swim against the current and shows this self-confidently."
+      },
+      {
+        "name": "Ratsherrn Craft Beer",
+        "description": "Modern craft brewery from 2012 in the trendy Sternschanze district, influenced by Hamburg tradition and modern inspiration from US, Denmark, and Italy",
+        "how_locals_drink_it": "Enjoyed at Altes Mädchen Ratsherrn Braugasthaus, a charming country-style alehouse serving craft beers with sophisticated seasonal dishes and homemade bread. Hamburg's craft beer movement has been breathing new life into brewing since 2013."
+      },
+      {
+        "name": "Senatsbock",
+        "description": "Traditional strong beer brewed annually between 1950s-1970s, revived in 2015 as a collaborative project between nine Hamburg breweries",
+        "how_locals_drink_it": "Celebrated with fanfare, celebrity guests, and tapping ceremonies in the venerable Curiohaus. Now involves breweries like BLOCKBRÄU, Gröninger, Kehrwieder, and Ratsherrn creating various Senatsböcke."
+      }
+    ],
+    "food_culture_notes": [
+      "Hamburg is a city of dualisms—port with ancient Hanseatic League history on the Elbe, and the sophisticated Alster lakes in the city center",
+      "St Pauli is the place to 'get' Hamburg—bustling port, fischbrötchen from stalls, labskaus at Old Commercial Room",
+      "Fischmarkt (fish market) has operated every Sunday morning since 1703 with fresh fish, fischbrötchen, and live music",
+      "Hamburg was the most important brewing center of the Hanseatic League—a large association of European merchant guilds and trading cities",
+      "The craft beer movement since 2013 is breathing new life into 1,000+ years of brewing tradition",
+      "Schanzenviertel (former meatpacking district) is now a lively craft beer destination with underground pubs and trendy bars",
+      "Beer rivalry mirrors football: Astra (St. Pauli) vs. Holsten (HSV)—though both are produced under one roof since 1998"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Elbphilharmonie concert hall",
+      "Speicherstadt warehouse district (UNESCO World Heritage)",
+      "Alster Lake (artificial lakes)",
+      "Port of Hamburg (largest in Germany)",
+      "St. Pauli neighborhood",
+      "Fischmarkt by River Elbe"
+    ],
+    "atmosphere": [
+      "Bustling port with maritime history",
+      "Sunday morning fish market with live music",
+      "Sophisticated Alster lakeside cafes",
+      "Trendy Schanzenviertel craft beer scene",
+      "Hanseatic merchant upper-middle-class power",
+      "Dockworker street food culture"
+    ],
+    "colors": [
+      "Elbe River blue",
+      "Red brick Speicherstadt warehouses",
+      "Pink labskaus",
+      "Silver fresh fish",
+      "Golden Astra beer",
+      "Green Alster parks"
+    ],
+    "unique_modern": [
+      "Elbphilharmonie iconic modern architecture",
+      "Craft beer renaissance in Schanzenviertel",
+      "Altes Mädchen Braugasthaus country-style alehouse",
+      "Gourmet fish sandwiches beyond basic fischbrötchen",
+      "ASTRA brewery pub with brewing seminars",
+      "Collaborative Senatsbock brewing project"
+    ]
+  },
+  "wikipedia_search_term": "Hamburg",
+  "keywords_for_image": [
+    "Hamburg Germany",
+    "Elbphilharmonie",
+    "Speicherstadt",
+    "Hamburg port",
+    "fischbrötchen",
+    "Alster Lake",
+    "Hanseatic League",
+    "Hamburg beer"
+  ],
+  "coordinates": {
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Hamburg+🇩🇪/@53.5511,9.9937,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamburg"
+  },
+  "location_id": 94
+}

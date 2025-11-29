@@ -1,0 +1,114 @@
+{
+  "name": "Eindhoven",
+  "country": "Netherlands",
+  "fun_fact": "Fun fact: Eindhoven is known as the 'City of Light' because Philips was founded here in 1891 as a light bulb company. During Carnival, the city is rechristened 'Lampegat' (Hamlet of Lamps). Fun detail: the Eindhoven train station is cleverly designed to look like an old Philips radio! PSV soccer club's stadium stands exactly where the Philips Elftal played their first match in 1911 - the only place in the Netherlands where a stadium occupies its original founding location.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stroopwafel",
+        "description": "Two thin layers of crispy waffle with caramel syrup filling in the middle",
+        "origin_story": "Originating from the city of Gouda in the 19th century, stroopwafels were first crafted by resourceful bakers using leftover crumbs and syrup. While you can buy ready-made versions at supermarkets, fresh stroopwafels with warm syrupy caramel are incomparable. For authentic experience, place the stroopwafel over your hot beverage for a minute, allowing the caramel to soften.",
+        "where_to_find": "Markets like 18 Septemberplein where you'll find 'De echte goudse' (described as 'pure gold'), Albert Heijn supermarket, and specialty shops"
+      },
+      {
+        "name": "Bitterballen",
+        "description": "Small round croquettes filled with beef or veal ragout, coated with breadcrumbs and served with mustard",
+        "origin_story": "The name 'bitterballen' harks back to when they were commonly served with bitters, a type of alcoholic beverage. These are the quintessential Dutch bar snack, traditionally enjoyed with beer in brown cafés (traditional Dutch pubs).",
+        "where_to_find": "Mathilde (offers five different types including risotto and cheese versions), Gastrobar Luzt (special pulled-pork bitterballen), brown cafés throughout the city"
+      },
+      {
+        "name": "Stamppot",
+        "description": "Hearty winter dish of mashed potatoes mixed with vegetables like kale (boerenkool), sauerkraut, or carrots and onions (hutspot), served with smoked sausage (rookworst)",
+        "origin_story": "The Netherlands' most famous comfort meal, stamppot represents Dutch resourcefulness and heartiness. Different regions have their own variations, making it a true national dish that warms you through cold Dutch winters.",
+        "where_to_find": "Traditional Dutch restaurants and brown cafés throughout Eindhoven"
+      },
+      {
+        "name": "Hollandse Nieuwe (New Herring)",
+        "description": "Raw herring eaten with raw onions and pickles, considered a delicacy",
+        "origin_story": "The herring is caught in May or June, and its season lasts only a few weeks, making it a special seasonal treat. The first catch of the season is a celebrated event in Dutch culture.",
+        "where_to_find": "Street vendors and fish stalls, especially during herring season in late spring/early summer"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dutch Beer",
+        "description": "Local and regional beers from Dutch breweries",
+        "how_locals_drink_it": "Enjoyed in brown cafés alongside bitterballen and other bar snacks. Eindhoven has several specialty beer spots including Van Moll"
+      },
+      {
+        "name": "Genever (Dutch Gin)",
+        "description": "Traditional Dutch spirit, the predecessor to modern gin",
+        "how_locals_drink_it": "Served in brown cafés, often paired with traditional Dutch bar snacks"
+      },
+      {
+        "name": "Specialty Coffee",
+        "description": "High-quality coffee from local roasters",
+        "how_locals_drink_it": "Eindhoven has a thriving coffee culture with shops like Lucifer Specialty Coffee, Meneer de Boer, and CoffeeLab serving locally roasted beans. Often enjoyed with stroopwafel on top of the cup."
+      }
+    ],
+    "food_culture_notes": [
+      "Poffertjes are fluffy coin-sized pancakes made with yeast and buckwheat flour, served with powdered sugar and butter",
+      "Dutch pancakes (pannenkoeken) are thin, dinner-plate-sized, and can be sweet or savory",
+      "Pannenkoekenhuis de Proeftuin in Eindhoven serves traditional pancakes",
+      "Erwtensoep (pea soup) is a hearty soup made with split peas, pork, carrots, leeks, and celery",
+      "Top food spots include RPEL, Meneer De Boer, Bagel & Beans, and DENF Coffee",
+      "Philips' green legacy makes Eindhoven one of the greenest cities in the Netherlands",
+      "Glow festival in November attracts 750,000+ visitors for light art installations",
+      "Dutch Design Week in October brings 350,000+ visitors to 120 venues"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Evoluon (flying saucer-shaped building)",
+      "Philips Stadium (PSV home ground)",
+      "Vesteda Toren (resembles Flatiron Building)",
+      "De Admirant (tallest building at 105m)",
+      "De Blob (amorphous structure)",
+      "White Lady (former Philips lightbulb factory)",
+      "Trudo Tower (green building with 125 trees and 2500 plants)",
+      "Eindhoven Train Station (designed like Philips radio)"
+    ],
+    "atmosphere": [
+      "City of Light and innovation",
+      "Design capital of Netherlands",
+      "Industrial heritage transformed to creative hub",
+      "Green urban spaces from Philips' vision",
+      "Modern architecture and technology"
+    ],
+    "colors": [
+      "Blue and white PSV club colors",
+      "Light bulb yellows and whites",
+      "Green urban parks and trees",
+      "Modern architectural grays and glass",
+      "Orange Dutch national color"
+    ],
+    "unique_modern": [
+      "Philips founded 1891, revolutionized lighting and electronics",
+      "First live TV broadcast in Netherlands (1948)",
+      "Compact disc and cassette tape developed here",
+      "PSV won 1988 European Cup treble",
+      "Annual Glow festival showcases light art",
+      "Dutch Design Week major international event"
+    ]
+  },
+  "wikipedia_search_term": "Eindhoven",
+  "keywords_for_image": [
+    "Eindhoven Netherlands",
+    "Philips city of light",
+    "stroopwafel",
+    "bitterballen",
+    "PSV stadium",
+    "Evoluon building",
+    "Dutch design",
+    "modern architecture"
+  ],
+  "coordinates": {
+    "lat": 51.4416,
+    "lng": 5.4697
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Eindhoven+🇳🇱/@51.4416,5.4697,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eindhoven"
+  },
+  "location_id": 29
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Key West",
+  "country": "USA",
+  "fun_fact": "Fun fact: In 1982, Key West jokingly seceded from the United States and declared itself the 'Conch Republic' to protest a Border Patrol roadblock - they 'declared war' by hitting a Navy officer with a stale Cuban bread, then immediately surrendered and requested $1 billion in foreign aid!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Key Lime Pie",
+        "description": "Tangy, creamy pie made with tiny Key limes, sweetened condensed milk, and graham cracker crust",
+        "origin_story": "Invented in the Florida Keys in the late 1800s, possibly by 'Aunt Sally' using condensed milk when fresh milk wasn't available. Key limes are smaller and more aromatic than regular limes",
+        "where_to_find": "Kermit's Key West Key Lime Shoppe, Blue Heaven, Key Lime Pie Company"
+      },
+      {
+        "name": "Conch Fritters",
+        "description": "Deep-fried dough balls studded with chopped conch meat, served with spicy dipping sauce",
+        "origin_story": "The quintessential Keys appetizer - conch (pronounced 'konk') is a sea snail that was once abundant in the waters. Locals are called 'Conchs'",
+        "where_to_find": "BO's Fish Wagon, Half Shell Raw Bar, Conch Republic Seafood Company"
+      },
+      {
+        "name": "Cuban Mix Sandwich",
+        "description": "Cuban bread with ham, roast pork, Swiss cheese, pickles, and mustard, pressed until crispy",
+        "origin_story": "Key West has deep Cuban ties due to the cigar industry - Cuban sandwich is essential here",
+        "where_to_find": "Sandy's Café, Cuban Coffee Queen, Five Brothers Grocery"
+      },
+      {
+        "name": "Pink Shrimp",
+        "description": "Sweet pink shrimp from the Florida Keys, often served in a shrimp boil or cocktail",
+        "origin_story": "Wild-caught from the Keys waters, these shrimp are prized for their sweetness",
+        "where_to_find": "Hogfish Bar & Grill (Stock Island), Half Shell Raw Bar, Eaton Street Seafood"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cuban Coffee",
+        "description": "Super-strong espresso with sugar whipped into the first few drops, creating a sweet foam",
+        "how_locals_drink_it": "From Cuban Coffee Queen or Sandy's - order a colada to share or cortadito with milk"
+      },
+      {
+        "name": "Rum Runner",
+        "description": "Tropical cocktail with rum, blackberry liqueur, banana liqueur, and fruit juices",
+        "how_locals_drink_it": "At sunset on Duval Street or at the Holiday Isle (where it was invented)"
+      }
+    ],
+    "food_culture_notes": [
+      "Mallory Square sunset celebration brings food vendors nightly",
+      "Hemingway's influence pervades - his favorite spots still exist",
+      "Cuban, Bahamian, and Floridian cuisines blend together",
+      "Fresh seafood is caught same-day by local fishermen"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Southernmost Point buoy",
+      "Duval Street",
+      "Mallory Square",
+      "Hemingway Home"
+    ],
+    "atmosphere": [
+      "tropical party town",
+      "Caribbean colors",
+      "sunset celebrations",
+      "flip-flop casual"
+    ],
+    "colors": [
+      "tropical turquoise",
+      "Key lime green",
+      "sunset pink",
+      "pastel conch houses"
+    ],
+    "unique_modern": [
+      "Conch Republic independence",
+      "Hemingway's cats (6-toed)",
+      "LGBT+ destination",
+      "cruise ship hub"
+    ]
+  },
+  "wikipedia_search_term": "Key_West,_Florida",
+  "keywords_for_image": [
+    "Key lime pie",
+    "conch fritters",
+    "Duval Street",
+    "colorful houses",
+    "sunset pier",
+    "tropical island"
+  ],
+  "coordinates": {
+    "lat": 24.5551,
+    "lng": -81.78
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Key+West+🇺🇸/@24.5551,-81.78,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Key_West,_Florida"
+  },
+  "location_id": 199
+}

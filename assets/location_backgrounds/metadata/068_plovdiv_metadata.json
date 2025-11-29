@@ -1,0 +1,119 @@
+{
+  "name": "Plovdiv",
+  "country": "Bulgaria",
+  "fun_fact": "Fun fact: Plovdiv is the oldest continuously inhabited city in Europe, dating back 8,000 years—older than Rome, Athens, and Constantinople! Built on seven hills with over 200 archaeological sites, the city reveals history layered on top of itself: Bulgarian Revival houses hover over medieval gates built on Roman foundations. The Ancient Roman Theatre (2nd century AD) is one of the best-preserved in the world and still hosts concerts today. Plovdiv was named European Capital of Culture in 2019.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Shopska Salad",
+        "description": "Fresh salad of cucumbers, tomatoes, onion, and grated Bulgarian white cheese—the first item on almost every Bulgarian restaurant menu",
+        "origin_story": "The most important ingredient is the Bulgarian white cheese (sirene), which locals say doesn't taste like this anywhere else in the world. This salad represents Bulgarian pride in their dairy products and fresh vegetables.",
+        "where_to_find": "Literally every Bulgarian restaurant; Rahat Tepe, Hebros Restaurant, Aylyakria Gastro Bar"
+      },
+      {
+        "name": "Gyuvetche",
+        "description": "Spicy stew of beef or pork, mushrooms, onions, peppers, and potatoes prepared in a special clay pot passed down through families, topped with grated cheese and a baked egg",
+        "origin_story": "The clay pot (gyuvech) is often a family heirloom, giving each preparation its unique character. This dish showcases Bulgarian love for paprika and hearty one-pot meals. The combination of stewed meat, vegetables, and baked egg creates layers of flavor.",
+        "where_to_find": "Traditional Bulgarian restaurants, especially those specializing in clay pot cooking; Rahat Tepe"
+      },
+      {
+        "name": "Shkembe Chorba (Tripe Soup)",
+        "description": "Emblematic Bulgarian soup that's surprisingly delicious despite the tripe—don't give up on it because of the ingredients!",
+        "origin_story": "This soup represents Bulgarian comfort food and is often eaten as a hangover cure or late-night meal. It's traditionally flavored with garlic and vinegar, sometimes with milk added for creaminess.",
+        "where_to_find": "Traditional taverns, late-night eateries, local Bulgarian restaurants"
+      },
+      {
+        "name": "Banitsa",
+        "description": "Delicious pastry with layers of filo dough filled with cheese, spinach, or pumpkin—great for breakfast or a snack",
+        "origin_story": "Banitsa is quintessentially Bulgarian, eaten for breakfast or as a quick snack. The cheese version uses the famous Bulgarian sirene. It's often paired with boza (fermented drink) for a traditional Bulgarian breakfast.",
+        "where_to_find": "Bakeries everywhere, breakfast cafés, street vendors; best eaten fresh and hot in the morning"
+      },
+      {
+        "name": "Moussaka (Bulgarian-style)",
+        "description": "Layers of minced meat, potatoes, and eggplant baked with a creamy yogurt topping—different from Greek moussaka",
+        "origin_story": "Bulgarian moussaka reflects the Balkan Peninsula's shared culinary heritage with Greece and Turkey, but uses Bulgarian yogurt for the topping instead of béchamel sauce. Each Balkan country has its own variation.",
+        "where_to_find": "Hebros Restaurant (modern take), traditional Bulgarian restaurants, home-style eateries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rakia",
+        "description": "Bulgaria's national drink—a strong fruit brandy with at least 40% alcohol (homemade versions 50%+), made from grapes, apples, plums, pears, or apricots",
+        "how_locals_drink_it": "Popularly served as an aperitif with Shopska salad, cured meats, and local cheeses at the start of meals. Enjoyed cold in summer, but during winter Bulgarians drink it hot with honey and/or black pepper. Associated with celebrations like Christmas and New Year, serving as a symbol of hospitality and warmth. Famous variations include grape rakia, plum rakia (slivovitz), and apricot rakia."
+      },
+      {
+        "name": "Boza",
+        "description": "Fermented breakfast beverage made from wheat or millet flour, water, sugar, and yeast—very sweet and thick with creamy texture (contains up to 1% alcohol)",
+        "how_locals_drink_it": "Consumed at breakfast, often enjoyed with banitsa for a traditional Bulgarian morning meal. It has origins in Central Asia and has been popular in the Balkans for centuries. The sweet, slightly tangy flavor is an acquired taste but beloved by locals."
+      },
+      {
+        "name": "Ayran",
+        "description": "Traditional beverage made of fermented milk (cow, sheep, or goat) mixed with mineral water and salt—tart and refreshing",
+        "how_locals_drink_it": "Served cold as a thirst-quencher during hot summer days. Commonly served with meals. Has probiotics and minerals providing health benefits. Said to have originated in Persia as a way to preserve yogurt with salt. Popular beyond Bulgaria throughout the Balkans."
+      }
+    ],
+    "food_culture_notes": [
+      "Bulgarian, Greek, and Turkish cuisines share many similarities due to Balkan geography",
+      "Bulgaria was under Ottoman domination for almost 500 years, influencing the food",
+      "Bulgarian white cheese (sirene) and yogurt are sources of national pride",
+      "Plovdiv has the oldest Bulgarian brewery (Kamenitza) and growing microbrewery scene",
+      "Meals often start with rakia and Shopska salad",
+      "Traditional dishes use lots of paprika and yogurt/sour cream",
+      "Hebros Restaurant was named Restaurant of the Year by Bacchus Magazine (2003, 2016)",
+      "Clay pot cooking (gyuvetche) is a traditional family method"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ancient Roman Theatre (2nd century AD, still used for concerts)",
+      "Ancient Stadium (240 meters beneath pedestrian street)",
+      "Hisar Kapia (Castle Gate) showing layered history—Revival houses over medieval gate over Roman foundations",
+      "Seven syenite hills (some 250m high)",
+      "Old Town with colorful Revival-era houses",
+      "Nebet Tepe (earliest traces from 6th millennium BC)"
+    ],
+    "atmosphere": [
+      "Ancient cobblestone streets with 8,000 years of history",
+      "Layers of civilizations visible everywhere—Thracian, Roman, Byzantine, Ottoman, Bulgarian",
+      "Cultural hub with museums and festivals",
+      "Relaxed café culture in Old Town squares",
+      "Mix of archaeological ruins and modern Bulgarian life",
+      "European Capital of Culture energy (2019)"
+    ],
+    "colors": [
+      "Warm terracotta and ochre of Revival-era houses",
+      "Ancient Roman stone in grey and beige",
+      "Vibrant Shopska salad—red tomatoes, white cheese, green cucumbers",
+      "Golden rakia in small glasses",
+      "Colorful frescoes and painted houses in Old Town"
+    ],
+    "unique_modern": [
+      "Ancient Roman theatre still hosting modern concerts and performances",
+      "European Capital of Culture 2019",
+      "Growing craft beer and microbrewery scene",
+      "Fusion of ancient history and modern café culture",
+      "Hebros Restaurant's modern interpretations by award-winning chef",
+      "Aylyakria Gastro Bar reinventing traditional recipes"
+    ]
+  },
+  "wikipedia_search_term": "Plovdiv",
+  "keywords_for_image": [
+    "Plovdiv ancient Roman theatre Bulgaria",
+    "Bulgarian Shopska salad cheese",
+    "rakia Bulgarian brandy",
+    "Plovdiv Old Town colorful houses",
+    "Bulgarian banitsa pastry",
+    "Plovdiv seven hills ancient city",
+    "gyuvetche Bulgarian clay pot",
+    "Plovdiv archaeological ruins"
+  ],
+  "coordinates": {
+    "lat": 42.1354,
+    "lng": 24.7453
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Plovdiv+🇧🇬/@42.1354,24.7453,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plovdiv"
+  },
+  "location_id": 68
+}

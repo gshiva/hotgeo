@@ -1,0 +1,93 @@
+{
+  "name": "Potsdam",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Frederick the Great was so obsessed with potatoes that he's called the 'Potato King' - he mandated Germans grow them and is buried at Sanssouci Palace where visitors still leave potatoes on his grave in gratitude!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kartoffelsuppe",
+        "description": "Hearty potato soup with bacon, onions, and sausage - honoring the Potato King",
+        "origin_story": "Frederick the Great promoted potatoes so successfully that they became the German staple",
+        "where_to_find": "Traditional restaurants near Sanssouci, Krongut Bornstedt"
+      },
+      {
+        "name": "Eisbein",
+        "description": "Pickled and boiled pork knuckle with sauerkraut and pea purée",
+        "origin_story": "A Berlin-Brandenburg specialty - the meat is first pickled then slow-cooked",
+        "where_to_find": "Meierei Brauhaus, traditional German restaurants"
+      },
+      {
+        "name": "Spreewälder Gurken",
+        "description": "Pickled cucumbers from the nearby Spreewald region",
+        "origin_story": "The Spreewald's unique waterways and soil produce Germany's most famous pickles",
+        "where_to_find": "Markets, grocery stores, restaurants throughout Potsdam"
+      },
+      {
+        "name": "Königsberger Klopse",
+        "description": "Meatballs in white caper sauce - a Prussian classic",
+        "origin_story": "Originally from East Prussia's Königsberg (now Kaliningrad), brought west after WWII",
+        "where_to_find": "Traditional German restaurants, especially in historic buildings"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Potsdamer Stange",
+        "description": "Local pilsner-style beer served in traditional glasses",
+        "how_locals_drink_it": "At Meierei Brauhaus in the Dutch Quarter or beer gardens"
+      },
+      {
+        "name": "Brandenburg Wine",
+        "description": "Wine from Werder vineyards nearby - Germany's northernmost wine region",
+        "how_locals_drink_it": "At the annual Werder Baumblütenfest (Blossom Festival)"
+      }
+    ],
+    "food_culture_notes": [
+      "Dutch Quarter (Holländisches Viertel) has charming cafés and restaurants",
+      "Krongut Bornstedt estate has brewery, distillery, and restaurant",
+      "Palace gardens are perfect for picnics with local products",
+      "Close proximity to Berlin means excellent restaurant scene"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Sanssouci Palace",
+      "Dutch Quarter",
+      "Cecilienhof Palace",
+      "Glienicke Bridge"
+    ],
+    "atmosphere": [
+      "Prussian grandeur",
+      "palace gardens",
+      "Dutch colonial style",
+      "Cold War history"
+    ],
+    "colors": [
+      "Prussian blue",
+      "palace yellow",
+      "garden green",
+      "Dutch brick"
+    ],
+    "unique_modern": [
+      "UNESCO palaces and parks",
+      "Potsdam Conference site",
+      "film studio Babelsberg"
+    ]
+  },
+  "wikipedia_search_term": "Potsdam",
+  "keywords_for_image": [
+    "Sanssouci Palace",
+    "potato soup",
+    "Dutch Quarter",
+    "Prussian gardens",
+    "Brandenburg Gate Potsdam"
+  ],
+  "coordinates": {
+    "lat": 52.3906,
+    "lng": 13.0645
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Potsdam+🇩🇪/@52.3906,13.0645,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Potsdam"
+  },
+  "location_id": 212
+}

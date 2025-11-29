@@ -1,0 +1,94 @@
+{
+  "name": "Los Angeles",
+  "country": "USA",
+  "fun_fact": "Fun fact: LA has 30% of all Mexican restaurants in the USA, and legendary taco spots like Angel's Tijuana Tacos are so authentic you have to order in Spanish because they don't speak English - and you have to follow them on social media to find where they park each night!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Al Pastor Tacos",
+        "description": "Marinated pork carved from vertical trompo spit, topped with pineapple",
+        "origin_story": "Lebanese immigrants brought shawarma technique, adapted with Mexican spices",
+        "where_to_find": "Leo's Tacos Truck (12 trucks citywide), Angel's Tijuana Tacos"
+      },
+      {
+        "name": "Carnitas",
+        "description": "Pork confit in its own fat until crispy outside, melting inside",
+        "origin_story": "Traditional preparation that few places still do old-fashioned way",
+        "where_to_find": "Carnitas Los Gabrieles in Piñata District downtown"
+      },
+      {
+        "name": "Sonoran-Style Carne Asada Tacos",
+        "description": "Grilled beef tacos on special Sonoran flour tortillas",
+        "origin_story": "Sonoratown owners drive 5 hours to Arizona-Mexico border for authentic flour",
+        "where_to_find": "Sonoratown (featured on Netflix Taco Chronicles)"
+      },
+      {
+        "name": "Lamb Barbacoa",
+        "description": "Hidalgo-style slow-cooked lamb",
+        "origin_story": "Traditional Mexican preparation from Hidalgo region",
+        "where_to_find": "Aqui es Texcoco in Commerce (featured on Bizarre Foods)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Agua Fresca",
+        "description": "Fresh fruit waters - horchata, jamaica, tamarind",
+        "how_locals_drink_it": "From taco trucks and Mexican restaurants"
+      },
+      {
+        "name": "Michelada",
+        "description": "Beer with lime, salt, and chili",
+        "how_locals_drink_it": "At taquerias with tacos"
+      }
+    ],
+    "food_culture_notes": [
+      "Tacos are how you experience LA like a local",
+      "Leo's Tacos at $2.30 has lines around the block",
+      "Los Cinco Puntos has legendary salsa bar with pickled nopales",
+      "Piñata District fulfills street food adventure with sights and smells of Mexico"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hollywood Sign",
+      "Downtown skyline",
+      "Santa Monica Pier",
+      "palm tree lined streets"
+    ],
+    "atmosphere": [
+      "taco truck culture",
+      "palm trees at sunset",
+      "diverse neighborhoods",
+      "murals and street art"
+    ],
+    "colors": [
+      "sunset orange and pink",
+      "palm green",
+      "ocean blue",
+      "desert gold"
+    ],
+    "unique_modern": [
+      "vertical al pastor trompos spinning",
+      "food truck culture",
+      "multicultural food scene"
+    ]
+  },
+  "wikipedia_search_term": "Los_Angeles",
+  "keywords_for_image": [
+    "al pastor tacos from trompo",
+    "carnitas",
+    "Downtown LA skyline",
+    "palm trees",
+    "taco truck",
+    "sunset colors"
+  ],
+  "coordinates": {
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Los+Angeles+🇺🇸/@34.0522,-118.2437,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "location_id": 8
+}

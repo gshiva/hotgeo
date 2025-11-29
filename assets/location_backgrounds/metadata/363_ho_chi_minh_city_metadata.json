@@ -1,0 +1,94 @@
+{
+  "name": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "fun_fact": "Fun fact: Ho Chi Minh City (formerly Saigon) has over 9 million motorbikes for 9 million people - the city flows like a river of scooters. Crossing the street is an art form: walk slowly and steadily, and traffic will flow around you like water around a rock!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Phở Sài Gòn",
+        "description": "Southern-style beef noodle soup with sweeter broth, more herbs, and hoisin/sriracha on the side",
+        "origin_story": "Southern phở is distinct from Hanoi's - sweeter, with more garnishes and bean sprouts on the side",
+        "where_to_find": "Phở Lệ, Phở Hòa Pasteur (legendary), Phở 2000 (Clinton visited)"
+      },
+      {
+        "name": "Bánh Mì",
+        "description": "Vietnamese baguette sandwich with pâté, cold cuts, pickled vegetables, cilantro, and chili",
+        "origin_story": "French colonial fusion - the baguette is lighter and crispier than French. Saigon's versions are the standard",
+        "where_to_find": "Bánh Mì Huynh Hoa (famous), Bánh Mì 37 Nguyen Trai, street vendors everywhere"
+      },
+      {
+        "name": "Cơm Tấm",
+        "description": "Broken rice with grilled pork chop, egg meatloaf, shredded pork skin, and fish sauce",
+        "origin_story": "Originally poor man's food using broken rice grains - now Saigon's signature dish, eaten any time of day",
+        "where_to_find": "Cơm Tấm Bụi (chain), street stalls everywhere, any cơm tấm shop"
+      },
+      {
+        "name": "Gỏi Cuốn",
+        "description": "Fresh spring rolls with shrimp, pork, rice noodles, and herbs in rice paper, with peanut sauce",
+        "origin_story": "The healthy counterpart to fried spring rolls - fresh, light, and refreshing",
+        "where_to_find": "Wrap & Roll, Quan An Ngon (try many dishes), street vendors"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cà Phê Sữa Đá",
+        "description": "Vietnamese iced coffee with sweetened condensed milk, dripped through metal filter",
+        "how_locals_drink_it": "The ritual of waiting for drip is part of the pleasure - essential daily caffeine"
+      },
+      {
+        "name": "Bia Hơi",
+        "description": "Fresh draft beer, brewed daily and served at tiny sidewalk stools",
+        "how_locals_drink_it": "At plastic stool beer corners for pennies - Saigon's social institution"
+      }
+    ],
+    "food_culture_notes": [
+      "Bến Thành Market is touristy but has excellent food stalls",
+      "Street food peaks at night - follow the plastic stools",
+      "District 4 and District 3 are foodie hotspots off tourist trail",
+      "Coffee culture is sacred - 'cà phê đá' (iced black) or 'sữa đá' (with milk)"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Notre-Dame Cathedral",
+      "War Remnants Museum",
+      "Bến Thành Market",
+      "Cu Chi Tunnels"
+    ],
+    "atmosphere": [
+      "motorbike rivers",
+      "French colonial meets modern",
+      "street food paradise",
+      "neon-lit nights"
+    ],
+    "colors": [
+      "motorbike helmet rainbow",
+      "ao dai pastel",
+      "neon signs",
+      "green tropical"
+    ],
+    "unique_modern": [
+      "tech startup hub",
+      "rooftop bar scene",
+      "Bitexco Tower",
+      "District 2 expat zone"
+    ]
+  },
+  "wikipedia_search_term": "Ho_Chi_Minh_City",
+  "keywords_for_image": [
+    "banh mi sandwich",
+    "motorbike traffic Saigon",
+    "pho soup",
+    "Vietnamese coffee",
+    "street food plastic stools"
+  ],
+  "coordinates": {
+    "lat": 10.8231,
+    "lng": 106.6297
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Ho+Chi+Minh+City+🇻🇳/@10.8231,106.6297,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+  },
+  "location_id": 363
+}

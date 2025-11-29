@@ -1,0 +1,93 @@
+{
+  "name": "Bagan",
+  "country": "Myanmar",
+  "fun_fact": "Fun fact: Bagan has over 2,000 ancient Buddhist temples and pagodas spread across 26 square miles - more than any other place on Earth. At its peak in the 11th-13th centuries, there were over 10,000 temples here!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Mohinga",
+        "description": "Myanmar's national dish - rice noodle soup with fish-based broth, lemongrass, banana stem, and crispy fritters",
+        "origin_story": "The quintessential Burmese breakfast, typically eaten before 9am. Each region has its variation, but Bagan's is distinctly inland-style",
+        "where_to_find": "Morning street vendors, Sanon Training Restaurant, local tea shops"
+      },
+      {
+        "name": "Shan Noodles",
+        "description": "Rice noodles with tomato-based sauce, pickled vegetables, and chicken or pork",
+        "origin_story": "From the Shan State but beloved across Myanmar. Bagan serves it with local palm toddy vinegar",
+        "where_to_find": "Moon Vegetarian Restaurant, local noodle shops"
+      },
+      {
+        "name": "Burmese Curry",
+        "description": "Oil-rich curry with meat (often pork or chicken), tomatoes, and turmeric - served with rice and side dishes",
+        "origin_story": "The traditional one-plate meal of Myanmar - comes with soup, vegetables, and fermented tea leaf salad",
+        "where_to_find": "The Moon Be Kind to Animals, Black Bamboo, local restaurants"
+      },
+      {
+        "name": "Htamin Jin",
+        "description": "Rice balls kneaded with turmeric-spiced oil, served with boiled egg and tamarind sauce",
+        "origin_story": "A beloved snack often served at temples and festivals - portable and filling for pilgrims",
+        "where_to_find": "Tea shops, temple vendors, morning markets"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Toddy Palm Wine",
+        "description": "Fresh or fermented palm sap tapped from toddy palms - Bagan's specialty",
+        "how_locals_drink_it": "Fresh in the morning (sweet), fermented later (alcoholic) - watch toddy tappers climb palms at dawn"
+      },
+      {
+        "name": "Lahpet Yay",
+        "description": "Fermented tea leaf drink - Myanmar's unique tea tradition",
+        "how_locals_drink_it": "In tea shops throughout the day - social lubricant of Burmese life"
+      }
+    ],
+    "food_culture_notes": [
+      "Tea shops are the social centers - endless refills of sweet tea are free",
+      "Lahpet (fermented tea leaf salad) is served at every significant occasion",
+      "Palm sugar from local toddy palms sweetens everything",
+      "Eating before temple visits is traditional - pack snacks for cycling"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Ananda Temple",
+      "Shwezigon Pagoda",
+      "Dhammayangyi Temple",
+      "Htilominlo Temple"
+    ],
+    "atmosphere": [
+      "ancient temple plains",
+      "hot air balloons at sunrise",
+      "dusty roads",
+      "bicycle exploring"
+    ],
+    "colors": [
+      "temple brick red",
+      "golden stupas",
+      "dusty orange plains",
+      "sunrise pink"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage 2019",
+      "hot air balloon rides",
+      "e-bike temple touring"
+    ]
+  },
+  "wikipedia_search_term": "Bagan",
+  "keywords_for_image": [
+    "Bagan temples sunrise",
+    "mohinga soup",
+    "hot air balloons pagodas",
+    "ancient Buddhist ruins",
+    "palm toddy"
+  ],
+  "coordinates": {
+    "lat": 21.1717,
+    "lng": 94.8586
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bagan+🇲🇲/@21.1717,94.8586,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bagan"
+  },
+  "location_id": 354
+}

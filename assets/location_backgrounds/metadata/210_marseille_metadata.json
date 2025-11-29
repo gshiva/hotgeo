@@ -1,0 +1,93 @@
+{
+  "name": "Marseille",
+  "country": "France",
+  "fun_fact": "Fun fact: Bouillabaisse is so sacred in Marseille that a 'Bouillabaisse Charter' exists - established in 1980 by top chefs, it mandates that authentic bouillabaisse must contain at least 4 types of Mediterranean rock fish and be served tableside in a specific ritual!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bouillabaisse",
+        "description": "Provençal fish stew with multiple rock fish, saffron, fennel, and rouille sauce",
+        "origin_story": "Created by fishermen using unsellable bony fish. Must include rascasse (scorpionfish), and is served in two courses - broth then fish",
+        "where_to_find": "Chez Fonfon, Miramar, L'Épuisette - order 24 hours ahead"
+      },
+      {
+        "name": "Panisse",
+        "description": "Fried chickpea flour sticks, similar to thick fries",
+        "origin_story": "A Marseille street food since the 19th century - crispy outside, creamy inside. Brought by Italian immigrants",
+        "where_to_find": "Street vendors, La Pizzeria Chez Etienne, markets"
+      },
+      {
+        "name": "Navettes",
+        "description": "Orange blossom-scented boat-shaped cookies",
+        "origin_story": "Created to honor the boat that brought Saintes-Maries to Provence. The shape represents their vessel",
+        "where_to_find": "Four des Navettes (since 1781), the oldest bakery in Marseille"
+      },
+      {
+        "name": "Pieds et Paquets",
+        "description": "Lamb tripe rolls (paquets) and sheep's feet cooked slowly with tomatoes and white wine",
+        "origin_story": "A robust Provençal dish - nothing is wasted. Requires hours of slow cooking",
+        "where_to_find": "Traditional Provençal restaurants, Sunday specialty"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pastis",
+        "description": "Anise-flavored spirit that turns cloudy when water is added",
+        "how_locals_drink_it": "5:1 water to pastis ratio, ice optional. Essential Marseille apéro culture"
+      },
+      {
+        "name": "Cassis Wine",
+        "description": "White wine from nearby Cassis AOC - one of France's oldest appellations",
+        "how_locals_drink_it": "With seafood, especially bouillabaisse"
+      }
+    ],
+    "food_culture_notes": [
+      "Vieux Port fish market is best at 8am when fishermen return",
+      "North African influence strong - couscous and tajine popular",
+      "Noailles market is incredibly diverse - 'the belly of Marseille'",
+      "Food reflects 2,600-year Greek/Mediterranean history"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Vieux Port",
+      "Notre-Dame de la Garde",
+      "MuCEM",
+      "Calanques"
+    ],
+    "atmosphere": [
+      "Mediterranean port city",
+      "gritty authenticity",
+      "multicultural energy",
+      "fishing heritage"
+    ],
+    "colors": [
+      "Mediterranean blue",
+      "pastis yellow",
+      "terracotta rooftops",
+      "calanque turquoise"
+    ],
+    "unique_modern": [
+      "oldest city in France (600 BCE)",
+      "MuCEM architecture",
+      "2013 European Capital of Culture"
+    ]
+  },
+  "wikipedia_search_term": "Marseille",
+  "keywords_for_image": [
+    "bouillabaisse fish stew",
+    "Vieux Port boats",
+    "pastis drink",
+    "Notre-Dame de la Garde",
+    "Mediterranean"
+  ],
+  "coordinates": {
+    "lat": 43.2965,
+    "lng": 5.3698
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Marseille+🇫🇷/@43.2965,5.3698,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marseille"
+  },
+  "location_id": 210
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Salzburg",
+  "country": "Austria",
+  "fun_fact": "Fun fact: Salzburg means 'Salt Fortress' - the city's wealth came from salt mines in the nearby mountains, and you can still visit the 7,000-year-old Hallstatt salt mine, the oldest in the world.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Wiener Schnitzel",
+        "description": "Veal cutlet pounded thin, breaded, and fried to golden perfection, served with potato salad and lemon",
+        "origin_story": "While Vienna gets the name, Salzburg serves some of Austria's best schnitzel. The dish must be made with veal (legally protected) - pork is a different dish entirely. The cutlet should be so thin it's almost transparent, with a crispy coating that puffs away from the meat.",
+        "where_to_find": "Meissl & Schadn (Michelin-recommended on Getreidegasse - €35.50 with potato salad and cranberries, you can watch preparation through the window), Gasthaus Kuglhof, Augustiner Bräustübl"
+      },
+      {
+        "name": "Salzburger Nockerl",
+        "description": "Sweet soufflé dessert with three peaks representing Salzburg's three mountains, served on cherry sauce",
+        "origin_story": "This iconic dessert represents Kapuzinerberg, Gaisberg, and Mönchsberg - Salzburg's three mountains. The fluffy egg-white peaks are dusted with powdered sugar like snow-capped Alps. It's always one size (supposedly for two, but easily feeds nine!) and must be eaten immediately before it deflates.",
+        "where_to_find": "Meissl & Schadn (Michelin-recommended), Bärenwirt (traditional inn since 1663 - best fried chicken in Austria AND nockerl), Wirtshaus Elefant (formerly S'Nockerl), Zwettler's Wirtshaus"
+      },
+      {
+        "name": "Backhendl",
+        "description": "Crispy fried chicken, Austria's answer to American fried chicken but with European finesse",
+        "origin_story": "Bärenwirt has served backhendl since 1663, perfecting the technique over 360 years. The chicken is considered the best in Austria - crispy coating, juicy meat. The cozy tavern atmosphere (like a hunting lodge) adds to the experience.",
+        "where_to_find": "Bärenwirt (traditional Austrian inn dedicated to preserving iconic culture since 1663 - renowned for best fried chicken in Austria)"
+      },
+      {
+        "name": "Traditional Austrian Tafelspitz",
+        "description": "Boiled beef served in broth with root vegetables, horseradish, and apple-horseradish sauce",
+        "origin_story": "Emperor Franz Joseph's favorite dish became Austrian culinary heritage. The beef (from the hip) is boiled gently until tender, then served with its broth. It's comfort food that requires skill - proper timing makes perfect tenderness.",
+        "where_to_find": "Gasthaus Pichler (best Tafelspitz in Graz), Landhauskeller, traditional gasthäuser"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Stiegl Beer",
+        "description": "Salzburg's local brewery founded in 1492, Austria's largest private brewery",
+        "how_locals_drink_it": "Served in traditional beer steins at beer gardens and taverns. Augustiner Bräustübl is Austria's biggest beer tavern (monastery brewery) where monks have brewed since 1621. Locals fill their own steins from wooden barrels - it's theatrical and traditional."
+      },
+      {
+        "name": "Austrian Wine",
+        "description": "Crisp Grüner Veltliner whites and elegant reds from nearby wine regions",
+        "how_locals_drink_it": "While Salzburg doesn't grow wine (too mountainous), wine from Wachau and other Austrian regions flows freely. Locals appreciate quality Austrian wines with dinner, pairing thoughtfully with schnitzel and other dishes."
+      }
+    ],
+    "food_culture_notes": [
+      "Salzburger Nockerl is always one enormous size - 'supposedly for two people, but easily enough for nine as a dessert'",
+      "Authentic Wiener schnitzel MUST be veal - pork schnitzel exists but isn't called 'Wiener'",
+      "Many traditional restaurants (Sternbräu, Bärenwirt) occupy historic buildings dating back to the 1600s",
+      "Augustiner Bräustübl beer hall lets you fill your own stein from barrels - it's self-service tradition since 1621"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hohensalzburg Fortress",
+      "Mozart's Birthplace",
+      "Mirabell Palace",
+      "Salzach River"
+    ],
+    "atmosphere": [
+      "Alpine baroque",
+      "Sound of Music hills",
+      "fortress views",
+      "classical music heritage"
+    ],
+    "colors": [
+      "Alpine snow white",
+      "baroque gold",
+      "Salzach river blue",
+      "mountain green"
+    ],
+    "unique_modern": [
+      "Salzburg Festival (classical music)",
+      "Modern art at Museum der Moderne",
+      "Christmas markets",
+      "von Trapp family tours"
+    ]
+  },
+  "wikipedia_search_term": "Salzburg",
+  "keywords_for_image": [
+    "Salzburg Austria fortress",
+    "Wiener schnitzel",
+    "Salzburger Nockerl soufflé",
+    "Alpine mountains",
+    "Mozart birthplace"
+  ],
+  "coordinates": {
+    "lat": 47.8095,
+    "lng": 13.055
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Salzburg+🇦🇹/@47.8095,13.055,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salzburg"
+  },
+  "location_id": 252
+}

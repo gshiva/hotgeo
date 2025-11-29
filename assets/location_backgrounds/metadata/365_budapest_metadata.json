@@ -1,0 +1,94 @@
+{
+  "name": "Budapest",
+  "country": "Hungary",
+  "fun_fact": "Fun fact: Budapest has more thermal springs than any other capital city in the world - over 120 natural hot springs produce 70 million liters of thermal water daily! The Romans built baths here, and the tradition of 'taking the waters' has continued for 2,000 years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Goulash (Gulyás)",
+        "description": "Hearty beef and paprika soup/stew with potatoes and csipetke noodles - Hungary's national dish",
+        "origin_story": "Originally a herdsman's (gulya) dish cooked over open fire. The thick 'stew' foreigners know is actually pörkölt - real gulyás is a soup",
+        "where_to_find": "Borkonyha, Café Kör, Hungarikum Bisztró, Great Market Hall"
+      },
+      {
+        "name": "Lángos",
+        "description": "Deep-fried flatbread topped with sour cream and cheese, garlic, or other toppings",
+        "origin_story": "Hungary's beloved street food - originally made from bread dough, now a thermal bath and market staple",
+        "where_to_find": "Great Market Hall (Nagyvásárcsarnok), thermal bath snack bars, street vendors"
+      },
+      {
+        "name": "Töltött Káposzta",
+        "description": "Cabbage rolls stuffed with pork and rice, cooked in sauerkraut with sour cream and paprika",
+        "origin_story": "Essential winter comfort food and Christmas Eve tradition - every Hungarian grandmother's recipe is sacred",
+        "where_to_find": "Menza, Kéhli, traditional Hungarian restaurants"
+      },
+      {
+        "name": "Kürtőskalács",
+        "description": "Chimney cake - sweet dough wrapped around a spit, baked over coals, coated with sugar and cinnamon",
+        "origin_story": "Transylvanian origin (now disputed with Romania) - the hollow 'chimney' shape is distinctive",
+        "where_to_find": "Christmas markets, Molnár's Kürtőskalács, tourist areas year-round"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pálinka",
+        "description": "Fruit brandy (plum, apricot, cherry) - Hungarian spirit with protected designation",
+        "how_locals_drink_it": "Before or after meals, room temperature from small glasses - never chilled"
+      },
+      {
+        "name": "Tokaji Aszú",
+        "description": "Sweet wine from Tokaj region - 'wine of kings, king of wines' (Louis XIV)",
+        "how_locals_drink_it": "After dinner with dessert or foie gras - one of the world's great sweet wines"
+      }
+    ],
+    "food_culture_notes": [
+      "Great Market Hall (Nagyvásárcsarnok) is essential for paprika, sausage, foie gras",
+      "Ruin bars in District VII have great food alongside the drinks",
+      "Paprika is the defining spice - sweet, hot, smoked varieties",
+      "Thermal baths often have excellent lángos and beer - soaking and eating together"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Parliament Building",
+      "Buda Castle",
+      "Fisherman's Bastion",
+      "Széchenyi Thermal Baths"
+    ],
+    "atmosphere": [
+      "Danube grandeur",
+      "thermal bath culture",
+      "ruin bar scene",
+      "Habsburg elegance"
+    ],
+    "colors": [
+      "paprika red",
+      "Parliament white",
+      "Danube blue",
+      "thermal pool turquoise"
+    ],
+    "unique_modern": [
+      "ruin bars",
+      "largest thermal bath complex in Europe",
+      "UNESCO riverfront",
+      "sparties (spa parties)"
+    ]
+  },
+  "wikipedia_search_term": "Budapest",
+  "keywords_for_image": [
+    "goulash paprika Hungary",
+    "Parliament Danube",
+    "Szechenyi thermal baths",
+    "langos fried bread",
+    "ruin bars"
+  ],
+  "coordinates": {
+    "lat": 47.4979,
+    "lng": 19.0402
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Budapest+🇭🇺/@47.4979,19.0402,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Budapest"
+  },
+  "location_id": 365
+}

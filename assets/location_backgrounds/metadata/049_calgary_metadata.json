@@ -1,0 +1,114 @@
+{
+  "name": "Calgary",
+  "country": "Canada",
+  "region": "Alberta",
+  "fun_fact": "Fun fact: Calgary invented TWO iconic Canadian foods - the Caesar cocktail (1969, invented by Walter Chell at the Calgary Inn, now Westin Hotel) inspired by spaghetti alle vongole, and ginger beef (1975, created at Silver Inn Restaurant by George Wong who adapted a Chinese dish for Albertans who preferred tender beef over chewy). Both are now beloved across Canada but started right here in 'Cow Town'.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Alberta Beef Steak",
+        "description": "Premium aged beef (minimum 28 days) known worldwide for unparalleled flavor and quality - often striploin or ribeye, brushed with butter and broiled",
+        "origin_story": "Alberta beef is one of the province's Seven Signature Foods. Calgary earned the nickname 'Cow Town' from its deep ranching roots. The Calgary Stampede celebrates this heritage annually, with live cattle displays and cooking competitions featuring Alberta beef striploin.",
+        "where_to_find": "Caesar's Steakhouse (Calgary institution since 1972, 28-day aged exclusive Alberta beef); CHARCUT Roast House (award-winning, locally sourced urban-rustic); Major Tom (40th floor, aged Alberta Angus brushed with butter); Modern Steak (trendy vibe)"
+      },
+      {
+        "name": "Ginger Beef",
+        "description": "Deep-fried strips of battered Alberta beef in sticky, slightly spicy sauce, stir-fried with bell peppers and onions, served over rice",
+        "origin_story": "Invented in 1975 at Silver Inn Restaurant by George Wong, who had worked in Peking-style restaurants in Hong Kong. He remembered a sweet, chewy Chinese beef dish, but Calgarians preferred their Alberta beef tender, not chewy - so he adapted it. The Silver Inn ran for nearly 50 years until 2022.",
+        "where_to_find": "Ginger Beef Bistro House (dedicated restaurant celebrating the dish); Chinese restaurants throughout Calgary (nearly every menu features it); Deane House (reimagines it as 'ginger beets' in creative nod)"
+      },
+      {
+        "name": "Calgary Stampede Foods",
+        "description": "Western-style culinary creations: bison burgers, cowboy breakfasts, and adventurous midway inventions like Cowboy Twinkies (beef brisket, cream cheese, jalapeños, bacon) and Cowboyaki (Japanese street food meets Stampede)",
+        "origin_story": "The Calgary Stampede (July 5-14, 2024 welcomed 1.3+ million guests) stays true to Western roots while celebrating Alberta's agricultural heritage. The Ag Grill and Kitchen Theatre feature local producers and chefs competing with Alberta beef.",
+        "where_to_find": "Calgary Stampede Ag Grill (cowboy breakfasts, bison burgers, fresh grab 'n' go); Range Food Hall (Big Four Building, food exhibitors with live entertainment); Cattle Trail showcase in Nutrien Western Event Centre"
+      },
+      {
+        "name": "Modern Canadian Fusion",
+        "description": "Innovative dishes combining Alberta ingredients with global techniques - lentil hummus (Alberta/Saskatchewan lentils), locally sourced game, prairie vegetables",
+        "origin_story": "Calgary's emerging food scene balances ranching heritage with forward-thinking cuisine. Restaurants like Deane House (opened 2016 in restored 1906 residence) offer clever culinary history nods.",
+        "where_to_find": "Deane House (historic district, ginger beets, lentil hummus); diverse restaurant scene in downtown Calgary emerging as one of Canada's best food cities"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Caesar Cocktail",
+        "description": "Vodka, Clamato juice, hot sauce, Worcestershire, pepper, lime and celery-salt rim - invented in Calgary 1969",
+        "how_locals_drink_it": "Customized endlessly with pickle juice, horseradish, elaborate garnishes. Build-your-own Caesar bars are hugely popular. The Beltliner has a Caesar bar. Calgary's cocktail culture revolves around this local invention."
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "Alberta's thriving craft beer scene with breweries throughout Calgary",
+        "how_locals_drink_it": "Paired with Alberta beef at steakhouses, enjoyed at Stampede (ice-cold bottled or chopp draft), or at cocktail bars like Missy's This That with encyclopedic spirits lists"
+      }
+    ],
+    "food_culture_notes": [
+      "Calgary Stampede is THE culinary event - 10 days of Western food culture and innovation",
+      "Deep pride in Alberta beef - aged minimum 28 days, world-renowned quality",
+      "Ranching heritage shapes identity ('Cow Town' nickname)",
+      "Balance of traditional steakhouses (since 1972) and innovative modern dining",
+      "Forward-thinking cocktail culture despite Western roots",
+      "Local producers celebrated at Stampede Cattle Trail and Kitchen Theatre",
+      "Food scene emerging as one of Canada's best cities for dining",
+      "Seven Signature Alberta Foods: beef, bison, Saskatoon berries, Red Fife wheat, canola, honey, root vegetables"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Calgary Tower skyline",
+      "Calgary Stampede grounds and rodeo",
+      "Rocky Mountains backdrop to the west",
+      "Bow River running through downtown",
+      "Stephen Avenue Walk historic district",
+      "Heritage Park Historical Village",
+      "Major Tom 40th floor views"
+    ],
+    "atmosphere": [
+      "Western heritage meets modern city",
+      "Cowboys and businesspeople mixing at Stampede",
+      "Classic steakhouses with dark wood and leather",
+      "Bustling Stampede midway with adventurous foods",
+      "Trendy cocktail bars above convenience stores",
+      "Historic homes converted to restaurants (Deane House 1906)",
+      "Glass towers with mountain views"
+    ],
+    "colors": [
+      "Red and white Calgary Stampede branding",
+      "Rich brown aged Alberta beef",
+      "Deep burgundy wine and Caesar cocktails",
+      "White-capped Rocky Mountains",
+      "Golden prairie sunsets",
+      "Blue Bow River",
+      "Red checkered Western tablecloths"
+    ],
+    "unique_modern": [
+      "Fusion of Western heritage and global cuisine",
+      "Ginger beef as quintessentially Calgarian-Chinese",
+      "Caesar cocktail born here, now national drink",
+      "Stampede breaking attendance records (1.3M+ in 2024)",
+      "Modern steakhouses reimagining Alberta beef (Major Tom's 40th floor)",
+      "Innovative midway foods (Cowboyaki, Cowboy Twinkies)",
+      "Build-your-own Caesar bars throughout city"
+    ]
+  },
+  "wikipedia_search_term": "Calgary",
+  "keywords_for_image": [
+    "Calgary Stampede rodeo",
+    "Alberta beef steak Calgary",
+    "Caesar cocktail Calgary invention",
+    "Calgary skyline Rocky Mountains",
+    "Ginger beef Calgary Chinese food",
+    "Calgary Stampede midway",
+    "Calgary steakhouse",
+    "Bow River Calgary downtown"
+  ],
+  "coordinates": {
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Calgary+🇨🇦/@51.0447,-114.0719,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calgary"
+  },
+  "location_id": 49
+}

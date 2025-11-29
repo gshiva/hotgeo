@@ -1,0 +1,94 @@
+{
+  "name": "Tbilisi",
+  "country": "Georgia",
+  "fun_fact": "Fun fact: Cafe Daphna is the only place in Tbilisi where you can mix and match your khinkali fillings—they offer eight types including 'urban style' with greens, mushroom, and potato varieties, breaking the traditional beef-and-pork rule and making Instagram-worthy dumplings with dusky pink walls.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Khinkali at Pasanauri",
+        "description": "Soup dumplings filled with spiced meat and broth, twisted at the top like a pleated sack—juicy, savory, and eaten with your hands",
+        "origin_story": "Pasanauri is named after the village considered the birthplace of khinkali. This chain has 6 convenient locations throughout Tbilisi. The technique: pick up by the top knob, bite a hole in the bottom, suck out the broth, then eat the dumpling. The top is discarded",
+        "where_to_find": "Pasanauri (6 locations in central Tbilisi), Cafe Daphna (8 varieties including mix-and-match), Shemomechama Old Tbilisi, or Maspindzelo"
+      },
+      {
+        "name": "Khachapuri on a Skewer at Chashnagiri",
+        "description": "Melted cheese wrapped in dough on a skewer, grilled over charcoal and smothered in butter—gooey, smoky, heart-stopping",
+        "origin_story": "Chashnagiri in downtown Tbilisi invented this genius variation: khachapuri (cheese bread) cooked on a barbecue skewer. The cheese melts into the dough, the butter soaks in, and the result is Instagram gold",
+        "where_to_find": "Chashnagiri (downtown Tbilisi)—budget-friendly and delicious"
+      },
+      {
+        "name": "Khabidzgina at Kade",
+        "description": "Ossetian pie filled with cheese and potatoes—crispy outside, molten inside, unique to the mountain regions",
+        "origin_story": "Kade started as a summer cafe in Stepantsminda (Kazbegi mountains) and opened a Tbilisi branch. Their Mtiuleti region specialties include khabidzgina and potato-cheese khinkali, regarded as the best versions in Georgia",
+        "where_to_find": "Kade (Tbilisi location or original Stepantsminda cafe)"
+      },
+      {
+        "name": "Traditional Khinkali at Khinkali House",
+        "description": "Classic pork-and-beef khinkali served 24/7—perfect for late-night cravings",
+        "origin_story": "Khinkali House in central Tbilisi is open 24 hours, serving traditional khinkali, barbecue, and salads. It's where locals go after a night out for hot dumplings at 3am",
+        "where_to_find": "Khinkali House (central Tbilisi—open 24/7)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Georgian Wine (Saperavi, Rkatsiteli)",
+        "description": "Ancient wine made in qvevri clay vessels buried underground—tannic, amber, unlike anything else",
+        "how_locals_drink_it": "Georgia claims 8,000 years of winemaking. Orange wine (white grapes fermented with skins) is the traditional method. Served in carafes with meals, wine is sacred here. Toast-masters lead elaborate toasts at feasts"
+      },
+      {
+        "name": "Chacha",
+        "description": "Grape pomace brandy—strong, clear, and served as a digestif or with toasts",
+        "how_locals_drink_it": "Georgia's firewater, distilled from grape skins after winemaking. Served in small glasses after meals or during toasts. Locals claim it aids digestion after heavy khinkali meals"
+      }
+    ],
+    "food_culture_notes": [
+      "Never eat the top knob of khinkali—it's just a handle for picking up the dumpling",
+      "Khinkali etiquette: use hands only, bite a hole for broth, then eat. Knives and forks are amateur hour",
+      "Cafe Daphna's mix-and-match khinkali innovation breaks with tradition but creates Insta-worthy plates",
+      "Kade brings mountain food to Tbilisi—their Mtiuleti khinkali and Ossetian pies are unmatched"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Old Tbilisi sulfur bath district (Abanotubani)",
+      "Narikala Fortress overlooking the city",
+      "Bridge of Peace modern architecture",
+      "Rustaveli Avenue and opera house"
+    ],
+    "atmosphere": [
+      "steaming khinkali baskets",
+      "qvevri wine vessels",
+      "charcoal grills for khachapuri",
+      "19th-century Vera Quarter mansions"
+    ],
+    "colors": [
+      "amber Georgian orange wine",
+      "golden cheese khachapuri",
+      "red Saperavi wine",
+      "terracotta old Tbilisi buildings"
+    ],
+    "unique_modern": [
+      "Cafe Daphna's dusky pink walls and mix-and-match khinkali innovation",
+      "Chashnagiri's khachapuri-on-a-skewer invention",
+      "Khinkali House's 24/7 dumpling service",
+      "Kade bringing remote mountain recipes to the capital"
+    ]
+  },
+  "wikipedia_search_term": "Tbilisi",
+  "keywords_for_image": [
+    "Tbilisi Old Town sulfur baths",
+    "khinkali Georgian dumplings",
+    "khachapuri cheese bread",
+    "Georgian wine qvevri",
+    "Narikala Fortress night"
+  ],
+  "coordinates": {
+    "lat": 41.7151,
+    "lng": 44.8271
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Tbilisi+🇬🇪/@41.7151,44.8271,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tbilisi"
+  },
+  "location_id": 234
+}

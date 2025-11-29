@@ -1,0 +1,94 @@
+{
+  "name": "San Diego",
+  "country": "USA",
+  "fun_fact": "Fun fact: The fish taco originated in Baja California, Mexico, but San Diego turned it into a cultural phenomenon - Ralph Rubio opened the first Rubio's at Mission Bay in 1983 after tasting fish tacos in San Felipe, Mexico, sparking the fish taco craze that spread coast to coast.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Baja Fish Tacos",
+        "description": "Beer-battered or grilled white fish (usually mahi-mahi or halibut) in a corn tortilla with cabbage slaw, pico de gallo, pickled onions, and creamy white sauce.",
+        "origin_story": "While fish tacos originated in Baja California, San Diego made them iconic. The combination of crispy fried fish, crunchy cabbage, and tangy sauce became the city's signature dish, representing its surf culture and border-town identity.",
+        "where_to_find": "Oscar's Mexican Seafood (Pacific Beach institution), The Taco Stand (housemade tortillas daily), Mitch's Seafood (waterfront, sustainably caught)"
+      },
+      {
+        "name": "California Burrito",
+        "description": "A San Diego invention: carne asada, french fries, cheese, sour cream, and guacamole wrapped in a massive flour tortilla. Carbs on carbs, gloriously.",
+        "origin_story": "Created in San Diego in the 1980s, the California burrito uniquely includes french fries inside the burrito - a move that shocked purists but delighted locals. It's now a late-night surf culture staple found nowhere else.",
+        "where_to_find": "Local taco shops throughout San Diego, especially in Pacific Beach and Ocean Beach"
+      },
+      {
+        "name": "Upscale Fish Tacos at George's at the Cove",
+        "description": "Refined fish tacos with ocean views, featuring fresh local catch, gourmet toppings, and creative sauces.",
+        "origin_story": "George's Ocean Terrace elevated the humble fish taco to fine dining status while maintaining San Diego soul. Their version was featured on Food Network's 'The Best Thing I Ever Ate,' proving fish tacos can be both casual and sophisticated.",
+        "where_to_find": "George's at the Cove Ocean Terrace (La Jolla, spectacular ocean views)"
+      },
+      {
+        "name": "Lobster at Mitch's Seafood",
+        "description": "Fresh local lobster served in various preparations - tacos, rolls, grilled whole - sourced from sustainable San Diego Harbor fishermen.",
+        "origin_story": "Mitch's is located right in San Diego Harbor and works directly with local fishermen, serving only wild-caught, sustainable seafood. Their waterfront location means lobster comes from trap to table in hours.",
+        "where_to_find": "Mitch's Seafood (Point Loma, waterfront location)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Craft Beer",
+        "description": "San Diego is America's craft beer capital, with over 150 breweries producing IPAs, pale ales, stouts, and experimental brews.",
+        "how_locals_drink_it": "San Diego invented the West Coast IPA style - hop-forward, bitter, citrusy. Locals brewery-hop, especially in North Park and Miramar. Drink fresh - IPAs are best within weeks of canning."
+      },
+      {
+        "name": "Mexican Hot Chocolate",
+        "description": "Rich chocolate drink made with cinnamon, sometimes spiked with chili or vanilla, served hot or cold.",
+        "how_locals_drink_it": "Popular at Mexican breakfast spots and cafes throughout San Diego. Often paired with churros or pan dulce. The border influence makes it more authentic here than anywhere else in the US."
+      }
+    ],
+    "food_culture_notes": [
+      "San Diego's food scene is defined by its proximity to Mexico - authentic taquerias outnumber chains",
+      "Surf culture influences dining - casual, outdoor seating, fish-forward menus, and laid-back vibes",
+      "The farm-to-table movement is strong thanks to year-round growing season and nearby agricultural regions",
+      "Breakfast burritos are a morning ritual, and fish tacos aren't just lunch - they're a way of life"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Balboa Park",
+      "La Jolla Cove seals",
+      "Coronado Bridge",
+      "USS Midway Museum"
+    ],
+    "atmosphere": [
+      "Pacific beach boardwalks",
+      "harbor-side dining",
+      "sunset cliffs",
+      "surfboard-lined streets"
+    ],
+    "colors": [
+      "Pacific blue water",
+      "golden beach sand",
+      "sunset orange",
+      "taco truck vibrant colors"
+    ],
+    "unique_modern": [
+      "brewery tasting rooms",
+      "beachfront patios",
+      "Little Italy food halls",
+      "rooftop bars with ocean views"
+    ]
+  },
+  "wikipedia_search_term": "San_Diego",
+  "keywords_for_image": [
+    "fish tacos",
+    "craft beer",
+    "Pacific coast",
+    "surfing",
+    "Balboa Park"
+  ],
+  "coordinates": {
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/San+Diego+🇺🇸/@32.7157,-117.1611,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Diego"
+  },
+  "location_id": 272
+}

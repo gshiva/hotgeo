@@ -1,0 +1,109 @@
+{
+  "name": "Adelaide",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Adelaide is home to the iconic 'pie floater' - a meat pie submerged in pea soup topped with ketchup, recognized as a South Australian Heritage Icon by the National Trust! It was first sold in 1900 by Port Pirie baker Ern 'Shorty' Bradley and traditionally served from horse-drawn pie carts since the 1860s.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pie Floater",
+        "description": "A flaky pastry beef pie containing tender meat chunks, submerged in a bowl of thick green pea soup and topped with tomato ketchup. Locals say it's good for hangovers!",
+        "origin_story": "First sold at the turn of the 20th century by Port Pirie baker Ern 'Shorty' Bradley for theatre-goers. Pie floaters were served from horse and hand-drawn pie carts that were fixtures of Adelaide since the 1860s. The last mobile pie carts (Balfours and Cowley's) closed in 2007-2010, but the tradition lives on at fixed establishments.",
+        "where_to_find": "Bakery on O'Connell in North Adelaide, various pubs, restaurants, and bakeries across South Australia, general cafes throughout the state"
+      },
+      {
+        "name": "Bung Fritz",
+        "description": "A lightly smoked sausage made from beef, lamb, and pork, covered in an orange-colored sheep casing (called 'bung' by butchers)",
+        "origin_story": "A uniquely South Australian creation that became a local staple",
+        "where_to_find": "Adelaide Central Market, local butchers throughout South Australia"
+      },
+      {
+        "name": "Native Australian Game Meats",
+        "description": "Ethical and sustainable indigenous ingredients including kangaroo, camel, emu, and other bush meats paired with native herbs and fruits",
+        "origin_story": "Indigenous Australian food culture now celebrated by modern chefs highlighting ethical, sustainable native ingredients",
+        "where_to_find": "Something Wild Indigenous foods at Adelaide Central Market (owned by former AFL player Daniel Motlop), featuring native herbs like karkalla and strawberry gum, bush fruits like muntries and quandong"
+      },
+      {
+        "name": "Barossa Valley Regional Produce",
+        "description": "Farm-to-table seasonal dishes from the nearby Barossa Valley featuring local cheeses, slow-fermented breads, and artisan products",
+        "origin_story": "The Barossa Valley (1 hour from Adelaide) has shaped South Australian food culture for generations with family-run farms, bakeries, and producers. Apex Bakery in Tanunda has Australia's longest continuously fired commercial wood oven (since 1924).",
+        "where_to_find": "Adelaide Central Market, Barossa Valley restaurants (Fino at Seppeltsfield, Appellation at The Louise, Hentley Farm)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Barossa Valley Shiraz",
+        "description": "World-class wine from some of the oldest Shiraz vines on Earth (about 180 years old). Over half of Australian wines originate in South Australia.",
+        "how_locals_drink_it": "Paired with local cheeses from Adelaide Central Market (Say Cheese is the best spot), enjoyed at cellar doors among 150+ Barossa wineries, or at rooftop bars in Adelaide"
+      },
+      {
+        "name": "Coopers Beer",
+        "description": "South Australia's iconic beer brand, a local institution",
+        "how_locals_drink_it": "Enjoyed at pubs and restaurants throughout Adelaide"
+      },
+      {
+        "name": "Farmer's Union Iced Coffee",
+        "description": "South Australia's beloved iced coffee brand, an iconic local drink",
+        "how_locals_drink_it": "A cultural staple consumed throughout the day"
+      }
+    ],
+    "food_culture_notes": [
+      "Adelaide Central Market is 150+ years old (started 1869) and is the largest fresh produce market in the Southern Hemisphere with over 80 specialist stallholders",
+      "The market is the most visited tourist destination in South Australia with over 1.3 million visitors per month",
+      "Adelaide is the gateway to Barossa Valley - home to Penfolds and Jacob's Creek wines that introduced American consumers to Australian grapes in the 1980s-90s",
+      "Other iconic South Australian foods: Balfours' Frog Cake, FruChocs (chocolate-covered apricot), Haigh's chocolate",
+      "The Central Market lies at the heart of Adelaide's food and wine culture, on the edge of Chinatown"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Adelaide Central Market (art nouveau building on Hindmarsh Square)",
+      "Adelaide Oval (iconic sports ground)",
+      "Botanic Gardens (one of Australia's oldest public gardens)",
+      "Art Gallery of South Australia",
+      "Barossa Valley vineyards and historic wineries (1 hour away)",
+      "North Terrace cultural boulevard"
+    ],
+    "atmosphere": [
+      "Bustling Central Market with fresh produce and artisan foods",
+      "Vineyard-covered hills of Barossa Valley",
+      "Beachside cafes along coastal suburbs",
+      "Historic sandstone colonial architecture",
+      "Relaxed wine-tasting culture at cellar doors"
+    ],
+    "colors": [
+      "Green pea soup with golden pie crust (pie floater)",
+      "Deep purple-red Barossa Shiraz",
+      "Orange bung fritz sausage casing",
+      "Vibrant fresh produce at Central Market",
+      "Golden wheat fields surrounding Adelaide",
+      "Sandstone beige of colonial buildings"
+    ],
+    "unique_modern": [
+      "Something Wild Indigenous foods celebrating ethical native ingredients at Central Market",
+      "Barossa Valley's 150+ wineries with some of the world's oldest Shiraz vines",
+      "Adelaide as South Australia's wine capital - over half of Australian wine comes from this state",
+      "Former pie cart culture (1860s-2010) now preserved in heritage pie floater establishments",
+      "AFL football culture influencing local food businesses (ex-player Daniel Motlop's indigenous food stall)"
+    ]
+  },
+  "wikipedia_search_term": "Adelaide",
+  "keywords_for_image": [
+    "pie floater pea soup adelaide",
+    "barossa valley shiraz vineyard",
+    "adelaide central market",
+    "south australia wine country",
+    "indigenous australian bush food",
+    "meat pie green pea soup",
+    "barossa winery cellar door",
+    "adelaide colonial sandstone"
+  ],
+  "coordinates": {
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Adelaide+🇦🇺/@-34.9285,138.6007,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adelaide"
+  },
+  "location_id": 170
+}

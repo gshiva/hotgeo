@@ -1,0 +1,94 @@
+{
+  "name": "Avignon",
+  "country": "France",
+  "fun_fact": "Fun fact: La Fourchette has been serving what one food writer called 'the best beef stew I ever ate' since 1982—their daube de boeuf à l'Avignonnaise is so legendary that Fodor's declared it might be the best Provençal daube in all of France.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Daube Provençale at La Fourchette",
+        "description": "Beef braised for hours in red wine with vegetables, garlic, and herbes de Provence, served with macaroni gratin—rich, tender, and soul-warming",
+        "origin_story": "La Fourchette near the Palais des Papes has been an Avignon institution since 1982. Chef Philippe Hiély's family serves the daube in a traditional terracotta pot (daubière) with macaronade. One writer said it's the best beef stew they've ever eaten",
+        "where_to_find": "La Fourchette (minutes from Palais des Papes—since 1982), La Mère Germaine in Châteauneuf-du-Pape, or L'Agape in Place des Corps Saints"
+      },
+      {
+        "name": "Ratatouille",
+        "description": "Slow-cooked vegetable stew with eggplant, zucchini, tomatoes, peppers, and herbs—simple ingredients transformed by Provençal sunshine",
+        "origin_story": "Ratatouille is the essence of Provence: tomatoes, eggplant, zucchini, and peppers cooked slowly with olive oil and herbs. Each ingredient is cooked separately then combined, making it labor-intensive but magical",
+        "where_to_find": "Traditional Provençal restaurants throughout Avignon, especially in summer when vegetables are peak"
+      },
+      {
+        "name": "Brandade de Morue",
+        "description": "Creamy whipped salt cod with olive oil, garlic, and milk—rich, garlicky, and spread on toasted bread",
+        "origin_story": "This Provençal specialty takes dried salt cod and transforms it into a silky, garlicky purée. It's comfort food from the Mediterranean coast, brought inland to Avignon",
+        "where_to_find": "La Fourchette, L'Agape, or traditional Provençal restaurants in Old Town"
+      },
+      {
+        "name": "Tian de Légumes",
+        "description": "Vegetables (zucchini, tomatoes, eggplant) layered and baked until golden—rustic, simple, and purely Provençal",
+        "origin_story": "Tian refers to both the earthenware dish and the vegetable gratin cooked in it. Avignon chefs celebrate 'a tian of vegetables nicely browned in the oven' as the art of Provençal cooking",
+        "where_to_find": "Traditional Provençal restaurants, especially during summer vegetable season"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Châteauneuf-du-Pape Wine",
+        "description": "Full-bodied red wine from the nearby papal village—rich, spicy, and one of France's most prestigious wines",
+        "how_locals_drink_it": "Châteauneuf-du-Pape is just outside Avignon, where popes summered in the 14th century. The wine pairs perfectly with daube. Locals drink it at room temperature, treating it with reverence"
+      },
+      {
+        "name": "Pastis",
+        "description": "Anise-flavored aperitif mixed with ice water—turns cloudy and tastes like licorice",
+        "how_locals_drink_it": "Provence's unofficial aperitif. Mix 1 part pastis with 5 parts ice water. Sip it slowly in the afternoon sun at café terraces, the Provençal way to start an evening"
+      }
+    ],
+    "food_culture_notes": [
+      "Daube must be cooked in a daubière (traditional terracotta pot) with a concave lid to catch condensation",
+      "Friday aioli is a Provençal tradition—vegetables and fish served with garlicky aioli sauce",
+      "Avignon's food is Provençal at its core: olive oil, garlic, tomatoes, and herbs from the sun-drenched countryside",
+      "La Mère Germaine in nearby Châteauneuf-du-Pape has been serving since 1922 in a Belle Époque setting"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Palais des Papes (Papal Palace)",
+      "Pont d'Avignon (Saint-Bénézet bridge)",
+      "Medieval city walls",
+      "Châteauneuf-du-Pape vineyards nearby"
+    ],
+    "atmosphere": [
+      "terracotta pots of simmering daube",
+      "sun-drenched vegetable markets",
+      "rustic Provençal bistros",
+      "lavender and herbs from the countryside"
+    ],
+    "colors": [
+      "deep red wine and daube sauce",
+      "bright vegetables in ratatouille",
+      "golden olive oil",
+      "purple lavender fields"
+    ],
+    "unique_modern": [
+      "La Fourchette's 'best daube in France' reputation (since 1982)",
+      "Avignon as UNESCO City of Gastronomy gateway to Provence",
+      "Châteauneuf-du-Pape wine region (papal summer residence turned wine mecca)",
+      "La Mère Germaine's Belle Époque dining room (since 1922)"
+    ]
+  },
+  "wikipedia_search_term": "Avignon",
+  "keywords_for_image": [
+    "Palais des Papes Avignon",
+    "daube provencale beef stew",
+    "ratatouille Provence vegetables",
+    "Chateauneuf-du-Pape wine",
+    "lavender fields Provence"
+  ],
+  "coordinates": {
+    "lat": 43.9493,
+    "lng": 4.8055
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Avignon+🇫🇷/@43.9493,4.8055,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avignon"
+  },
+  "location_id": 230
+}

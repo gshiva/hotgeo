@@ -1,0 +1,94 @@
+{
+  "name": "Darwin",
+  "country": "Australia",
+  "fun_fact": "Fun fact: Darwin is the only place in Australia where eating crocodile is completely normal—locals grill 'croc tail' at backyard BBQs like it's just another Tuesday, and the city even has a 'Feed the Crocs' cruise where you watch saltwater crocs jump out of the water.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Barramundi at Pee Wee's at the Point",
+        "description": "Oven-baked wild-caught Northern Territory barramundi with crispy skin and tender, flaky white flesh—served oceanfront with sunset views over Fannie Bay",
+        "origin_story": "Pee Wee's won NT Restaurant of the Year twice by showcasing the Top End's incredible barramundi. The largest population of wild barramundi in Australia swims in these waters, making Darwin the epicenter of 'barra' culture",
+        "where_to_find": "Pee Wee's at the Point (East Point Reserve)—book ahead for sunset tables"
+      },
+      {
+        "name": "Coconut-Crusted Crocodile Tail at Pee Wee's",
+        "description": "Tender crocodile meat coated in coconut and served crispy—tastes like chicken but with a unique texture, completely local to the Territory",
+        "origin_story": "Crocodile farming became huge in the Northern Territory, turning saltwater croc meat into a gourmet ingredient. Pee Wee's perfected the coconut crust preparation that makes it approachable for first-timers",
+        "where_to_find": "Pee Wee's at the Point, PepperBerry at The Hilton (miso tempura version), or Tucker at Flick's for chimichurri crocodile bites"
+      },
+      {
+        "name": "Kangaroo Tail Croquettes at Tucker at Flick's",
+        "description": "Crispy-fried croquettes made from slow-cooked kangaroo tail meat—rich, gamey, and uniquely Territory",
+        "origin_story": "Tucker at Flick's opened in 2024 with MasterChef contestant Daniel Lamble leading the kitchen. His menu is a 'love letter to the Territory' featuring ingredients you won't find anywhere else",
+        "where_to_find": "Tucker at Flick's (Cinema Collective)—Darwin's hottest new opening of 2024"
+      },
+      {
+        "name": "Crispy-Skinned Humpty Doo Barramundi at Wharf One",
+        "description": "Perfectly grilled barramundi with glass-crisp skin from Humpty Doo (a town famous for nothing except exceptional barra)—served at Darwin's waterfront",
+        "origin_story": "Humpty Doo barramundi has cult status in Darwin. Wharf 1 sources the best and cooks it simply to let the fish shine, paired with harbour views",
+        "where_to_find": "Wharf One Food & Wine (Darwin Waterfront)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Territory Beer (NT Draught)",
+        "description": "Ice-cold lager brewed for the tropical heat—light, crisp, and essential for survival in Darwin's humidity",
+        "how_locals_drink_it": "Always served freezing cold in frosted glasses. Locals down stubbies (bottles) at Mindil Beach Sunset Market or waterfront bars while watching storms roll in during the wet season"
+      },
+      {
+        "name": "Tropical Fruit Smoothies at Parap Village Market",
+        "description": "Thick smoothies made from mangoes, passionfruit, and other tropical fruits that grow abundantly in the Top End",
+        "how_locals_drink_it": "Saturday morning ritual at Parap Market—locals grab smoothies while shopping for lychees, rambutans, and dragonfruit that taste nothing like what you get in southern Australia"
+      }
+    ],
+    "food_culture_notes": [
+      "Darwin locals eat crocodile, buffalo, and kangaroo without thinking twice—it's just 'Territory tucker'",
+      "Barramundi is so ubiquitous that locals judge restaurants by how they cook their barra",
+      "Mindil Beach Sunset Market (Thursday and Sunday evenings) has some of the best laksa in Australia",
+      "The wet season (November-April) brings incredible tropical fruit—mangoes so plentiful people leave boxes on the street"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Darwin Waterfront and Wave Lagoon",
+      "Mindil Beach sunset markets",
+      "East Point Reserve",
+      "Museum and Art Gallery of the Northern Territory"
+    ],
+    "atmosphere": [
+      "tropical humidity and palm trees",
+      "outdoor waterfront dining year-round",
+      "sunset over the Arafura Sea",
+      "laid-back frontier town energy"
+    ],
+    "colors": [
+      "brilliant orange and pink sunsets",
+      "turquoise tropical waters",
+      "golden crispy barramundi skin",
+      "vibrant tropical fruit"
+    ],
+    "unique_modern": [
+      "Tucker at Flick's redefining Territory cuisine in 2024",
+      "Indigenous bush tucker experiences at Cooinda Lodge",
+      "Crocodile jumping tours turned tourist spectacle",
+      "Wet season storms creating dramatic dining backdrops"
+    ]
+  },
+  "wikipedia_search_term": "Darwin,_Northern_Territory",
+  "keywords_for_image": [
+    "Darwin sunset Mindil Beach",
+    "barramundi fish Australia",
+    "crocodile meat Northern Territory",
+    "tropical waterfront dining",
+    "Australian bush tucker"
+  ],
+  "coordinates": {
+    "lat": -12.4634,
+    "lng": 130.8456
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Darwin+🇦🇺/@-12.4634,130.8456,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory"
+  },
+  "location_id": 219
+}

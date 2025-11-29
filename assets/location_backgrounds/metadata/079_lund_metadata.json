@@ -1,0 +1,105 @@
+{
+  "name": "Lund",
+  "country": "Sweden",
+  "fun_fact": "Fun fact: Lund is Sweden's oldest city (founded around 990 AD) and was once the religious center of all Scandinavia! The magnificent Lund Cathedral (1145 AD) is the oldest cathedral in Scandinavia. In its crypt, two stone figures called 'The Giant Finn and his wife' stand frozen - legend says the giant built the cathedral but was turned to stone when he wasn't paid. During the Middle Ages, Lund had MORE CHURCHES than any other Nordic city (27 total)!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Traditional Swedish Husmanskost",
+        "description": "Home-style traditional Swedish cooking including dishes like gratinated flounder fillet, meatballs, and Jansson's Temptation (potato and anchovy casserole)",
+        "origin_story": "Husmanskost represents authentic Swedish comfort food passed down through generations. Swedish dishes often feature mashed or boiled potatoes topped with lingonberries - Sweden's prime delicacy",
+        "where_to_find": "Restaurant Bellman (Mårtensgatan - rustic interior, famous gratinated flounder fillet), Bantorget 9 (high-quality, organic, locally produced, menu changes seasonally), Swedish Express (Klostergatan 11 - budget traditional fare)"
+      },
+      {
+        "name": "Kanelbullar (Cinnamon Buns)",
+        "description": "The epitome of Swedish pastry - spiral wheat flour buns filled with cinnamon, sugar, butter, topped with crunchy pearl sugar",
+        "origin_story": "So beloved that Swedes consume 230 cinnamon rolls per person annually! October 4th is official Kanelbullens Dag (Cinnamon Bun Day) with 8 million sold across Sweden. The most iconic fika treat",
+        "where_to_find": "Ramklints konditori, Broder Jakobs (cozy café with great fika selection). Found in all bakeries and cafés - essential for Swedish fika culture"
+      },
+      {
+        "name": "Semla",
+        "description": "Cardamom-spiced wheat bun hollowed out and filled with almond paste (marzipan) and whipped cream, dusted with powdered sugar",
+        "origin_story": "Traditionally eaten on fettisdag (Fat Tuesday) before Lent, but now appears right after New Year's through February/March. Swedes eagerly await the first semla buns after New Year's celebrations. A cherished seasonal ritual",
+        "where_to_find": "Ramklints konditori in Lund (visible in windows). Available at all bakeries during semla season (January-March)"
+      },
+      {
+        "name": "Julbord (Christmas Table)",
+        "description": "Exceptional Swedish Christmas feast including lutefisk, Janssons frestelse, various herring preparations, and seasonal specialties",
+        "origin_story": "Traditional Swedish Christmas celebration featuring dishes not commonly found year-round. A major cultural tradition in Lund's restaurants during December",
+        "where_to_find": "Select restaurants in Lund serve traditional julbord experiences in December"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Swedish Coffee (Fika Culture)",
+        "description": "Freshly brewed coffee, central to Sweden's fika culture - a sacred social ritual built into employee contracts",
+        "how_locals_drink_it": "Fika happens any time of day, usually with something sweet (kanelbullar being most popular). Average Swede spends 227 hours (9.5 days) per year on fika - 90 hours at work! Sweden is top-10 coffee consuming country. Coffee arrived in 1685 and was so popular it's been banned FIVE times in Swedish history. Fika embodies 'lagom' (just the right amount) - finding balance in everyday life"
+      }
+    ],
+    "food_culture_notes": [
+      "Fika is a social ritual - best shared with others, where 'ideas are hatched, secrets are shared and alliances are formed'",
+      "Klostergatan has become Lund's 'food street' with cafés, pastries, delicacies",
+      "Lund has a modern Saluhallen (Market Hall) with diverse food options",
+      "Malmstens fisk & kök in Saluhallen serves 'Lund's most affordable and savoury lunch' with seasonal seafood",
+      "Surprisingly, burgers, falafel, and pizza are everywhere - Lundafalafel is hugely popular",
+      "Fengssons Dumpling House (Winstrupsgatan 1) offers 'stellar dumplings' in a medieval cellar with 'dungeon aesthetic'",
+      "Farm shops around Lund offer organic, locally produced foods"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Lund Cathedral (1145 AD - oldest in Scandinavia, Romanesque architecture)",
+      "Giant Finn and wife statues in cathedral crypt",
+      "Sweden's largest church organ (102 registers, 7,074 whistles)",
+      "Lund University (one of Northern Europe's oldest - founded 1666, studium generale 1425)",
+      "Medieval half-timbered buildings from Danish period",
+      "27 medieval church sites throughout city"
+    ],
+    "atmosphere": [
+      "Sweden's oldest city (founded ~990 AD)",
+      "University town with 47,000 students",
+      "Medieval ecclesiastical center",
+      "Once Christian center of Denmark and royal seat",
+      "5 Nobel Prize winners, Fields Medal winner associated with university",
+      "Danish Romanesque architectural heritage",
+      "Cozy café culture on every corner"
+    ],
+    "colors": [
+      "Cardamom and cinnamon warm browns",
+      "Pearl sugar white on kanelbullar",
+      "Golden semla almond paste",
+      "Medieval stone cathedral grey",
+      "Coffee culture dark roast tones",
+      "Cream and beige half-timbered buildings"
+    ],
+    "unique_modern": [
+      "Fika culture with 227 hours/year per person",
+      "University town energy (47,000 students, 8,800 employees)",
+      "Fengssons medieval cellar dumpling house",
+      "Lundafalafel beloved local institution",
+      "Modern Market Hall (Saluhallen)",
+      "Food street (Klostergatan) with international options",
+      "Swedish-Asian fusion restaurants in historic setting"
+    ]
+  },
+  "wikipedia_search_term": "Lund,_Sweden",
+  "keywords_for_image": [
+    "lund cathedral romanesque",
+    "swedish kanelbullar pearl sugar",
+    "semla whipped cream",
+    "fika coffee culture sweden",
+    "medieval lund sweden",
+    "giant finn cathedral crypt",
+    "lund university historic",
+    "swedish pastries cardamom"
+  ],
+  "coordinates": {
+    "lat": 55.7047,
+    "lng": 13.191
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lund+🇸🇪/@55.7047,13.191,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lund,_Sweden"
+  },
+  "location_id": 79
+}

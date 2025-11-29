@@ -1,0 +1,94 @@
+{
+  "name": "Cannes",
+  "country": "France",
+  "fun_fact": "Fun fact: Pablo Picasso considered La Potiniere restaurant opposite the Palais des Festivals his favorite haunt during the film festival years, proving that even avant-garde artists appreciated classic French Riviera seafood more than experimental cuisine.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Bouillabaisse",
+        "description": "Traditional Provençal fish stew made with local catch like rascasse and monkfish, simmered with saffron and herbs, served with rouille mayonnaise and crusty bread",
+        "origin_story": "This iconic Mediterranean dish originated in Marseille but is perfected along the Côte d'Azur. Each restaurant guards its recipe jealously - the key is using the freshest local fish from the morning catch",
+        "where_to_find": "Restaurants in Le Suquet (Old Town on the hillside), La Potiniere (Picasso's favorite since 1948)"
+      },
+      {
+        "name": "Beignets de Fleurs de Courgettes",
+        "description": "Delicate courgette (zucchini) flowers stuffed with cream cheese, seasoned with herbs, and deep-fried until crispy and golden",
+        "origin_story": "These frittered flowers are a seasonal Côte d'Azur specialty. When courgette plants bloom in spring and summer, locals rush to restaurants for this delicate treat that represents Provençal cuisine at its most refined",
+        "where_to_find": "Le Bistrot Gourmand (near Marché Forville), Restaurant Aux Bons Enfants (family institution since 1935)"
+      },
+      {
+        "name": "Soupe au Pistou",
+        "description": "Thick, rich Provençal vegetable and bean soup finished with pistou (basil, garlic, and olive oil sauce - Provence's answer to pesto)",
+        "origin_story": "This summer soup celebrates the abundance of Provençal vegetables from local markets. The pistou is added at the table so each diner controls the intensity of the basil and garlic",
+        "where_to_find": "Restaurant Aux Bons Enfants (Suquet district, using produce from market 50m away), Le Bistrot Gourmand"
+      },
+      {
+        "name": "Socca",
+        "description": "Crispy chickpea pancake cooked on a copper plate in a wood oven - served hot, torn into pieces, and sprinkled with black pepper",
+        "origin_story": "This Niçoise street food is sold at the Forville market on Sundays, cooked fresh in a wood oven on wheels. Locals grab a piece to eat while browsing the market stalls - it's a Sunday morning ritual",
+        "where_to_find": "Forville market on Sundays (wood-fired vendor), street food stalls"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Rosé Wine from Provence",
+        "description": "Pale pink, bone-dry rosé from local vineyards - the quintessential Riviera drink",
+        "how_locals_drink_it": "Served ice-cold at waterfront cafés, especially during long lunches overlooking the Mediterranean. This isn't sweet rosé - it's crisp, minerally, and designed for seafood"
+      },
+      {
+        "name": "Pastis",
+        "description": "Anise-flavored aperitif that turns cloudy when mixed with water",
+        "how_locals_drink_it": "The classic pre-dinner drink on the Riviera, mixed with cold water and ice, sipped slowly while watching the boats in the harbor"
+      }
+    ],
+    "food_culture_notes": [
+      "The Forville market is essential for understanding Cannes food culture - chefs shop here daily for the freshest ingredients",
+      "Le Suquet (Old Town) offers the most authentic dining experience away from film festival glamour",
+      "Restaurant Aux Bons Enfants has been family-run since 1935, with the youngest Giorsetti generation adding Moroccan and Spanish accents",
+      "Michelin-starred La Bastide Saint-Antoine (chef Jacques Chibois) offers refined Provençal cuisine in a country house with sea views"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Palais des Festivals",
+      "Le Suquet old town",
+      "La Croisette boulevard",
+      "Îles de Lérins islands"
+    ],
+    "atmosphere": [
+      "yacht-filled harbor",
+      "palm-lined promenade",
+      "red carpet glamour",
+      "hilltop old town charm"
+    ],
+    "colors": [
+      "azure Mediterranean blue",
+      "pale pink Provençal rosé",
+      "golden socca",
+      "white yachts"
+    ],
+    "unique_modern": [
+      "film festival international scene",
+      "Michelin-starred innovation",
+      "celebrity chef restaurants",
+      "contrast between old Provençal and modern luxury"
+    ]
+  },
+  "wikipedia_search_term": "Cannes",
+  "keywords_for_image": [
+    "Cannes France",
+    "La Croisette",
+    "Palais des Festivals",
+    "Provencal cuisine",
+    "Mediterranean coast"
+  ],
+  "coordinates": {
+    "lat": 43.5528,
+    "lng": 7.0174
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Cannes+🇫🇷/@43.5528,7.0174,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cannes"
+  },
+  "location_id": 300
+}

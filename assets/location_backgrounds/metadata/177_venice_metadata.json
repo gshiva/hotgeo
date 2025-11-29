@@ -1,0 +1,94 @@
+{
+  "name": "Venice",
+  "country": "Italy",
+  "fun_fact": "Fun fact: Venice has NO cars, NO bicycles, and NO wheeled vehicles of any kind - everything moves by foot or boat, making it the world's largest pedestrian city. Food deliveries arrive by boat to restaurants perched on canals!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Cicchetti",
+        "description": "Venetian tapas - small bites on bread or toothpicks eaten standing at bars (bàcari)",
+        "origin_story": "Venice's answer to tapas, eaten while bar-hopping between bàcari in the tradition called 'giro d'ombra' (going for a shadow of wine)",
+        "where_to_find": "All'Arco, Cantina Do Mori (since 1462!), Cantina Do Spade, Osteria Al Squero"
+      },
+      {
+        "name": "Sarde in Saor",
+        "description": "Sweet and sour sardines with onions, raisins, and pine nuts - eaten cold",
+        "origin_story": "Created by Venetian sailors who needed preserved fish for long voyages. The vinegar acted as a preservative while the sweet ingredients provided energy",
+        "where_to_find": "Every bàcaro serves this classic, Osteria Ae Sconte, Osteria Ai Rusteghi"
+      },
+      {
+        "name": "Risi e Bisi",
+        "description": "Rice and pea soup, so thick it's eaten with a fork - Venice's official dish",
+        "origin_story": "Served to the Doge on April 25 (St. Mark's Day) using the first spring peas from the lagoon islands. It must be 'all'onda' (wavy, not too thick)",
+        "where_to_find": "Trattoria Antiche Carampane, Osteria Boccadoro"
+      },
+      {
+        "name": "Fegato alla Veneziana",
+        "description": "Thinly sliced calf's liver with onions, cooked until meltingly tender",
+        "origin_story": "A Venetian invention that spread worldwide - the onions must cook for hours until completely soft and sweet",
+        "where_to_find": "Trattoria alla Madonna, Osteria al Cicheto"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Spritz",
+        "description": "Aperol or Select bitter with prosecco and soda water",
+        "how_locals_drink_it": "THE aperitivo drink - served everywhere at 6pm, bright orange and refreshing. Order 'Spritz con Select' for the authentic Venetian bitter"
+      },
+      {
+        "name": "Ombra",
+        "description": "Small glass of wine - the name means 'shadow'",
+        "how_locals_drink_it": "Named because wine sellers would set up in St. Mark's shadow to keep wine cool. Quick sips while standing at bàcari"
+      }
+    ],
+    "food_culture_notes": [
+      "Never eat near St. Mark's Square - tourist traps with bad food at 10x prices",
+      "Bàcari (wine bars) are open morning to evening - cicchetti from €1-3 each",
+      "Fish from the Rialto Market is incredibly fresh - restaurants buy daily",
+      "Coffee is drunk at the bar, standing - sitting down doubles the price"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Mark's Square and Basilica",
+      "Rialto Bridge",
+      "Grand Canal",
+      "Bridge of Sighs"
+    ],
+    "atmosphere": [
+      "gondolas on canals",
+      "narrow alleyways (calli)",
+      "Byzantine architecture",
+      "morning fish market"
+    ],
+    "colors": [
+      "canal green",
+      "terracotta red",
+      "Byzantine gold",
+      "Spritz orange"
+    ],
+    "unique_modern": [
+      "sinking city",
+      "flooding acqua alta",
+      "cruise ship controversy",
+      "Biennale art exhibitions"
+    ]
+  },
+  "wikipedia_search_term": "Venice",
+  "keywords_for_image": [
+    "cicchetti Venetian tapas",
+    "spritz aperitivo",
+    "Grand Canal gondolas",
+    "Rialto fish market",
+    "bàcaro wine bar"
+  ],
+  "coordinates": {
+    "lat": 45.4408,
+    "lng": 12.3155
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Venice+🇮🇹/@45.4408,12.3155,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Venice"
+  },
+  "location_id": 177
+}

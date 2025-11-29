@@ -1,0 +1,94 @@
+{
+  "name": "Salt Lake City",
+  "country": "USA",
+  "fun_fact": "Fun fact: Utah has its own unique food culture including 'fry sauce' (mayo-ketchup mixture invented here in 1948), funeral potatoes (cheesy potato casserole served at every Mormon gathering), and green Jell-O - Utah consumes more Jell-O per capita than any other state!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Funeral Potatoes",
+        "description": "Creamy, cheesy hash brown casserole topped with cornflakes or crushed chips",
+        "origin_story": "A Mormon potluck staple served at funerals, church dinners, and family gatherings. So iconic that the 2002 Winter Olympics sold souvenir pins featuring the dish",
+        "where_to_find": "Chuck-A-Rama, Sizzler, any potluck in Utah, Marie Callender's"
+      },
+      {
+        "name": "Pastrami Burger",
+        "description": "Burger topped with pastrami, Swiss cheese, and Thousand Island dressing",
+        "origin_story": "A Utah original created at Crown Burgers by Greek immigrants - now found throughout the state",
+        "where_to_find": "Crown Burgers (the original), Apollo Burger, Lucky 13"
+      },
+      {
+        "name": "Fry Sauce",
+        "description": "Pink sauce made from mayonnaise and ketchup, Utah's essential condiment",
+        "origin_story": "Invented in 1948 at Arctic Circle drive-in in Salt Lake City. Utahns put it on everything",
+        "where_to_find": "Literally every fast food restaurant in Utah, Arctic Circle"
+      },
+      {
+        "name": "Scones (Utah-style)",
+        "description": "Fried dough served with honey butter - NOT the British baked variety",
+        "origin_story": "Mormon pioneer food - deep-fried and topped with honey butter or jam",
+        "where_to_find": "Sill's Cafe, Chuck-A-Rama, traditional Utah diners"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Dirty Soda",
+        "description": "Soda mixed with cream, flavored syrups, and sometimes lime - a Utah phenomenon",
+        "how_locals_drink_it": "At 'soda shops' like Swig or Sodalicious - Utah's answer to coffee culture due to LDS dietary guidelines"
+      },
+      {
+        "name": "Utah Craft Beer",
+        "description": "Despite stereotypes, SLC has an excellent craft beer scene",
+        "how_locals_drink_it": "At breweries like Epic, Uinta, and Squatters - beer laws have loosened significantly"
+      }
+    ],
+    "food_culture_notes": [
+      "LDS (Mormon) influence means unique food traditions and less alcohol focus",
+      "Greek and Pacific Islander communities contribute excellent cuisine",
+      "Farm-to-table movement strong with nearby farms and ranches",
+      "Outdoor culture means hearty, portable food for skiing and hiking"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Salt Lake Temple",
+      "Great Salt Lake",
+      "Utah State Capitol",
+      "Wasatch Mountains"
+    ],
+    "atmosphere": [
+      "mountain backdrop",
+      "wide streets",
+      "temple spires",
+      "ski culture"
+    ],
+    "colors": [
+      "mountain purple",
+      "temple grey",
+      "salt flat white",
+      "ski slope blue"
+    ],
+    "unique_modern": [
+      "outdoor recreation capital",
+      "2002 Winter Olympics legacy",
+      "tech hub 'Silicon Slopes'"
+    ]
+  },
+  "wikipedia_search_term": "Salt_Lake_City",
+  "keywords_for_image": [
+    "pastrami burger",
+    "funeral potatoes",
+    "fry sauce",
+    "Salt Lake Temple",
+    "Wasatch Mountains",
+    "Great Salt Lake"
+  ],
+  "coordinates": {
+    "lat": 40.7608,
+    "lng": -111.891
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Salt+Lake+City+🇺🇸/@40.7608,-111.891,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salt_Lake_City"
+  },
+  "location_id": 185
+}

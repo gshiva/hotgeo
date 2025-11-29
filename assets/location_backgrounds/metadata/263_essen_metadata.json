@@ -1,0 +1,94 @@
+{
+  "name": "Essen",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Essen was the heart of Germany's Ruhr industrial region - the Krupp steel dynasty powered German industry here, and the Zollverein Coal Mine (now UNESCO site) is one of the world's most beautiful industrial monuments.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Currywurst",
+        "description": "Grilled pork sausage sliced and smothered in curry ketchup sauce, sprinkled with curry powder, served with fries",
+        "origin_story": "This post-WWII invention became Germany's most beloved street food. Born in Berlin but perfected across Germany, currywurst represents working-class food culture of the Ruhr region. Steel workers needed cheap, filling, fast meals - currywurst delivered. The sauce recipe is often secret, each stand claims theirs is best.",
+        "where_to_find": "Street food stalls throughout Essen - locals claim 'absolutely best Currywurst of Witten' in the Ruhr Area with 'best French fries in the World!', various budget-friendly spots serving curried sausage with fries"
+      },
+      {
+        "name": "Schnitzel",
+        "description": "Breaded and fried pork or veal cutlet, served with fries and cucumber salad or triplets",
+        "origin_story": "While schnitzel is Austrian, Germans adopted it enthusiastically. Ruhr region portions are massive - expect enormous schnitzels that hang off the plate. The breading should be crispy, the meat tender. It's German comfort food - simple, satisfying, affordable.",
+        "where_to_find": "Traditional German restaurants in Rüttenscheid district - reviews rave 'the schnitzel is incredible, expect MASSIVE portion sizes' with 'breading nice and crispy, meat extremely tender' served with triplets and cucumber salad"
+      },
+      {
+        "name": "Bratwurst",
+        "description": "Grilled German sausage served in a bun with mustard, or on a plate with sauerkraut and potatoes",
+        "origin_story": "Bratwurst is German soul in sausage form. Each region has its version - Ruhr region's reflects industrial heritage with hearty, filling sausages designed for manual laborers. Grilled over charcoal, served simply with good mustard and bread or with traditional sides.",
+        "where_to_find": "Street food markets, traditional German restaurants, Rüttenscheider Straße (trendy boulevard full of eateries)"
+      },
+      {
+        "name": "Hearty German Fare",
+        "description": "Pork knuckle, sauerbraten, potato dishes - filling Ruhr region working-class meals",
+        "origin_story": "Essen's industrial past created hearty food culture. Coal miners and steel workers needed substantial meals. Traditional German cooking here emphasizes portions over finesse - it's fuel for physical labor, elevated to regional pride.",
+        "where_to_find": "Rüttenscheid district (recommended for dinner with local beer and schnitzel), traditional German restaurants throughout Essen"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "German Beer",
+        "description": "Local pilsners and lagers - Ruhr region beer culture runs deep",
+        "how_locals_drink_it": "Served in steins at traditional restaurants and beer gardens. The Ruhr region's working-class heritage means beer is everyday drink, not special occasion. Paired with schnitzel, currywurst, or bratwurst. Affordable and excellent quality."
+      },
+      {
+        "name": "Kölsch",
+        "description": "Light beer from nearby Cologne, served in small glasses",
+        "how_locals_drink_it": "While from Cologne, Kölsch is popular throughout the Ruhr region. Served in 200ml glasses that are constantly refilled - the small size keeps beer cold. Waiter brings new glasses until you place coaster on top."
+      }
+    ],
+    "food_culture_notes": [
+      "Portions in Essen are MASSIVE - German portions in general, but Ruhr region especially. Don't over-order.",
+      "Rüttenscheider Straße is the trendy dining boulevard - mix of traditional German and international cuisines",
+      "Café Kohlenwäsche at UNESCO Zollverein Coal Mine Industrial Complex offers dining in stunning industrial setting",
+      "Budget-friendly dining is easy to find - currywurst, schnitzel, and beer won't break the bank"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Zollverein Coal Mine (UNESCO)",
+      "Villa Hügel (Krupp mansion)",
+      "Grugapark",
+      "Museum Folkwang"
+    ],
+    "atmosphere": [
+      "industrial heritage",
+      "Ruhr region working-class roots",
+      "post-industrial transformation",
+      "green spaces reclaiming factories"
+    ],
+    "colors": [
+      "coal mine black",
+      "Ruhr industrial gray",
+      "curry powder yellow",
+      "beer hall wood brown"
+    ],
+    "unique_modern": [
+      "UNESCO industrial heritage",
+      "Germany's green capital transformation",
+      "Post-industrial culture",
+      "Krupp steel dynasty history"
+    ]
+  },
+  "wikipedia_search_term": "Essen",
+  "keywords_for_image": [
+    "Essen Zollverein coal mine",
+    "German currywurst",
+    "Ruhr industrial region",
+    "German schnitzel",
+    "UNESCO industrial heritage"
+  ],
+  "coordinates": {
+    "lat": 51.4556,
+    "lng": 7.0116
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Essen+🇩🇪/@51.4556,7.0116,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Essen"
+  },
+  "location_id": 263
+}

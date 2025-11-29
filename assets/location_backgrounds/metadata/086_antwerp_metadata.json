@@ -1,0 +1,108 @@
+{
+  "name": "Antwerp",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Antwerp's legendary herbal liqueur, Elixir d'Anvers (invented in 1863), was once given to Babar the elephant at Antwerp Zoo when he was sick—and after three bottles, he recovered! The 160-year-old recipe of 32 herbs and spices remains a family secret, and the liqueur was even recommended for 'apathetic women, stressed-out men, and sluggish horses.'",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Stoofvlees (Vlaamse Karbonaden)",
+        "description": "Dark, beer-braised beef stew slow-cooked with local brown ale, onions, mustard, and a slice of bread to thicken the sauce. Deep flavor, tender meat, served with golden fries and mayo.",
+        "origin_story": "A staple across Belgian tables for generations, this hearty stew reflects Belgium's love for beer-based cooking and rich, slow-simmered comfort food.",
+        "where_to_find": "De Groote Witte Arend (Reyndersstraat), Elfde Gebod, or De Arme Duivel for authentic stoofvlees with character"
+      },
+      {
+        "name": "Paling in 't Groen (Eel in Green Sauce)",
+        "description": "Freshwater eel cooked in a bright green herb sauce made with sorrel, parsley, watercress, and chervil. Bold, earthy, and uniquely Flemish.",
+        "origin_story": "A traditional Flemish specialty that locals love and tourists sometimes fear—until they taste the vibrant herbal sauce and tender eel. Often served with fries or bread to soak up every drop.",
+        "where_to_find": "Traditional Flemish restaurants throughout Antwerp's historic center"
+      },
+      {
+        "name": "Antwerpse Handjes",
+        "description": "Antwerp's signature 'hands' cookies or chocolates filled with marzipan and Elixir d'Anvers. Made from sanddough with almonds (biscuit version) or milk chocolate.",
+        "origin_story": "Named after the city's legend of the giant Druon Antigoon, whose severed hand was thrown into the River Scheldt. 'Antwerpen' means 'hand throwing' in Dutch, and these hand-shaped treats are the city's most iconic edible souvenir.",
+        "where_to_find": "Bakeries and chocolate shops throughout the city center, especially near Grote Markt"
+      },
+      {
+        "name": "Moules-Frites",
+        "description": "North Sea mussels steamed in white wine, garlic, and celery, served with crispy twice-fried Belgian frites and mayo. Eaten by hand.",
+        "origin_story": "While common throughout Belgium, Antwerp's harborside location means unbeatable freshness. Peak season runs from July through February.",
+        "where_to_find": "Harborside restaurants and traditional brasseries. Restaurant Octave (near Central Station) offers creative Belgian takes on classics"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Bolleke (De Koninck Beer)",
+        "description": "Antwerp's beloved local beer—a 5% ABV amber ale served in distinctive half-spherical glasses called 'bollekes'",
+        "how_locals_drink_it": "Locals meet at historic bars like Quinten Matsijs (one of the oldest bars in Antwerp) to drink Bolleke from its iconic rounded glass. The beer has been brewed in Antwerp since 1833 and is deeply intertwined with the city's identity."
+      },
+      {
+        "name": "Elixir d'Anvers",
+        "description": "A golden-yellow herbal liqueur made from 32 plants and herbs including cinnamon, saffron, and star anise. Invented in 1863 by pharmacist François-Xavier De Beukelaer, the exact recipe remains a family secret for five generations.",
+        "how_locals_drink_it": "Traditionally served as a digestif or added to coffee. Historically given to children on sugar cubes, fed to sick horses, and recommended for 'apathetic women and stressed-out men.' Still fills the marzipan center of Antwerpse Handjes cookies."
+      },
+      {
+        "name": "Belgian Frites with Sauces",
+        "description": "Thick-cut fries fried twice for perfect crispiness, served in paper cones with creative sauces like truffle mayo and basil remoulade",
+        "how_locals_drink_it": "In the 17th century, polluted waterways meant drinking beer (rather than unclean water) was the only safe option. A water pipe ran directly to brewers' street to supply clean water to breweries. This made Antwerp a beer-drinking city by necessity, now by culture. Frites are the perfect beer companion."
+      }
+    ],
+    "food_culture_notes": [
+      "Antwerp boasts one of the world's highest number of pubs per capita",
+      "In 2016, UNESCO inscribed Belgian beer culture on their list of intangible cultural heritage of humanity",
+      "Belgians now drink 68 liters of beer each year, down from around 200 in 1900",
+      "Almost every Belgian beer has its own uniquely shaped, branded glass",
+      "The historic Seefhoek district was named after an ancient local buckwheat brew called Seef",
+      "Brewing in Antwerp dates back to the 1300s—there used to be hundreds of breweries, now just a few remain",
+      "Beer Passion weekend (July) and Modeste Bier Festival (October) celebrate Antwerp's brewing heritage",
+      "The diamond district contrasts with the city's earthy, beer-soaked culinary traditions"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Diamond district buildings",
+      "Historic Grote Markt square",
+      "Antwerp Central Station's ornate architecture",
+      "River Scheldt waterfront",
+      "Seefhoek brewery district"
+    ],
+    "atmosphere": [
+      "Historic brown cafes with bolleke glasses",
+      "Cobblestone streets in Reyndersstraat",
+      "Bohemian pub culture",
+      "Harborside seafood restaurants",
+      "Artisan chocolate and bakery shops"
+    ],
+    "colors": [
+      "Golden amber (Bolleke beer)",
+      "Deep brown (stoofvlees stew)",
+      "Bright green (paling in 't groen sauce)",
+      "Golden yellow (Elixir d'Anvers)",
+      "Dark chocolate and marzipan (Antwerpse Handjes)"
+    ],
+    "unique_modern": [
+      "Frites Atelier's gourmet fry toppings",
+      "Kornél's laptop-friendly pastry cafe in southern Antwerp",
+      "Bistrot Benoît's French-Belgian fusion near Grote Markt",
+      "Contemporary beer bars with 40+ Belgian varieties"
+    ]
+  },
+  "wikipedia_search_term": "Antwerp",
+  "keywords_for_image": [
+    "Antwerp Grote Markt",
+    "Belgian frites mayonnaise",
+    "Bolleke beer glass",
+    "Flemish stoofvlees",
+    "Antwerp Central Station",
+    "diamond district",
+    "River Scheldt"
+  ],
+  "coordinates": {
+    "lat": 51.2194,
+    "lng": 4.4025
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Antwerp+🇧🇪/@51.2194,4.4025,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antwerp"
+  },
+  "location_id": 86
+}

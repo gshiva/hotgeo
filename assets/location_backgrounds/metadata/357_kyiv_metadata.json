@@ -1,0 +1,94 @@
+{
+  "name": "Kyiv",
+  "country": "Ukraine",
+  "fun_fact": "Fun fact: Kyiv's metro stations are among the deepest in the world - Arsenalna station descends 105.5 meters (346 feet) underground, deeper than the length of a football field! The deep tunnels were built as nuclear bunkers during the Cold War.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Chicken Kyiv",
+        "description": "Breaded chicken breast stuffed with herbed garlic butter that spurts when cut",
+        "origin_story": "Despite the name, it may have originated in French cuisine and was popularized globally from Soviet-era restaurants. Authentic versions use bone-in chicken",
+        "where_to_find": "Puzata Hata (chain), Kanapa, Ostannya Barykada"
+      },
+      {
+        "name": "Borscht",
+        "description": "Vibrant beet soup with cabbage, potatoes, and meat, served with sour cream and pampushky (garlic bread)",
+        "origin_story": "Ukraine claims borscht as its national dish (UNESCO recognized Ukrainian borscht cooking tradition in 2022). Over 30 regional variations exist",
+        "where_to_find": "Kanapa, Spotykach, every traditional restaurant"
+      },
+      {
+        "name": "Varenyky",
+        "description": "Ukrainian dumplings filled with potato, sauerkraut, meat, or sweet fillings like cherry",
+        "origin_story": "Ancient Slavic dish - the potato version with sour cream and fried onions is essential comfort food",
+        "where_to_find": "Puzata Hata, Dva Gusya, Pervak"
+      },
+      {
+        "name": "Salo",
+        "description": "Cured pork fatback, sliced thin, often with garlic and black bread",
+        "origin_story": "The ultimate Ukrainian delicacy - there's even a monument to salo in Kyiv. Best from Polissya region",
+        "where_to_find": "Bessarabsky Market, any traditional restaurant, with shots of horilka"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Horilka",
+        "description": "Ukrainian vodka, often pepper-infused (pertsivka)",
+        "how_locals_drink_it": "Ice cold, with salo and pickles - toasts are elaborate and meaningful"
+      },
+      {
+        "name": "Kompot",
+        "description": "Sweet fruit drink made from stewed dried fruits",
+        "how_locals_drink_it": "With meals, especially in summer - every Ukrainian grandmother's recipe is 'the best'"
+      }
+    ],
+    "food_culture_notes": [
+      "Bessarabsky Market (1912) is the grand covered market for local produce",
+      "Puzata Hata is beloved cafeteria chain for authentic Ukrainian food",
+      "Kyiv Cake (Kyivsky Tort) is the famous hazelnut meringue souvenir",
+      "Ukrainian hospitality means you'll never leave hungry - expect multiple courses"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "St. Sophia Cathedral",
+      "Kyiv Pechersk Lavra",
+      "Independence Square (Maidan)",
+      "Golden Gate"
+    ],
+    "atmosphere": [
+      "golden domes",
+      "Dnipro River",
+      "chestnut tree lined streets",
+      "resilient spirit"
+    ],
+    "colors": [
+      "golden church domes",
+      "blue and yellow national colors",
+      "beet red borscht",
+      "green chestnuts"
+    ],
+    "unique_modern": [
+      "street art explosion",
+      "tech hub",
+      "Euromaidan legacy",
+      "wartime resilience"
+    ]
+  },
+  "wikipedia_search_term": "Kyiv",
+  "keywords_for_image": [
+    "borscht Ukrainian soup",
+    "golden domes Kyiv",
+    "varenyky dumplings",
+    "St Sophia Cathedral",
+    "Independence Square"
+  ],
+  "coordinates": {
+    "lat": 50.4501,
+    "lng": 30.5234
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Kyiv+🇺🇦/@50.4501,30.5234,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyiv"
+  },
+  "location_id": 357
+}

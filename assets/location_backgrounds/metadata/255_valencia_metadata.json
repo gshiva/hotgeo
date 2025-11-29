@@ -1,0 +1,94 @@
+{
+  "name": "Valencia",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Valencia is the birthplace of paella - and locals get genuinely upset when tourists order seafood paella, because authentic Valencian paella contains rabbit, chicken, snails, and green beans, never seafood.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Paella Valenciana",
+        "description": "The authentic version with rice, rabbit, chicken, green beans, butter beans (garrofó), snails, and saffron - no seafood!",
+        "origin_story": "Born in the rice paddies outside Valencia where farmers cooked rice with whatever was available - rabbits from the fields, snails from the irrigation ditches, beans from the garden. The wood-fire cooking creates the prized socarrat (crispy bottom layer). Seafood paella is a coastal invention that horrifies traditional Valencians.",
+        "where_to_find": "Casa Carmela (along the sea - closest to homemade paella, wood-fire cooked, theatrical preparation), La Pepica (Ernest Hemingway's first paella spot - still serving traditional garrofó and rosemary), Bar Rausell (point of reference since 1948)"
+      },
+      {
+        "name": "Fideuà",
+        "description": "Like paella but made with short noodles instead of rice, typically with seafood and topped with alioli",
+        "origin_story": "Created in the 1960s when a cook ran out of rice on a fishing boat. Necessity created this dish that's now a Valencia staple. The noodles toast in the pan like rice, absorbing seafood flavors. Unlike paella, fideuà legitimately uses seafood.",
+        "where_to_find": "Goya Gallery (refined Eixample neighborhood spot - excellent seafood and rice dishes), Casa Carmela, beachfront restaurants"
+      },
+      {
+        "name": "Horchata with Fartons",
+        "description": "Sweet, creamy drink made from tiger nuts (chufa) served with long sugar-dusted pastries for dipping",
+        "origin_story": "Tiger nuts (actually tubers, not nuts) were brought to Valencia by Arabs and now grow in 16 towns around the city. Horchata is vegan, gluten-free, and has been Valencia's summer drink for centuries. Fartons - light, airy pastries - are designed specifically for dipping into horchata.",
+        "where_to_find": "Horchatería Santa Catalina (beautiful spot in old town Plaza de Santa Catalina - full of character and charm, perfect horchata-fartons pairing)"
+      },
+      {
+        "name": "Mercado Central Fresh Produce",
+        "description": "Over 1,200 stalls of fresh produce, seafood, meats, and local delicacies in Art Nouveau building",
+        "origin_story": "Valencia is called 'La Huerta de España' (The Garden of Spain) because the surrounding farmland and rice paddies produce incredible crops. The Central Market opened in 1928 and remains where chefs source ingredients. It's not just shopping - it's Valencia's culinary heart.",
+        "where_to_find": "Mercado Central (Art Nouveau building - over 1,200 stalls, essential Valencia experience)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Horchata de Chufa",
+        "description": "Milky-white drink made from tiger nuts, water, sugar, and cinnamon - vegan and refreshing",
+        "how_locals_drink_it": "Served ice-cold in summer, paired with fartons for dipping. The tiger nuts grow exclusively in Valencia's specific soil. Locals consider it essential for surviving summer heat. Drinking horchata at traditional horchaterías is cultural ritual."
+      },
+      {
+        "name": "Agua de Valencia",
+        "description": "Champagne cocktail with orange juice, vodka, and gin - Valencia's boozy brunch drink",
+        "how_locals_drink_it": "Invented in 1959 at Café Madrid. Served in pitchers for sharing at brunches and celebrations. Uses Valencia's famous oranges - the region produces much of Europe's orange juice supply."
+      }
+    ],
+    "food_culture_notes": [
+      "Paella is ALWAYS a lunch dish in Valencia, never dinner - eating your heaviest meal at lunch is Spanish tradition",
+      "Real Valencian paella has chicken, rabbit, and snails. Seafood paella is for tourists. Locals are passionate about this.",
+      "The socarrat (crispy rice bottom) is the prize - fighting over who gets it is family tradition",
+      "Casa Montaña (open since 1836) exemplifies why Valencians treat bodegas like second living rooms - wine, tapas, and community"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "City of Arts and Sciences",
+      "La Lonja silk exchange",
+      "Central Market",
+      "Turia Gardens"
+    ],
+    "atmosphere": [
+      "Mediterranean beach life",
+      "futuristic architecture",
+      "bustling food markets",
+      "orange groves"
+    ],
+    "colors": [
+      "paella saffron yellow",
+      "Mediterranean blue",
+      "orange groves green",
+      "futuristic white"
+    ],
+    "unique_modern": [
+      "City of Arts and Sciences architecture",
+      "Las Fallas fire festival",
+      "Beach club culture",
+      "Bioparc zoo design"
+    ]
+  },
+  "wikipedia_search_term": "Valencia",
+  "keywords_for_image": [
+    "Valencia paella",
+    "City of Arts and Sciences",
+    "horchata fartons",
+    "Spanish rice paddies",
+    "Mercado Central market"
+  ],
+  "coordinates": {
+    "lat": 39.4699,
+    "lng": -0.3763
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Valencia+🇪🇸/@39.4699,-0.3763,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valencia"
+  },
+  "location_id": 255
+}

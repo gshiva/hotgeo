@@ -1,0 +1,46 @@
+{
+  "name": "Malmö",
+  "country": "🇸🇪",
+  "coordinates": {
+    "lat": 55.605,
+    "lng": 13.0038
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Malmö+🇸🇪/@55.605,13.0038,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malmö"
+  },
+  "fun_fact": "Fun fact: Malmö awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Malmö cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Malmö"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Malmö landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 137
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Heidelberg",
+  "country": "Germany",
+  "fun_fact": "Fun fact: Heidelberg University, founded in 1386, is Germany's oldest and most romantic university. In the 19th century, confectioner Fridolin Knösel invented the Studentenkuss (Student Kiss) chocolate in 1863 to help young students flirt - the treat came in a red box with hidden love notes that chaperones couldn't see!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Spätzle & Käsespätzle",
+        "description": "Traditional Swabian egg noodles, either served as a side dish or loaded with cheese (Käsespätzle) for a hearty comfort meal",
+        "origin_story": "Deeply rooted in Swabian and Palatinate traditions, spätzle represents the soul food of southern Germany. The dish emphasizes heartiness and comfort, perfect for university town life",
+        "where_to_find": "Zum Roten Ochsen (oldest tavern since 1703), Weinstube Schnitzelbank, Schwarzer Peter"
+      },
+      {
+        "name": "Schnitzel",
+        "description": "Pork tenderloin breaded and fried to crispy golden perfection, served with potato salad or fries",
+        "origin_story": "Weinstube Schnitzelbank has been making some of Heidelberg's best schnitzels since 1867, attracting locals and visitors to the old town center",
+        "where_to_find": "Weinstube Schnitzelbank (Bauamtsgasse 7, since 1867), Schwarzer Peter, traditional beer halls"
+      },
+      {
+        "name": "Maultaschen",
+        "description": "Swabian dumplings or ravioli traditionally filled with meat, spinach, and cheese - often called 'Swabian pockets'",
+        "origin_story": "These filled pasta pockets are comfort food with deep roots in Swabian cooking, perfect for the hearty appetites of Heidelberg's student population",
+        "where_to_find": "Traditional taverns throughout old town, Zum Güldenen Schaf, Wirtshaus zum Spreisel"
+      },
+      {
+        "name": "Flammkuchen",
+        "description": "Thin-crust flatbread resembling pizza, topped with sour cream, caramelized onions, and crispy bacon",
+        "origin_story": "This Alsatian-German specialty became beloved in the Palatinate region, just a stone's throw from Heidelberg",
+        "where_to_find": "Traditional beer halls and taverns, Vetter's Alt Heidelberger Brauhaus, Palmbräu Gasse"
+      },
+      {
+        "name": "Flädlesuppe",
+        "description": "Comforting clear beef broth served with thinly sliced crepes instead of noodles, flavored with chives or root vegetables",
+        "origin_story": "A Swabian comfort food classic that feels especially homey in a university town like Heidelberg",
+        "where_to_find": "Zum Güldenen Schaf (since 1749), Wirtshaus zum Spreisel (450 years old)"
+      },
+      {
+        "name": "Pfälzer Saumagen",
+        "description": "A pig's stomach stuffed with potatoes, pork, marjoram, and nutmeg - a regional Palatinate specialty",
+        "origin_story": "Though originating in the nearby Palatinate region, this hearty dish has long been a staple of Heidelberg's traditional inns",
+        "where_to_find": "Historic taverns and traditional German restaurants"
+      },
+      {
+        "name": "Dampfnudel",
+        "description": "Fluffy steamed bun with a golden crust, served sweet with vanilla sauce or savory with cabbage",
+        "origin_story": "This versatile German classic showcases the region's love of hearty, filling comfort food",
+        "where_to_find": "Traditional restaurants throughout Heidelberg's old town"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vetter 33 Ale",
+        "description": "The world's strongest beer at 33% alcohol content, a legendary brew unique to Heidelberg",
+        "how_locals_drink_it": "Sipped carefully (!) at Vetter's Alt Heidelberger Brauhaus alongside authentic Bavarian fare like sausages, schnitzels, and pretzels in a classic Teutonic beer hall atmosphere"
+      },
+      {
+        "name": "Traditional German Draft Beer",
+        "description": "Freshly brewed beer in the classic German lager and pilsner styles",
+        "how_locals_drink_it": "Enjoyed in historic beer halls and taverns, often in large steins alongside hearty German meals"
+      },
+      {
+        "name": "Apfelwein (Apple Wine)",
+        "description": "Refreshing and slightly tart fermented apple cider, popular in the Rhine region",
+        "how_locals_drink_it": "Served chilled in traditional taverns, paired with hearty German meals for an authentic culinary experience"
+      }
+    ],
+    "food_culture_notes": [
+      "Heidelberg is one of the few German cities relatively unscathed during WWII, leaving its historic taverns in authentic form",
+      "The city's food history is deeply intertwined with regional Swabian and Palatinate traditions emphasizing heartiness and comfort",
+      "Student culture has shaped dining traditions - Studentenkuss chocolates can be found at the original Café Knösel on Haspelgasse since 1863",
+      "Famous visitors to Heidelberg's historic restaurants include Mark Twain, Marilyn Monroe, John Wayne, Bill Clinton, Angela Merkel, and Michelle Obama",
+      "The university (founded 1386) brought diverse student populations that contributed to eclectic gastronomic influences over centuries",
+      "Medieval costumes can still be worn at Zum Güldenen Schaf (since 1749) while dining on original recipes",
+      "Traditional German restaurants serve sweet treats like Rote Grütze (red fruit pudding) and the famous Studentenkuss praline nougat"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Heidelberg Castle ruins overlooking the city",
+      "Old Bridge (Alte Brücke) over the Neckar River",
+      "Café Knösel's distinctive red Studentenkuss boxes",
+      "Historic university buildings (oldest in Germany)",
+      "Baroque old town architecture",
+      "Neckar River valley views"
+    ],
+    "atmosphere": [
+      "Romantic university town setting",
+      "Historic taverns with 200-700+ year histories",
+      "Student culture and academic traditions",
+      "Cozy beer hall chatter and camaraderie",
+      "Medieval and Renaissance architecture",
+      "Riverside walks and castle views"
+    ],
+    "colors": [
+      "Warm golden beer hall lighting",
+      "Red Studentenkuss chocolate boxes",
+      "Sandstone castle and building facades",
+      "Green Neckar River valley",
+      "Rich brown schnitzels and gravies",
+      "Creamy whites of spätzle and dumplings"
+    ],
+    "unique_modern": [
+      "University traditions blending with modern dining",
+      "Historic taverns serving centuries-old recipes",
+      "Student Kiss chocolates as romantic gestures",
+      "World's strongest beer (33% ABV)",
+      "Medieval dining experiences in costume",
+      "Romantic Heidelberg inspiring writers like Goethe and Mark Twain"
+    ]
+  },
+  "wikipedia_search_term": "Heidelberg",
+  "keywords_for_image": [
+    "Heidelberg castle Neckar river",
+    "German beer hall traditional",
+    "Studentenkuss chocolate red box",
+    "Heidelberg old town baroque",
+    "university town Germany romantic",
+    "traditional German tavern",
+    "schnitzel spätzle comfort food",
+    "historic Heidelberg architecture"
+  ],
+  "coordinates": {
+    "lat": 49.3988,
+    "lng": 8.6724
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Heidelberg+🇩🇪/@49.3988,8.6724,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heidelberg"
+  },
+  "location_id": 153
+}

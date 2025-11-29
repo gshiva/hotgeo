@@ -1,0 +1,110 @@
+{
+  "name": "Denver",
+  "country": "USA (Colorado)",
+  "fun_fact": "Fun fact: Denver is nicknamed the Mile High City because the 13th step on the west side of the Colorado State Capitol Building is exactly 5,280 feet (one mile) above sea level. At this altitude, golf balls fly 10% farther, water boils at lower temperature (affecting cooking), the sky is measurably bluer due to less water vapor, and there's 25% less UV protection - but Denver enjoys 300 days of annual sunshine, more than San Diego or Miami Beach.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Green Chile (Denver-Style)",
+        "description": "A gravy-like, orange-hued pork stew made with Pueblo green chiles (hotter and bolder than New Mexico's Hatch chiles), often with tomatoes and tomatillos. Used to smother burritos, fries, and tortilla-wrapped burgers.",
+        "origin_story": "Green chile is the single most emblematic dish of Colorado, creating a unique 'Den-Mex' cuisine subgenre. While originating from Mexican chile verde, Denver's version evolved with local Pueblo chiles and became essential when Mexican and New Mexicans migrated in the 1920s for sugar beet field work and settled permanently. By the 1960s, Denver invented the 'Mexican hamburger' - a burger wrapped in tortilla and smothered in green chile.",
+        "where_to_find": "Santiago's (local chain with mild, hot, and half-and-half options, punched with jalapeños and pork), La Loma (recipe from 1973 by Grandma Savina Mendoza, vibrant green with thick consistency), La Casita (50-year-old north Denver spot by late senator Paul Sandoval, olive-hued with sweat-inducing spice), Cherry Cricket (spicy Pueblo-style pork green chile, called 'the best burger you'll ever eat' by Chef Aarón Sánchez), Sam's No. 3 (goes through 60 gallons daily, open 90+ years)."
+      },
+      {
+        "name": "Smothered Breakfast Burrito",
+        "description": "Scrambled eggs, potatoes, cheese, and sausage wrapped in tortilla and drenched in green chile sauce. Denver's ultimate comfort food obsession.",
+        "origin_story": "In Denver, the smothered breakfast burrito is more than food - it's an obsession that reflects the city's fusion of Mexican-American culture and Colorado's green chile tradition. Found everywhere from food trucks to diners, it represents Denver's hearty, unpretentious food culture shaped by high altitude living and working-class heritage.",
+        "where_to_find": "Benny's Restaurant & Cantina, Señor Burritos, Santiago's, and countless local diners and food trucks across the metro area. Best enjoyed after a night out or for weekend brunch."
+      },
+      {
+        "name": "Bison Burger",
+        "description": "Burger made from native Great Plains bison meat - leaner than beef with sweeter, more complex flavor. Often topped with Colorado green chile, goat cheese, or caramelized onions.",
+        "origin_story": "Long before cattle were introduced to America, bison roamed Colorado's open country. Bison plays a prominent role in Colorado's earliest culinary culture and is still served at some of the oldest eating establishments. The meat is considered healthier than beef and represents Colorado's connection to its Western heritage and Great Plains ecology.",
+        "where_to_find": "My Brother's Bar (oldest bar in Denver), Denver ChopHouse & Brewery (steakhouse with craft beer), Ted's Montana Grill (founded by Ted Turner, specializing in bison). Found across LoDo and Cherry Creek neighborhoods with creative, juicy preparations."
+      },
+      {
+        "name": "Rocky Mountain Oysters",
+        "description": "Deep-fried bull, bison, or calf testicles - a dish that came from the ranches as a way to use every part of the animal.",
+        "origin_story": "This controversial delicacy represents Colorado's ranching heritage and Western frontier 'waste nothing' philosophy. What started as practical ranch food became a dare dish and local cultural marker, separating Colorado natives from tourists.",
+        "where_to_find": "Buckhorn Exchange Restaurant (one of Denver's oldest establishments, serving since the ranching era). Often found at Colorado state fairs and Western-themed restaurants."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Colorado Craft Beer",
+        "description": "Denver boasts around 150 breweries and taprooms in the metro area, with over 400 throughout Colorado. IPAs, stouts, and brews using local ingredients like spruce tips and Colorado-grown hops.",
+        "how_locals_drink_it": "Beer culture is integral to Denver dining - locals pair bison burgers with crisp pale ales or green chile with stouts. The Great American Beer Festival (founded 1982 by Charlie Papazian) attracts 65,000+ attendees annually and has grown from 24 breweries in 1982 to the largest ticketed beer festival in the U.S. Breweries serve Colorado classics alongside their brews in casual, communal settings."
+      },
+      {
+        "name": "Local Microbrewery IPAs and Pale Ales",
+        "description": "Colorado is one of the top craft beer destinations in the U.S., with breweries showcasing everything from IPAs to stouts, many using local ingredients.",
+        "how_locals_drink_it": "A meal in Denver isn't just about food - it's about pairing the right local craft beer. The city's 300 days of sunshine and outdoor culture create perfect conditions for patio brewery hopping and beer garden socializing."
+      }
+    ],
+    "food_culture_notes": [
+      "Denver's food reflects Mexican, New Mexican, California, and Tex-Mex fusion, creating unique 'Den-Mex' cuisine",
+      "Mexican and New Mexican migration in the 1920s for sugar beet work fundamentally shaped Denver's food identity",
+      "High altitude (5,280 feet) affects cooking - water boils at lower temperature, baked goods require adjustments",
+      "Craft beer scene is central to dining culture with breweries as social gathering spaces",
+      "Great American Beer Festival founded in Boulder 1982, moved to Denver 1991, now attracts 65,000+ attendees with 9,298 entries judged in 2023",
+      "Denver omelet carries the city's name but green chile dishes elicit far more local pride"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Colorado State Capitol (13th step at exactly one mile high)",
+      "Rocky Mountains Front Range (140-mile panorama, 200 visible peaks)",
+      "LoDo (Lower Downtown) historic district",
+      "Cherry Creek neighborhood",
+      "Great American Beer Festival venue",
+      "Microbreweries and beer gardens"
+    ],
+    "atmosphere": [
+      "300 days of annual sunshine",
+      "Bluer sky from high altitude",
+      "Outdoor patio culture",
+      "Rocky Mountain backdrop",
+      "Casual Western-meets-urban vibe",
+      "Craft brewery social scene",
+      "Food truck and diner culture"
+    ],
+    "colors": [
+      "Orange-hued green chile",
+      "Rocky Mountain blue sky",
+      "Golden craft beer",
+      "Red sandstone foothills",
+      "Green Pueblo chiles",
+      "Bison burger brown"
+    ],
+    "unique_modern": [
+      "Mile High altitude effects on cooking and sports",
+      "Great American Beer Festival cultural phenomenon",
+      "Den-Mex cuisine fusion identity",
+      "Farm-to-table mountain cuisine movement",
+      "Outdoor lifestyle food culture",
+      "Cannabis-infused dining (legal since 2014)"
+    ]
+  },
+  "wikipedia_search_term": "Denver",
+  "keywords_for_image": [
+    "Denver green chile",
+    "Mile High City",
+    "Colorado craft beer",
+    "bison burger",
+    "Rocky Mountains backdrop",
+    "smothered burrito",
+    "brewery patio",
+    "Pueblo chile",
+    "Great American Beer Festival",
+    "Western food culture"
+  ],
+  "coordinates": {
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Denver+🇺🇸/@39.7392,-104.9903,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denver"
+  },
+  "location_id": 34
+}

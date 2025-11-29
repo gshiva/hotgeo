@@ -1,0 +1,94 @@
+{
+  "name": "Minneapolis",
+  "country": "United States",
+  "fun_fact": "Fun fact: Minneapolis has the most Somali immigrants of any city in America, creating the country's most vibrant Somali food scene, while also being the birthplace of the Juicy Lucy burger - proving that culinary diversity and cheese-stuffed excess can coexist perfectly.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Juicy Lucy (Jucy Lucy)",
+        "description": "A cheese-stuffed burger that oozes molten cheese with every bite - Minneapolis's greatest contribution to American cuisine",
+        "origin_story": "Created in the 1950s at either Matt's Bar or the 5-8 Club (both claim invention), this inside-out cheeseburger became a Minneapolis icon. The spelling 'Jucy Lucy' is fiercely defended by Matt's Bar",
+        "where_to_find": "Matt's Bar (original 'Jucy Lucy'), 5-8 Club (rival claimant), Blue Door Pub (creative versions)"
+      },
+      {
+        "name": "Pre-Colonial Indigenous Cuisine at Owamni",
+        "description": "Modern Indigenous dishes using only ingredients native to North America - no dairy, wheat, or cane sugar",
+        "origin_story": "Founded by James Beard Award winner Sean Sherman (The Sioux Chef), Owamni represents a cultural revival of Indigenous foodways. Dishes showcase wild rice, bison, duck, game, and foraged ingredients",
+        "where_to_find": "Owamni (on the Mississippi River - James Beard Award winner)"
+      },
+      {
+        "name": "Wild Rice Dishes",
+        "description": "Minnesota's official state grain featured in soups, pancakes, burgers, and porridge - nutty, hearty, and locally harvested",
+        "origin_story": "Wild rice has been harvested by Indigenous peoples in Minnesota for thousands of years. It's the only grain native to North America and remains central to the region's identity",
+        "where_to_find": "Hell's Kitchen (Native-harvested wild rice porridge), The Mill Northeast (wild rice pancakes), Common Roots Café (vegan wild rice burger)"
+      },
+      {
+        "name": "Walleye",
+        "description": "Minnesota's most sought-after fish, served beer-battered, pan-fried, or as crispy walleye fingers",
+        "origin_story": "Walleye is the state fish and the holy grail of Minnesota fishing. Locals take walleye preparation very seriously - it should be fresh, locally caught, and never overcooked",
+        "where_to_find": "Gluek's (famous walleye fingers), Hell's Kitchen (beer-battered or pan-fried), Zelo (walleye milanese)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Grain Belt Beer",
+        "description": "Minneapolis's iconic local beer since 1893 - a crisp, no-frills lager",
+        "how_locals_drink_it": "Grain Belt is the beer of choice at dive bars, fish fries, and backyard cookouts. The vintage neon sign on the Mississippi is a city landmark"
+      },
+      {
+        "name": "Nordic-Style Aquavit Cocktails",
+        "description": "Cocktails featuring aquavit and other Scandinavian spirits, reflecting the city's Nordic heritage",
+        "how_locals_drink_it": "At upscale bars and restaurants celebrating Minneapolis's Scandinavian roots. The Nordic influence runs deep in the Twin Cities"
+      }
+    ],
+    "food_culture_notes": [
+      "Minneapolis won two James Beard Awards in 2025 - Bûcheron for Best New Restaurant and Hai Hai's Christina Nguyen for Best Chef Midwest",
+      "The city has a huge Nordic influence (Norwegian, Swedish, Finnish) alongside vibrant Somali, Hmong, Vietnamese, and Mexican communities",
+      "Spoon and Stable by Gavin Kaysen is set in a restored horse stable and uses French techniques on Midwest ingredients",
+      "Cheese curds (fried or fresh) are a Minnesota obsession - try them with berry ketchup at Red Cow or Thousand Island at Bull's Horn"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Minneapolis skyline from Mississippi River",
+      "Stone Arch Bridge",
+      "Grain Belt beer sign",
+      "Chain of Lakes"
+    ],
+    "atmosphere": [
+      "Midwestern friendliness",
+      "urban bike culture",
+      "skyway system in winter",
+      "riverside dining"
+    ],
+    "colors": [
+      "deep blue of Minnesota lakes",
+      "golden Grain Belt yellow",
+      "amber wild rice",
+      "white winter snow"
+    ],
+    "unique_modern": [
+      "thriving James Beard Award scene",
+      "Indigenous food revival",
+      "skyway-connected downtown",
+      "year-round outdoor culture despite brutal winters"
+    ]
+  },
+  "wikipedia_search_term": "Minneapolis",
+  "keywords_for_image": [
+    "Minneapolis Minnesota",
+    "Juicy Lucy burger",
+    "Stone Arch Bridge",
+    "Mississippi River Minneapolis",
+    "wild rice"
+  ],
+  "coordinates": {
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Minneapolis+🇺🇸/@44.9778,-93.265,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis"
+  },
+  "location_id": 299
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Komodo",
+  "country": "Indonesia",
+  "fun_fact": "Fun fact: Komodo dragons are the world's largest living lizards, growing up to 3 meters long and weighing 70kg - they can eat 80% of their body weight in one meal and have killed at least 4 humans since 1974!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ikan Bakar",
+        "description": "Grilled fresh fish with sambal, caught from the waters around Komodo",
+        "origin_story": "The Flores Sea provides incredible fresh fish - grilled simply with Indonesian spices",
+        "where_to_find": "Labuan Bajo restaurants, liveaboard boats, local warungs"
+      },
+      {
+        "name": "Sate Lilit",
+        "description": "Minced fish satay wrapped around lemongrass sticks",
+        "origin_story": "A variation from Bali and East Indonesia - the lemongrass infuses the fish",
+        "where_to_find": "Restaurants in Labuan Bajo, boat tours"
+      },
+      {
+        "name": "Ayam Taliwang",
+        "description": "Grilled chicken with spicy chili paste from nearby Lombok",
+        "origin_story": "A fiery specialty from the region - the bird is flattened and charred with sambal",
+        "where_to_find": "Labuan Bajo town restaurants"
+      },
+      {
+        "name": "Cumi Cumi Goreng",
+        "description": "Fried squid with sambal, straight from local fishermen",
+        "origin_story": "Simple and fresh - the waters around Komodo are rich with squid",
+        "where_to_find": "Seafood warungs in Labuan Bajo"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Es Kelapa Muda",
+        "description": "Young coconut water with ice and coconut flesh",
+        "how_locals_drink_it": "Essential refreshment in the tropical heat"
+      },
+      {
+        "name": "Kopi Flores",
+        "description": "Coffee from Flores island - known for its complexity",
+        "how_locals_drink_it": "Strong and sweet in the morning"
+      }
+    ],
+    "food_culture_notes": [
+      "Labuan Bajo is the gateway town with best food options",
+      "Liveaboard boats serve meals while touring Komodo islands",
+      "Fresh seafood is the highlight - caught daily",
+      "Simple preparations let fresh ingredients shine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Komodo National Park",
+      "Padar Island viewpoint",
+      "Pink Beach",
+      "Manta Point"
+    ],
+    "atmosphere": [
+      "remote wilderness",
+      "diving paradise",
+      "prehistoric creatures",
+      "island hopping"
+    ],
+    "colors": [
+      "ocean blue",
+      "dragon grey-brown",
+      "pink sand beach",
+      "island green"
+    ],
+    "unique_modern": [
+      "UNESCO World Heritage",
+      "diving destination",
+      "dragon conservation",
+      "overtourism concerns"
+    ]
+  },
+  "wikipedia_search_term": "Komodo_National_Park",
+  "keywords_for_image": [
+    "Komodo dragon",
+    "Padar Island",
+    "grilled fish",
+    "pink beach",
+    "diving boats",
+    "Indonesian islands"
+  ],
+  "coordinates": {
+    "lat": -8.5833,
+    "lng": 119.4833
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Komodo+🇮🇩/@-8.5833,119.4833,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Komodo_National_Park"
+  },
+  "location_id": 213
+}

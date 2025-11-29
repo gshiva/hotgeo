@@ -1,0 +1,94 @@
+{
+  "name": "Yerevan",
+  "country": "Armenia",
+  "fun_fact": "Fun fact: Dolmama restaurant was featured on Anthony Bourdain's Parts Unknown when System of a Down's Serj Tankian took him there—the restaurant has been perfecting dolma since 1998 and serves 8 different varieties, making it the dolma temple of the Caucasus.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Dolma at Dolmama",
+        "description": "Grape leaves stuffed with spiced ground beef and rice, served with tangy yogurt—tender, herbaceous, and Armenia's signature dish",
+        "origin_story": "Dolmama opened in 1998 with a mission to showcase Eastern Armenian cuisine. They offer 8 different dolma varieties including grape leaves, cabbage, peppers, and eggplant. Anthony Bourdain ate here with Serj Tankian, cementing its legendary status",
+        "where_to_find": "Dolmama (Pushkin Street 10—open daily 11am-11:30pm), Tavern Yerevan, or Sherep Restaurant"
+      },
+      {
+        "name": "Khorovats (Armenian BBQ)",
+        "description": "Grilled meat (pork, lamb, or chicken) marinated in pomegranate and herbs, cooked over charcoal—smoky, juicy, and essential",
+        "origin_story": "Khorovats is sacred in Armenia. Proshyan Street is literally called 'Barbecue Street' where restaurants specialize in nothing but grilled meat. The charcoal smoke, lavash bread, and fresh herbs create the ultimate Armenian meal",
+        "where_to_find": "Proshyan Street ('Barbecue Street'), Dolmama, Tavern Yerevan, or Lavash Restaurant (where you watch lavash baked in a tandoor)"
+      },
+      {
+        "name": "Lavash Bread",
+        "description": "Thin flatbread baked in a clay tandoor oven—charred, smoky, and used to wrap khorovats or scoop up food",
+        "origin_story": "Lavash Restaurant bakes lavash right in front of guests in a traditional tandoor. This bread is so culturally important it's on UNESCO's Intangible Cultural Heritage list. Armenians use it for everything",
+        "where_to_find": "Lavash Restaurant (tandoor baking on display), Dolmama, or any traditional Armenian restaurant"
+      },
+      {
+        "name": "Kyufta",
+        "description": "Armenian meatballs made from finely ground beef, shaped into dumplings and simmered in broth—silky, delicate, almost ethereal",
+        "origin_story": "Kyufta requires serious skill: the meat is pounded until it becomes a paste, then shaped into smooth orbs. Tavern Yerevan serves the best version, cooked until tender in savory broth",
+        "where_to_find": "Tavern Yerevan, Sherep Restaurant, or traditional Armenian taverns"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Armenian Brandy (Ararat, Noy)",
+        "description": "Smooth, amber-colored brandy aged in oak barrels—Armenia's most famous export after lavash",
+        "how_locals_drink_it": "Armenians are fiercely proud of their brandy, which Winston Churchill reportedly drank daily. Served neat in snifters after dinner, often with dried fruits and nuts. Ararat is the iconic brand"
+      },
+      {
+        "name": "Tan (Yogurt Drink)",
+        "description": "Salty, tangy yogurt drink mixed with water and herbs—refreshing and meant to aid digestion",
+        "how_locals_drink_it": "Served cold with meals, especially khorovats. The saltiness balances rich grilled meats. Every Armenian grandmother makes her own version"
+      }
+    ],
+    "food_culture_notes": [
+      "Dolma is so central to Armenian identity that restaurants serve 8+ varieties (grape leaves, cabbage, peppers, eggplant)",
+      "Khorovats (BBQ) is a weekend ritual—families spend Sundays grilling on Proshyan Street",
+      "Lavash is UNESCO-protected and used instead of plates to scoop up food",
+      "Armenian cuisine is the ancestor of Middle Eastern food—techniques like grilling and stuffing vegetables spread from here"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mount Ararat view from the city (though it's in Turkey)",
+      "Cascade Complex with outdoor stairs",
+      "Republic Square with singing fountains",
+      "Vernissage flea market"
+    ],
+    "atmosphere": [
+      "charcoal smoke from khorovats grills",
+      "tandoor ovens baking lavash",
+      "apricot trees and pomegranate orchards",
+      "traditional Armenian carpet patterns"
+    ],
+    "colors": [
+      "deep red pomegranate juice",
+      "golden amber brandy",
+      "charred lavash bread",
+      "pink volcanic tufa stone buildings"
+    ],
+    "unique_modern": [
+      "Dolmama's Anthony Bourdain/Serj Tankian fame (Parts Unknown episode)",
+      "Proshyan Street as dedicated BBQ street",
+      "Lavash UNESCO Intangible Cultural Heritage status",
+      "Armenian brandy rivaling French cognac in worldwide acclaim"
+    ]
+  },
+  "wikipedia_search_term": "Yerevan",
+  "keywords_for_image": [
+    "Armenian dolma grape leaves",
+    "khorovats BBQ grilled meat",
+    "lavash bread tandoor",
+    "Mount Ararat Yerevan view",
+    "pomegranate Armenia"
+  ],
+  "coordinates": {
+    "lat": 40.1792,
+    "lng": 44.4991
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Yerevan+🇦🇲/@40.1792,44.4991,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yerevan"
+  },
+  "location_id": 228
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Santiago de Compostela",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Santiago is the endpoint of the Camino de Santiago pilgrimage - after walking hundreds of miles, pilgrims traditionally celebrate with pulpo a la gallega and local wine, a reward that's been the same for over 1,000 years.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pulpo a la Gallega",
+        "description": "Tender octopus cooked in copper pots, sliced and served on wooden plates with paprika, olive oil, and sea salt",
+        "origin_story": "Galician octopus is legendary across Spain. Cooked in traditional copper pots (the metal matters), the octopus becomes incredibly tender. Served on wooden plates (tradition, not presentation), it's seasoned simply - good olive oil, Spanish paprika, coarse sea salt. The dish is so important that specialized restaurants (pulperías) serve only octopus.",
+        "where_to_find": "Los Sobrinos del Padre Benito (rustic, locally famous), Pulpería os Concheiros (authentic pulpería), El Mesón Do Pulpo (10-minute walk from center - worth it), Pulperia Fuentes (Conxo neighborhood)"
+      },
+      {
+        "name": "Tarta de Santiago",
+        "description": "Moist almond cake covered with powdered sugar featuring the cross of Santiago imprint",
+        "origin_story": "This ancient cake recipe uses only almonds, eggs, and sugar - no flour. The cross of St. James stenciled in powdered sugar identifies it as authentic. Created centuries ago by nuns and still made the same way. After completing the Camino pilgrimage, eating this cake is traditional celebration.",
+        "where_to_find": "Every café and bakery in Santiago, especially good paired with coffee between sightseeing stops"
+      },
+      {
+        "name": "Fresh Galician Seafood",
+        "description": "Vieiras (scallops), percebes (goose barnacles), zamburiñas, whatever came from Galicia's coast that morning",
+        "origin_story": "Galicia's Atlantic coastline is Spain's seafood capital. The cold waters create exceptional flavor. Pilgrims arriving in Santiago have celebrated with Galicia's bounty for over 1,000 years. The scallop shell (vieira) became the Camino's symbol because pilgrims ate so many.",
+        "where_to_find": "Mercado de Abastos (essential market where chefs shop for fresh seafood), Abastos 2.0 (near market - modern twist on tradition), Orixe (modern local tradition)"
+      },
+      {
+        "name": "Empanada Gallega",
+        "description": "Large savory pie filled with tuna, cod, or meat - Galicia's portable feast",
+        "origin_story": "These substantial pies were pilgrims' traveling food - portable, filling, delicious cold or hot. The golden crust hides generous fillings of Galician tuna, cod, or meat with peppers and onions. Every bakery has its own recipe.",
+        "where_to_find": "Bakeries throughout Santiago, Mercado de Abastos, traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Albariño Wine",
+        "description": "Crisp, aromatic white wine from Rías Baixas region - Galicia's signature wine",
+        "how_locals_drink_it": "Served slightly chilled with pulpo and seafood - the acidity cuts through richness perfectly. Albariño is one of Spain's finest white wines. Locals pair it religiously with octopus and shellfish. Many pulperías serve it by the glass."
+      },
+      {
+        "name": "Queimada",
+        "description": "Flaming Galician firewater made with aguardiente, sugar, lemon peel, and coffee beans - set on fire during ritual",
+        "how_locals_drink_it": "Reserved for special occasions and celebrations. The ritual involves reciting an incantation while the liquor burns in a clay pot. It's theatrical, traditional, and powerful - meant to ward off evil spirits while warming the soul."
+      }
+    ],
+    "food_culture_notes": [
+      "Rúa do Franco and Rúa da Raíña are THE streets for tapas bars - many offer free tapa with drink orders",
+      "Almost all restaurants require reservations, especially summer when tourism peaks and pilgrims arrive",
+      "The scallop shell (vieira) is the Camino symbol because pilgrims traditionally ate them when arriving in Santiago",
+      "Mercado de Abastos isn't just shopping - it's where locals and chefs source the best ingredients, essential to Santiago's food scene"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Santiago Cathedral",
+      "Plaza del Obradoiro",
+      "Mercado de Abastos",
+      "Camino pilgrimage routes"
+    ],
+    "atmosphere": [
+      "medieval pilgrimage",
+      "granite architecture",
+      "pilgrim celebration",
+      "Atlantic mist"
+    ],
+    "colors": [
+      "granite gray",
+      "Galician green",
+      "octopus paprika red",
+      "scallop shell white"
+    ],
+    "unique_modern": [
+      "Cidade da Cultura contemporary buildings",
+      "Michelin-starred Galician cuisine",
+      "Camino tourism infrastructure",
+      "Contemporary art scene"
+    ]
+  },
+  "wikipedia_search_term": "Santiago_de_Compostela",
+  "keywords_for_image": [
+    "Santiago de Compostela cathedral",
+    "pulpo a la gallega octopus",
+    "Camino de Santiago pilgrims",
+    "Tarta de Santiago",
+    "Galician seafood"
+  ],
+  "coordinates": {
+    "lat": 42.8805,
+    "lng": -8.5456
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Santiago+de+Compostela+🇪🇸/@42.8805,-8.5456,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_de_Compostela"
+  },
+  "location_id": 256
+}

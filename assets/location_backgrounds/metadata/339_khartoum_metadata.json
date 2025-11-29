@@ -1,0 +1,94 @@
+{
+  "name": "Khartoum",
+  "country": "Sudan",
+  "fun_fact": "Fun fact: Khartoum sits at the confluence of the Blue Nile and White Nile rivers - the exact point where they merge is visible from the air and from Tuti Island. The city's name comes from Arabic 'Al-Kharṭūm' meaning 'elephant's trunk,' referring to the shape of the land where the rivers meet.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Ful Medames",
+        "description": "Slow-cooked fava beans mashed with olive oil, cumin, lemon, and garlic - served with flatbread for breakfast",
+        "origin_story": "This ancient Egyptian dish is Sudan's national breakfast. Fava beans simmer overnight in copper pots, becoming creamy and rich. Street vendors in Khartoum sell it from dawn, ladling it into bowls topped with olive oil, tahini, and fresh vegetables. It's protein-rich, filling, and costs pennies. Sudanese eat it daily with kisra (fermented sorghum flatbread).",
+        "where_to_find": "Street vendors throughout Khartoum, especially in Omdurman market area, or traditional Sudanese breakfast spots"
+      },
+      {
+        "name": "Kisra",
+        "description": "Thin, tangy flatbread made from fermented sorghum or wheat - slightly sour, used as utensil to scoop stews",
+        "origin_story": "Kisra is Sudan's staple bread, similar to Ethiopian injera but thinner. The batter ferments for days, creating sourness. It's cooked on a large flat griddle until bubbles form. Sudanese use it to scoop up stews, breaking off pieces with right hand (left hand is never used for eating). The fermentation makes it digestible and nutritious.",
+        "where_to_find": "Served with every Sudanese meal at restaurants and homes throughout Khartoum"
+      },
+      {
+        "name": "Mullah (Okra Stew)",
+        "description": "Lamb or beef stewed with okra, onions, and tomatoes - thick, rich, and slightly slimy (in a good way)",
+        "origin_story": "Okra grows abundantly in Sudan's Nile River valley. This stew shows African culinary traditions - long slow cooking until okra releases its mucilage, thickening the sauce. Some foreigners dislike okra's texture, but Sudanese embrace it. The stew is eaten with kisra or rice, using fingers to mix and scoop.",
+        "where_to_find": "Traditional Sudanese restaurants in Khartoum, home cooking, or Omdurman eateries"
+      },
+      {
+        "name": "Shaiyah (Sudanese Tea)",
+        "description": "Extremely sweet black tea boiled with cinnamon, cardamom, cloves, and ginger - sometimes with milk",
+        "origin_story": "Sudanese tea culture is intense. Tea is boiled multiple times with spices, creating thick, syrupy brew loaded with sugar. It's served in tiny glasses throughout the day - morning, afternoon, evening, after every meal. Tea ladies (shai ladies) set up sidewalk stands with charcoal braziers. Refusing tea is almost insulting.",
+        "where_to_find": "Tea ladies on street corners throughout Khartoum, cafes, or any Sudanese home"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Karkadé (Hibiscus Tea)",
+        "description": "Bright red tea made from dried hibiscus flowers - served hot or cold, sweet or unsweetened, tart and refreshing",
+        "how_locals_drink_it": "In Khartoum's extreme heat (40°C+ in summer), karkadé is essential. The dried hibiscus flowers are steeped, creating ruby-red tea high in vitamin C. Locals drink it cold and sweet as refreshment, or hot as digestif. It's served at weddings, celebrations, and daily meals. The tartness is mouth-puckering but addictive."
+      },
+      {
+        "name": "Aradaib (Tamarind Drink)",
+        "description": "Sweet-sour drink made from tamarind pods - brown, tangy, refreshing",
+        "how_locals_drink_it": "Tamarind pods are soaked, creating tart liquid sweetened with sugar. Khartoum vendors sell it cold from large glass jars. The sweet-sour combination is perfect for Sudanese heat. Often drunk during Ramadan to break the fast."
+      }
+    ],
+    "food_culture_notes": [
+      "Sudanese cuisine blends Arab, African, and Turkish influences due to strategic Nile location",
+      "Eating with right hand only (left hand is considered unclean) - using kisra as edible utensil",
+      "Omdurman (across the Nile from Khartoum) has traditional souq (market) with food vendors",
+      "Ramadan brings special foods and night markets throughout Khartoum"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Blue Nile and White Nile confluence - visible from Tuti Island and Mogran Family Park",
+      "Omdurman Souq - one of Africa's largest markets",
+      "National Museum of Sudan - ancient Nubian temples and artifacts",
+      "Tuti Island - island at the confluence of the two Niles"
+    ],
+    "atmosphere": [
+      "Capital at the meeting point of Blue Nile and White Nile rivers",
+      "Extreme heat in summer (40°C+), warm winters",
+      "Mixture of Arab and African cultures",
+      "Dust storms from Sahara Desert, especially in spring"
+    ],
+    "colors": [
+      "brown muddy waters where Blue and White Nile merge",
+      "red karkadé hibiscus tea",
+      "golden sand from surrounding desert",
+      "white flowing jalabiya robes worn by men"
+    ],
+    "unique_modern": [
+      "Confluence of Blue Nile (from Ethiopia) and White Nile (from Uganda) - creates distinct color difference visible where they meet",
+      "City name 'Al-Kharṭūm' means 'elephant's trunk' in Arabic, referring to land shape at river confluence",
+      "Ancient Nubian kingdoms' artifacts in National Museum",
+      "Whirling Dervishes perform at Hamed al-Nil Tomb in Omdurman every Friday"
+    ]
+  },
+  "wikipedia_search_term": "Khartoum",
+  "keywords_for_image": [
+    "khartoum nile confluence blue white",
+    "ful medames fava beans",
+    "sudanese tea karkade",
+    "kisra flatbread sudan",
+    "omdurman market souq"
+  ],
+  "coordinates": {
+    "lat": 15.5007,
+    "lng": 32.5599
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Khartoum+🇸🇩/@15.5007,32.5599,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khartoum"
+  },
+  "location_id": 339
+}

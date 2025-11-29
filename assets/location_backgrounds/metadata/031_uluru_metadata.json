@@ -1,0 +1,98 @@
+{
+  "name": "Uluru",
+  "country": "Australia (Northern Territory)",
+  "fun_fact": "Fun fact: On October 26, 1985, Uluru was handed back to the Anangu people, the traditional owners who have lived here for over 60,000 years. The site is sacred to the Anangu and is governed by Tjukurpa - their creation law that represents their philosophy, religion, and way of life. Climbing Uluru was banned in 2019 as it violates Tjukurpa beliefs.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Witchetty Grubs (Maku)",
+        "description": "Large white larvae found in the roots of witchetty bushes, growing up to 6 centimeters long. Can be eaten raw or roasted in hot ashes.",
+        "origin_story": "For tens of thousands of years, Anangu women and children have been responsible for finding witchetty grubs using their specialized knowledge of flora to locate them. When eaten raw, the liquid center tastes nutty and almond-like; when cooked over coals, the insides turn light yellow and the outer skin becomes crisp like roast chicken.",
+        "where_to_find": "Bush Tucker tours at Ayers Rock Resort offer hands-on experiences with traditional bush tucker. Tali Wiru and Sounds of Silence dining experiences incorporate bush tucker ingredients into modern 4-course meals with didgeridoo performances."
+      },
+      {
+        "name": "Kangaroo (Kuka)",
+        "description": "Wild kangaroo meat, traditionally hunted and cooked using ancient methods. Slow-cooked or used in modern stir-fry preparations.",
+        "origin_story": "Kangaroo is hunted in the modern way but cooked traditionally by first tossing it in fire to singe off the hair, then placing it in a hole covered with hot coals. This method has been used by Anangu people for millennia as part of their sustainable hunting practices governed by Tjukurpa.",
+        "where_to_find": "Tali Wiru offers bush tucker-inspired dinners on a private sand dune overlooking Uluru with kangaroo prepared using both traditional and contemporary techniques. Sounds of Silence dining platform serves kangaroo as part of their outback menu."
+      },
+      {
+        "name": "Quandong (Desert Peach/Mangata)",
+        "description": "Bright red native fruits that can be eaten raw, dried, or made into chutneys and jams. Known as mangata in Anangu language.",
+        "origin_story": "The desert quandong has been an important food source for Aboriginal Australians for thousands of years. As part of 'Mai' (plant foods), quandongs were gathered by Anangu women and preserved through drying for year-round consumption in the harsh desert climate.",
+        "where_to_find": "Bush tucker tours at Ayers Rock Resort include quandong tastings and demonstrations of traditional seed grinding. Modern restaurants in the Uluru-Kata Tjuta area incorporate quandong into sauces and desserts."
+      },
+      {
+        "name": "Honey Ants (Tjala)",
+        "description": "Ants whose abdomens are swollen with honey-like syrup, considered a delicacy. Eaten by holding the ant's body and popping the sweet abdomen into your mouth.",
+        "origin_story": "Honey ants live deep underground in nests often found beneath mulga trees (wanari). Collecting them requires extensive skill and traditional knowledge passed down through generations. They represent the Tjuratja (nectar and sweet foods) category of Anangu bush tucker.",
+        "where_to_find": "Honey ants are rarely available commercially but may be demonstrated during specialized bush tucker tours with Anangu guides who have permission to harvest them sustainably."
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Native Flower Nectar",
+        "description": "Sweet drink made by steeping yellow honeysuckle grevillea (kaliny-kalinpa) or native fuschia (mintjingka) flowers in water, creating a natural cordial-like beverage.",
+        "how_locals_drink_it": "Traditionally, nectar was drunk directly from flowers or steeped in water. Anangu people collect these flowers after rain when they blossom, using traditional knowledge to identify the right species and timing."
+      }
+    ],
+    "food_culture_notes": [
+      "Anangu bush tucker is categorized into four groups: Mai (plant foods), Kuka (meat), Maku (grubs), and Tjuratja (nectar/sweet foods)",
+      "Traditional cooking methods include earth ovens, hot coals, smoking, and drying for preservation",
+      "Men and women have distinct roles in food gathering governed by Tjukurpa (traditional law) - women gather witchetty grubs and plant foods, men hunt larger animals",
+      "Sacred traditional knowledge is passed down through generations about which plants are edible, when to harvest, and proper preparation methods",
+      "Modern bush tucker experiences at Uluru combine traditional Anangu ingredients with contemporary fine dining"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Uluru (sacred monolith)",
+      "Kata Tjuta rock formations",
+      "Desert sand dunes",
+      "Mulga trees and spinifex grasses",
+      "Starlit outback sky"
+    ],
+    "atmosphere": [
+      "Red desert landscape",
+      "Ancient sacred sites",
+      "Harsh yet abundant desert environment",
+      "60,000+ years of continuous Aboriginal culture",
+      "UNESCO World Heritage living cultural landscape"
+    ],
+    "colors": [
+      "Burnt red earth",
+      "Ochre rock faces",
+      "Deep blue outback sky",
+      "Golden sunlight",
+      "Spinifex green and gold"
+    ],
+    "unique_modern": [
+      "Field of Light art installation",
+      "Luxury bush tucker dining experiences",
+      "Didgeridoo performances under the stars",
+      "Aboriginal art galleries and cultural centers"
+    ]
+  },
+  "wikipedia_search_term": "Uluru",
+  "keywords_for_image": [
+    "Uluru sunset",
+    "Australian outback",
+    "Aboriginal bush tucker",
+    "red desert landscape",
+    "sacred monolith",
+    "Anangu culture",
+    "witchetty grub",
+    "native Australian food",
+    "desert quandong",
+    "didgeridoo performance"
+  ],
+  "coordinates": {
+    "lat": -25.3444,
+    "lng": 131.0369
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Uluru+🇦🇺/@-25.3444,131.0369,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uluru"
+  },
+  "location_id": 31
+}

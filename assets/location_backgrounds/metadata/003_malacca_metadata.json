@@ -1,0 +1,94 @@
+{
+  "name": "Malacca",
+  "country": "Malaysia",
+  "fun_fact": "Fun fact: Malacca invented Satay Celup - a unique hotpot where you dip skewers into boiling spicy peanut sauce instead of soup, and it can only be found authentically in this city!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Chicken Rice Balls",
+        "description": "Rice cooked in chicken stock shaped into ping-pong sized balls",
+        "origin_story": "Unique Malaccan invention - the only place rice balls are traditional",
+        "where_to_find": "Jonker Street and throughout the old town"
+      },
+      {
+        "name": "Nyonya Laksa",
+        "description": "Spicy coconut curry noodle soup with Peranakan spices",
+        "origin_story": "Born from 15th century Chinese-Malay fusion culture",
+        "where_to_find": "Jonker 88, Nancy's Kitchen, Kocik Kitchen"
+      },
+      {
+        "name": "Satay Celup",
+        "description": "DIY hotpot with skewers dipped in boiling spicy peanut sauce",
+        "origin_story": "A Malaccan original - found nowhere else authentically",
+        "where_to_find": "Capitol Satay, Ban Lee Siang"
+      },
+      {
+        "name": "Ayam Pongteh",
+        "description": "Nyonya chicken stew with fermented soybean paste and potatoes",
+        "origin_story": "Classic Peranakan comfort food",
+        "where_to_find": "Donald and Lily's (since 1980), Amy Heritage"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Cendol",
+        "description": "Shaved ice with green rice flour jelly, coconut milk, and Gula Melaka",
+        "how_locals_drink_it": "At Jonker Street stalls, especially the famous durian cendol at Jonker 88"
+      },
+      {
+        "name": "Gula Melaka drinks",
+        "description": "Drinks sweetened with Malacca's famous palm sugar",
+        "how_locals_drink_it": "The distinctive caramel-rich sweetener unique to the region"
+      }
+    ],
+    "food_culture_notes": [
+      "Jonker Street Weekend Night Market is the heart of food scene",
+      "Baba Charlie is legendary for handmade Nyonya kuih (traditional sweets)",
+      "Peranakan culture born from 15th century Chinese-Malay marriages",
+      "Food combines Chinese, Malay, Javanese, South Indian influences"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "A Famosa fortress ruins",
+      "Christ Church red building",
+      "Jonker Street shophouses",
+      "Malacca River"
+    ],
+    "atmosphere": [
+      "colorful Peranakan tiles",
+      "trishaw bicycles",
+      "red Chinese lanterns",
+      "Dutch colonial buildings"
+    ],
+    "colors": [
+      "Peranakan turquoise and pink",
+      "terracotta red",
+      "Dutch orange",
+      "tropical green"
+    ],
+    "unique_modern": [
+      "decorated trishaws with flowers and lights",
+      "UNESCO heritage shophouses"
+    ]
+  },
+  "wikipedia_search_term": "Malacca_City",
+  "keywords_for_image": [
+    "chicken rice balls",
+    "satay celup hotpot",
+    "cendol dessert",
+    "Jonker Street",
+    "red Christ Church",
+    "Peranakan shophouses",
+    "Chinese lanterns"
+  ],
+  "coordinates": {
+    "lat": 2.1896,
+    "lng": 102.2501
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Malacca+🇲🇾/@2.1896,102.2501,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malacca_City"
+  },
+  "location_id": 3
+}

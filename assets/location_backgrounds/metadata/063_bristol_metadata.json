@@ -1,0 +1,116 @@
+{
+  "name": "Bristol",
+  "country": "United Kingdom",
+  "fun_fact": "Fun fact: Bristol is known as England's cider capital, and The Coronation Tap pub is at least 30 years older than the Clifton Suspension Bridge! This legendary cider house has existed for over 200 years and serves Exhibition Cider so strong it's only sold in half pints. The pub was named Southwest's 'Best Live Music Pub' and has a phenomenal global reputation among cider lovers.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pieminister Pies",
+        "description": "Award-winning British pies including the Moo & Blue (steak and stilton), served with mash and gravy",
+        "origin_story": "One of Bristol's most-loved local businesses that started in Bristol and now has branches across the city. Their original location in St Nicholas Market remains a local favorite",
+        "where_to_find": "St Nicholas Market (the original location) and multiple branches across Bristol - a true Bristol institution"
+      },
+      {
+        "name": "Sunday Roast",
+        "description": "Traditional British Sunday dinner with roasted meat, Yorkshire puddings, roast potatoes, seasonal vegetables, and rich gravy",
+        "origin_story": "A quintessentially British tradition where families and friends gather for a leisurely Sunday meal. Bristol takes this seriously with many pubs competing for the best roast in town",
+        "where_to_find": "The Ox (steakhouse since 2013, known for best steak and Sunday roast in Bristol), The Ostrich (harbourside pub), The Gallimaufry (local's favourite)"
+      },
+      {
+        "name": "Korean Tongdak at Bokman",
+        "description": "Wood-fire roasted chicken stuffed with sticky rice, served with Korean banchan (side dishes)",
+        "origin_story": "Bokman opened on Stokes Croft in 2019 and was immediately applauded as a 'modest but wholly authentic restaurant' serving some of the best Korean food in the UK. Named one of the Good Food Guide's Best Local Restaurants",
+        "where_to_find": "Bokman on Stokes Croft - a neighbourhood gem that locals love for its authenticity"
+      },
+      {
+        "name": "Wilsons Seasonal Tasting Menu",
+        "description": "Super seasonal, thoughtful tasting menu with produce grown in their own market garden, showcasing Modern British cuisine",
+        "origin_story": "Considered the best restaurant in Bristol by many. Chef Jan Ostle and team grow a substantial chunk of their produce in their own market garden in Redland",
+        "where_to_find": "Wilsons in Redland - a small, whitewashed restaurant that's a true neighbourhood gem"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Exhibition Cider",
+        "description": "Super-strong traditional scrumpy cider exclusive to The Coronation Tap, so potent it's only served in half pints",
+        "how_locals_drink_it": "Locals (especially students) make pilgrimages to The Cori next to Clifton Suspension Bridge. The strong cider is sipped slowly in half-pint measures while enjoying live music"
+      },
+      {
+        "name": "Thatchers Cider",
+        "description": "Now the most popular cider in the UK, Thatchers Gold cider is brewed just outside Bristol in Sandford, North Somerset",
+        "how_locals_drink_it": "Available throughout Bristol's pubs. Locals can visit the Thatchers orchards and farm for tours and tastings, or drink it at their pub The Railway Inn"
+      },
+      {
+        "name": "Perry (Pear Cider)",
+        "description": "Refreshing cider made from pears instead of apples, a West Country specialty",
+        "how_locals_drink_it": "Bristol pubs like The Orchard Inn (Bristol's original cider pub dating to 1834) offer 20+ ciders and perries from West Country producers"
+      }
+    ],
+    "food_culture_notes": [
+      "Bristol is known for balloons, Banksy, colourful houses, and cider - the cliché is true, Bristolians love their cider",
+      "Different neighbourhoods have distinct food cultures: St Mark's Road in Easton for Middle Eastern/South Asian, St Pauls and Stokes Croft for Caribbean, Clifton for classic British and seafood",
+      "The Orchard Inn by the Marina has been awarded 'CAMRA Regional Cider Pub of the Year' many times, always offering 20+ ciders from West Country producers",
+      "The Coronation Tap dates to at least 1806, described as 'a beerhouse with cottage adjoining' and was chosen as a finalist for UK Music Pub of the Year 2009-2011",
+      "St Nick's Market offers fantastic street food from independent vendors; Wapping Wharf has indie traders in shipping containers",
+      "Bulrush in Cotham has a Michelin Star for Modern British cuisine with Japanese influences, using organic and foraged seasonal ingredients",
+      "The Clifton Sausage serves comforting British classics: sausages, mashed potato and gravy with vegetarian options"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Clifton Suspension Bridge spanning gorge",
+      "Colorful houses of Clifton",
+      "Bristol Harbour",
+      "St Nicholas Market",
+      "The Coronation Tap historic pub",
+      "Brunel's engineering",
+      "Street art and Banksy"
+    ],
+    "atmosphere": [
+      "Georgian architecture",
+      "bohemian Stokes Croft",
+      "harbourside dining",
+      "historic cider houses",
+      "indie food markets",
+      "live music venues",
+      "student energy"
+    ],
+    "colors": [
+      "Pastel-painted townhouses",
+      "golden cider in glass",
+      "deep green of Avon Gorge",
+      "red brick Victorian buildings",
+      "colorful street art",
+      "crispy golden pie crusts"
+    ],
+    "unique_modern": [
+      "Exhibition Cider half-pints only rule",
+      "200-year-old pub next to engineering marvel bridge",
+      "Korean food in Victorian buildings",
+      "Shipping container food stalls",
+      "Market garden to table restaurants"
+    ]
+  },
+  "wikipedia_search_term": "Bristol",
+  "keywords_for_image": [
+    "Clifton Suspension Bridge",
+    "Bristol cider",
+    "Coronation Tap pub",
+    "Bristol harbour",
+    "Georgian architecture",
+    "Banksy street art",
+    "British pies",
+    "West Country cider",
+    "Avon Gorge",
+    "colorful Bristol houses"
+  ],
+  "coordinates": {
+    "lat": 51.4545,
+    "lng": -2.5879
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bristol+🇬🇧/@51.4545,-2.5879,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bristol"
+  },
+  "location_id": 63
+}

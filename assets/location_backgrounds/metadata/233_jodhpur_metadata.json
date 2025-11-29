@@ -1,0 +1,94 @@
+{
+  "name": "Jodhpur",
+  "country": "India",
+  "fun_fact": "Fun fact: Shri Mishrilal Hotel has been serving Makhaniya Lassi since 1927—nearly a century of the same creamy, saffron-infused yogurt drink topped with a thick layer of malai (cream) that locals line up for daily, making it Jodhpur's most Instagram-famous breakfast.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Makhaniya Lassi at Shri Mishrilal Hotel",
+        "description": "Insanely thick and creamy yogurt drink flavored with saffron, cardamom, and rose water, topped with a huge scoop of malai (clotted cream)—rich enough to be dessert",
+        "origin_story": "Established in 1927, Shri Mishrilal Hotel near the Southern Gate has been serving this legendary lassi for nearly 100 years. The thickness comes from hanging yogurt in cloth to drain all liquid, creating something closer to mousse than drink",
+        "where_to_find": "Shri Mishrilal Hotel (near Southern Gate—since 1927, the most famous spot)"
+      },
+      {
+        "name": "Mirchi Bada at Choudhary Namkeen",
+        "description": "Large green chili stuffed with spiced potato filling, dipped in gram flour batter, and deep-fried until golden and crispy—spicy, crunchy, addictive",
+        "origin_story": "Choudhary Namkeen in Sardarpura is legendary for making the tastiest mirchi bada in Jodhpur. The chili is stuffed with potato or cauliflower, creating a spicy-savory explosion that's Jodhpur's favorite snack",
+        "where_to_find": "Choudhary Namkeen (Sardarpura), Surya Namkeen (smoked version), Mishrilal Hotel, or Shahi Samosa"
+      },
+      {
+        "name": "Pyaaz Kachori",
+        "description": "Crispy fried pastry stuffed with spiced onion filling—crunchy outside, flavorful inside, served with tangy chutneys",
+        "origin_story": "Jodhpur's kachoris are famous across Rajasthan. The onion version is local pride. Street vendors make them fresh throughout the day, served piping hot with green chutney",
+        "where_to_find": "Shandar Sweet Home, Janta Sweet Home, Arora Chat Bhandar, or Clock Tower Road street vendors"
+      },
+      {
+        "name": "Mawa Kachori",
+        "description": "Sweet kachori stuffed with dried fruits, nuts, and thickened milk (mawa), fried and dipped in sugar syrup—crispy, sweet, decadent",
+        "origin_story": "This sweet version of kachori is Jodhpur's dessert specialty. The mawa (reduced milk) filling with nuts creates a rich, indulgent treat that pairs perfectly with the savory mirchi bada and lassi",
+        "where_to_find": "Janta Sweet Home, Shandar Sweet Home, or sweets shops near Clock Tower"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Makhaniya Lassi",
+        "description": "Thick, creamy saffron-cardamom yogurt drink topped with malai—Jodhpur's signature beverage",
+        "how_locals_drink_it": "Served in clay cups or glasses, eaten with a spoon because it's too thick to drink. Locals pair it with spicy mirchi bada—the cooling lassi balances the heat. Essential breakfast or afternoon snack"
+      },
+      {
+        "name": "Masala Chai",
+        "description": "Strong spiced tea with milk, cardamom, ginger, and lots of sugar—the fuel of Rajasthan",
+        "how_locals_drink_it": "Served boiling hot in small glasses or clay cups. Drunk throughout the day at street stalls. The sugar and spices provide energy in the desert heat"
+      }
+    ],
+    "food_culture_notes": [
+      "Makhaniya lassi is so thick you need a spoon—it's more like eating yogurt mousse than drinking",
+      "Mirchi bada paired with makhaniya lassi is the ultimate Jodhpur combination: spicy heat followed by creamy coolness",
+      "Clock Tower Road is the street food epicenter—everything from kachoris to mirchi bada to lassi",
+      "Winter is the best time for mirchi bada—locals eat these spicy fritters at every winter gathering"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Mehrangarh Fort towering over the Blue City",
+      "Blue-painted houses of old town",
+      "Clock Tower (Ghanta Ghar) market",
+      "Umaid Bhawan Palace"
+    ],
+    "atmosphere": [
+      "desert heat and blue-painted walls",
+      "sizzling street food carts",
+      "thick cream-topped lassi",
+      "golden fried kachoris piled high"
+    ],
+    "colors": [
+      "indigo blue city walls",
+      "saffron yellow in lassi",
+      "bright green mirchi bada chilies",
+      "golden fried kachori crust"
+    ],
+    "unique_modern": [
+      "Shri Mishrilal Hotel's nearly 100-year legacy (since 1927)",
+      "Instagram-famous lassi topped with malai mountains",
+      "Smoked mirchi bada innovation at Surya Namkeen",
+      "Clock Tower area as street food destination"
+    ]
+  },
+  "wikipedia_search_term": "Jodhpur",
+  "keywords_for_image": [
+    "Jodhpur Blue City Mehrangarh Fort",
+    "makhaniya lassi thick cream",
+    "mirchi bada fried chili",
+    "Rajasthan kachori",
+    "blue painted houses Jodhpur"
+  ],
+  "coordinates": {
+    "lat": 26.2389,
+    "lng": 73.0243
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Jodhpur+🇮🇳/@26.2389,73.0243,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jodhpur"
+  },
+  "location_id": 233
+}

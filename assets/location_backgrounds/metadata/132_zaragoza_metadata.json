@@ -1,0 +1,111 @@
+{
+  "name": "Zaragoza",
+  "country": "Spain",
+  "region": "Aragon",
+  "fun_fact": "Fun fact: Zaragoza has TWO cathedrals - the massive Baroque Basilica del Pilar (largest in Spain) AND La Seo with its stunning mix of Romanesque, Gothic, Mudéjar, and Baroque styles built on the site of an Islamic mosque!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Migas Aragonesas",
+        "description": "Hearty dish of fried and chopped breadcrumbs served with homemade chorizo, local grapes, or fried eggs",
+        "origin_story": "Traditional Aragonese peasant food, turning stale bread into a filling meal. The breadcrumbs are fried to golden perfection with garlic and paprika, representing the resourcefulness of Aragon's agricultural traditions.",
+        "where_to_find": "La Miguería (specialty migas restaurant with Iberian tapas), Los Victorinos (small, crowded authentic spot in old town - no seats, extremely good, low prices), Bar El Circo (best tortillas in Aragon)"
+      },
+      {
+        "name": "Ternasco (Roast Lamb)",
+        "description": "Tender roasted young lamb, a signature of Aragonese cuisine showcasing the region's pastoral heritage",
+        "origin_story": "Aragon's sheep-raising tradition produces exceptional lamb. Ternasco refers specifically to young lamb, roasted simply to highlight the quality of the meat.",
+        "where_to_find": "Restaurante Palomeque (awarded Best Roast Veal of Aragon 2022, sophisticated bistro), Casa Lac (historic establishment dating to 1825 with elegant 1800s setting)"
+      },
+      {
+        "name": "Borrajas",
+        "description": "Borage - a distinctive local vegetable unique to Aragon, often served in stews or as a side dish",
+        "origin_story": "This leafy green vegetable is particularly beloved in Aragon and rarely found elsewhere in Spain, representing the region's unique agricultural identity",
+        "where_to_find": "Traditional Aragonese restaurants and Mercado Central de Zaragoza (main market with fresh local produce)"
+      },
+      {
+        "name": "Tapas in El Tubo",
+        "description": "Innovative tapas creations served in the legendary maze of bars in Zaragoza's most iconic culinary quarter",
+        "origin_story": "El Tubo district is the heart of Zaragoza's tapas culture. Tapas are served 1-4pm and 8pm-midnight. The evening 'tapeo' is a beloved local tradition.",
+        "where_to_find": "El Tubo district - a maze of narrow streets packed with tapas bars. Los Victorinos for duck meat tapas, Bar Cervino for tavern atmosphere and generous servings with local craft beers"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Garnacha and Cariñena Wines",
+        "description": "Robust red wines from Aragon's wine regions, perfect for pairing with hearty Aragonese meals",
+        "how_locals_drink_it": "No Zaragoza excursion is complete without sampling these locally made beverages. Aragon's wines - like robust Garnacha and Cariñena - are perfect pairings for ternasco and migas."
+      },
+      {
+        "name": "Local Craft Beer",
+        "description": "Zaragoza has a growing craft beer scene complementing traditional wine culture",
+        "how_locals_drink_it": "Enjoyed at Bar Cervino and other modern tapas bars, paired with generous servings of tapas in a tavern-like atmosphere"
+      }
+    ],
+    "food_culture_notes": [
+      "The 'tapeo' tradition: evening tapas crawl from 8pm-midnight through El Tubo district",
+      "Tapas are also served during lunch (1-4pm)",
+      "Standing at the bar is the authentic experience - many traditional spots have no seating",
+      "Mercado Central de Zaragoza offers fresh meats, cheeses, fruits, vegetables from local producers",
+      "Aragonese cuisine is hearty and flavorful, reflecting agricultural traditions",
+      "You might encounter 'jota' performances - traditional Aragonese folk dance and song",
+      "Food is integral to Zaragoza's cultural identity, blending rustic tradition with modern innovation"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Basilica del Pilar with four towering spires and eleven cupolas (largest Baroque church in Spain)",
+      "La Seo Cathedral (mix of Romanesque, Gothic, Mudéjar, Baroque)",
+      "Aljafería Palace (Arabic, Mudéjar, Renaissance elements)",
+      "Mudéjar architecture with ceramic decorations and arches",
+      "El Tubo district narrow streets",
+      "Ebro River views"
+    ],
+    "atmosphere": [
+      "Bustling tapas bars packed with locals",
+      "Frescoes by Goya in Basilica del Pilar",
+      "Mudéjar ceramic tile work and arches",
+      "Lively evening tapeo crowds",
+      "Market stalls at Mercado Central",
+      "Medieval maze of El Tubo"
+    ],
+    "colors": [
+      "Golden fried migas breadcrumbs",
+      "Deep red Garnacha wine",
+      "Colorful Mudéjar ceramic tiles",
+      "Baroque gilding in basilica interiors",
+      "Terracotta and stone architecture",
+      "Green borrajas vegetable"
+    ],
+    "unique_modern": [
+      "Standing-room-only tapas bars",
+      "Craft beer scene meets ancient wine tradition",
+      "Fiesta del Pilar celebrations (October 12)",
+      "Jota folk dance performances",
+      "Modern bistros in historic buildings",
+      "UNESCO Mudéjar architecture"
+    ]
+  },
+  "wikipedia_search_term": "Zaragoza",
+  "keywords_for_image": [
+    "basilica del pilar zaragoza spires",
+    "migas aragonesas chorizo grapes",
+    "el tubo zaragoza tapas bars",
+    "mudejar architecture zaragoza ceramics",
+    "ternasco roast lamb aragon",
+    "zaragoza aljaferia palace",
+    "mercado central zaragoza",
+    "garnacha wine aragon",
+    "zaragoza old town cobblestone",
+    "la seo cathedral zaragoza"
+  ],
+  "coordinates": {
+    "lat": 41.6488,
+    "lng": -0.8891
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Zaragoza+🇪🇸/@41.6488,-0.8891,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaragoza"
+  },
+  "location_id": 132
+}

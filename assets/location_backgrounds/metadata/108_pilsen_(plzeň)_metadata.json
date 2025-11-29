@@ -1,0 +1,115 @@
+{
+  "name": "Pilsen (Plzeň)",
+  "country": "Czechia",
+  "fun_fact": "Fun fact: Pilsen literally revolutionized global beer culture! On October 5, 1842, Bavarian brewmaster Josef Groll brewed the world's first pale lager here, creating golden Pilsner Urquell. Before this, all beer was murky and dark. Pilsen's soft water, Saaz hops, and Moravian barley created a clear, golden beer so extraordinary it shocked even Groll himself. Today, 9 out of 10 beers worldwide are pale lagers based on this Pilsen original!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Pilsner Urquell (Unfiltered from the Barrel)",
+        "description": "The world's original Pilsner beer, tapped fresh from oak barrels in the historic underground cellars. Unfiltered, unpasteurized, and served at 7°C exactly as it tasted in 1842 - golden, crisp, hoppy, with a creamy head.",
+        "origin_story": "Created on October 5, 1842, when disgruntled Pilsen citizens dumped barrels of terrible beer in protest and hired Josef Groll to make something better. Using Pilsen's remarkably soft water, local Saaz hops, Moravian barley malt, and Bavarian bottom-fermentation, Groll created the first clear golden lager. The beer was so revolutionary that by 1853 it reached 35 Prague pubs, Vienna by 1856, Paris by 1862. The name 'Pilsner Urquell' (meaning 'original source') was trademarked in 1898.",
+        "where_to_find": "Pilsner Urquell Brewery tour (9km of hand-carved underground cellars dating to 1839) - award-winning tour lets you taste unfiltered beer straight from oak barrels. Also at traditional pubs: U Salzmannů, Na Parkánu, Na Spilce, Lékárna"
+      },
+      {
+        "name": "Czech Goulash (Guláš)",
+        "description": "Rich, hearty beef stew slow-cooked with paprika, onions, and Czech spices. Served with knedlíky (bread dumplings) to soak up the thick, flavorful sauce. Pairs perfectly with Pilsner beer.",
+        "origin_story": "Adapted from Hungarian goulash, the Czech version is thicker and heartier - perfect fuel for extended Pilsner drinking sessions.",
+        "where_to_find": "Na Parkánu pub (traditional beer-matched meals), Na Spilce (Bohemia's largest gastropub with 550 seats)"
+      },
+      {
+        "name": "Svíčková (Sirloin in Cream Sauce)",
+        "description": "Tender beef sirloin in rich cream sauce with root vegetables, served with bread dumplings and cranberry sauce. A Czech national treasure.",
+        "origin_story": "Classic Czech dish dating back centuries, adapted from Austrian Habsburgs when Bohemia was ruled by Austrian King Ferdinand I from the 16th century.",
+        "where_to_find": "U Salzmannů (Pilsen's oldest pub, opened 1637 - stylish atmosphere with traditional Czech specialties)"
+      },
+      {
+        "name": "Roast Pork with Sauerkraut and Dumplings",
+        "description": "Vepřo-knedlo-zelo - the quintessential Czech comfort food. Juicy roasted pork, tangy sauerkraut, and fluffy bread dumplings.",
+        "origin_story": "Sauerkraut and dumplings were adopted from German neighbors and became Czech classics. The stodgy, meat-heavy meal is the perfect thing to sustain you through extended drinking sessions.",
+        "where_to_find": "Traditional pubs throughout Pilsen - pairs perfectly with Pilsner beer"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Pilsner Urquell (from the tap)",
+        "description": "The grandfather of all lager beers, brewed the same way since 1842. Golden color, crisp taste, noble Saaz hop bitterness, 4.4% ABV. Still uses open fermenters and oak barrel maturation.",
+        "how_locals_drink_it": "Served in proper Czech beer glasses with a thick creamy head. Locals drink it slowly, appreciating the craftsmanship. The brewery still employs 8 master coopers who handcraft oak barrels using traditional techniques passed down from master to apprentice."
+      },
+      {
+        "name": "Becherovka",
+        "description": "Czech herbal liqueur from nearby Karlovy Vary - often enjoyed as a digestif after heavy Czech meals.",
+        "how_locals_drink_it": "Shot after dinner, or mixed with tonic as 'Beton' (concrete) for a refreshing long drink."
+      }
+    ],
+    "food_culture_notes": [
+      "Pilsen is more famous for beer than cuisine, but Czechs pair food with beer (not the other way around!)",
+      "Rich, stodgy, meat-heavy meals are designed to sustain extended drinking sessions",
+      "Schnitzels and strudels became Czech staples during Habsburg Austrian rule (16th century onward)",
+      "Martin Salzmann, founder of U Salzmannů restaurant, was the first person to carry a barrel of Pilsner Urquell to Prague in 1843!",
+      "The Pilsner Urquell brewery tour won 'Best Brewery Visitor Tour in Europe 2024' (World Travel Awards)",
+      "Traditional pubs serve unpasteurized Pilsner Urquell stored in tanks - fresher than bottled",
+      "Czech beer culture emphasizes quality over quantity - appreciation for brewing craftsmanship",
+      "The 9km underground cellars took 50 years to complete (1839-1889) and lie 15-20 meters under the town"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Pilsner Urquell Brewery with iconic red-brick buildings",
+      "9km labyrinth of hand-carved underground beer cellars",
+      "Republic Square with baroque and gothic architecture",
+      "Great Synagogue (third largest in the world)",
+      "St. Bartholomew's Cathedral with 103m tower",
+      "Historic cooperage workshop with oak barrel makers",
+      "Medieval underground tunnels beneath city"
+    ],
+    "atmosphere": [
+      "Cool, dark underground beer cellars at 7°C",
+      "Sound of oak barrels being tapped",
+      "Hoppy aroma of fresh Pilsner",
+      "Steam rising from goulash in traditional pubs",
+      "Clinking beer glasses in 550-seat Na Spilce gastropub",
+      "Master coopers hammering oak barrel staves",
+      "Golden beer flowing from copper taps"
+    ],
+    "colors": [
+      "Golden amber of Pilsner beer with creamy white head",
+      "Deep red brick of brewery buildings",
+      "Dark oak of traditional beer barrels",
+      "Rich brown goulash and roasted meats",
+      "Pale cream of svíčková sauce",
+      "Green Saaz hop cones",
+      "Copper brewing equipment shine"
+    ],
+    "unique_modern": [
+      "Brewery tours using multimedia and interactive exhibits",
+      "Traditional cooperage craft preserved alongside modern brewing",
+      "Beer tourism as economic engine",
+      "Parallel brewing - old oak barrel fermentation alongside modern tanks",
+      "Pilsner Fest celebrations annually",
+      "Craft beer movement respecting the original",
+      "UNESCO-worthy brewing heritage preservation"
+    ]
+  },
+  "wikipedia_search_term": "Plzeň",
+  "keywords_for_image": [
+    "pilsner urquell brewery",
+    "pilsen czech beer",
+    "underground beer cellars",
+    "oak beer barrels",
+    "czech goulash",
+    "saaz hops",
+    "golden lager",
+    "pilsen bohemia",
+    "czech dumplings",
+    "traditional czech pub"
+  ],
+  "coordinates": {
+    "lat": 49.7384,
+    "lng": 13.3736
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Pilsen+🇨🇿/@49.7384,13.3736,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plzeň"
+  },
+  "location_id": 108
+}

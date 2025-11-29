@@ -1,0 +1,119 @@
+{
+  "name": "Amritsar",
+  "country": "India",
+  "fun_fact": "Fun fact: The Golden Temple's langar (community kitchen) is the world's largest, serving 100,000+ free meals DAILY to anyone regardless of background, beliefs, or religion. Everyone sits on the floor together eating simple dal, roti, rice, and kheer—a profound expression of equality and community that's been running for centuries.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Amritsari Kulcha",
+        "description": "Legendary crisp, butter-laden flatbread stuffed with spiced potatoes, cauliflower, paneer, or mixed vegetables, served with spicy chickpeas (chole) and tangy tamarind chutney",
+        "origin_story": "In 1952, Pehalwan Atma Ram, a professional wrestler in his sixties, took the concept of Peshawari khameeri roti (sourdough naan) and transformed it into Amritsari kulcha at his shop in Dhab Khatikan, Walled City. He pioneered the crispy, buttery technique that defines the dish today.",
+        "where_to_find": "Kesar Da Dhaba (100+ years old, near Golden Temple), Kulcha Land, Bhai Kulwant Singh Kulchian Wale (near Golden Temple—5 varieties including gobhi, paneer, aloo, mixed veg, and pithi), Bharawan Da Dhaba (near Town Hall)"
+      },
+      {
+        "name": "Golden Temple Langar",
+        "description": "Free community meal of dal, roti, rice, and kheer served to tens of thousands daily at the Golden Temple",
+        "origin_story": "Made with love and served to all regardless of background, the langar embodies Sikh principles of seva (service) and equality. It's counted among the world's most extensive community kitchens, feeding pilgrims, travelers, and locals alike.",
+        "where_to_find": "Golden Temple—sit on the floor among pilgrims and experience a profoundly humbling meal that feeds both body and soul"
+      },
+      {
+        "name": "Makki Di Roti & Sarson Da Saag",
+        "description": "Corn flatbread with mustard greens curry—quintessential Punjabi winter dish and Kesar Da Dhaba's specialty for 100 years",
+        "origin_story": "This traditional Punjabi combination has been Kesar Da Dhaba's signature since 1916 in Sheikhupura, Pakistan. Even Pandit Jawaharlal Nehru and Indira Gandhi packed food parcels from here. After Partition, the dhaba relocated to Amritsar.",
+        "where_to_find": "Kesar Da Dhaba (Chowk Passian) has been serving this for 100 years—notable figures like Lala Lajpat Rai frequented the original location"
+      },
+      {
+        "name": "Fish Amritsari",
+        "description": "Famous batter-fried fish with Punjabi spices, crispy and flavorful",
+        "origin_story": "Makhan Fish & Chicken Corner has been serving this delectable non-vegetarian specialty since 1962 on Lawrence Road.",
+        "where_to_find": "Makhan Fish & Chicken Corner (Lawrence Road)—legendary spot operating since 1962"
+      },
+      {
+        "name": "Dal Makhani & Parantha",
+        "description": "Creamy black lentils cooked with butter and cream, served with flaky layered flatbread",
+        "origin_story": "Kesar Da Dhaba's dal makhani has been perfected over 100 years, representing the pinnacle of Punjabi comfort food.",
+        "where_to_find": "Kesar Da Dhaba (Chowk Passian)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Gian Di Lassi (Peda Lassi)",
+        "description": "Legendary creamy yogurt drink with milk peda (sweet condensed milk cakes), sugar, malai (cream), and heavy butter churning. The phirni lassi adds rice pudding for extra richness.",
+        "how_locals_drink_it": "Established in 1927, Gian di Lassi on Gagar Mal Road serves 6-7 varieties. Locals visit for the home-made taste topped with thick cream. The place has been operational for over 100 years, serving 'makhan maarke' (loaded with butter)."
+      },
+      {
+        "name": "Masala Chai",
+        "description": "Spicy-sweet tea with strong flavor, perfect accompaniment to samosas or pakoras",
+        "how_locals_drink_it": "Not just a drink but an integral part of daily life in Punjab, enjoyed throughout the day. The spicy-sweet fragrance and robust taste define Amritsari chai culture."
+      },
+      {
+        "name": "Gur Gur Chai",
+        "description": "Distinctive drink made from jaggery and chaat masala—a unique conventional drink originating from Amritsar",
+        "how_locals_drink_it": "A local Amritsar specialty combining sweet jaggery with tangy chaat masala for a unique flavor profile."
+      },
+      {
+        "name": "Kesar Badam Milk",
+        "description": "Premium saffron-charged almond milk, sweetened with sugar or honey, decorated with almond slivers and crushed saffron threads",
+        "how_locals_drink_it": "A specialty healthy beverage from Amritsar, representing the city's love for rich, luxurious dairy drinks."
+      }
+    ],
+    "food_culture_notes": [
+      "Amritsar is a city where food is not just sustenance but a passion, an art, and a venerable part of its rich cultural tapestry",
+      "The tradition of seva (service) continues beyond the Golden Temple—street vendors and restaurants frequently provide meals to orphanages, shelters, and gurdwaras",
+      "Dhaba culture is central: 100-year-old establishments like Kesar Da Dhaba and Bharawan Da Dhaba serve generations of families",
+      "Amritsari kulche-chhole and lassi are synonymous with the city's identity",
+      "Food culture mixes profound spirituality (langar's equality message) with legendary flavor (kulcha, lassi)",
+      "The quintessential spirit of Punjab traverses Amritsar's labyrinthine lanes and gets imbibed in the lip-smacking culinary scene",
+      "Gian Di Lassi's peda lassi and Kesar Da Dhaba's 100-year-old recipes are pilgrimage destinations for food lovers"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Golden Temple (Harmandir Sahib)",
+      "Langar community kitchen",
+      "Walled City food lanes",
+      "Jallianwala Bagh",
+      "Wagah Border"
+    ],
+    "atmosphere": [
+      "Spiritual langar service feeding thousands",
+      "Bustling dhaba culture with smoke and sizzle",
+      "Butter-laden kulcha being prepared on iron griddles",
+      "Lassi shops churning thick creamy drinks",
+      "Pilgrims and food lovers mingling in food streets"
+    ],
+    "colors": [
+      "Golden temple gleaming",
+      "Saffron and turmeric yellows",
+      "White cream and butter",
+      "Green chutneys and herbs",
+      "Orange and red Punjabi spices"
+    ],
+    "unique_modern": [
+      "Gourmet kulcha variations beyond traditional potato",
+      "Fusion lassi flavors while respecting tradition",
+      "Food tours combining Punjab traditions, culture, and history",
+      "Modern takes on 100-year-old dhaba recipes"
+    ]
+  },
+  "wikipedia_search_term": "Amritsar",
+  "keywords_for_image": [
+    "Golden Temple Amritsar",
+    "Amritsari kulcha",
+    "langar community kitchen",
+    "Punjabi lassi",
+    "dhaba culture",
+    "Sikh Golden Temple",
+    "Indian street food",
+    "Punjab India"
+  ],
+  "coordinates": {
+    "lat": 31.634,
+    "lng": 74.8723
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Amritsar+🇮🇳/@31.634,74.8723,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amritsar"
+  },
+  "location_id": 93
+}

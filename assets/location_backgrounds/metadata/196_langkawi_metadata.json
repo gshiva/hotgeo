@@ -1,0 +1,93 @@
+{
+  "name": "Langkawi",
+  "country": "Malaysia",
+  "fun_fact": "Fun fact: Langkawi is a UNESCO Global Geopark with 550-million-year-old rock formations, and it's also a duty-free island - making it one of the cheapest places in Southeast Asia to buy chocolate, alcohol, and imported goods!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Laksa",
+        "description": "Spicy coconut curry noodle soup with fish, prawns, and vegetables",
+        "origin_story": "Each Malaysian region has its version - Langkawi's is influenced by both Thai and Malay flavors due to its location",
+        "where_to_find": "Warung Pok Ya, Tomato Nasi Kandar, local kopitiams"
+      },
+      {
+        "name": "Nasi Campur",
+        "description": "Rice with various pre-cooked dishes - pick what you want buffet-style",
+        "origin_story": "The everyday Malaysian meal - choose from curries, vegetables, fried items, and sambal",
+        "where_to_find": "Warung stalls throughout Langkawi, Nasi Kandar restaurants"
+      },
+      {
+        "name": "Ikan Bakar",
+        "description": "Grilled fish marinated in sambal and wrapped in banana leaves",
+        "origin_story": "Essential Malaysian BBQ - the banana leaf keeps the fish moist while imparting flavor",
+        "where_to_find": "Tanjung Rhu beach stalls, Pantai Cenang restaurants, seafood restaurants"
+      },
+      {
+        "name": "Roti Canai",
+        "description": "Flaky, layered flatbread served with dhal and curry",
+        "origin_story": "Indian-influenced Malaysian breakfast staple - the dough is stretched and folded for layers",
+        "where_to_find": "Mamak stalls throughout the island, especially at breakfast"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Teh Tarik",
+        "description": "'Pulled' tea - hot tea with condensed milk poured between two cups to create froth",
+        "how_locals_drink_it": "The pulling aerates and cools it - watch the mamak stall theatrics"
+      },
+      {
+        "name": "Fresh Coconut",
+        "description": "Young coconut water straight from the shell",
+        "how_locals_drink_it": "Everywhere on the beaches - the perfect island refreshment"
+      }
+    ],
+    "food_culture_notes": [
+      "Duty-free status means cheaper imported goods and chocolate",
+      "Pantai Cenang beach strip has the most tourist restaurants",
+      "Local warungs offer better food at lower prices than beach restaurants",
+      "Night markets (pasar malam) rotate through different locations"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Langkawi Sky Bridge",
+      "Eagle Square (Dataran Lang)",
+      "Kilim Geoforest Park",
+      "Pantai Cenang beach"
+    ],
+    "atmosphere": [
+      "tropical beaches",
+      "mangrove forests",
+      "duty-free shopping",
+      "island relaxation"
+    ],
+    "colors": [
+      "Andaman Sea turquoise",
+      "rainforest green",
+      "sunset orange",
+      "eagle statue red-brown"
+    ],
+    "unique_modern": [
+      "UNESCO Geopark",
+      "cable car to Sky Bridge",
+      "duty-free paradise"
+    ]
+  },
+  "wikipedia_search_term": "Langkawi",
+  "keywords_for_image": [
+    "nasi campur",
+    "ikan bakar grilled fish",
+    "Langkawi beach",
+    "Sky Bridge cable car",
+    "tropical island"
+  ],
+  "coordinates": {
+    "lat": 6.35,
+    "lng": 99.8
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Langkawi+🇲🇾/@6.35,99.8,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Langkawi"
+  },
+  "location_id": 196
+}

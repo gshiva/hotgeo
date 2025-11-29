@@ -1,0 +1,46 @@
+{
+  "name": "Bari",
+  "country": "🇮🇹",
+  "coordinates": {
+    "lat": 41.1171,
+    "lng": 16.8719
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Bari+🇮🇹/@41.1171,16.8719,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bari"
+  },
+  "fun_fact": "Fun fact: Bari awaits discovery!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "local Bari cuisine",
+        "description": "Traditional dishes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "local beverages",
+        "description": "Traditional drinks"
+      }
+    ],
+    "food_culture_notes": [
+      "Street food culture of Bari"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Bari landmarks"
+    ],
+    "atmosphere": [
+      "local markets",
+      "street scenes"
+    ],
+    "colors": [
+      "warm earth tones",
+      "vibrant local colors"
+    ],
+    "unique_modern": []
+  },
+  "needs_detailed_research": true,
+  "location_id": 240
+}

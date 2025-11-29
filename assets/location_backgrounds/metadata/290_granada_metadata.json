@@ -1,0 +1,94 @@
+{
+  "name": "Granada",
+  "country": "Spain",
+  "fun_fact": "Fun fact: Granada is Spain's last free tapas capital - every drink you order comes with a complimentary tapa, and the quality and size improve the more you drink, creating a unique bar-hopping culture where locals strategically order drinks to maximize their free food, making Granada the ultimate budget foodie destination.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Morcilla (Black Pudding) at La Tana",
+        "description": "Spanish blood sausage spread on soft bread and sprinkled with pine nuts. Rich, savory, unforgettable.",
+        "origin_story": "La Tana was featured on Anthony Bourdain's 'Parts Unknown' Granada episode for this dish. Their morcilla preparation showcases Andalusian mastery of charcuterie, transforming blood sausage into something elegant and memorable.",
+        "where_to_find": "La Tana (featured on Parts Unknown with Anthony Bourdain)"
+      },
+      {
+        "name": "Jamón de Trevélez",
+        "description": "Air-dried ham from the mountainous Las Alpujarras region, cured in small ham factories using mountain air.",
+        "origin_story": "From white-hooved pigs cured in the Sierra Nevada mountain village of Trevélez at high altitude. The unique microclimate creates ham distinct from other Spanish jamón, with a delicate flavor prized by locals.",
+        "where_to_find": "La Picatería (specializes in Granada's famous olives and local hams, located in San Agustín Market)"
+      },
+      {
+        "name": "Croquetas at Los Manueles",
+        "description": "Giant, creamy croquettes - the best (and biggest) in town, with crispy coating and molten béchamel interior.",
+        "origin_story": "Los Manueles has delighted customers since 1917 in Granada's historic center. Their oversized croquettes became legendary, setting the standard for what croquetas should be - creamy, crispy, generous.",
+        "where_to_find": "Los Manueles (iconic bar since 1917, Granada historic center)"
+      },
+      {
+        "name": "Pionono",
+        "description": "Granada's signature pastry - delicate sponge cake soaked in milk and spices, wrapped around sweet custard.",
+        "origin_story": "With origins in Al-Andalus (Moorish Spain), pionono represents Granada's unique cultural heritage. The recipe survived centuries, becoming Granada's most beloved dessert that connects modern Spain to its Moorish past.",
+        "where_to_find": "Traditional pastry shops throughout Granada, cafes in the historic center"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Vermouth with Olives",
+        "description": "Spanish vermouth served with Granada's famous olives, often skewered with other ingredients.",
+        "how_locals_drink_it": "Enjoyed during merienda (5:30-7:30 PM) at La Picatería and other bars. The ritual of vermouth and olives is quintessentially Granada - relaxed, social, affordable."
+      },
+      {
+        "name": "Local Granada Beer",
+        "description": "Locally brewed beers paired with the free tapas tradition.",
+        "how_locals_drink_it": "Ordered strategically during tapas crawls. Locals know which bars give the best tapas with each drink order. The more you drink, the better the tapas - creating a unique drinking culture."
+      }
+    ],
+    "food_culture_notes": [
+      "Granada's free tapas culture makes it unique in Spain - every drink includes a complimentary tapa",
+      "Best tapas areas: Plaza de Toros, Elvíra and Navas streets, Albaicín, Carrera del Darro, Realejo",
+      "Locals don't dine before 9:30 PM - respect local timing for authentic experiences",
+      "Merienda (5:30-7:30 PM) is when you'll see locals having drinks and bites at cafes"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Alhambra palace",
+      "Generalife gardens",
+      "Albaicín neighborhood",
+      "Sacromonte caves"
+    ],
+    "atmosphere": [
+      "Moorish architecture",
+      "flamenco culture",
+      "Sierra Nevada backdrop",
+      "tapas bar energy"
+    ],
+    "colors": [
+      "Alhambra sunset reds",
+      "Andalusian white walls",
+      "Granada tile mosaics",
+      "Sierra Nevada snow"
+    ],
+    "unique_modern": [
+      "free tapas tradition",
+      "award-winning contemporary chefs",
+      "San Agustín Market revival",
+      "fusion of Moorish and Spanish"
+    ]
+  },
+  "wikipedia_search_term": "Granada",
+  "keywords_for_image": [
+    "Alhambra",
+    "tapas bars",
+    "Andalusian architecture",
+    "Sierra Nevada",
+    "Moorish heritage"
+  ],
+  "coordinates": {
+    "lat": 37.1773,
+    "lng": -3.5986
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Granada+🇪🇸/@37.1773,-3.5986,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Granada"
+  },
+  "location_id": 290
+}

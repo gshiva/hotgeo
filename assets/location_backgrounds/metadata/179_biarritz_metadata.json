@@ -1,0 +1,94 @@
+{
+  "name": "Biarritz",
+  "country": "France",
+  "fun_fact": "Fun fact: Biarritz became Europe's first surfing destination in 1957 when American screenwriter Peter Viertel brought a surfboard while filming a movie - now it hosts the world's longest-running surf competition and is the undisputed surf capital of Europe!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Axoa de Veau",
+        "description": "Minced veal cooked slowly with Espelette peppers, onions, and pimientos in the Basque style",
+        "origin_story": "A traditional Basque Country dish - 'axoa' means minced in Basque. The Espelette pepper gives it a distinctive smoky heat",
+        "where_to_find": "Chez Albert, Le Bistrot du Carré, traditional Basque restaurants"
+      },
+      {
+        "name": "Piperade",
+        "description": "Scrambled eggs with sautéed peppers, tomatoes, onions, and Espelette pepper",
+        "origin_story": "The quintessential Basque breakfast or light meal - simple ingredients, maximum flavor",
+        "where_to_find": "Every traditional restaurant in Biarritz, often served with Bayonne ham"
+      },
+      {
+        "name": "Chipirons à l'Encre",
+        "description": "Baby squid cooked in their own ink with onions, tomatoes, and peppers",
+        "origin_story": "A specialty from the Basque fishing tradition - the ink adds intense umami flavor",
+        "where_to_find": "La Table du Marché, Les Rosiers, port-side restaurants"
+      },
+      {
+        "name": "Gâteau Basque",
+        "description": "Butter cake filled with pastry cream or black cherry jam (cerise noire)",
+        "origin_story": "Created in 17th century in Cambo-les-Bains. The cherry version uses cherries from nearby Itxassou, famous for black cherries",
+        "where_to_find": "Maison Adam, Miremont tea room, every pâtisserie"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Irouléguy Wine",
+        "description": "The only AOC wine of the French Basque Country - robust reds and crisp whites",
+        "how_locals_drink_it": "With local lamb or Basque dishes - red Tannat grape is spicy and bold"
+      },
+      {
+        "name": "Patxaran",
+        "description": "Sloe berry liqueur, the Basque digestif",
+        "how_locals_drink_it": "Ice cold after dinner, a sweet anise-flavored finish to the meal"
+      }
+    ],
+    "food_culture_notes": [
+      "Espelette pepper (Piment d'Espelette) is to Basque food what paprika is to Hungarian - essential",
+      "Jambon de Bayonne (15km away) is one of France's greatest hams - aged 12+ months",
+      "Les Halles market is the heart of Biarritz food culture",
+      "Surf culture meets Basque tradition - casual beach cafés and elegant restaurants coexist"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Grande Plage beach",
+      "Rocher de la Vierge",
+      "Hôtel du Palais",
+      "Lighthouse"
+    ],
+    "atmosphere": [
+      "Belle Époque elegance",
+      "surfers on Atlantic waves",
+      "Basque red and green shutters",
+      "dramatic cliffs"
+    ],
+    "colors": [
+      "Atlantic blue",
+      "Basque red",
+      "Belle Époque white",
+      "Espelette pepper red"
+    ],
+    "unique_modern": [
+      "surf culture capital of Europe",
+      "luxury resort meets beach town",
+      "Empress Eugénie's summer palace"
+    ]
+  },
+  "wikipedia_search_term": "Biarritz",
+  "keywords_for_image": [
+    "Basque piperade",
+    "Gâteau Basque",
+    "surf beach",
+    "Belle Époque architecture",
+    "Atlantic waves",
+    "Espelette peppers"
+  ],
+  "coordinates": {
+    "lat": 43.4832,
+    "lng": -1.5586
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Biarritz+🇫🇷/@43.4832,-1.5586,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Biarritz"
+  },
+  "location_id": 179
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Nantes",
+  "country": "France",
+  "fun_fact": "Fun fact: Nantes has a giant mechanical elephant that walks through the city carrying passengers - it's 12 meters tall, weighs 48 tons, and is part of 'Les Machines de l'Île,' an art project inspired by Jules Verne (who was born here) and Leonardo da Vinci!",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Fruits de Mer Platter",
+        "description": "Towering seafood platter with oysters, langoustines, crab, whelks, and more on crushed ice",
+        "origin_story": "Nantes sits at the Loire estuary where river meets Atlantic - seafood here is exceptional",
+        "where_to_find": "La Cigale (stunning 1895 brasserie), Le Bouche à Oreille, Marché de Talensac"
+      },
+      {
+        "name": "Beurre Blanc",
+        "description": "Silky white wine and butter sauce, typically served with pike or other river fish",
+        "origin_story": "Invented near Nantes in the early 1900s, allegedly by Clémence Lefeuvre who 'forgot' the eggs for béarnaise",
+        "where_to_find": "La Poissonnerie, traditional restaurants along the Loire"
+      },
+      {
+        "name": "Gâteau Nantais",
+        "description": "Dense almond cake soaked in rum, topped with white icing",
+        "origin_story": "Recipe dates to the triangular trade era when rum from the Caribbean arrived at Nantes' port",
+        "where_to_find": "La Friande, Debotté, any traditional patisserie"
+      },
+      {
+        "name": "Curé Nantais",
+        "description": "Washed-rind cheese with strong, pungent flavor from local monastic tradition",
+        "origin_story": "Created by a priest in the 19th century - Loire Valley's answer to Époisses",
+        "where_to_find": "Marché de Talensac, fromageries"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Muscadet",
+        "description": "Crisp, dry white wine from vineyards surrounding Nantes - perfect with seafood",
+        "how_locals_drink_it": "With oysters and shellfish - look for 'sur lie' (aged on lees) for complexity"
+      },
+      {
+        "name": "Petit Beurre LU",
+        "description": "The famous LU biscuit was invented in Nantes - not a drink but essential",
+        "how_locals_drink_it": "With coffee or tea - the distinctive scalloped edges are a Nantes icon"
+      }
+    ],
+    "food_culture_notes": [
+      "La Cigale brasserie (1895) is a stunning Art Nouveau treasure - go for the décor alone",
+      "Marché de Talensac is the covered market for fresh produce since 1937",
+      "LU biscuit factory is now an arts center (Lieu Unique) with excellent café",
+      "Loire Valley wines, Atlantic seafood, and butter define the cuisine"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Les Machines de l'Île (elephant)",
+      "Château des Ducs de Bretagne",
+      "Passage Pommeraye",
+      "La Cigale"
+    ],
+    "atmosphere": [
+      "steampunk mechanical animals",
+      "riverside walks",
+      "Jules Verne heritage",
+      "creative city"
+    ],
+    "colors": [
+      "mechanical bronze",
+      "Loire green",
+      "Atlantic grey-blue",
+      "Art Nouveau gold"
+    ],
+    "unique_modern": [
+      "European Green Capital 2013",
+      "Les Machines steampunk art",
+      "Voyage à Nantes art trail"
+    ]
+  },
+  "wikipedia_search_term": "Nantes",
+  "keywords_for_image": [
+    "Les Machines elephant Nantes",
+    "fruits de mer platter",
+    "La Cigale brasserie",
+    "Muscadet wine",
+    "Loire River"
+  ],
+  "coordinates": {
+    "lat": 47.2184,
+    "lng": -1.5536
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Nantes+🇫🇷/@47.2184,-1.5536,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nantes"
+  },
+  "location_id": 358
+}

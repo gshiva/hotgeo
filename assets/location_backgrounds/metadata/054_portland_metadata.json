@@ -1,0 +1,138 @@
+{
+  "name": "Portland",
+  "country": "USA (Oregon)",
+  "fun_fact": "Fun fact: Portland's iconic Stumptown Coffee got its name from the mid-19th century when the city grew so fast that tree stumps from clearing land were left in the middle of roads. The original Stumptown location was previously a hair salon called 'The Hair Bender' - a name they adopted for their signature espresso blend, which became world-famous.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Marionberry Pie",
+        "description": "Oregon's official state pie featuring the sweetly tangy deep violet marionberry - a blackberry cultivar created at Oregon State University",
+        "origin_story": "The marionberry was developed specifically in Oregon and has become a symbol of Pacific Northwest pride. It's only available seasonally, making it a treasured summer treat",
+        "where_to_find": "Lauretta Jean's is famous for their marionberry pie (seasonal availability only)"
+      },
+      {
+        "name": "Khao Man Gai",
+        "description": "Thai poached chicken with fragrant rice, served with an intensely flavorful ginger-garlic sauce",
+        "origin_story": "Nong's Khao Man Gai started as a humble food cart and became a Portland legend. The dish is deceptively simple but powerfully flavored - representing Portland's food cart culture at its finest",
+        "where_to_find": "Nong's Khao Man Gai, evolved from food cart to brick-and-mortar success story"
+      },
+      {
+        "name": "Jojo Potatoes",
+        "description": "Seasoned potato wedges that were invented in the Pacific Northwest - crispy outside, fluffy inside, often served with ranch or fry sauce",
+        "origin_story": "Born in the Northwest and remaining a beloved Portland snack that locals grew up with. The name origin is debated but the love is universal",
+        "where_to_find": "Reel M Inn and Jojo are especially known for their jojos"
+      },
+      {
+        "name": "White Curry with Brisket Burnt Ends (Eem)",
+        "description": "Thai white curry infused with Texas BBQ brisket burnt ends - a fusion that shouldn't work but absolutely does",
+        "origin_story": "Eem on North Williams Avenue was named 2019 Restaurant of the Year by The Oregonian. Their Thai-Texas BBQ fusion represents Portland's fearless culinary creativity",
+        "where_to_find": "Eem on North Williams Avenue - the white curry with brisket burnt ends is the must-order"
+      },
+      {
+        "name": "Filipino Feast at Magna Kusina",
+        "description": "Charcoal-grilled skewers, longanisa sausage, garlicky laing (coconut-braised taro greens), and legendary lumpia",
+        "origin_story": "Chef Carlo Lamagna serves Portland's most polished Filipino food, with dishes that skew traditional but executed with precision",
+        "where_to_find": "Magna Kusina - showcasing Filipino cuisine's place in Portland's diverse food scene"
+      },
+      {
+        "name": "Jipbap Feast at Han Oak",
+        "description": "Korean home cooking remixed with Oregon ingredients - $65 multi-course feast served with house party vibes",
+        "origin_story": "Han Oak operates on its own terms, blending Korean culture, Oregon ingredients, and cheeky flavor notes in a magical indoor-outdoor space",
+        "where_to_find": "Han Oak - reservation required for the jipbap feast experience"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Stumptown Coffee",
+        "description": "Third-wave craft coffee roasted in Portland since 1999, with signature blends like Hair Bender espresso",
+        "how_locals_drink_it": "Portland takes coffee seriously - Stumptown pioneered paying farmers 3-4 times fair trade prices and treating coffee as an artisanal product. Locals drink it black to taste the single-origin beans or as precisely crafted lattes. Stumptown also pioneered nitro cold brew in cans"
+      },
+      {
+        "name": "Craft Beer (Beervana)",
+        "description": "Portland has been called 'Beervana' with legendary breweries like Baerlic, Gigantic, McMenamins, Occidental, and Wayfinder",
+        "how_locals_drink_it": "Beer culture dates to the mid-1800s with Henry Weinhard's City Brewery. The first brewpubs opened in 1984 and sparked a movement. Locals support neighborhood breweries and seek out unique, locally brewed beers"
+      },
+      {
+        "name": "Steven Smith Teamaker Tea",
+        "description": "High-quality small-batch teas from a Portland company founded in 2009 (Portland also birthed Stash and Tazo)",
+        "how_locals_drink_it": "While Portland is famous for coffee, it's also a tea city - Steven Smith focuses on small-batch quality sourced globally"
+      },
+      {
+        "name": "Creative Cafe Drinks",
+        "description": "Innovative drinks like Never Coffee Lab's 'Rich Kid' (rose water, saffron, cardamom) or the 'Oregon' (dulce de leche, Jacobsen sea salt, Cascade hops)",
+        "how_locals_drink_it": "Portland's creative spirit extends to cafe drinks, blending local ingredients like sea salt and hops into coffee beverages"
+      }
+    ],
+    "food_culture_notes": [
+      "Called 'foodie capital of America' by The Telegraph and 'Best Food City' by The Washington Post",
+      "500+ food carts create legendary street food scene - sample Korean-Mexican fusion to Ethiopian to vegan bento for under $15",
+      "Farm-to-table movement thrives with fresh Pacific Northwest seasonal ingredients",
+      "Abundant plant-based restaurant options pioneered here",
+      "The Jade District showcases Chinese cuisine and Asian immigrant entrepreneurship",
+      "Portland Mercado is a hub of Latine culture and entrepreneurship through food",
+      "Restaurants like Nostrana (Italian), Kachka (Russian), and Hà VL (Vietnamese) show incredible diversity",
+      "James Beard Award recognition for chefs pioneering regional and immigrant cuisines",
+      "Artisanal, handcrafted approach to everything from coffee to beer to bread"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Food cart pods throughout the city",
+      "Willamette River waterfront",
+      "Forest Park and urban greenery",
+      "Powell's City of Books",
+      "Historic breweries and Brewery Blocks",
+      "Bridges crossing the Willamette"
+    ],
+    "atmosphere": [
+      "Rainy Pacific Northwest climate",
+      "Bike-friendly streets",
+      "Eclectic neighborhoods with distinct characters",
+      "Outdoor markets and farmers markets",
+      "DIY indie creative spirit",
+      "Environmental consciousness",
+      "Casual, unpretentious dining culture"
+    ],
+    "colors": [
+      "Evergreen forests and Douglas firs",
+      "Gray rainy skies",
+      "Vibrant food cart murals",
+      "Rich brown of craft coffee",
+      "Golden amber craft beer",
+      "Deep purple marionberries"
+    ],
+    "unique_modern": [
+      "Food cart innovation and street food culture",
+      "Third-wave coffee movement birthplace",
+      "Craft beer pioneer city",
+      "Plant-based dining leader",
+      "Farm-to-table Pacific Northwest cuisine",
+      "Immigrant food communities thriving",
+      "James Beard Award-winning chef scene"
+    ]
+  },
+  "wikipedia_search_term": "Portland,_Oregon",
+  "keywords_for_image": [
+    "Portland Oregon food carts",
+    "Stumptown coffee culture",
+    "Pacific Northwest cuisine",
+    "Portland craft beer",
+    "Willamette River Portland",
+    "rainy Portland streets",
+    "Portland farmers market",
+    "food cart pods Oregon",
+    "marionberry pie",
+    "Portland bridges",
+    "Forest Park Portland",
+    "third wave coffee"
+  ],
+  "coordinates": {
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Portland+🇺🇸/@45.5152,-122.6784,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Portland,_Oregon"
+  },
+  "location_id": 54
+}

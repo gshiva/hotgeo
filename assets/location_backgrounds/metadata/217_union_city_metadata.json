@@ -1,0 +1,94 @@
+{
+  "name": "Union City",
+  "country": "USA",
+  "fun_fact": "Fun fact: Union City is the unofficial Filipino food capital of the Bay Area—Jollibee and Red Ribbon both opened here before expanding elsewhere, and it has more authentic Filipino restaurants per capita than anywhere outside the Philippines.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Kare-Kare at Nayong Filipino",
+        "description": "Rich peanut-based oxtail stew with eggplant and bok choy, served with shrimp paste—velvety, savory, and deeply comforting",
+        "origin_story": "Nayong Filipino has been serving authentic family recipes since 2003, bringing the flavors of the Philippines to Bay Area families. Kare-kare represents hours of slow-cooking and generations of technique",
+        "where_to_find": "Nayong Filipino (1796 Whipple Rd)—a neighborhood institution since 2003"
+      },
+      {
+        "name": "Lechon at Tribu Grill",
+        "description": "Crispy-skinned roasted whole pig with impossibly tender meat, served with liver sauce—the centerpiece of every Filipino celebration",
+        "origin_story": "Tribu Grill brings the fiesta tradition to everyday dining. Lechon was once reserved for special occasions, but here you can experience it any day of the week",
+        "where_to_find": "Tribu Grill—known for generous portions and complimentary chicharon with every order"
+      },
+      {
+        "name": "Pancit Palabok",
+        "description": "Rice noodles topped with shrimp sauce, crushed chicharon, boiled eggs, and tinapa flakes—a textural wonderland of crispy, soft, and savory",
+        "origin_story": "This festive noodle dish evolved from Chinese influence but became distinctly Filipino. In Union City, Filipino families have perfected recipes passed down through church festivals and home kitchens",
+        "where_to_find": "Nayong Filipino, Manila Turo Turo, or Isla Restaurant"
+      },
+      {
+        "name": "Halo-Halo",
+        "description": "The ultimate Filipino dessert—shaved ice with ube ice cream, sweet beans, jellies, leche flan, and ube truffles piled high in a glass",
+        "origin_story": "At Cafe 86, the Southern California chain brings ube-obsessed modern Filipino sweets to the Bay. Their upside-down halo-halo is engineered for Instagram and maximum ube flavor",
+        "where_to_find": "Cafe 86 (34391 Alvarado-Niles Rd) or Red Ribbon for classic Filipino bakery sweets"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Calamansi Juice",
+        "description": "Refreshingly tart citrus drink made from tiny Filipino limes—like lemonade with a tropical twist",
+        "how_locals_drink_it": "Served ice-cold with meals to cut through rich dishes like lechon and kare-kare. Street vendors and restaurants always have it fresh-squeezed"
+      },
+      {
+        "name": "San Miguel Beer",
+        "description": "The iconic Filipino lager that pairs perfectly with crispy pork and spicy vinegar dips",
+        "how_locals_drink_it": "Ice-cold bottles shared family-style at Tribu Grill or Gerry's Grill (the only Bay Area location of the massive Philippine chain)"
+      }
+    ],
+    "food_culture_notes": [
+      "Union City's Filipino food scene evolved from church festivals in the 1980s where families sold homemade lumpia by the thousands",
+      "The East Bay Filipino community makes Union City the destination for authentic regional Filipino food—not just Manila style",
+      "Jollibee's Chickenjoy fried chicken has a cult following among Filipino Americans who grew up with it",
+      "Complimentary chicharon and bagoong rice at Tribu Grill show the generosity of Filipino hospitality"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Decoto neighborhood—heart of the Filipino community",
+      "Alvarado-Niles Road's restaurant row",
+      "Bay Area suburbia with Asian markets",
+      "Historic Niles district nearby"
+    ],
+    "atmosphere": [
+      "family-friendly restaurants packed on weekends",
+      "purple ube desserts everywhere",
+      "karaoke bars and Filipino bakeries",
+      "suburban Bay Area diversity"
+    ],
+    "colors": [
+      "deep purple ube",
+      "golden lechon skin",
+      "bright rainbow layers of halo-halo",
+      "red and yellow Jollibee branding"
+    ],
+    "unique_modern": [
+      "Ube everything—from ice cream to truffles to pancakes",
+      "Filipino fast-food chains thriving before expanding",
+      "Fusion Kapampangan cuisine at Isla Restaurant",
+      "Third-generation Filipino-Americans preserving family recipes"
+    ]
+  },
+  "wikipedia_search_term": "Union_City,_California",
+  "keywords_for_image": [
+    "Filipino lechon roasted pig",
+    "ube halo-halo dessert",
+    "kare-kare peanut stew",
+    "Jollibee Philippines",
+    "Bay Area Filipino food"
+  ],
+  "coordinates": {
+    "lat": 37.5933,
+    "lng": -122.0438
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Union+City+🇺🇸/@37.5933,-122.0438,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Union_City,_California"
+  },
+  "location_id": 217
+}

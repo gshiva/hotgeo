@@ -1,0 +1,94 @@
+{
+  "name": "Mons",
+  "country": "Belgium",
+  "fun_fact": "Fun fact: Mons hosts Festifood twice a year, a culinary festival celebrating haute cuisine and Belgian artisans - but the city's most famous contribution to Belgian cuisine is 'porc à l'Berdouille', created in the 1960s by smothering pork in white wine cream sauce with pickled onions, proving that sometimes the best traditions are surprisingly recent.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Porc à l'Berdouille",
+        "description": "Pork chop or fillet smothered in white wine and cream sauce flavored with pickled onions and gherkins - rich, tangy, and uniquely Mons",
+        "origin_story": "Created in the 1960s, this dish is an acquired taste that embodies Mons's culinary generosity. The combination of cream, wine, and pickled vegetables creates a sauce that locals swear by",
+        "where_to_find": "Traditional Belgian restaurants throughout Mons, local brasseries"
+      },
+      {
+        "name": "Pagnon Borain",
+        "description": "Traditional local specialty reflecting the culinary generosity of the Borinage region",
+        "origin_story": "This dish represents the hearty, working-class food traditions of the Borinage coal mining region around Mons, where substantial meals fueled hard labor",
+        "where_to_find": "Traditional restaurants serving regional Hainaut specialties"
+      },
+      {
+        "name": "Carbonnade Flamande",
+        "description": "Flemish beef stew slow-cooked in Belgian beer with onions and spices - rich, sweet, and deeply satisfying",
+        "origin_story": "This classic Belgian dish is found throughout the country, but Mons's version uses local beers and is served in generous portions at traditional brasseries",
+        "where_to_find": "La Cervoise (charming brasserie in heart of Mons), traditional Belgian restaurants"
+      },
+      {
+        "name": "Prime Beef at La Table du Boucher",
+        "description": "Austrian Prime beef entrecôte, grilled Black Pearl beef filet, or Limousin beef onglet - expertly prepared high-quality red meat",
+        "origin_story": "Chef Luc Broutard at La Table du Boucher has earned recognition from Michelin, Gault & Millau, and Gastromania by focusing on exceptional meat and seasonal products",
+        "where_to_find": "La Table du Boucher (modern brasserie, Michelin-recognized)"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Belgian Craft Beer",
+        "description": "Local artisanal beers ranging from blonde ales to dark abbey beers",
+        "how_locals_drink_it": "Paired with traditional dishes at breweries and brasseries. Beer is treated with the same respect as wine in France, with specific beers matched to specific dishes"
+      },
+      {
+        "name": "Belgian Chocolate Hot Chocolate",
+        "description": "Rich, thick hot chocolate made from real Belgian chocolate - more dessert than drink",
+        "how_locals_drink_it": "Sipped slowly at cafés, especially in winter. Belgium takes its chocolate as seriously as its beer"
+      }
+    ],
+    "food_culture_notes": [
+      "Origines restaurant is helmed by Céline and Chef Watteyne with an ever-evolving menu including paella-style red mullet and roasted duck with caramelized peach",
+      "Masu is an innovative upscale spot where Chefs Maxime and Sullivan create modern seasonal cuisine",
+      "Festifood occurs twice yearly, celebrating haute cuisine and Belgian artisanal excellence",
+      "Traditional restaurants serve huge portions of sauce-swamped meats - great value with cheery service"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Belfry of Mons UNESCO site",
+      "Grand Place central square",
+      "Collegiate Church of Saint Waudru",
+      "Mons Memorial Museum"
+    ],
+    "atmosphere": [
+      "cobblestone Grand Place",
+      "medieval belfry bells",
+      "canal-side dining",
+      "charming old town streets"
+    ],
+    "colors": [
+      "golden Belgian beer",
+      "rich brown carbonnade sauce",
+      "cream-colored porc sauce",
+      "red brick architecture"
+    ],
+    "unique_modern": [
+      "twice-yearly Festifood culinary festival",
+      "Michelin-recognized modern brasseries",
+      "blend of Flemish and Walloon cultures",
+      "European Capital of Culture 2015 legacy"
+    ]
+  },
+  "wikipedia_search_term": "Mons",
+  "keywords_for_image": [
+    "Mons Belgium",
+    "Grand Place Mons",
+    "Belfry Mons",
+    "Belgian cuisine",
+    "carbonnade flamande"
+  ],
+  "coordinates": {
+    "lat": 50.4542,
+    "lng": 3.9564
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Mons+🇧🇪/@50.4542,3.9564,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mons"
+  },
+  "location_id": 311
+}

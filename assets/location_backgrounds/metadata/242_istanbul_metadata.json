@@ -1,0 +1,94 @@
+{
+  "name": "Istanbul",
+  "country": "Turkey",
+  "fun_fact": "Fun fact: Istanbul is the only city in the world built on two continents - you can literally have breakfast in Europe and lunch in Asia by crossing the Bosphorus Bridge, a daily commute for millions.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Balik Ekmek",
+        "description": "Fresh mackerel grilled on boats and served in crusty bread with lettuce, onions, and lemon - Istanbul's iconic fish sandwich",
+        "origin_story": "Fishermen at Eminönü's Galata Bridge discovered that grilling fresh-caught mackerel right on their bobbing boats and stuffing it into bread created the perfect quick meal. The theatrical experience of watching your sandwich being made on a boat became a Istanbul tradition.",
+        "where_to_find": "Boats at Galata Bridge Karaköy side (3 boats bobbing in the water), Sokak Lezzeti in Karaköy (serves the best version in a wrap)"
+      },
+      {
+        "name": "Döner Kebab",
+        "description": "Succulent sliced meat from a vertical rotisserie, served in flatbread or over rice with yogurt and tomato sauce",
+        "origin_story": "Invented in Bursa in the 19th century, döner revolutionized how meat was cooked and served. Istanbul perfected it, making the city the world capital of this now-global dish.",
+        "where_to_find": "Kasap Osman (Hocapasha Street corner - locals say the most delicious in Istanbul), Dönerci Engin (hole-in-the-wall in Beyoğlu with plastic furniture), Şehzade Cağ Kebap (Sultanahmet - incredibly fresh and juicy)"
+      },
+      {
+        "name": "Meze at a Meyhane",
+        "description": "Dozens of small cold and hot dishes including stuffed grape leaves, fried calamari, white cheese, hummus, and eggplant spreads",
+        "origin_story": "Meyhanes (Turkish taverns) evolved from Byzantine wine houses. The tradition of sharing many small dishes while drinking rakı creates a communal feast that can last for hours - the meal is an event, not just food.",
+        "where_to_find": "Karaköy Lokantası (over 50 years of home-style Turkish meals), Nato Restaurant (family-run since 1960s), Hamdi Restaurant (6th floor view of Golden Horn)"
+      },
+      {
+        "name": "Istanbul Street Food Mix",
+        "description": "Lahmacun (thin crispy flatbread with spiced meat), Pide (Turkish pizza), Simit (sesame bread rings), and Kumpir (loaded baked potato)",
+        "origin_story": "Istanbul's street food reflects its position as a crossroads of civilizations - Armenian lahmacun, Anatolian pide, Ottoman simit, and modern kumpir all coexist on the same streets.",
+        "where_to_find": "Hoca Pasa Street (covered street full of restaurants), Istiklal Street (long avenue of cafes and vendors), Durumcu Enişte in Ortaköy"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Turkish Tea (Çay)",
+        "description": "Strong black tea served in tulip-shaped glasses, the social glue of Istanbul",
+        "how_locals_drink_it": "Consumed all day long, especially while sitting at tea gardens overlooking the Bosphorus. Locals add 1-2 sugar cubes and sip slowly while chatting or playing backgammon. Street vendors carry tea in traditional carriers."
+      },
+      {
+        "name": "Rakı",
+        "description": "Anise-flavored spirit that turns milky white when mixed with water, called 'lion's milk'",
+        "how_locals_drink_it": "The centerpiece of meyhane dinners, mixed 1:1 or 1:2 with water and ice. Sipped slowly between bites of meze, never drunk quickly. Considered essential for proper meze appreciation."
+      }
+    ],
+    "food_culture_notes": [
+      "Street food in Istanbul is incredibly cheap - a full meal costs $5-6 USD, making it one of Europe's most affordable food cities",
+      "Eating fish sandwiches from boats at Eminönü is a 100+ year tradition - the theatrical experience is as important as the taste",
+      "Meyhane culture emphasizes slow dining - meals with meze and rakı can last 3-4 hours",
+      "Simit sellers walk every street carrying bread rings on their heads - the ultimate breakfast on the go"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "Hagia Sophia",
+      "Blue Mosque",
+      "Galata Bridge",
+      "Grand Bazaar"
+    ],
+    "atmosphere": [
+      "bustling bazaars",
+      "Bosphorus ferries",
+      "call to prayer",
+      "tea gardens"
+    ],
+    "colors": [
+      "turquoise ceramic tiles",
+      "golden domes",
+      "deep blue Bosphorus",
+      "saffron spices"
+    ],
+    "unique_modern": [
+      "Europe-Asia ferry commutes",
+      "Rooftop terraces overlooking two continents",
+      "Contemporary art at Istanbul Modern",
+      "Vibrant street art in Karaköy"
+    ]
+  },
+  "wikipedia_search_term": "Istanbul",
+  "keywords_for_image": [
+    "Istanbul Bosphorus",
+    "balik ekmek fish sandwich boat",
+    "Turkish kebab",
+    "Galata Bridge",
+    "Blue Mosque turquoise"
+  ],
+  "coordinates": {
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Istanbul+🇹🇷/@41.0082,28.9784,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Istanbul"
+  },
+  "location_id": 242
+}

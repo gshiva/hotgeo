@@ -1,0 +1,106 @@
+{
+  "name": "Lusaka",
+  "country": "Zambia",
+  "fun_fact": "Fun fact: Nshima, Zambia's national dish, is eaten by hand using the right hand only. Diners shape the thick maize porridge into a ball, make an indentation with their thumb, and use it as an edible scoop for relish. This communal eating method has been practiced for centuries and enhances the social aspect of meals. Zambia has over 72 tribes across 10 provinces, each with unique cooking techniques but unified by the sacred nshima.",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Nshima with Ifisashi",
+        "description": "Thick maize porridge (nshima) served with a creamy groundnut and greens stew - the soul of Zambian cuisine",
+        "origin_story": "Nshima is the cornerstone of Zambian identity, eaten at lunch and dinner by all 72 tribes. Made from finely milled mealie meal mixed with hot water until thick, it's shaped by hand into portions. Ifisashi combines indigenous leafy greens (kalembula sweet potato leaves, chibwabwa pumpkin leaves, or mpilu blackjack leaves) with groundnut paste, creating a rich, nutty vegetarian stew that locals have eaten for generations.",
+        "where_to_find": "New Soweto Market (first restaurant established in the market serves traditional lunch), Matebeto Restaurants throughout Lusaka, local family dining experiences in homes"
+      },
+      {
+        "name": "Chikanda (African Polony)",
+        "description": "Unique vegetarian 'meat' made from wild orchid tubers, groundnuts, and chili - can be snack, dessert, side, or main course",
+        "origin_story": "Originating from the Bemba tribe in northeastern Zambia, chikanda is made by drying and grinding wild orchid tubers, then mixing with peanuts and chili. Despite being fully vegetarian, it has a distinctive meaty texture, earning it the nickname 'African Polony.' Foraging the orchid tubers requires traditional knowledge passed down through families.",
+        "where_to_find": "Street vendors in Lusaka markets, New Soweto Market, Chisokone Market in Kitwe"
+      },
+      {
+        "name": "Kapenta with Tomato-Onion Relish",
+        "description": "Tiny sardine-like fish from Lake Tanganyika, sun-dried and fried with onions and tomatoes",
+        "origin_story": "Kapenta are caught at night using nets and lights on Lake Tanganyika and Lake Kariba. The fish are salted and sun-dried on wooden racks, providing crucial protein and income for lakeside communities. This preservation method allows the fish to travel inland to cities like Lusaka, where they're fried crispy and served with nshima.",
+        "where_to_find": "Local markets (Soweto, Chisokone), Matebeto restaurants, street food stalls"
+      },
+      {
+        "name": "Mopane Worms (Ifinkubala)",
+        "description": "Protein-rich caterpillars soaked, then fried with onions and tomatoes - a crunchy delicacy",
+        "origin_story": "These emperor moth caterpillars are harvested from mopane trees during specific seasons. Rich in protein, they've been a traditional food source for centuries. The preparation involves squeezing out the insides, drying, then rehydrating and frying. While it sounds exotic to outsiders, locals consider them a cherished seasonal treat.",
+        "where_to_find": "Soweto Market during harvest season, rural markets, traditional Zambian homes"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Munkoyo",
+        "description": "Traditional fermented beverage made from munkoyo plant roots and corn flour - slightly sweet and sour",
+        "how_locals_drink_it": "This indigenous drink is made by thickening corn flour with boiling water, adding munkoyo roots, and fermenting overnight. The roots give it a unique milky appearance and subtle fermentation. Served cold, it complements meat and fish dishes perfectly. Each family has their own fermentation technique."
+      },
+      {
+        "name": "Thobwa",
+        "description": "Sweet, porridge-like drink made from millet or sorghum flour with high carbohydrate content",
+        "how_locals_drink_it": "Popular in eastern Zambia, thobwa is both a refreshing beverage and an energy-boosting breakfast. Made from simple ingredients (sugar, water, millet/sorghum flour), it's enjoyed warm or cold. Market vendors sell it in the morning to workers needing quick energy."
+      },
+      {
+        "name": "Chibuku Shake-Shake",
+        "description": "Traditional beer made from maize and sorghum, unfiltered with a sour taste",
+        "how_locals_drink_it": "Sold in distinctive cardboard cartons, you literally shake it before drinking (hence 'shake-shake'). The cloudy, sour beer is enjoyed at local gatherings and taverns. It's affordable, nutritious, and deeply woven into Zambian social life."
+      }
+    ],
+    "food_culture_notes": [
+      "New Soweto Market in downtown Lusaka offers guided food tours showing diversity of foods trucked from all corners of Zambia",
+      "Communal eating is central to Zambian culture - food is shared among family and friends as a sign of warmth and hospitality",
+      "Matebeto Restaurants are casual traditional eateries found in most cities, serving authentic local dishes unavailable in hotels",
+      "Over 72 tribes means incredible culinary diversity, but nshima unifies everyone as the national staple",
+      "Home dining experiences allow visitors to taste dishes rarely found in restaurants, cooked by families showcasing their tribal heritage"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "New Soweto Market - vibrant downtown food market",
+      "Freedom statue and Independence Avenue",
+      "Lusaka National Museum",
+      "Kabwata Cultural Village",
+      "Modern city skyline contrasting with markets"
+    ],
+    "atmosphere": [
+      "Bustling market stalls with colorful produce",
+      "Women shaping nshima by hand over open fires",
+      "Sun-dried kapenta on wooden drying racks",
+      "Communal meals eaten seated together",
+      "Street vendors selling chikanda and vitumbuwa"
+    ],
+    "colors": [
+      "White mealie meal nshima",
+      "Green leafy vegetables in ifisashi",
+      "Golden fried kapenta and mopane worms",
+      "Earth tones of clay pots and wooden utensils",
+      "Vibrant market fabrics and produce"
+    ],
+    "unique_modern": [
+      "Guided food tours through Soweto Market focused on culinary diversity",
+      "72 tribes with distinct cooking techniques unified by one staple",
+      "Home dining experiences rare elsewhere in Africa",
+      "Ancient foraging knowledge for orchid tubers",
+      "Night fishing with lights on Lake Tanganyika for kapenta"
+    ]
+  },
+  "wikipedia_search_term": "Lusaka",
+  "keywords_for_image": [
+    "Lusaka Soweto Market",
+    "nshima ifisashi Zambian food",
+    "chikanda African polony",
+    "kapenta dried fish Zambia",
+    "mopane worms",
+    "Zambian communal eating",
+    "mealie meal porridge"
+  ],
+  "coordinates": {
+    "lat": -15.3875,
+    "lng": 28.3228
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/Lusaka+🇿🇲/@-15.3875,28.3228,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lusaka"
+  },
+  "location_id": 43
+}

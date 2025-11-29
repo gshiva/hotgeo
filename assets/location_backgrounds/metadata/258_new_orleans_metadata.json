@@ -1,0 +1,94 @@
+{
+  "name": "New Orleans",
+  "country": "USA",
+  "fun_fact": "Fun fact: New Orleans invented jazz, drive-through daiquiri shops, and the po'boy sandwich - and it's the only major American city where you can legally walk around drinking alcohol on the street (as long as it's not in glass).",
+  "food_and_drink": {
+    "hero_dishes": [
+      {
+        "name": "Gumbo",
+        "description": "Rich, thick stew with a dark roux base, filled with chicken, andouille sausage, okra, and Cajun spices served over rice",
+        "origin_story": "Gumbo is Louisiana's melting pot in a bowl - French roux technique meets West African okra, Native American filé powder, and Spanish spices. Every family has their recipe, every restaurant their version. The dark roux requires constant stirring for 30+ minutes - burn it and start over. That's dedication.",
+        "where_to_find": "Gumbo Shop (French Quarter since 1948 - won Best Gumbo every year since 1999, boneless chicken and andouille in rich stock), Dooky Chase's (Creole soul food since 1941 - legendary gumbo and etouffee), Li'l Dizzy's Cafe (Treme neighborhood - family recipe from 1940s)"
+      },
+      {
+        "name": "Po'boy Sandwich",
+        "description": "French bread stuffed with fried oysters, shrimp, or roast beef, 'dressed' with lettuce, tomato, pickles, and mayo",
+        "origin_story": "Born during the 1929 streetcar strike when Martin brothers fed striking workers free sandwiches. They'd yell 'here comes another poor boy!' when strikers arrived. The name stuck. True po'boys require New Orleans French bread - crispy outside, fluffy inside. The bread makes or breaks it.",
+        "where_to_find": "Liuzza's by the Track (next to Fairgrounds - BBQ shrimp po'boy and fried oyster with garlic butter are legendary), Verti Marte (French Quarter), Killer Poboys (innovative versions)"
+      },
+      {
+        "name": "Beignets",
+        "description": "Pillowy fried dough squares buried under a mountain of powdered sugar - New Orleans breakfast tradition",
+        "origin_story": "Brought by French colonists, perfected in New Orleans. The Café du Monde recipe hasn't changed since 1862. Open 24/7, there's always a line because beignets are made constantly - fresh is essential. Three beignets per order is tradition. Expect powdered sugar on everything you're wearing.",
+        "where_to_find": "Café du Monde (French Quarter institution since 1862 - open 24/7, always a queue, classic experience), Morning Call (reviewers say fresher than Café du Monde)"
+      },
+      {
+        "name": "Red Beans and Rice",
+        "description": "Creamy red beans slow-cooked with andouille sausage, vegetables, and Creole spices, served over rice",
+        "origin_story": "Traditionally Monday's meal because Sunday's leftover ham bone flavored Monday's beans while housewives did laundry. The beans cooked all day unattended. It's humble food elevated to cultural cornerstone - comfort, economy, and flavor in one pot. Louis Armstrong signed letters 'Red Beans and Ricely Yours.'",
+        "where_to_find": "Coop's Place (Decatur Street since 1983 - rabbit and sausage jambalaya, authentic Creole soul food), local Monday specials at traditional restaurants"
+      }
+    ],
+    "signature_drinks": [
+      {
+        "name": "Hurricane",
+        "description": "Rum-based fruity cocktail served in curved glass - dangerously sweet and strong",
+        "how_locals_drink_it": "Tourist favorite on Bourbon Street, but locals know these pack a punch. Invented at Pat O'Brien's during WWII rum surplus. Walk around the French Quarter sipping from plastic cups (glass illegal on streets)."
+      },
+      {
+        "name": "Sazerac",
+        "description": "New Orleans' official cocktail - rye whiskey, absinthe rinse, Peychaud's bitters, sugar",
+        "how_locals_drink_it": "Created in 1850s, it's sophisticated New Orleans in a glass. Locals drink these at proper bars, not tourist traps. The absinthe rinse and Peychaud's bitters (invented in New Orleans) make it distinctly NOLA."
+      }
+    ],
+    "food_culture_notes": [
+      "Monday is red beans and rice day across New Orleans - restaurants and homes follow this tradition",
+      "The French Quarter has tourist traps, but gems like Gumbo Shop and Liuzza's by the Track maintain authenticity",
+      "Café du Monde is touristy but deserves the hype - the 24/7 operation means always-fresh beignets",
+      "'Dressed' on a po'boy means lettuce, tomato, pickles, and mayo - the correct way to order"
+    ]
+  },
+  "visual_elements": {
+    "landmarks": [
+      "French Quarter architecture",
+      "Jackson Square",
+      "St. Louis Cathedral",
+      "Bourbon Street"
+    ],
+    "atmosphere": [
+      "jazz music everywhere",
+      "wrought-iron balconies",
+      "Mardi Gras chaos",
+      "Mississippi River"
+    ],
+    "colors": [
+      "Mardi Gras purple green gold",
+      "beignet powdered sugar white",
+      "Creole spice red",
+      "French Quarter pastels"
+    ],
+    "unique_modern": [
+      "Jazz Fest",
+      "Second line parades",
+      "Krewe culture",
+      "Resilience after Katrina"
+    ]
+  },
+  "wikipedia_search_term": "New_Orleans",
+  "keywords_for_image": [
+    "New Orleans French Quarter",
+    "beignets powdered sugar",
+    "jazz music Bourbon Street",
+    "po'boy sandwich",
+    "Mardi Gras"
+  ],
+  "coordinates": {
+    "lat": 29.9511,
+    "lng": -90.0715
+  },
+  "links": {
+    "google_maps": "https://www.google.com/maps/place/New+Orleans+🇺🇸/@29.9511,-90.0715,12z",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans"
+  },
+  "location_id": 258
+}
